@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/vra/vra4.0.42-tei/vra-tei-strict.xsd"?>
+<!-- This is a model -->
+<vra xmlns="http://www.vraweb.org/vracore4.htm"     xmlns:tei="http://www.tei-c.org/ns/1.0">
+    <work id="shan_P000.meta"> <!-- Name of the file -->
+        <agentSet> <!--person who created the image-->    
+            <display></display>
+            <agent>
+                <name></name>
+                <role></role>
+            </agent>
+        </agentSet>
+        <dateSet> <!-- date of the image -->
+            <display></display>
+            <date/> <!-- dataDate="year-month-day" -->
+        </dateSet>
+        <descriptionSet>
+            <description> <!-- source="who gave this description"--> <tei:p> <!--text--> </tei:p></description>
+        </descriptionSet>
+        <inscriptionSet> <!-- text written on the image front and back, and translation; indicate language -->
+            <inscription> <text></text> </inscription>
+        </inscriptionSet>
+        <locationSet>
+            <location><name> <!-- City (State) --></name></location>
+        </locationSet>
+        <materialSet>
+            <display>grayscale and colored photograph</display>
+            <material></material>
+        </materialSet>
+        <measurementsSet>
+            <display></display>
+            <notes/>
+            <measurements type="width" unit="in"/>
+            <measurements type="height" unit="in"/>
+        </measurementsSet>
+        <relationSet>
+            <relation/>
+        </relationSet>
+        <rightsSet>
+            <rights>
+                <rightsHolder>Photographic Collection: An analysis of the Personal Correspondence of a Mexican American Family in Western Colorado and Eastern Nebraska in the First Half of the 20th Century</rightsHolder>
+                <text/>
+            </rights>
+        </rightsSet>
+        <sourceSet>
+            <display/>
+            <source>
+                <name>Shanahan Collection</name>
+            </source>
+        </sourceSet>
+        <subjectSet>
+            <subject>
+                <term> <!-- refid="xx" for reference --> <!-- Surname(s), Name --></term>
+            </subject>
+        </subjectSet>
+        <techniqueSet>
+            <technique/>
+        </techniqueSet>
+        <titleSet>
+            <title xml:lang="en"><!-- text -->s</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype>grayscale photograph</worktype>
+        </worktypeSet>
+        <image>
+            <agentSet>
+                <agent>
+                    <name type="personal"/>
+                    <role>creator of master digital image</role>
+                </agent>
+            </agentSet>
+            <dateSet>
+                <date/>
+            </dateSet>
+            <descriptionSet>
+                <description source="Jane Shanahan"><tei:p>Shanahan Collection</tei:p></description>
+            </descriptionSet>
+            <relationSet>
+                <relation/> 
+            </relationSet>
+            <rightsSet>
+                <rights>
+                    <rightsHolder>Photographic Collection: An analysis of the Personal Correspondence of a Mexican American Family in Western Colorado and Eastern Nebraska in the First Half of the 20th Century</rightsHolder>
+                </rights>
+            </rightsSet>
+            <worktypeSet>
+                <worktype>digital image</worktype>
+            </worktypeSet>
+        </image>
+    </work>
+</vra>
+
+
+
+
+
+
+
+
+
+

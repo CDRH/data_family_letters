@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/vra/vra4.0.42-tei/vra-tei-strict.xsd"?>
+
+<vra xmlns="http://www.vraweb.org/vracore4.htm"     xmlns:tei="http://www.tei-c.org/ns/1.0">
+    <work id="shan_P216.meta">
+        <agentSet>   
+            <display></display>
+            <agent>
+                <name></name>
+                <role></role>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <display></display>
+            <date/>
+        </dateSet>
+        <descriptionSet>
+            <description source="Jane Shanahan"><tei:p>Portrait of Santos Baros</tei:p></description>
+        </descriptionSet>
+        <inscriptionSet>
+            <inscription>
+                <text/>
+            </inscription>
+        </inscriptionSet>
+        <locationSet>
+            <location><name></name></location>
+        </locationSet>
+        <materialSet>
+            <display>grayscale photograph</display>
+            <material></material>
+        </materialSet>
+        <measurementsSet>
+            <display></display>
+            <notes/>
+            <measurements type="width" unit="in"/>
+            <measurements type="height" unit="in"/>
+        </measurementsSet>
+        <relationSet>
+            <relation/>
+        </relationSet>
+        <rightsSet>
+            <rights>
+                <rightsHolder>Photographic Collection: An analysis of the Personal Correspondence of a Mexican American Family in Western Colorado and Eastern Nebraska in the First Half of the 20th Century</rightsHolder>
+                <text/>
+            </rights>
+        </rightsSet>
+        <sourceSet>
+            <display/>
+            <source>
+                <name>Shanahan Collection</name>
+            </source>
+        </sourceSet>
+        <subjectSet>
+            <subject>
+                <term refid="sbs001">Baros, Santos</term>
+            </subject>
+        </subjectSet>
+        <techniqueSet>
+            <technique/>
+        </techniqueSet>
+        <titleSet>
+            <title xml:lang="en">Portrait Santos Baros</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype>grayscale photograph</worktype>
+        </worktypeSet>
+        <image id="shan_p.382">
+            <agentSet>
+                <agent>
+                    <name type="personal"/>
+                    <role>creator of master digital image</role>
+                </agent>
+            </agentSet>
+            <dateSet>
+                <date/>
+            </dateSet>
+            <descriptionSet>
+                <description source="Jane Shanahan"><tei:p>Shanahan Collection</tei:p></description>
+            </descriptionSet>
+            <relationSet>
+                <relation/> 
+            </relationSet>
+            <rightsSet>
+                <rights>
+                    <rightsHolder>Photographic Collection: An analysis of the Personal Correspondence of a Mexican American Family in Western Colorado and Eastern Nebraska in the First Half of the 20th Century</rightsHolder>
+                </rights>
+            </rightsSet>
+            <worktypeSet>
+                <worktype>digital image</worktype>
+            </worktypeSet>
+        </image>
+    </work>
+</vra>
+

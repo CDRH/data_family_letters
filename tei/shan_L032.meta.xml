@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"  xml:id="shan_L032.meta">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Felipita N. Baca to Jesusita Baros, January 21, 1939</title>
+<title type="main">Carta de Felipita N. Baca a Jesusita Baros, 21 de enero, 1939</title>
+<author>Baca, Felipita N.</author>
+<principal xml:id="iv001">Velázquez, Isabel</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name xml:id="jda">Avelar, Janette D.</name>
+<name xml:id="iv002">Velázquez, Isabel</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2015</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Family Letters: An analysis of the Personal Correspondence of a Mexican American Family in Western Colorado and Eastern Nebraska in the First Half of the 20th Century</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Department of Modern Languages and Literatures</name>
+ <address>
+<addrLine>1111 Oldfather Hall</addrLine>
+<addrLine>660 N 12th</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+<addrLine>modlang2@unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+</address>
+<idno>shan_L032.meta</idno>
+<availability>
+<p>COPYRIGHT STATEMENT TO GO HERE</p>
+</availability>
+</publicationStmt>
+            
+<notesStmt><note></note></notesStmt>
+            
+<sourceDesc>
+<bibl>
+<author>Felipita N. Baca</author>
+<title level="m" type="main">Letter from Felipita N. Baca to Jesusita Baros</title>
+<date when="1939-01-21">January 21, 1939</date>
+<extent>2 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Shanahan Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p>2 hand-written pages</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support></support>
+<extent>2 pages
+<dimensions unit="mm"><height></height><width></width></dimensions>
+</extent>
+<condition>
+<p></p></condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="h01" scribe="fnb001" medium="pen"><p>Media: black ink</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote><p></p></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin></origin>
+<provenance></provenance>
+<acquisition></acquisition>
+</history>
+</msDesc>
+                
+</sourceDesc>
+</fileDesc>
+        
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term></term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+<particDesc>
+<person role="sender" xml:id="fnb001">
+<persName>Felipita N. Baca</persName>
+</person>
+<person role="recipient" xml:id="jbt001">
+<persName>Jesusita Baros</persName>
+</person>
+</particDesc>
+</profileDesc>
+        
+<revisionDesc>
+<change when="2015" who="#jda">Initial Encoding</change>
+<change when="2014" who="#iv002">Transcription</change>
+            
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>
+            
+<div1 type="letter">
+                
+<pb facs="shan_l.104.jpg"/>
+                   
+<opener>
+
+<dateline>Albuquerque N. Mex.</dateline>
+<add>Jan 21, 1939</add>
+
+<address><addrLine>Mrs. Jesusita Baros</addrLine></address>
+</opener>
+                
+<salute>Mi muy estimada comadre espero que esta carta los allen buenos Nosotros estamos buenos Gracias a Dios.</salute> 
+
+<p>Después de saludarla comadre le dire que isimos su en cargo de ir a la casa de conte a preguntar por su tax si estava pagado.</p>
+                    
+<p>Pero comadre usted no me mando a disir en que nombre estava yo le dije a Eduado que preguntara por Jesusita Rodrigues porque usted pienso que asi coria aqui Primero fue a donde se asenan por que este es el ultimo mes pa asesar pregunto por Jesusita Rodrigues y no la allaron y fue a la <unclear reason="illegible">Jasasinos</unclear> y tan poco y lo dio el numero de la casa donde vivia <unclear reason="illegible">8162 n. arno</unclear> y ese es Faustin Villanueva de donde esta esa casa.</p>
+                    
+<p>Ay le dijieron que tenia que llevar el return pa poder saber quien es y poderla ayar. Cuando se asesan una praopiedad le dan un paper Amarillo. Ese mandenos usted. le nombran el return. O un papel que aiga pagado su tax. Mandenolo pa aqua</p>
+
+<pb facs="shan_l.105.jpg"/>
+
+<p>Nosotros isinos lo posible pero por otra jente no llevando uno un papel no la encuentran será porque no se quieren molestar usted sabe como son de malos en la casa de corte Pero nosotros estamos pa aser por usted comadre no mas mandenos a disir en que nombre esta o con un papel que usted tenga. No se descuide conmadre que dicen que en 3 anos de atrasada él tax pierden si propiedad.</p>
+                    
+<p>Don Faustin tenia que avele mandado a usted el papel que pago el tax. No se crea en <unclear reason="illegible">emprestarle</unclear> dinero el esta trabajando y muy buenisano el tiene mucho mas en donde pidir que a usted. El nos conto aqui que estaba muy bien con su familia que avia dejado las borracheras. En esta casa que usted vivía no vive naiden. Nosotros tuvimos mucho gusto de saber con la carta de el Chuy que <unclear reason="illegible">area el caro</unclear> y tiene gallinos y conejos Pues espero que la pasen muy agusto.</p>  
+
+<closer><salute>Con esto siero mi carta esperando su contesta Para aserle su favor. sin mas si comadre que le desella felecidades.</salute>
+                
+<signed>Mrs. Felipita N. Baca</signed>
+<add>1006 1/2 n. arno st.</add>
+<add>Albuquer n. mx.</add>
+
+</closer>
+
+                
+</div1>
+</body>
+        
+<back></back>
+</text>
+</TEI>

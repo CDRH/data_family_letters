@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"  xml:id="shan_L002.meta.xml">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Maximino Torrez to Reynaldo Hurtado, February 5, 1923</title>
+<title type="main">Carta de Maximino Torrez a Reynaldo Hurtado, 5 de febrero, 1923</title>
+<author>Torrez, Maximino</author>
+<principal xml:id="iv001">Velázquez, Isabel</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name xml:id="jda">Avelar, Janette D.</name>
+<name xml:id="iv002">Velázquez, Isabel</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2015</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Family Letters: An analysis of the Personal Correspondence of a Mexican American Family in Western Colorado and Eastern Nebraska in the First Half of the 20th Century</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Department of Modern Languages and Literatures</name>
+ <address>
+<addrLine>1111 Oldfather Hall</addrLine>
+<addrLine>660 N 12th</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+<addrLine>modlang2@unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+</address>
+<idno>shan_L002.meta.xml</idno>
+<availability>
+<p>COPYRIGHT STATEMENT TO GO HERE</p>
+</availability>
+</publicationStmt>
+            
+<notesStmt><note></note></notesStmt>
+            
+<sourceDesc>
+<bibl>
+<author>Torrez, Maximino</author>
+<title level="m" type="main">Letter from Maximino Torrez to Reynaldo Hurtado</title>
+<date when="1923-02-05">Month xx, 19xx</date>
+<extent>5 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Shanahan Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p>5 hand-written pages</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support></support>
+<extent>5 pages
+<dimensions unit="mm"><height></height><width></width></dimensions>
+</extent>
+<condition>
+<p></p></condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="h01" scribe="mt001" medium="pen"><p>Media: blue ink</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote><p></p></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin></origin>
+<provenance></provenance>
+<acquisition></acquisition>
+</history>
+</msDesc>
+                
+</sourceDesc>
+</fileDesc>
+        
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term></term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+<particDesc>
+<person role="sender" xml:id="mt001">
+<persName>Maximino Torrez</persName>
+</person>
+<person role="recipient" xml:id="rh001">
+<persName>Reynaldo Hurtado</persName>
+</person>
+</particDesc>
+</profileDesc>
+        
+<revisionDesc>
+<change when="2015" who="#jda">Initial Encoding</change>
+<change when="2013" who="#iv">Transcription</change>
+            
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>
+            
+<div1 type="letter">
+                
+<pb facs="shan_l.009.jpg"/>
+
+<opener>
+<dateline>Rock Springs, Wyo. Borego Febrero 5 de 1923</dateline>
+<address><addrLine>Sr. Reynaldo Hurtado</addrLine></address>
+<salute>Respectable tio;</salute>
+</opener>
+
+<p>Derijo la presente para Saludarlo afectuosamente en union de toda su apresiable familia desiando que hal ser hesta en sus finas manos seyencuentre disfrutando de muy Buena salud quedando yo hasta esta fecha sin nobedad Gracias a Dios.</p>
+
+<p>tio despues de mis gratos recuerdo digo a Ud. Yo me yncuentro en este lugar aora yncontre trabajo fuera de Rock Springs poco retirado pero por aora pronto le pido la corespondencia a Ese Lugar</p>
+
+<pb facs="shan_l.011.jpg"/>
+            
+<p>2</p>
+            
+<p>yo me bi hobligado asalir de Idaho y cayi con suerte que luego hotro dia enpese atrabajar yo no se si Ud. me abra escrito algunas cartas asta hoy le escrebi a Frank para que me remita alguna a este lugar. Y agame fabor de mandarme el numero de la yompa y de los pantalones yo se su no. pero no se si sean para Ud. ho para los de casa El Corazon semeparte para ayudarlo y lo ayudare como pida aunque sea lo que pueda sierto ayer recebi pago y almismo tiempo nada medieron en dinero porque la <unclear reason="illegible">probieron</unclear> y algo que me presto en dinero el Mayordomo asi que para el hotro pago yo pienzo</p>
+
+<pb facs="shan_l.012.jpg"/>
+    
+<p>3</p>
+
+<p>mandarle los pantalones y la yompa en dinero aber que tanto alcanzo a mandarle aunque sea poco. digame si pienza traerse a la familia y si mama tambien piensa benirse fabor de mandarme desir yo con mucho gusto ubiera aceptado <unclear reason="illegible">a</unclear> subuen deseo de ayudarlo des de luego que yego a Mexico pero no he podido andube algunos dias nomas trampiando y Dios quiso colocarme aora ya estoy poco serca de mi tio lo fui aber de algun modo bamos ayudarlo digame cuando piensa salir de haya aunque ya en su anterior me ynformo que para este Mes pero siempre deceo saber aora si Mama piensa yrse me mande</p>
+
+<pb facs="shan_l.013.jpg"/>
+
+<p>4</p>
+
+<p>desir para asimismo aser lo posible amandarle tambien para heya y digame si sabe de Teodosio fabor de escrebirle y desirle que yo quiero sebenga paraca. Yo se que en el berano ban atraer jente del pazo para el betabel y llo boy ainformar si es sierto para mandarle desir como si tiene muy proxima su salida pronto espero su resolucion y resiba mil recuerdos de mi tio  y de su familia tienen mucho gusto de que sefue aber a su Mama y familia y que mi tia le escribio a su
+            
+<pb facs="shan_l.014.jpg"/>
+
+Mama en disiembre y que no le contest Trenidad les escribe aeyos de Arizona.</p>
+<p>A Mama no le escribo derectamente porque estoy esperando su contestacion. Y digame si yego a qui la señora ho no. y a Mama me hase fabor de desirle que no tenga pena yo boy aserlo posible amandarle algo. Y resiba de su sobrino el mas cresido afecto quien asus ordenes en lo poco que pueda</p>
+
+<closer>
+<signed>Su affmo. atto.
+S.S.
+Maximino Torrez</signed></closer>
+
+</div1>
+</body>
+    
+<back></back>
+</text>
+</TEI>

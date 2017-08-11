@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"  xml:id="shan_L040.meta">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Clemente Torres to Maximino Torrez, April 7, 1939</title>
+<title type="main">Carta de Clemente Torres a Maximino Torrez, 7 de abril, 1939</title>
+<author>Torres, Clemente</author>
+<principal xml:id="iv001">Velázquez, Isabel</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name xml:id="jda">Avelar, Janette D.</name>
+<name xml:id="iv002">Velázquez, Isabel</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2015</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Family Letters: An analysis of the Personal Correspondence of a Mexican American Family in Western Colorado and Eastern Nebraska in the First Half of the 20th Century</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Department of Modern Languages and Literatures</name>
+ <address>
+<addrLine>1111 Oldfather Hall</addrLine>
+<addrLine>660 N 12th</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+<addrLine>modlang2@unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+</address>
+<idno>shan_L040.meta</idno>
+<availability>
+<p>COPYRIGHT STATEMENT TO GO HERE</p>
+</availability>
+</publicationStmt>
+            
+<notesStmt><note></note></notesStmt>
+            
+<sourceDesc>
+<bibl>
+<author>Clemente Torres</author>
+<title level="m" type="main">Letter from Clemente Torres to Maximino Torrez</title>
+<date when="1939-04-07">April 7, 1939</date>
+<extent>2 pages</extent>
+<add>1 fragment</add>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Shanahan Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p>2 hand-written pages</p>
+<p>1 hand-written fragment</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support></support>
+<extent>2 pages
+<add>1 fragment</add>
+<dimensions unit="mm"><height></height><width></width></dimensions>
+</extent>
+<condition>
+<p></p></condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="h01" scribe="ct001" medium="pen"><p>Media: blue ink</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote><p></p></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin></origin>
+<provenance></provenance>
+<acquisition></acquisition>
+</history>
+</msDesc>
+                
+</sourceDesc>
+</fileDesc>
+        
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term></term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+<particDesc>
+<person role="sender" xml:id="ct001">
+<persName>Clemente Torres</persName>
+</person>
+<person role="recipient" xml:id="mt001">
+<persName>Maximino Torrez</persName>
+</person>
+</particDesc>
+</profileDesc>
+        
+<revisionDesc>
+<change when="2015" who="#jda">Initial Encoding</change>
+<change when="2013" who="#iv002">Transcription</change>
+            
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>
+            
+<div1 type="letter">
+                
+<pb facs="shan_l.140.jpg"/>
+                
+<opener>
+<dateline>Churintzio mich.A</dateline>
+<add>abril a 7 de 1939</add>
+
+<address><addrLine>Sr. Maximino Torrez</addrLine></address>
+
+<salute>Muy estimado Hermano de todo mi aprecio y cariño la presente me cribe mada.mas para saludarte y que te incuentres vien son mis deseos y que estes muy conten es lo que yo deseo parati Herrmano</salute>
+</opener>
+                
+<p>des pues de saludarte paso a contestarte tu  muy atenta y cariñosa carta donde beo medises que estas sin nobedad. Grasias a Dios</p>
+
+<p>Herrmano de lo que medises que no te contesto. Reynaldo pues no esta bueno pero que bamos .aser talbes que no quiso y de los que medises que procure hotra direxion pues te digo que da ygual para que no te conteste porque el telegrama yega ala casa pero no <unclear reason="illegible"/> tedigo que hase 15 Dias que yego huna carta de el pero con la misma direxcion yo digo esto que estaria bueno que le mandes el telegrama con esta direicion 4614 S. Wentwos <unclear reason="illegible">Ih</unclear> ave.
+
+<pb facs="shan_l.141.jpg"/>
+
+Chicago, Ill.</p>
+
+<p>para <unclear reason="illegible">bescie</unclear> te contestara y de lo que me dises de costantino pues te digo que ya murio y pachita tamien ya murio</p>
+
+<p>y de lo que me preguntas por allala pues el siesta en el Rancho de Paximaro y de lo que me dises que te mande la direicion de Ylarion y Feles pues notela mando por no saberla pero boy ainformar y para la proxima carta telamandare</p>
+
+<p>tamien te ago el encargo que si por casualida teiegas a entrevistar con Reynaldo no te baias adegar enrredar por que tu hasabes como es de prometedor promote mucho y no es nada… y me ases fabor de contestarme tan luego como Recibas esta</p>
+
+<closer>
+
+<salute>Recibe saludes de agapito aviña y de juana aviña y de Consepcion y familia y de mi esposa y de los muchachos. y de mi Recibe los mas cinseros y finos recuerdos de tu Herrmano que berte desea megor que escrevirte</salute> 
+                   
+<signed>Clemente Torrez</signed>
+</closer>
+                
+</div1>
+</body>
+        
+<back></back>
+</text>
+</TEI>

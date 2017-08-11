@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"  xml:id="shan_L073.meta">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Mrs. C. E. Parrish to Mr and Mrs. W.F. Schubert, January 6, 1958</title>
+<title type="main">Carta de la Sra. C. E. Parrish a Sr. y Sra. W.F. Schubert, 6 de enero, 1958</title>
+<author>Mrs. C. E. Parrish</author>
+<principal xml:id="iv001">Velázquez, Isabel</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name xml:id="jda">Avelar, Janette D.</name>
+<name xml:id="iv002">Velázquez, Isabel</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2015</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Family Letters: An analysis of the Personal Correspondence of a Mexican American Family in Western Colorado and Eastern Nebraska in the First Half of the 20th Century</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Department of Modern Languages and Literatures</name>
+ <address>
+<addrLine>1111 Oldfather Hall</addrLine>
+<addrLine>660 N 12th</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+<addrLine>modlang2@unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+</address>
+<idno>shan_L073.meta</idno>
+<availability>
+<p>COPYRIGHT STATEMENT TO GO HERE</p>
+</availability>
+</publicationStmt>
+            
+<notesStmt><note></note></notesStmt>
+            
+<sourceDesc>
+<bibl>
+<author>SENDER</author>
+<title level="m" type="main">Letter from Mrs. C. E. Parrish to Mr. and Mrs. W.F. Schubert</title>
+<date when="1958-01-06">January 6, 1958</date>
+<extent>2 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Shanahan Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p>2 hand-written pages</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support></support>
+<extent>2 pages
+<dimensions unit="mm"><height></height><width></width></dimensions>
+</extent>
+<condition>
+<p></p></condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="h01" scribe="cep001" medium="pen"><p>Media: blue ink</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote><p></p></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin></origin>
+<provenance></provenance>
+<acquisition></acquisition>
+</history>
+</msDesc>
+                
+</sourceDesc>
+</fileDesc>
+        
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term></term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+<particDesc>
+<person role="sender" xml:id="cep001">
+<persName>Mrs. C. E. Parrish</persName>
+</person>
+<person role="recipient" xml:id="sbs001"> <!--Is Mrs. W.B. Schubert also Sandra Baros Schubert?-->
+<persName>Mrs. W.B. Schubert</persName>
+</person>
+<person role="recipient" xml:id="wbs002">
+<persName>Mr. W.B. Schubert</persName>
+</person>
+</particDesc>
+</profileDesc>
+        
+<revisionDesc>
+<change when="2015" who="#jda">Initial Encoding</change>
+<change when="2014" who="#iv002">Transcription</change>
+            
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>
+            
+<div1 type="letter">
+                
+<pb facs="shan_l.216.jpg"/>
+                
+<opener>
+<dateline>Bradshaw nebr. Jan 5, 1958.</dateline>
+
+<address><addrLine>Dear mrs Shubert & all.</addrLine></address>
+
+<salute>My we were so sorry to hear I that the mr. had to go to the hospital. Sure hope he's better again. Thanks so much for the lovely card & negatives</salute>
+</opener>
+                
+<p>Did you know Mr Parrish had surgery He was in Lincoln General 12 days. He <unclear reason="illegible">ruptured</unclear> him self some way was sent to bed but he suffered the first 3 or <del/> or 4 days. Has a little diabetes. Takes insulin shots once a day. He also has a small heart block. <unclear reason="illegible">H</unclear> was operated on Dec. <del>xx</del> 7.  Feels fine now only he’s on a diet. Guess he’ll quit work. The dr told him he’d better. Our children are O.k. only Violets husband looks bad. He has brights deasese. <!--Change from blue to black ink--> Was down there to-day. We all went to Velmas their little girl is going to have her tonsils taken out Fri if her caugh is all right. Other wise all are O.K.
+
+<pb facs="shan_l.217.jpg"/>
+
+We have our home all fixed up in Seward. Will move there when he gets his pension. How are all you babies you have a nice family. Oleittas boy lives in College View She’s our oldest girl and lives in Holdrage. Her boys wife will have their first baby any time now. My We’ll be great grandpa & grandma. We’ll be thrilld over it. Well we hope this nice weather keeps up. Sure was cold after the snow. I haven’t been to well. My back aches quite a lot and I have. Arthritis in my elbows. Get so sore when I wash our cloths. Have to pack water out and daddy can’t help as he’s not susposed to lift for at least 3 weeks yet. That’s quite a strain to lift up a bucket of water and give it a toss.</p>
+
+<closer>  
+<salute>Well tell your hubby to hury and get well. And be sure to take it easy. Write and let us know he gets along</salute>                  
+<signed>love mr. and mrs. Parrish</signed>
+</closer>
+                
+</div1>
+</body>
+        
+<back></back>
+</text>
+</TEI>

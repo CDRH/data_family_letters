@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"  xml:id="shan_L077.meta">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Jesusita B Torres to Sandra B Schubert, Date Unknown</title>
+<title type="main">Carta de Jesusita B Torres a Sandra B Schubert, Fecha Desconocida</title>
+<author>Torres, Jesusita B</author>
+<principal xml:id="iv001">Velázquez, Isabel</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name xml:id="jda">Avelar, Janette D.</name>
+<name xml:id="km">Mendell, Kate</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2015</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Family Letters: An analysis of the Personal Correspondence of a Mexican American Family in Western Colorado and Eastern Nebraska in the First Half of the 20th Century</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Department of Modern Languages and Literatures</name>
+ <address>
+<addrLine>1111 Oldfather Hall</addrLine>
+<addrLine>660 N 12th</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+<addrLine>modlang2@unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+</address>
+<idno>shan_L077.meta</idno>
+<availability>
+<p>COPYRIGHT STATEMENT TO GO HERE</p>
+</availability>
+</publicationStmt>
+            
+<notesStmt><note></note></notesStmt>
+            
+<sourceDesc>
+<bibl>
+<author>Jesusita B Torres</author>
+<title level="m" type="main">Letter from Jesusita B Torres to Sandra B Schubert</title>
+<date cert="unknown"/>
+<extent>3 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Shanahan Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p>3 hand-written pages</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support></support>
+<extent>3 pages
+<dimensions unit="mm"><height></height><width></width></dimensions>
+</extent>
+<condition>
+<p></p></condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="h01" scribe="jbt001" medium="pen"><p>Media: black ink</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote><p></p></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin></origin>
+<provenance></provenance>
+<acquisition></acquisition>
+</history>
+</msDesc>
+                
+</sourceDesc>
+</fileDesc>
+        
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term></term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+<particDesc>
+<person role="sender" xml:id="jbt001">
+<persName>Jesusita B Torres</persName>
+</person>
+<person role="recipient" xml:id="sbs002">
+<persName>Sandra B Schubert</persName>
+</person>
+</particDesc>
+</profileDesc>
+        
+<revisionDesc>
+<change when="2015" who="#jda">Initial Encoding</change>
+<change when="2014" who="#km">Transcription</change>
+            
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>
+            
+<div1 type="letter">
+                
+<pb facs="shan_l.236"/>
+                
+<opener>
+
+<dateline>ft, Lupton colo</dateline>
+<add>1</add>
+
+<address><addrLine>Querida hija</addrLine></address>
+
+<salute>Querida hija la presente es para saludarte tanto á ti como á tu espezo, y los niños; recivi tu <del>carta</del> Grandmother Card que me mando Billy boy; ojala y esten buenos aliviados,</salute>
+</opener>
+                
+<p>pues que ya estan trabajando aquí Max; y siempre se entretiene un en el trabajo de la casa; pero me dijo Helen que tenia mucho gusto, porque iba á tener una nueba hayjada, y la Kathy dise es una siter; pues que bueno; á ella le gustan mucho los babys parese; y tambíen me dijo que ban á benir para aca ft, Lupton; pues ya haora se; para no rentar los cuartos; saves que me dilate poquito en no contestarte, porque estube muy mala; si deveras que estube mala; pues sabes que todos los días devo de <note>tomar</note><!--inserted above line?--> pildoras, y se me acabaron, y yo</p>
+
+<pb facs="shan_l.238.jpg"/>
+
+<p>2</p>
+
+<p>pense que ya estaba bien; y me pase un día sín tomarlas y en la noche, recorde hojandome no podia ni resoyar, y casí ní ablar; recorde como á las once y media de la noche; y así estube, asta las tres de la mañana, que Max fue con jess; á ablarle; que yo estaba muy mala; entonces jeess, telefonío á Doctor, á Federico porque el es el que me esta curando, y vino como á las 4, ½ de la mañana y me dío un chat, y pildoras; y pues haora estoy muy bien gracías á Diosito Lindo; pero sí ya me andaba con la muerte; pero no te apenes; pues haora ya estoy bien; diejo el Doctr; que me yebaran al Hospila; no mas á darme una <del>exc</del>. exsaminasion; aber que es lo que me pasa; pues haora me ban á llevar el Sabado 6, de June sí me hayan mala mucho pues me dejaran una ó 2, semanas</p>
+
+<pb facs="shan_l.239.jpg"/>
+
+<p>3</p>
+
+<p>no mas yo creo, pues ya me siento muy bien poreso te digo que no te vayas á peñar; max ,trabajando y yo pienso que esto sera todo, muchos recuerdos para todos, de max, jesse, y family de mi tu mamá que te deseo muchas felisidades. dise Kethy que sí quiere ir para ya pero que su mamá no la deja el <note>Jerry</note><!--inserted above line--> anda trabajando, pues ojala y el Billy boy quisiera venirse aqui con nosotros, ya ay mucho betabel; max ande aqui con el japons; tiene 20, acres aqui esta muy serquitas de la casa;</p>
+
+<closer>  
+
+<salute>bueno hija te deseo siempre bien en todo tu mamá que quisiera estar estar sequitas de Uds;</salute>  
+                
+<signed>Jesusita B. Torres</signed>
+</closer>
+
+<postscript><p>recive tu Bendición</p></postscript>
+                
+</div1>
+</body>
+        
+<back></back>
+</text>
+</TEI>

@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"  xml:id="shan_L072.meta">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Josephine Montoya to Sandra Baros, August 1, 1942</title>
+<title type="main">Carta de Josephine Montoya a Sandra Baros, 1 de agosto, 1942</title>
+<author>SENDER</author>
+<principal xml:id="iv001">Velázquez, Isabel</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name xml:id="jda">Avelar, Janette D.</name>
+<name xml:id="km">Mendell, Kate</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2015</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Family Letters: An analysis of the Personal Correspondence of a Mexican American Family in Western Colorado and Eastern Nebraska in the First Half of the 20th Century</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Department of Modern Languages and Literatures</name>
+ <address>
+<addrLine>1111 Oldfather Hall</addrLine>
+<addrLine>660 N 12th</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+<addrLine>modlang2@unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+</address>
+<idno>shan_L072.meta</idno>
+<availability>
+<p>COPYRIGHT STATEMENT TO GO HERE</p>
+</availability>
+</publicationStmt>
+            
+<notesStmt><note></note></notesStmt>
+            
+<sourceDesc>
+<bibl>
+<author>Josephine Montoya</author>
+<title level="m" type="main">Letter from Josephine Montoya to Sandra Baros</title>
+<date when="1942-08-01">August 1, 1942</date>
+<extent>1 page</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Shanahan Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p>1 typed page</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support></support>
+<extent>1 page
+<dimensions unit="mm"><height></height><width></width></dimensions>
+</extent>
+<condition>
+<p></p></condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="h01" scribe="jm001" medium="typewriter"><p>Media: black ink</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote><p></p></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin></origin>
+<provenance></provenance>
+<acquisition></acquisition>
+</history>
+</msDesc>
+                
+</sourceDesc>
+</fileDesc>
+        
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term></term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+<particDesc>
+<person role="sender" xml:id="jm001">
+<persName>Josephine Montoya</persName>
+</person>
+<person role="recipient" xml:id="sbs002">
+<persName>Sandra Baros</persName>
+</person>
+</particDesc>
+</profileDesc>
+        
+<revisionDesc>
+<change when="2015" who="#jda">Initial Encoding</change>
+<change when="2014" who="#km">Transcription</change>
+            
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>
+            
+<div1 type="letter">
+                
+<pb facs="shan_l.212.jpg"/>
+                
+<opener>
+<dateline>P.O. Box LL</dateline>
+<add>Socorro, N. M.</add>
+<add>August 1, 1942</add>
+
+<address><addrLine>Dearest Pal:</addrLine></address>
+
+<salute>Well, Santos, I guess it is about time that I should answer your letter being that if I leave it a long time going unanswered I will soon forget about it. Well, we are all just fine thanks to God and hope that you are the same.</salute>
+</opener>
+                
+<p>Didn’t have much to do in the office so I thought I would answer some of my correspondence. I sure have been doing a lot of answering now. I just answered a letter to Bennie and another to Johnnie and Joe, of course. It seems like as if Talley is not going into the army any more, at least, I hope he isn’t as he is going to take a defense job pretty soon and I would much prefer for him to take this job than to go as a volunteer. I talked him out of it when I went home and I guess he took my advice.</p>
+
+<p>Oh, Santos, aren’t you going to be here for the fiestas? Well, I guess it is too late for you to think of even coming as they are already here. I don’t think I’m going over. I would much rather stay here in Socorro and spend the week-end reading as I always do whenever I stay here. I remember all the fun we two used to have at the fiestas - - remember. Anyway if I go I won’t have any fun as there are nobody left to enjoy your self with. Gee, I sure felt bad when I received a letter from Joe yester-day from New York. Can you beat that? They sure took him far away from me. It’s a good thing he came over to see me for the Fourth. Heck, I’m sure tired of this war business but there isn’t much you can do about it so we better keep our chin up and take it as it comes. Now that the world was changing for me something like this had to happen. We are expecting Johnnie now for the fiestas of course I won’t be home but they are planning on coming over to Socorro. I told them to although I don’t know whether they will come or not. I Hope they will cause now that Annie left I sure feel like a lonely cow with nobody on my side. Especially here cause all the girls act so stuck-up. But I’ll have to face life some way or another.</p>
+
+<p>In your letter you ask me of Alex, Joe’s brother. Well, he is still around. I saw him last Saturday when I went home. He is still the same old guy. I think he will be drafted pretty soon though he’s got a swell job. He works for the Santa Fe Shops so he gets good dough.</p>
+
+<p>It won’t be long when they will be drafting us pretty soon. Huh - - well, I don’t think I will mind it so much as I would much rather be some place else than in this dumb-founded town. I think I have said more than I expected to so here I close my letter until I hear from you.</p>
+
+<p>Has Leonor written you? I haven’t see her since I went over to her house.</p>
+
+<closer>     
+<salute>REGARDS TO ALL</salute>   
+<add>P..S..</add>            
+<add>I'm still waiting for</add>
+<add>that promised future</add>
+<add>of yours.</add>
+
+<signed>A Long but Not Forgotten Friend,</signed>
+<add>Josephine Montoya</add>
+<add>P.O. Box LL</add>
+<add>Socorro, N.M.</add>
+</closer>
+
+<postscript><p>Excuse my typewriting.</p></postscript>
+                
+</div1>
+</body>
+        
+<back></back>
+</text>
+</TEI>

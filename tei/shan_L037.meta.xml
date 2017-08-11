@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"  xml:id="shan_L037.meta">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Concepción Arroyo to Maxsimino Torrez, January 28, 1939</title>
+<title type="main">Carta de Concepción Arroyo a Maxsimino Torrez, 28 de enero, 1939</title>
+<author>Arroyo, Concepción</author>
+<principal xml:id="iv001">Velázquez, Isabel</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name xml:id="jda">Avelar, Janette D.</name>
+<name xml:id="km">Mendell, Kate</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2015</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Family Letters: An analysis of the Personal Correspondence of a Mexican American Family in Western Colorado and Eastern Nebraska in the First Half of the 20th Century</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Department of Modern Languages and Literatures</name>
+ <address>
+<addrLine>1111 Oldfather Hall</addrLine>
+<addrLine>660 N 12th</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+<addrLine>modlang2@unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+</address>
+<idno>shan_L037.meta</idno>
+<availability>
+<p>COPYRIGHT STATEMENT TO GO HERE</p>
+</availability>
+</publicationStmt>
+            
+<notesStmt><note></note></notesStmt>
+            
+<sourceDesc>
+<bibl>
+<author>Concepción Arroyo</author>
+<title level="m" type="main">Letter from Concepción Arroyo to Maxsimino Torrez</title>
+<date when="1939-01-28">January 28, 1939</date>
+<extent>2 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Shanahan Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p>2 hand-written pages</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support></support>
+<extent>2 pages
+<dimensions unit="mm"><height></height><width></width></dimensions>
+</extent>
+<condition>
+<p></p></condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="h01" scribe="ca001" medium="pen"><p>Media: blue ink</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote><p></p></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin></origin>
+<provenance></provenance>
+<acquisition></acquisition>
+</history>
+</msDesc>
+                
+</sourceDesc>
+</fileDesc>
+        
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term></term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+<particDesc>
+<person role="sender" xml:id="ca001">
+<persName>Concepción Arroyo</persName>
+</person>
+<person role="recipient" xml:id="mt001">
+<persName>Maxsimino Torrez</persName>
+</person>
+</particDesc>
+</profileDesc>
+        
+<revisionDesc>
+<change when="2015" who="#jda">Initial Encoding</change>
+<change when="2014" who="#km">Transcription</change>
+            
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>
+            
+<div1 type="letter">
+                
+<pb facs="shan_l.039.jpg"/>
+                
+<opener>
+<dateline></dateline>
+
+<address><addrLine>Sr Maxsimino Torrez</addrLine></address>
+
+<salute>Apresiable sovrino derijo la precen te para saludarte desiando estes bien yo y mi familia bien gracias al criador.</salute>
+</opener>
+                
+<p>Sovrino despues de saludarte acuso rresibo de tu grata de fecha 3 corriente y enterada deeya doy contestasion y en cuanto atus preguntas pues sabras que tu hermano no esta con migo desde ace muchos años ce ceparo dela casa y esta casado tiene ya dos chamacos una niña y unniño y de Teodosio cesabe que ya murio y de Aurelio Sanches esta en San Juan de aramutaro donde aestado siempre y de tu tia andrea esta bien y de mi tio Crispin pues el algo enfermo y de mi tio Antonio ya murio desde el año de 1931 y de Reynaldo pues ce qua [que] todavia esta en estos lugares aunquando ami no me escribe desde que murrio la mama y portanto no ce
+
+<pb facs="shan_l.040.jpg"/>
+
+Exsactamente de su domisilio pero <del/> yo creo que no ceacambiado de donde estaba entonces ayite mando el domisilio deel para que le escribas aunque enla primera carta no le digas nada delo que te deve por que la señoras son las que agaran las carta y la carta que no lesda lagana en tregar no la entregan el cuando fue para ya dijo que desiaba saber de ti para pagarte pero como Nosotros no sabiamos de ti no pudimos aserteto saber y tu tia andrea a la que mandas saludar te rretorna los recuerdos y le dimos la direcsion a clemente y de mi parte rresibe el afecto de quien te decea into do felisidades.</p>
+
+<note>Cuando tengas abien escribirme melas mandas alista de correos</note>
+
+<note>direcsion de Reynaldo 216 Swan st. Chicago, Ill.</note>
+
+<closer>                    
+<salute>Tu inutel Serbidor</salute>
+<signed>Concepcion Arroyo</signed>
+</closer>
+                
+</div1>
+</body>
+        
+<back></back>
+</text>
+</TEI>

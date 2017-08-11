@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"  xml:id="shan_L046.meta">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Demetrio Flemate to Jesusita Baros Torrez, April 8, 1970</title>
+<title type="main">Carta de Demetrio Flemate a Jesusita Baros Torrez, 8 de abril, 1970</title>
+<author>Flemate, Demetrio</author>
+<principal xml:id="iv001">Velázquez, Isabel</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name xml:id="jda">Avelar, Janette D.</name>
+<name xml:id="iv002">Velázquez, Isabel</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2015</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Family Letters: An analysis of the Personal Correspondence of a Mexican American Family in Western Colorado and Eastern Nebraska in the First Half of the 20th Century</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Department of Modern Languages and Literatures</name>
+ <address>
+<addrLine>1111 Oldfather Hall</addrLine>
+<addrLine>660 N 12th</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+<addrLine>modlang2@unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+</address>
+<idno>shan_L046.meta</idno>
+<availability>
+<p>COPYRIGHT STATEMENT TO GO HERE</p>
+</availability>
+</publicationStmt>
+            
+<notesStmt><note></note></notesStmt>
+            
+<sourceDesc>
+<bibl>
+<author>Demetrio Flemate</author>
+<title level="m" type="main">Letter from Demetrio Flemate to Jesusita Baros Torrez</title>
+<date when="1970-04-08">April 8, 1970</date>
+<extent>1 page</extent>
+<add>3 fragments</add>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Shanahan Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p>2 hand-written pages</p>
+<p>3 fragments</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support></support>
+<extent>1 page
+<add>3 fragments</add>
+<dimensions unit="mm"><height></height><width></width></dimensions>
+</extent>
+<condition>
+<p></p></condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="2">
+<handNote xml:id="h01" scribe="ua002" medium="pencil"><p>Media: lead/graphite</p></handNote>
+<handNote xml:id="h02" scribe="df001" medium="pen"><p>Media: blue ink</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote><p></p></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin></origin>
+<provenance></provenance>
+<acquisition></acquisition>
+</history>
+</msDesc>
+                
+</sourceDesc>
+</fileDesc>
+        
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term></term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+<particDesc>
+<person role="sender" xml:id="df001">
+<persName>Demetrio Flemate</persName>
+</person>
+<person role="recipient" xml:id="jbt001">
+<persName>Jesusita Baros Torrez</persName>
+</person>
+</particDesc>
+</profileDesc>
+        
+<revisionDesc>
+<change when="2015" who="#jda">Initial Encoding</change>
+<change when="2014" who="#iv002">Transcription</change>
+            
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>
+            
+<div1 type="letter">
+                
+<pb facs="shan_l.196.jpg"/>
+                
+<opener>
+<dateline>Demetrio Flemate</dateline>
+<add>3081 Oregon St.</add>
+<add>Los Angeles California</add>
+<add>900 23</add>
+
+<address><addrLine>Estimada Ermana</addrLine></address>
+
+<pb facs="shan_l.198.jpg"/>
+
+<salute>por la precente te mando saludar y a ti y a Max y a jesse y a todos</salute>
+</opener>
+                
+<p>En
+
+General pues yo ya no allo la puerta aqui me tienes En los angeles yo pensaba ir para aya pero agarre tu consejo pues en una de tus cartas me dijiste que me viniera a California y aqui ya me Esta ayudando el Govierno pero mi problema es que devo un dineral En Mexico y seguro que voy a mandar vender la casa para pagar porque de aqui ni Esperanzas una Es que a los viejos no les dan travajo y otra es que a los que les esta ayudando El Govierno no les permiten travajar me refiero al Department of Social Welfare porque si travajo me revajan asi que Estoy en un callejon sin salida Viejo con
+
+<pb facs="shan_l.200"/>
+
+mucha familia y pobre sin duda que El producto de la casa pagando lo que se debe se lo boy a dejar a mis hijos porque yo presiento que ya no quiero vivir mas</p>
+
+<closer>
+<salute>Sin otro particular se despide tu Ermano</salute>          
+<signed>Demetrio Flemate</signed>
+</closer>
+                
+</div1>
+</body>
+        
+<back></back>
+</text>
+</TEI>

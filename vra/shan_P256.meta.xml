@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/vra/vra4.0.42-tei/vra-tei-strict.xsd"?>
+
+<vra xmlns="http://www.vraweb.org/vracore4.htm"     xmlns:tei="http://www.tei-c.org/ns/1.0">
+    <work id="shan_P256.meta">
+        <agentSet>   
+            <display>M. Santana</display>
+            <agent>
+                <name>Santana, M.</name>
+                <role>photographer</role>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <display></display>
+            <date/>
+        </dateSet>
+        <descriptionSet>
+            <description source="Jane Shanahan"><tei:p>Postcard of church Sagrado Corazón in Juchipila, Mexico</tei:p></description>
+        </descriptionSet>
+        <inscriptionSet>
+            <inscription>
+                <text source="front" xml:lang="es">Interior del templo de Juchipila, Zac., Mex. M Santana</text>
+                <text source="back" xml:lang="es">Comadre, hay le mando esta tarjeta para que saver de el templo de Juchipila. Patricia Medrano</text>
+                <text source="translation" xml:lang="es">Sister, I am sending you this postcard for you to see the church in Juchipila. Patricia Medrano</text>
+            </inscription>
+        </inscriptionSet>
+        <locationSet>
+            <location><name>Juchipila, ZAC (Mexico)</name></location>
+        </locationSet>
+        <materialSet>
+            <display>grayscale photograph</display>
+            <material></material>
+        </materialSet>
+        <measurementsSet>
+            <display></display>
+            <notes/>
+            <measurements type="width" unit="in"/>
+            <measurements type="height" unit="in"/>
+        </measurementsSet>
+        <relationSet>
+            <relation/>
+        </relationSet>
+        <rightsSet>
+            <rights>
+                <rightsHolder>Photographic Collection: An analysis of the Personal Correspondence of a Mexican American Family in Western Colorado and Eastern Nebraska in the First Half of the 20th Century</rightsHolder>
+                <text/>
+            </rights>
+        </rightsSet>
+        <sourceSet>
+            <display/>
+            <source>
+                <name>Shanahan Collection</name>
+            </source>
+        </sourceSet>
+        <subjectSet>
+            <subject>
+                <term refid="pm001">Medrano, Patricia</term>
+            </subject>
+            <subject>
+                <term refid="jbt001">Flemate Baros Torres, Jesusita</term>
+            </subject>
+        </subjectSet>
+        <techniqueSet>
+            <technique/>
+        </techniqueSet>
+        <titleSet>
+            <title xml:lang="en">Jerry Baros</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype>grayscale photograph</worktype>
+        </worktypeSet>
+        <image id="shan_p.430">
+            <agentSet>
+                <agent>
+                    <name type="personal"/>
+                    <role>creator of master digital image</role>
+                </agent>
+            </agentSet>
+            <dateSet>
+                <date/>
+            </dateSet>
+            <descriptionSet>
+                <description source="Jane Shanahan"><tei:p>Shanahan Collection</tei:p></description>
+            </descriptionSet>
+            <relationSet>
+                <relation/> 
+            </relationSet>
+            <rightsSet>
+                <rights>
+                    <rightsHolder>Photographic Collection: An analysis of the Personal Correspondence of a Mexican American Family in Western Colorado and Eastern Nebraska in the First Half of the 20th Century</rightsHolder>
+                </rights>
+            </rightsSet>
+            <worktypeSet>
+                <worktype>digital image</worktype>
+            </worktypeSet>
+        </image>
+    </work>
+</vra>

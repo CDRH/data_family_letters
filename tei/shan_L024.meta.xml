@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"  xml:id="shan_L024.meta">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from María Guadalupe Flemate to María Jesús Barrios, November 22, 1939</title>
+<title type="main">Carta de María Guadalupe Flemate a María Jesús Barrios, 22 de noviembre, 1939</title>
+<author>Flemate, Guadalupe María</author>
+<principal xml:id="iv001">Velázquez, Isabel</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name xml:id="jda">Avelar, Janette D.</name>
+<name xml:id="iv002">Velázquez, Isabel</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2015</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Family Letters: An analysis of the Personal Correspondence of a Mexican American Family in Western Colorado and Eastern Nebraska in the First Half of the 20th Century</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Department of Modern Languages and Literatures</name>
+ <address>
+<addrLine>1111 Oldfather Hall</addrLine>
+<addrLine>660 N 12th</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+<addrLine>modlang2@unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+</address>
+<idno>shan_L024.meta</idno>
+<availability>
+<p>COPYRIGHT STATEMENT TO GO HERE</p>
+</availability>
+</publicationStmt>
+            
+<notesStmt><note></note></notesStmt>
+            
+<sourceDesc>
+<bibl>
+<author>María Guadalupe Flemate</author>
+<title level="m" type="main">Letter from María Guadalupe Flemate to María Jesús Barrios</title>
+<date when="1939-11-22">November 22, 1939</date>
+<extent>1 page</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Shanahan Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p>1 typed page</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support></support>
+<extent>1 page
+<dimensions unit="mm"><height></height><width></width></dimensions>
+</extent>
+<condition>
+<p></p></condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="2">
+<handNote xml:id="h01" scribe="tw001" medium="typewriter"><p>Media: black ink</p></handNote>
+<handNote xml:id="h02" scribe="gf001" medium="pen"><p>Media: green ink</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote><p></p></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin></origin>
+<provenance></provenance>
+<acquisition></acquisition>
+</history>
+</msDesc>
+                
+</sourceDesc>
+</fileDesc>
+        
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term></term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+<particDesc>
+<person role="sender" xml:id="gf001">
+<persName>María Guadalupe Flemate</persName>
+</person>
+<person role="recipient" xml:id="jbt001">
+<persName>María Jesús Barrios</persName>
+</person>
+</particDesc>
+</profileDesc>
+        
+<revisionDesc>
+<change when="2015" who="#jda">Initial Encoding</change>
+<change when="2014" who="#iv002">Transcription</change>
+            
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>
+            
+<div1 type="letter">
+                
+<pb facs="shan_l.136.jpg"/>
+                   
+<opener>
+<dateline>Juchipila, Zac;</dateline>
+<add>noviembre 22 de 1939</add>
+
+<address><addrLine>Sra. Elivoria Flemate.</addrLine></address>
+
+<salute>Muy apreciable hermana:</salute></opener>
+
+<p>Esperando que esta te encuentre sin novedad, asi como me encuentro en esta, al lado de tus apreciables hijos, que asi son mis deseos,</p>
+                
+<p>en seguida te digo que se que en frontera cuesta bastante el envio de ropa para esta, si gustas mejor manda dinero para si comprarme mi vestido que es una cosa igual;, hermana mi hermano ya no esta en el lugar de donde estaba escribiendo últimamente, en vista de que se han estado devolviendo las cartas, si el tellegare a escrebir te agradeceré demasiado me des el domicilio en seguida para comunicarme con el, pues resulta que estoy respondiendo por el con don Pascual Posos, pormla cantidad de cuatrocientos y pico de pesos cuenta que ya se venció, me cobró don Pascual en su vencimiento y con esperanzas de que Demetrio mande dinero le dije a don Pascual que me esperará para enero venidero, asi es de que te suplico me hagas el favor de que tan luego como sepas el domicilio de el me lo mandes que me urge comunicarme con el.</p>
+                
+<closer><salute>Saludame a tus hijos y tu recibe el parecio y cariño de tu hermana, que de verdad te aprecia y no te olvida.</salute>
+
+<signed>Guadalupe Flemate</signed>
+</closer>
+                
+</div1>
+</body>
+        
+<back></back>
+</text>
+</TEI>

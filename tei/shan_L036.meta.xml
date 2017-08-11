@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"  xml:id="shan_L036.meta">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Maxcimino Torres to Clemente Torres, June 19, 1939</title>
+<title type="main">Carta de Maxcimino Torres a Clemente Torres, 19 de junio, 1939</title>
+<author>Torres, Maxcimino</author>
+<principal xml:id="iv001">Velázquez, Isabel</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name xml:id="jda">Avelar, Janette D.</name>
+<name xml:id="km">Mendell, Kate</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2015</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Family Letters: An analysis of the Personal Correspondence of a Mexican American Family in Western Colorado and Eastern Nebraska in the First Half of the 20th Century</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Department of Modern Languages and Literatures</name>
+ <address>
+<addrLine>1111 Oldfather Hall</addrLine>
+<addrLine>660 N 12th</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+<addrLine>modlang2@unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+</address>
+<idno>shan_L036.meta</idno>
+<availability>
+<p>COPYRIGHT STATEMENT TO GO HERE</p>
+</availability>
+</publicationStmt>
+            
+<notesStmt><note></note></notesStmt>
+            
+<sourceDesc>
+<bibl>
+<author>Maxcimino Torres</author>
+<title level="m" type="main">Letter from Maxcimino Torres to Clemente Torres</title>
+<date when="1939-06-19">June 19, 1939</date>
+<extent>4 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Shanahan Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p>4 hand-written pages</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support></support>
+<extent>4 pages
+<dimensions unit="mm"><height></height><width></width></dimensions>
+</extent>
+<condition>
+<p></p></condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="h01" scribe="mt001" medium="pencil"><p>Media: lead/graphite</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote><p></p></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin></origin>
+<provenance></provenance>
+<acquisition></acquisition>
+</history>
+</msDesc>
+                
+</sourceDesc>
+</fileDesc>
+        
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term></term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+<particDesc>
+<person role="sender" xml:id="mt001">
+<persName>Maxcimino Torres</persName>
+</person>
+<person role="recipient" xml:id="ct001">
+<persName>Clemente Torres</persName>
+</person>
+</particDesc>
+</profileDesc>
+        
+<revisionDesc>
+<change when="2015" who="#jda">Initial Encoding</change>
+<change when="2014" who="#km">Transcription</change>
+            
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>
+            
+<div1 type="letter">
+                
+<pb facs="shan_l.033.jpg"/>
+                
+<opener>
+
+<dateline>Longmont Colo,</dateline>
+<add>19 junio 1939.</add>
+
+<address><addrLine>Sr.</addrLine></address>
+<add>Clemente Torres</add>
+<add>Muy estimado hermano</add>
+
+<salute>La presente es pa saludarles á todos en General desiando se incuentren con felisida. nosotros estamos bíen . grasias á Dios.</salute>
+</opener>
+                
+<p>pues hermano sepues de saludarte á ti á toda tu familia te digo lo siguiente que yo estoy bibiendo aquí con una familia la Señora  es viauda si Dios no Leicensía quiero casarme yo con la Señora, yo te dire asun con pase para mas delante</p>
+
+<pb facs="shan_l.034.jpg"/>
+
+<p>2</p>
+
+<p>Sabras que la esposa que yo tenía no pudimos bibir agusto, pues atocante de Reynaldo te digo que ya me escribio una carta y yo le conteste haora estoy esperando contestasion no se si me contestara ó no pues hermano de lo que me dises que si me bas á mandar un retrato de toda tu familia pues sería mucho gusto para mí el verte con todos de tu familia nomas que no se te olbide, yo tambien boy a ser lo posible [lo mas pronto que pueda á mandarte lo]. Pues hermano dime sí ya ay Armobil ó carros tu saves que cuando yo</p>
+
+<pb facs="shan_l.035.jpg"/>
+
+<p>3</p>
+
+<p>me bine no se usavan y haora é oído desir que ay muchos y dime si ablas con tu padrín Aurílío Sanches para mandarte un papel para que se lo des á el y díme sí no pudites arregalar la direcsión de mí tía Loola en esta no me díses nada de ella.</p>
+
+<closer><salute>Bueno hermano creo que es todo por esta ves dales á todos en General mís recuerdos á tu esposa y tu familia y á tus papás políticos. y de mí rresibe el mas fino rrecuerdo de tu hermano te deseo mil felesidades</salute>
+
+<pb facs="shan_l.036.jpg"/>
+
+<note>4</note>
+
+<signed>Mr. Maxcimino Torres</signed>
+<add>In care B Kenndy R.3.</add> 
+<add>Longmont Colo</add>
+</closer>
+
+<postscript><p>fabor de pintar su</p>
+<p>letra mas clara</p></postscript>
+                
+</div1>
+</body>
+        
+<back></back>
+</text>
+</TEI>

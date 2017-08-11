@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"  xml:id="shan_L078.meta">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Jesusita B Torres to Sandra B Schubert, February 4, 1957</title>
+<title type="main">Carta de Jesusita B Torres a Sandra B Schubert, 4 de febrero, 1957</title>
+<author>Torres, Jesusita B</author>
+<principal xml:id="iv001">Velázquez, Isabel</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name xml:id="jda">Avelar, Janette D.</name>
+<name xml:id="km">Mendell, Kate</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2015</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Family Letters: An analysis of the Personal Correspondence of a Mexican American Family in Western Colorado and Eastern Nebraska in the First Half of the 20th Century</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Department of Modern Languages and Literatures</name>
+ <address>
+<addrLine>1111 Oldfather Hall</addrLine>
+<addrLine>660 N 12th</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+<addrLine>modlang2@unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+</address>
+<idno>shan_L078.meta</idno>
+<availability>
+<p>COPYRIGHT STATEMENT TO GO HERE</p>
+</availability>
+</publicationStmt>
+            
+<notesStmt><note></note></notesStmt>
+            
+<sourceDesc>
+<bibl>
+<author>Jesusita B Torres</author>
+<title level="m" type="main">Letter from Jesusita B Torres to Sandra B Schubert</title>
+<date when="1957-02-04">February 2, 1957</date>
+<extent>3 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Shanahan Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p>3 hand-written pages</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support></support>
+<extent>3 pages
+<dimensions unit="mm"><height></height><width></width></dimensions>
+</extent>
+<condition>
+<p></p></condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="h01" scribe="jbt001" medium="pen"><p>Media: black ink</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote><p></p></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin></origin>
+<provenance></provenance>
+<acquisition></acquisition>
+</history>
+</msDesc>
+                
+</sourceDesc>
+</fileDesc>
+        
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term></term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+<particDesc>
+<person role="sender" xml:id="jbt001">
+<persName>Jesusita B Torres</persName>
+</person>
+<person role="recipient" xml:id="sbs002">
+<persName>Sandra B Schubert</persName>
+</person>
+</particDesc>
+</profileDesc>
+        
+<revisionDesc>
+<change when="2015" who="#jda">Initial Encoding</change>
+<change when="2014" who="#km">Transcription</change>
+            
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>
+            
+<div1 type="letter">
+                
+<pb facs="shan_l.240.jpg"/>
+                
+<opener>
+<note>1</note>
+<dateline>ft. Lupton Colo</dateline>
+<add>4, Febrero, 1957.</add>
+
+<address><addrLine>Querida hija,</addrLine></address>
+
+<salute>la precente es para saludarlos á todos tanto á ti, como al Bill, á los niños;</salute>
+</opener>
+                
+<p>ya ase dias que reciví esta; yo estaba con pena de Uds; y te escriví y ese dia que fui á echar la <del>cata</del> carta; ese mismo dia aye esta; onde benía los retratos de los niños muchas gracias sabieron muy bien yo quisiera tener un retrato de todos de tí, el Bill; y los niños;</p>
+
+<p>me escribío la Betty, y recibí mucho gusto; tan siquiera si acuerda, de mí yo pensaba que no podía escribir en español pero sí sabe;</p>
+
+<p>que bueno, dice que esta trabajando ella y su esposo; y la suegra le cuída los niños;</p>
+
+<p>y tiene muchas ganas de berme;</p>
+
+<pb facs="shan_l.241.jpg"/>
+<p>2</p>
+
+<p>ojala y biniera algún día; yo le agredesco mucho; yo ya tan vieja; y sin poder ablar el ingles, pienso que asta se afrentaran, que diran; esta viejá; tonta ní save ablar, nada;</p>
+
+<p>pues yo sí quiero, ablar el ingles. pero no puedo; asta á mí me da pena; bueno Helen es muy buena con migo; ella me á llebado al Doctor; y tambien aversí areģlamos el seguro socíal; aquí biene una bes al mes; quíen sabe quedaron de escribir; bueno y dime como an seguido el Bill, con su enfer-meda; yo parese que estoy muy bien no te tardes mucho en escríbirme porque yo tengo pena de ti;</p>
+
+<pb facs="shan_l.242.jpg"/>
+
+<p>3.</p>
+
+<p>muchos recuerdos para ti y el Bill y los niños; de jessee y familia; y Max y de mí tu mamá que te deseo, que estes bien vivan agusto, en tu casa, y con tu esposo. aqui cada rato se miran pleitos con los maridos les pegan; y ay ando yo metiendo paz; que feo, que triste; y luego me acuerdo, de Uds; tu nunca me dises nada; ojala y esten bien; es lo que siempre le pido á Dios que ayude tanto á ti [inserted above line] con tu esposo, y hijos;</p>
+
+<closer> 
+<salute>tu mamá</salute>    
+               
+<signed>jesusita B. Torres</signed>
+</closer>
+                
+</div1>
+</body>
+        
+<back></back>
+</text>
+</TEI>

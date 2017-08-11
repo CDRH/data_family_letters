@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/vra/vra4.0.42-tei/vra-tei-strict.xsd"?>
+
+<vra xmlns="http://www.vraweb.org/vracore4.htm"     xmlns:tei="http://www.tei-c.org/ns/1.0">
+    <work id="shan_P052.meta">
+        <agentSet>    
+            <display></display>
+            <agent>
+                <name></name>
+                <role></role>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <display></display>
+            <date/>
+        </dateSet>
+        <descriptionSet>
+            <description source="Jane Shanahan"><tei:p>Photo of the Schubert family</tei:p></description>
+        </descriptionSet>
+        <inscriptionSet>
+            <inscription> 
+                <text source="back" xml:lang="en">From left John R + Gwendoly Schubert, Helen + Baby Dale Pearcy, man?</text>
+            </inscription>
+        </inscriptionSet>
+        <locationSet>
+            <location></location>
+        </locationSet>
+        <materialSet>
+            <display>grayscale photograph</display>
+            <material></material>
+        </materialSet>
+        <measurementsSet>
+            <display></display>
+            <notes/>
+            <measurements type="width" unit="in"/>
+            <measurements type="height" unit="in"/>
+        </measurementsSet>
+        <relationSet>
+            <relation/>
+        </relationSet>
+        <rightsSet>
+            <rights>
+                <rightsHolder>Photographic Collection: An analysis of the Personal Correspondence of a Mexican American Family in Western Colorado and Eastern Nebraska in the First Half of the 20th Century</rightsHolder>
+                <text/>
+            </rights>
+        </rightsSet>
+        <sourceSet>
+            <display/>
+            <source>
+                <name>Shanahan Collection</name>
+            </source>
+        </sourceSet>
+        <subjectSet>
+            <subject>
+                <term refid="jrs001">Schubert, John R.</term>
+            </subject>
+            <subject>
+                <term refid="gs001">Schubert, Gwendoly</term>
+            </subject>
+            <subject>
+                <term refid="hp001">Pearcy, Helen</term>
+            </subject>
+            <subject>
+                <term refid="rds001">Schubert, Baby Roger Dale</term>
+            </subject>
+            <subject>
+                <term refid="jjs001">Schubert, John Jack</term>
+            </subject>
+        </subjectSet>
+        <techniqueSet>
+            <technique/>
+        </techniqueSet>
+        <titleSet>
+            <title xml:lang="en">Schubert Family</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype>grayscale photograph</worktype>
+        </worktypeSet>
+        <image id="shan_p.105">
+            <agentSet>
+                <agent>
+                    <name type="personal"/>
+                    <role>creator of master digital image</role>
+                </agent>
+            </agentSet>
+            <dateSet>
+                <date/>
+            </dateSet>
+            <descriptionSet>
+                <description source="Jane Shanahan"><tei:p>Shanahan Collection</tei:p></description>
+            </descriptionSet>
+            <relationSet>
+                <relation/> 
+            </relationSet>
+            <rightsSet>
+                <rights>
+                    <rightsHolder>Photographic Collection: An analysis of the Personal Correspondence of a Mexican American Family in Western Colorado and Eastern Nebraska in the First Half of the 20th Century</rightsHolder>
+                </rights>
+            </rightsSet>
+            <worktypeSet>
+                <worktype>digital image</worktype>
+            </worktypeSet>
+        </image>
+    </work>
+</vra>
+
+
+
+
+

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/vra/vra4.0.42-tei/vra-tei-strict.xsd"?>
+
+<vra xmlns="http://www.vraweb.org/vracore4.htm"     xmlns:tei="http://www.tei-c.org/ns/1.0">
+    <work id="shan_P111.meta">
+        <agentSet>   
+            <display></display>
+            <agent>
+                <name></name>
+                <role></role>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <display></display>
+            <date/>
+        </dateSet>
+        <descriptionSet>
+            <description source="Jane Shanahan"><tei:p>Photo of Jose Jesús Flemate</tei:p></description>
+        </descriptionSet>
+        <inscriptionSet>
+            <inscription> 
+                <text source="front" xml:lang="en">Jose-Jesus Flemate</text>
+                <text source="back" xml:lang="es">Jose de Jesus Flemate asi como lo ve aquí cumplio un año aqui le mando este retrato para mi prima Santos B. de mi hermanito.</text>
+                <text source="translation" xml:lang="en">Jose de Jesus Flemate, as you see him here, turned one. I am sending this portrait of my little brother for my cousing Santos B.</text>
+            </inscription>
+        </inscriptionSet>
+        <locationSet>
+            <location><name>Juchipila, Zac. (Mexico)</name></location>
+        </locationSet>
+        <materialSet>
+            <display>grayscale photograph</display>
+            <material></material>
+        </materialSet>
+        <measurementsSet>
+            <display></display>
+            <notes/>
+            <measurements type="width" unit="in"/>
+            <measurements type="height" unit="in"/>
+        </measurementsSet>
+        <relationSet>
+            <relation/>
+        </relationSet>
+        <rightsSet>
+            <rights>
+                <rightsHolder>Photographic Collection: An analysis of the Personal Correspondence of a Mexican American Family in Western Colorado and Eastern Nebraska in the First Half of the 20th Century</rightsHolder>
+                <text/>
+            </rights>
+        </rightsSet>
+        <sourceSet>
+            <display/>
+            <source>
+                <name>Shanahan Collection</name>
+            </source>
+        </sourceSet>
+        <subjectSet>
+            <subject>
+                <term refid="jjf001">Flemate, José de Jesús</term>
+            </subject>
+        </subjectSet>
+        <techniqueSet>
+            <technique/>
+        </techniqueSet>
+        <titleSet>
+            <title xml:lang="en">José de Jesús Flemate</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype>grayscale photograph</worktype>
+        </worktypeSet>
+        <image id="shan_p.223">
+            <agentSet>
+                <agent>
+                    <name type="personal"/>
+                    <role>creator of master digital image</role>
+                </agent>
+            </agentSet>
+            <dateSet>
+                <date/>
+            </dateSet>
+            <descriptionSet>
+                <description source="Jane Shanahan"><tei:p>Shanahan Collection</tei:p></description>
+            </descriptionSet>
+            <relationSet>
+                <relation/> 
+            </relationSet>
+            <rightsSet>
+                <rights>
+                    <rightsHolder>Photographic Collection: An analysis of the Personal Correspondence of a Mexican American Family in Western Colorado and Eastern Nebraska in the First Half of the 20th Century</rightsHolder>
+                </rights>
+            </rightsSet>
+            <worktypeSet>
+                <worktype>digital image</worktype>
+            </worktypeSet>
+        </image>
+    </work>
+</vra>

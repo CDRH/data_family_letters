@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/vra/vra4.0.42-tei/vra-tei-strict.xsd"?>
+
+<vra xmlns="http://www.vraweb.org/vracore4.htm"     xmlns:tei="http://www.tei-c.org/ns/1.0">
+    <work id="shan_P161.meta">
+        <agentSet>   
+            <display></display>
+            <agent>
+                <name></name>
+                <role></role>
+            </agent>
+        </agentSet>
+        <dateSet>
+            <display>February 21, 1957</display>
+            <date dataDate="1957-02-21"/>
+        </dateSet>
+        <descriptionSet>
+            <description source="Jane Shanahan"><tei:p>Photo of Santos Baros at the C.B.Q Railroad Yard in Denver</tei:p></description>
+        </descriptionSet>
+        <inscriptionSet>
+            <inscription>
+                <text source="back" xml:lang="es">Esta es la casa de corte de Juachipila, Estado de Zacatecas, Mex.
+                    Este es el Palacio Municipal o sea the court jaus. Recuerdo de Guadalupe Flemate Medrano. Febrero 21 de 1957</text>
+                <text source="translation" xml:lang="en">This is the court house in Juachipila, Zacatecas, Mex. This is the Municipal Palace, this is, the court house.
+                A souvenir from Guadalupe Flemate Medrano, February 21, 1957</text>
+            </inscription>
+        </inscriptionSet>
+        <locationSet>
+            <location><name>Juchipila, Zacatecas (Mex)</name></location>
+        </locationSet>
+        <materialSet>
+            <display>grayscale photograph</display>
+            <material></material>
+        </materialSet>
+        <measurementsSet>
+            <display></display>
+            <notes/>
+            <measurements type="width" unit="in"/>
+            <measurements type="height" unit="in"/>
+        </measurementsSet>
+        <relationSet>
+            <relation/>
+        </relationSet>
+        <rightsSet>
+            <rights>
+                <rightsHolder>Photographic Collection: An analysis of the Personal Correspondence of a Mexican American Family in Western Colorado and Eastern Nebraska in the First Half of the 20th Century</rightsHolder>
+                <text/>
+            </rights>
+        </rightsSet>
+        <sourceSet>
+            <display/>
+            <source>
+                <name>Shanahan Collection</name>
+            </source>
+        </sourceSet>
+        <subjectSet>
+            <subject>
+                <term refid="gf002">Flemate Medrano, Guadalupe</term>
+            </subject>
+        </subjectSet>
+        <techniqueSet>
+            <technique/>
+        </techniqueSet>
+        <titleSet>
+            <title xml:lang="en">Court House in Juchipila, Zacatecas, Mexico</title>
+        </titleSet>
+        <worktypeSet>
+            <worktype>grayscale photograph</worktype>
+        </worktypeSet>
+        <image id="shan_p.322">
+            <agentSet>
+                <agent>
+                    <name type="personal"/>
+                    <role>creator of master digital image</role>
+                </agent>
+            </agentSet>
+            <dateSet>
+                <date/>
+            </dateSet>
+            <descriptionSet>
+                <description source="Jane Shanahan"><tei:p>Shanahan Collection</tei:p></description>
+            </descriptionSet>
+            <relationSet>
+                <relation/> 
+            </relationSet>
+            <rightsSet>
+                <rights>
+                    <rightsHolder>Photographic Collection: An analysis of the Personal Correspondence of a Mexican American Family in Western Colorado and Eastern Nebraska in the First Half of the 20th Century</rightsHolder>
+                </rights>
+            </rightsSet>
+            <worktypeSet>
+                <worktype>digital image</worktype>
+            </worktypeSet>
+        </image>
+    </work>
+</vra>
+

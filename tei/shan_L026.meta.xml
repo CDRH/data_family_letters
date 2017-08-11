@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"  xml:id="shan_L026.meta">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Demetrio Flemate to Jesusita Varos, December 6, 195X</title>
+<title type="main">Carta de Demetrio Flemate a Jesusita Varos, 6 de diciembre, 195X</title>
+<author>Flemate, Demetrio</author>
+<principal xml:id="iv001">Velázquez, Isabel</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name xml:id="jda">Avelar, Janette D.</name>
+<name xml:id="iv002">Velázquez, Isabel</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2015</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Family Letters: An analysis of the Personal Correspondence of a Mexican American Family in Western Colorado and Eastern Nebraska in the First Half of the 20th Century</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Department of Modern Languages and Literatures</name>
+ <address>
+<addrLine>1111 Oldfather Hall</addrLine>
+<addrLine>660 N 12th</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+<addrLine>modlang2@unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+</address>
+<idno>shan_L026.meta</idno>
+<availability>
+<p>COPYRIGHT STATEMENT TO GO HERE</p>
+</availability>
+</publicationStmt>
+            
+<notesStmt><note></note></notesStmt>
+            
+<sourceDesc>
+<bibl>
+<author>Demetrio Flemate</author>
+<title level="m" type="main">Letter from Demetrio Flemate to Jesusita Varos</title>
+<date when="1959-12-06" cert="high">December 06, 195X</date>
+<extent>1 page</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Shanahan Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p>1 hand-written page</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support></support>
+<extent>1 page
+<dimensions unit="mm"><height></height><width></width></dimensions>
+</extent>
+<condition>
+<p></p></condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="h01" scribe="df001" medium="pen"><p>Media: blue ink</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote><p></p></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin></origin>
+<provenance></provenance>
+<acquisition></acquisition>
+</history>
+</msDesc>
+                
+</sourceDesc>
+</fileDesc>
+        
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term></term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+<particDesc>
+<person role="sender" xml:id="df001">
+<persName>Demetrio Flemate</persName>
+</person>
+<person role="recipient" xml:id="jbt001">
+<persName>Jesusita Varos</persName>
+</person>
+</particDesc>
+</profileDesc>
+        
+<revisionDesc>
+<change when="2015" who="#jda">Initial Encoding</change>
+<change when="2014" who="#iv002">Transcription</change>
+            
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>
+            
+<div1 type="letter">
+                
+<pb facs="shan_l.178.jpg"/>
+                  
+<opener>
+<dateline>diciembre 6 de mi 195<unclear reason="illegible">9</unclear></dateline>
+
+<address><addrLine>Señora gesus varos</addrLine></address>
+
+<salute>Mimullestimada mamasita de toto mimallor apresio y cariño lapresente mesirve para saludar;a desiando se y n cunetren bien como son mis deseos ce la ce de acise des pide mosdega bien grasias adios</salute>
+</opener>
+                
+<p>Des pues de saludarla conel cariño de siempre pues mama me dises ce cieres ce te alludemos asa car la cta de nasimiento una es ce no sabemos ce año nasio otra es qe aqui se llama <unclear reason="illegible">jeliboria</unclear> flemate y enestados unidos se llama gesus ta varos en fin aqi con dinero se arregla En Guchipila en Galpa no nos conocen pero digame ce año masio ce mes y qenfueron sus padrinos aversi a cien Guchipila lapo demos sacar digame en ce nomvrelivoria flemate gesusita varos llo creo ce en nombre de gesusita varos estadifisil mire mama va ades conocer la letra por ce me la y sieron por ce llo estoy mull des velado</p>
+                    
+<closer><salute>Será todo porestav es resiva saludes de toda lafamilia y de</salute>
+
+<signed>Su ygo</signed>
+</closer>
+                
+</div1>
+</body>
+        
+<back></back>
+</text>
+</TEI>
