@@ -1,10 +1,11 @@
 default:
-  shortname: example
-  collection_desc: Example Data Repository
-  es_type: example
+  shortname: family_letters
+  collection_desc: Family Letters
+  es_type: family_letters
+  uri_html: http://localhost:3001/html/
 
   variables_html:
-    fig_location: some/path
+    fig_location: http://localhost:3001/images/
     figures: true
     fw: true
     pb: true
