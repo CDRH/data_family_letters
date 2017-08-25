@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"  xml:id="shan_L054.meta">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Maximino Torres to Victoria Aviña, October 28, 1952</title>
+<title type="main">Carta de Maximino Torres a Victoria Aviña, 28 de octubre, 1952</title>
+<author>Torres, Maximino</author>
+<principal xml:id="iv001">Velázquez, Isabel</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name xml:id="af">Faxas, Adoni A.</name>
+<name xml:id="km">Mendell, Kate</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Family Letters: An analysis of the Personal Correspondence of a Mexican American Family in Western Colorado and Eastern Nebraska in the First Half of the 20th Century</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Department of Modern Languages and Literatures</name>
+ <address>
+<addrLine>1111 Oldfather Hall</addrLine>
+<addrLine>660 N 12th</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+<addrLine>modlang2@unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+</address>
+<idno>shan_L054.meta</idno>
+<availability>
+<p>COPYRIGHT STATEMENT TO GO HERE</p>
+</availability>
+</publicationStmt>
+            
+<notesStmt><note></note></notesStmt>
+            
+<sourceDesc>
+<bibl>
+<author>Maximino Torres</author>
+<title level="m" type="main">Letter from Maximino Torres to Victoria Aviña</title>
+<date when="1952-10-28">October 28, 1952</date>
+<extent>envelope</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Shanahan Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p>envelope</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support></support>
+<extent>envelope
+<dimensions unit="mm"><height></height><width></width></dimensions>
+</extent>
+<condition>
+<p></p></condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="h01" scribe="vat001" medium="pen"><p>Media: black ink</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote><p></p></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin></origin>
+<provenance></provenance>
+<acquisition></acquisition>
+</history>
+</msDesc>
+                
+</sourceDesc>
+</fileDesc>
+        
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term></term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+<particDesc>
+<person role="sender" xml:id="vat001">
+<persName>Victoria Aviña</persName>
+</person>
+<person role="recipient" xml:id="mt001">
+<persName>Maximino Torres</persName>
+</person>
+</particDesc>
+</profileDesc>
+        
+<revisionDesc>
+<change when="2017" who="#af">Initial Encoding</change>
+<change when="2014" who="#km">Transcription</change>
+            
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>
+            
+<div1 type="envelope">
+
+<pb facs="shan_l.021.jpg"/>
+
+<ab type="return">
+<address>
+<addrLine>SI NO ES ENTREGADA EN 10</addrLine>
+<addrLine>DIAS DEVUELVASE A</addrLine>
+<addrLine>Victoria Aviña</addrLine>
+<addrLine>CHURINTZIO, MICH, MEX</addrLine>
+</address>
+</ab>
+
+<ab type="address">
+<address>
+<addrLine>Sr. Maximino Torres</addrLine>
+<addrLine>P.O Box 681</addrLine>
+<addrLine>fort Lupton Colo.</addrLine>
+<addrLine>E.U.A.</addrLine>
+</address>
+</ab>
+
+<ab type="postmark">
+alíon<lb/>
+MICH.<lb/>
+</ab>
+
+<pb facs="shan_l.022.jpg"/>
+
+<ab type="postmark">
+LA PIEDAD<lb/>
+28OCT52 13<lb/>
+MICH.<lb/>
+</ab>
+
+</div1>
+</body>
+        
+<back></back>
+</text>
+</TEI>

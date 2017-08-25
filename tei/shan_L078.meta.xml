@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0"  xml:id="shan_L078.meta">
 <teiHeader>
@@ -145,14 +145,14 @@
 <pb facs="shan_l.240.jpg"/>
                 
 <opener>
-<note>1</note>
-<dateline>ft. Lupton Colo</dateline>
-<add>4, Febrero, 1957.</add>
+<fw>1</fw>
+<address><addrLine>ft. Lupton Colo</addrLine></address>
+<dateline>4, Febrero, 1957.</dateline>
 
-<address><addrLine>Querida hija,</addrLine></address>
-
-<salute>la precente es para saludarlos á todos tanto á ti, como al Bill, á los niños;</salute>
+<salute>Querida hija,</salute>
 </opener>
+
+<p>la precente es para saludarlos á todos tanto á ti, como al Bill, á los niños;</p>
                 
 <p>ya ase dias que reciví esta; yo estaba con pena de Uds; y te escriví y ese dia que fui á echar la <del>cata</del> carta; ese mismo dia aye esta; onde benía los retratos de los niños muchas gracias sabieron muy bien yo quisiera tener un retrato de todos de tí, el Bill; y los niños;</p>
 
@@ -163,7 +163,7 @@
 <p>y tiene muchas ganas de berme;</p>
 
 <pb facs="shan_l.241.jpg"/>
-<p>2</p>
+<fw>2</fw>
 
 <p>ojala y biniera algún día; yo le agredesco mucho; yo ya tan vieja; y sin poder ablar el ingles, pienso que asta se afrentaran, que diran; esta viejá; tonta ní save ablar, nada;</p>
 
@@ -171,9 +171,9 @@
 
 <pb facs="shan_l.242.jpg"/>
 
-<p>3.</p>
+<fw>3.</fw>
 
-<p>muchos recuerdos para ti y el Bill y los niños; de jessee y familia; y Max y de mí tu mamá que te deseo, que estes bien vivan agusto, en tu casa, y con tu esposo. aqui cada rato se miran pleitos con los maridos les pegan; y ay ando yo metiendo paz; que feo, que triste; y luego me acuerdo, de Uds; tu nunca me dises nada; ojala y esten bien; es lo que siempre le pido á Dios que ayude tanto á ti [inserted above line] con tu esposo, y hijos;</p>
+<p>muchos recuerdos para ti y el Bill y los niños; de jessee y familia; y Max y de mí tu mamá que te deseo, que estes bien vivan agusto, en tu casa, y con tu esposo. aqui cada rato se miran pleitos con los maridos les pegan; y ay ando yo metiendo paz; que feo, que triste; y luego me acuerdo, de Uds; tu nunca me dises nada; ojala y esten bien; es lo que siempre le pido á Dios que ayude tanto <add>á ti</add> con tu esposo, y hijos;</p>
 
 <closer> 
 <salute>tu mamá</salute>    

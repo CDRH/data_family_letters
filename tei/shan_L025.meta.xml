@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0"  xml:id="shan_L025.meta">
 <teiHeader>
@@ -51,7 +51,7 @@
 <author>Nemecio J. Samaniego</author>
 <title level="m" type="main">Letter from Nemecio J. Samaniego to Jesusita Torres</title>
 <date when="1953-02-22">February 22, 1953</date>
-<extent>1 page</extent>
+<extent>1 page and envelope</extent>
 </bibl>
 <msDesc>
 <msIdentifier>
@@ -59,25 +59,24 @@
 <idno></idno>
 </msIdentifier>
 <msContents>
-<p>1 typed page</p>
+<p>1 typed page and envelope</p>
 </msContents>
 <physDesc>
 <objectDesc>
 <supportDesc>
 <support></support>
-<extent>1 page
+<extent>1 page and envelope
 <dimensions unit="mm"><height></height><width></width></dimensions>
 </extent>
 <condition>
 <p></p></condition>
 </supportDesc>
 </objectDesc>
-<handDesc hands="2">
-<handNote xml:id="h01" scribe="tw001" medium="typewriter"><p>Media: black ink</p></handNote>
-<handNote xml:id="h02" scribe="js001" medium="pen"><p>Media:black ink</p></handNote>
+<handDesc hands="1">
+<handNote xml:id="h01" scribe="js001" medium="pen"><p>Media:black ink</p></handNote>
 </handDesc>
 <typeDesc>
-<typeNote><p></p></typeNote>
+<typeNote><p>Media:black ink</p></typeNote>
 </typeDesc>
 </physDesc>
 <history><origin></origin>
@@ -146,19 +145,18 @@
 <pb facs="shan_l.170.jpg"/>
 
 <opener>
-<dateline>Nemecio Samaniego</dateline>
-<add>C/o Sr. Mauro Quezada.</add>
-<add>Juchipila, Zac;</add>
-<add>febrero 22 de 1953</add>
+<address><addrLine>Nemecio Samaniego</addrLine></address>
+<address><addrLine>C/o Sr. Mauro Quezada.</addrLine></address>
+<address><addrLine>Juchipila, Zac;</addrLine></address><dateline>febrero 22 de 1953</dateline>
 
-<add>Sra. Jesusita Baros.</add>
-<add>P.O. Box 681.</add>
-<add>F-t-Juptón Colo.</add>
+<address><addrLine>Sra. Jesusita Baros.</addrLine></address>
+<address><addrLine>P.O. Box 681.</addrLine></address>
+<address><addrLine>F-t-Juptón Colo.</addrLine></address>
 
-<address><addrLine>Muy apreciable madre:</addrLine></address>
-
-<salute>Esperando que al recibo de esta sea encontrada con buena salud, así como yo lo estoy en compañía de mi familia gracias a Dios,</salute>
+<salute>Muy apreciable madre:</salute>
 </opener>
+
+<p>Esperando que al recibo de esta sea encontrada con buena salud, así como yo lo estoy en compañía de mi familia gracias a Dios,</p>
                 
 <p>en seguida vengo a manifestarle: que es muy urgente que usted otorgue en mi favor carta poder, esto lo puede hacer en Ciudad Jauarez, Chi. O en cualesquier frontera, esto de la carta poder no es para quedarme yo con lo que a usted le corresponda en los bienes de mi tía Guadalupe, es nada mas para representarla en el juicio, me dicen personas muy bien preparadas en estos negocios que si usted deja esto a la desidía deja lugar a que llega día que pierden  su derecho hereditario, mi tio ya anda queriendo vender la propiedad rústica o sean las 4 yuntas que hay en el potrero de Los Vega, y como no hay quien le pare el alto para el que mejor., quisiera ir con el aliento y platicar con usted mas extensamente, pero me es muy difícil, o bien usted me diga si es de que viene a una de las fronteras, yo hago lo posible a ir, nomas restaría el que me indicara día y fecha para estar listo a platicar con usted.</p>
 
@@ -169,6 +167,38 @@
 <signed>Nemecio J. Samaniego</signed>
 </closer>
                 
+</div1>
+
+<div1 type="envelope">
+
+<pb facs="shan_l.168.jpg"/>
+
+<ab type="return">
+<address>
+<addrLine>Nemecio Samaniego</addrLine>
+<addrLine>C/o. Sr. Mauro Quezada</addrLine>
+<addrLine>Juchipila, Zac.</addrLine>
+</address>
+</ab>
+
+<ab type="address">
+<address>
+<addrLine>Sra. Jesusita Baros.</addrLine>
+<addrLine>P.O. Box #681.</addrLine>
+<addrLine>F T- Lupton, Colo.</addrLine>
+</address>
+</ab>
+
+<ab type="postmark">
+JUCHIPILA<lb/>
+23.FEB.53<unclear reason="illegible"/><lb/>
+ZAC<lb/>
+</ab>
+
+<figure type="stamp">
+<p></p>
+</figure>
+
 </div1>
 </body>
         

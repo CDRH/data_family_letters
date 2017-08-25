@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0"  xml:id="shan_L034.meta">
 <teiHeader>
@@ -51,7 +51,7 @@
 <author>Felipita N. Baca</author>
 <title level="m" type="main">Letter from Felipita N. Baca to Jesusita Barros</title>
 <date when="1939-02-23">February 23, 1939</date>
-<extent>2 pages</extent>
+<extent>2 pages and envelope</extent>
 </bibl>
 <msDesc>
 <msIdentifier>
@@ -59,13 +59,13 @@
 <idno></idno>
 </msIdentifier>
 <msContents>
-<p>2 hand-written pages</p>
+<p>2 hand-written pages and envelope</p>
 </msContents>
 <physDesc>
 <objectDesc>
 <supportDesc>
 <support></support>
-<extent>2 pages
+<extent>2 pages and envelope
 <dimensions unit="mm"><height></height><width></width></dimensions>
 </extent>
 <condition>
@@ -178,6 +178,41 @@ la contesta.</p>
 <signed>Felipita N. Baca.</signed>
 </closer>
                 
+</div1>
+
+<div1 type="envelope">
+
+<pb facs="shan_l.108.jpg"/>
+
+<ab type="return">
+<address>
+<addrLine>AFTER 5 DAYS RETURN TO</addrLine> 
+<addrLine>Mrs. Eduard Baca</addrLine>
+<addrLine>1006 ½ n. arno st.</addrLine>
+<addrLine>ALBUQUERQUE, NEW MEXICO</addrLine>
+</address>
+</ab>
+
+<ab type="address">
+<address>
+<addrLine>Mrs. Jesusita Barros</addrLine>
+<addrLine>o/o Bill Kennedy</addrLine>
+<addrLine>Rout 3</addrLine>
+<addrLine>Longmont Colorado.</addrLine>
+</address>
+</ab>
+
+<ab type="postmark">
+ALBUQUERQUE N. MEX.<lb/>
+FEB 23<lb/>
+330 PM<lb/>
+1939<lb/>
+</ab>
+
+<figure type="stamp">
+<p></p>
+</figure>
+
 </div1>
 </body>
         

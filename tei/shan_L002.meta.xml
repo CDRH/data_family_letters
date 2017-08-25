@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0"  xml:id="shan_L002.meta.xml">
 <teiHeader>
@@ -50,7 +50,7 @@
 <bibl>
 <author>Torrez, Maximino</author>
 <title level="m" type="main">Letter from Maximino Torrez to Reynaldo Hurtado</title>
-<date when="1923-02-05">Month xx, 19xx</date>
+<date when="1923-02-05">February 05, 1923</date>
 <extent>5 pages</extent>
 </bibl>
 <msDesc>
@@ -132,7 +132,7 @@
         
 <revisionDesc>
 <change when="2015" who="#jda">Initial Encoding</change>
-<change when="2013" who="#iv">Transcription</change>
+<change when="2013" who="#iv002">Transcription</change>
             
 </revisionDesc>
 </teiHeader>
@@ -145,7 +145,8 @@
 <pb facs="shan_l.009.jpg"/>
 
 <opener>
-<dateline>Rock Springs, Wyo. Borego Febrero 5 de 1923</dateline>
+<address><addrLine>Rock Springs, Wyo. Borego</addrLine></address>
+<dateline>Feb. 5 de 1923</dateline>
 <address><addrLine>Sr. Reynaldo Hurtado</addrLine></address>
 <salute>Respectable tio;</salute>
 </opener>
@@ -156,31 +157,32 @@
 
 <pb facs="shan_l.011.jpg"/>
             
-<p>2</p>
+<fw>2</fw>
             
 <p>yo me bi hobligado asalir de Idaho y cayi con suerte que luego hotro dia enpese atrabajar yo no se si Ud. me abra escrito algunas cartas asta hoy le escrebi a Frank para que me remita alguna a este lugar. Y agame fabor de mandarme el numero de la yompa y de los pantalones yo se su no. pero no se si sean para Ud. ho para los de casa El Corazon semeparte para ayudarlo y lo ayudare como pida aunque sea lo que pueda sierto ayer recebi pago y almismo tiempo nada medieron en dinero porque la <unclear reason="illegible">probieron</unclear> y algo que me presto en dinero el Mayordomo asi que para el hotro pago yo pienzo</p>
 
 <pb facs="shan_l.012.jpg"/>
     
-<p>3</p>
+<fw>3</fw>
 
-<p>mandarle los pantalones y la yompa en dinero aber que tanto alcanzo a mandarle aunque sea poco. digame si pienza traerse a la familia y si mama tambien piensa benirse fabor de mandarme desir yo con mucho gusto ubiera aceptado <unclear reason="illegible">a</unclear> subuen deseo de ayudarlo des de luego que yego a Mexico pero no he podido andube algunos dias nomas trampiando y Dios quiso colocarme aora ya estoy poco serca de mi tio lo fui aber de algun modo bamos ayudarlo digame cuando piensa salir de haya aunque ya en su anterior me ynformo que para este Mes pero siempre deceo saber aora si Mama piensa yrse me mande</p>
+<p>mandarle los pantalones y la yompa en dinero aber que tanto alcanzo a mandarle aunque sea poco. digame si pienza traerse a la familia y si mama tambien piensa benirse fabor de mandarme desir yo con mucho gusto ubiera aceptado a subuen deseo de ayudarlo des de luego que yego a Mexico pero no he podido andube algunos dias nomas trampiando y Dios quiso colocarme aora ya estoy poco serca de mi tio lo fui aber de algun modo bamos ayudarlo digame cuando piensa salir de haya aunque ya en su anterior me ynformo que para este Mes pero siempre deceo saber aora si Mama piensa yrse me mande</p>
 
 <pb facs="shan_l.013.jpg"/>
 
-<p>4</p>
+<fw>4</fw>
 
 <p>desir para asimismo aser lo posible amandarle tambien para heya y digame si sabe de Teodosio fabor de escrebirle y desirle que yo quiero sebenga paraca. Yo se que en el berano ban atraer jente del pazo para el betabel y llo boy ainformar si es sierto para mandarle desir como si tiene muy proxima su salida pronto espero su resolucion y resiba mil recuerdos de mi tio  y de su familia tienen mucho gusto de que sefue aber a su Mama y familia y que mi tia le escribio a su
             
 <pb facs="shan_l.014.jpg"/>
 
 Mama en disiembre y que no le contest Trenidad les escribe aeyos de Arizona.</p>
+
 <p>A Mama no le escribo derectamente porque estoy esperando su contestacion. Y digame si yego a qui la señora ho no. y a Mama me hase fabor de desirle que no tenga pena yo boy aserlo posible amandarle algo. Y resiba de su sobrino el mas cresido afecto quien asus ordenes en lo poco que pueda</p>
 
 <closer>
-<signed>Su affmo. atto.
-S.S.
-Maximino Torrez</signed></closer>
+<salute>Su affmo. atto.</salute>
+<signed>S.S.<lb/>
+Maximino Torrez<lb/></signed></closer>
 
 </div1>
 </body>

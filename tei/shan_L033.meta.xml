@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0"  xml:id="shan_L033.meta">
 <teiHeader>
@@ -51,7 +51,7 @@
 <author>Mrs. Baca</author>
 <title level="m" type="main">Letter from Mrs. Baca to Jesusita Barros</title>
 <date when="1939-03-17">March 17, 1939</date>
-<extent>2 pages</extent>
+<extent>2 pages and envelope</extent>
 </bibl>
 <msDesc>
 <msIdentifier>
@@ -59,20 +59,20 @@
 <idno></idno>
 </msIdentifier>
 <msContents>
-<p>2 hand-written pages</p>
+<p>2 hand-written pages and envelope</p>
 </msContents>
 <physDesc>
 <objectDesc>
 <supportDesc>
 <support></support>
-<extent>2 pages
+<extent>2 pages and envelope
 <dimensions unit="mm"><height></height><width></width></dimensions>
 </extent>
 <condition>
 <p></p></condition>
 </supportDesc>
 </objectDesc>
-<handDesc hands="x">
+<handDesc hands="1">
 <handNote xml:id="h01" scribe="fnb001" medium="pencil"><p>Media: lead/graphite</p></handNote>
 </handDesc>
 <typeDesc>
@@ -145,13 +145,13 @@
 <pb facs="shan_l.114.jpg"/>
                    
 <opener>
-<dateline>Albuquerqu n. mej.</dateline>
-<add>March 19, 1939</add>
+<address><addrLine>Albuquerqu n. mej.</addrLine></address>
+<dateline>March 19, 1939</dateline>
 
-<address><addrLine>Mrs. Jesusita Barros</addrLine></address>
-
-                
-<salute>Estimada comadre espero que esta carta los allen buenos. Nosotros estamos buenos Gracias a Dios.</salute></opener>
+<salute>Mrs. Jesusita Barros</salute>
+</opener>
+         
+<p>Estimada comadre espero que esta carta los allen buenos. Nosotros estamos buenos Gracias a Dios.</p>
 
 <p>Recibí su carta la semana pasada pero sabe que aquí ubo fiestas de Will Roges y de el Highway 66. Por 3 dias ubo mucha jente de otros lugares estubo tan bonito el parade que en estas salidas se atrasa uno mucho de su negocio de la casa por andar uno pasiandose andavan vestidos de cowboys y de estilos de antes.</p>
 
@@ -170,6 +170,41 @@
 <signed>Felipita N. Baca</signed>
 </closer>
                 
+</div1>
+
+<div1 type="envelope">
+
+<pb facs="shan_l.112.jpg"/>
+
+<ab type="return">
+<address>
+<addrLine>AFTER 5 DAYS RETURN TO</addrLine>
+<addrLine>Mrs. Baca</addrLine>
+<addrLine>1006 ½ n. arno st.</addrLine>
+<addrLine>ALBUQUERQUE, NEW MEXICO</addrLine>
+</address>
+</ab>
+
+<ab type="address">
+<address>
+<addrLine>Mrs. Jesusita Barros</addrLine>
+<addrLine>o/o Bill Kennedy</addrLine>
+<addrLine>Rout 3</addrLine>
+<addrLine>Longmont Colorado.</addrLine>
+</address>
+</ab>
+
+<ab type="postmark">
+ALBUQUERQUE N. MEX.<lb/>
+MAR 18<lb/>
+1230 PM<lb/>
+1939<lb/>
+</ab>
+
+<figure type="stamp">
+<p></p>
+</figure>
+
 </div1>
 </body>
         

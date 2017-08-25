@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0"  xml:id="shan_L032.meta">
 <teiHeader>
@@ -51,7 +51,7 @@
 <author>Felipita N. Baca</author>
 <title level="m" type="main">Letter from Felipita N. Baca to Jesusita Baros</title>
 <date when="1939-01-21">January 21, 1939</date>
-<extent>2 pages</extent>
+<extent>2 pages and envelope</extent>
 </bibl>
 <msDesc>
 <msIdentifier>
@@ -59,13 +59,13 @@
 <idno></idno>
 </msIdentifier>
 <msContents>
-<p>2 hand-written pages</p>
+<p>2 hand-written pages and envelope</p>
 </msContents>
 <physDesc>
 <objectDesc>
 <supportDesc>
 <support></support>
-<extent>2 pages
+<extent>2 pages and envelope
 <dimensions unit="mm"><height></height><width></width></dimensions>
 </extent>
 <condition>
@@ -146,13 +146,12 @@
                    
 <opener>
 
-<dateline>Albuquerque N. Mex.</dateline>
-<add>Jan 21, 1939</add>
-
-<address><addrLine>Mrs. Jesusita Baros</addrLine></address>
+<address><addrLine>Albuquerque N. Mex.</addrLine></address>
+<dateline>Jan 21, 1939</dateline>
+<salute>Mrs. Jesusita Baros</salute>
 </opener>
                 
-<salute>Mi muy estimada comadre espero que esta carta los allen buenos Nosotros estamos buenos Gracias a Dios.</salute> 
+<p>Mi muy estimada comadre espero que esta carta los allen buenos Nosotros estamos buenos Gracias a Dios.</p> 
 
 <p>Después de saludarla comadre le dire que isimos su en cargo de ir a la casa de conte a preguntar por su tax si estava pagado.</p>
                     
@@ -169,12 +168,37 @@
 <closer><salute>Con esto siero mi carta esperando su contesta Para aserle su favor. sin mas si comadre que le desella felecidades.</salute>
                 
 <signed>Mrs. Felipita N. Baca</signed>
-<add>1006 1/2 n. arno st.</add>
-<add>Albuquer n. mx.</add>
-
+<address><addrLine>1006 1/2 n. arno st.</addrLine></address>
+<address><addrLine>Albuquer n. mx.</addrLine></address>
 </closer>
+            
+</div1>
 
-                
+<div1 type="envelope">
+
+<pb facs="shan_l.102.jpg"/>
+
+<ab type="address">
+<address>
+<addrLine>Mrs Jesusita Baros</addrLine>
+<addrLine>c/o Bil Kennedy</addrLine>
+<addrLine>Rout 3</addrLine>
+<addrLine>Longmont Colorado.</addrLine>
+</address>
+</ab>
+
+<ab type="postmark">
+ALBUQUERQUE<lb/>
+JAN 21<lb/>
+330 PM<lb/>
+1939<lb/>
+N MEX<lb/>
+</ab>
+
+<figure type="stamp">
+<p></p>
+</figure>
+
 </div1>
 </body>
         

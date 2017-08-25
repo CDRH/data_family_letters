@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0"  xml:id="shan_L014.meta">
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from Jesús Samaniego to Jesusita Baros, March 18, 1926</title>
-<title type="main">Carta de Jesús Samaniego a Jesusita Baros, 18 de marzo, 1926</title>
+<title type="main">Letter from Jesús Samaniego to Jesusita Baros, December 02, 1934</title>
+<title type="main">Carta de Jesús Samaniego a Jesusita Baros, 02 de diciembre, 1934</title>
 <author>Samaniego, Jesús</author>
 <principal xml:id="iv001">Velázquez, Isabel</principal>
 <respStmt>
@@ -48,10 +48,10 @@
             
 <sourceDesc>
 <bibl>
-<author>Jesús Samaniego</author>
+<author>Samaniego, Jesús</author>
 <title level="m" type="main">Letter from Jesús Samaniego to Jesusita Baros</title>
 <date when="1926-03-18">March 18, 1926</date>
-<extent>2 pages</extent>
+<extent>2 pages and envelope</extent>
 </bibl>
 <msDesc>
 <msIdentifier>
@@ -59,13 +59,13 @@
 <idno></idno>
 </msIdentifier>
 <msContents>
-<p>2 hand-written pages</p>
+<p>2 hand-written pages and envelope</p>
 </msContents>
 <physDesc>
 <objectDesc>
 <supportDesc>
 <support></support>
-<extent>2 pages
+<extent>2 pages and envelope
 <dimensions unit="mm"><height></height><width></width></dimensions>
 </extent>
 <condition>
@@ -147,25 +147,69 @@
 <opener>
 <address><addrLine>juchipila za.</addrLine></address>
 <dateline>Disiembre 2 de 1934</dateline>
+<salute>Sr eliboria Flemate</salute>
+</opener>
 
-<salute>Sr eliboria Flemate mimui atenta y cariñosa madre la presente me sirve para saludarlos desiando sen cuentren bien que la que de mi se despide desta fecha me deja sin nobedad gracias a dios</salute></opener> 
+<p>mimui atenta y cariñosa madre la presente me sirve para saludarlos desiando sen cuentren bien que la que de mi se despide desta fecha me deja sin nobedad gracias a dios</p> 
 
 <p>pues mama despues de saludarlos con el cariño de siempre le digo lo sigente mama con bastante pena meda porque me tarde mucho en contestarle dira que es por falta de boluntad pero no mama no es pore so la berdad es esta enprimer lugar andaballo piscando mis mo <unclear reason="illegible">loncos</unclear> y un dia qüisas andaba llo eritado del <unclear reason="illegible">trajo</unclear> y me quite la canasta me pego un dolorsito enla espalda que dure 15 diasen fermo pero lla parese que etoi mejor pues mama de lo que de lo que llo le abia endicado de mi salida y enseguida ud me dise que espereami tio dimetrio llo able connel y me di se a si que el tiene miedo pero si de re pente sele siera la puerta que entonses ase camino
 
 <pb facs="shan_l.055.jpg"/>
 pues mama llo una bes a siendo y obedesiendo lo que ud medise mama lo boï aes perar de aqüi a bril si de aqüi aentonses el no se muebe llo fasil es que llo balla sienpre qüiero de sirle que llo di a qüi elp aso como qüiera de a lli para delante ud sabra al cabo llo boi a salir llo solo a mi es posa la boi a dejar com sus padres yes cuanto por a o ra</p>
                 
-                
-<closer>Saludes para chui y Santos re siba saludes de mi esposa y de mi resibalos mas finos recuerdos de suijo que les desea felesidades</closer>
-
+<closer>
+<salute>Saludes para chui y Santos re siba saludes de mi esposa y de mi resibalos mas finos recuerdos de suijo que les desea felesidades</salute>
 <signed>J. Jesus Samaniego</signed>
+</closer>
 
 <postscript>
-<p>esta es midireision</p>
-<p>calle rosales numero 63</p>
+<p>esta es midireision<lb/>
+calle rosales numero 63</p>
 </postscript>
 
-                
+</div1>
+
+<div1 type="envelope">
+
+<pb facs="shan_l.052.jpg"/>
+
+<ab type="return">
+<address>
+<addrLine>After 10 days Return to</addrLine>
+<addrLine>Jesus Samaniego</addrLine>
+<addrLine>Calle Rosales 63</addrLine>
+<addrLine>Juchipila Zacatecas</addrLine>
+<addrLine>mexico</addrLine>
+</address>
+</ab>
+
+<ab type="address">
+<address>
+<addrLine>Mrs. Jesusita Baros</addrLine>
+<addrLine>in care of Bill Remedy</addrLine>
+<addrLine>Route 3 Longmont Colorado</addrLine>
+<addrLine>U.S.</addrLine>
+</address>
+</ab>
+
+<ab type="postmark">
+<unclear reason="illegible">JUC</unclear><lb/>
+2DIC<unclear reason="illegible"/><lb/>
+ZAC<lb/>
+</ab>
+
+<figure type="stamp">
+<p></p>
+</figure>
+
+<pb facs="shan_l.053.jpg"/>
+
+<ab type="postmark">
+AGUASCALIENTES<lb/>
+-5 DIC.33. 2:45<lb/>
+<unclear reason="illegible"/><lb/>
+</ab>
+
 </div1>
 </body>
         

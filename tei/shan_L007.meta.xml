@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0"  xml:id="shan_L007.meta">
 <teiHeader>
@@ -7,7 +7,7 @@
 <titleStmt>
 <title type="main">Letter from Clemente Torrez to Maximino Torrez, May 28, 1927</title>
 <title type="main">Carta de Clemente Torrez a Maximino Torrez, 28 de mayo, 1927</title>
-<author>Clemente Torrez</author>
+<author>Torrez, Clemente</author>
 <principal xml:id="iv001">Velázquez, Isabel</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -48,7 +48,7 @@
             
 <sourceDesc>
 <bibl>
-<author>Clemente Torrez</author>
+<author>Torrez, Clemente</author>
 <title level="m" type="main">Letter from Clemente Torrez to Maximino Torrez</title>
 <date when="1927-05-28">May 28, 1927</date>
 <extent>2 pages</extent>
@@ -145,11 +145,14 @@
 <pb facs="shan_l.019"/>
 
 <opener>
-<address><addrLine>Huapamaacato, Mich;Me</addrLine></address>
+<address><addrLine>Huapamaacato, Mich;Mex.</addrLine></address>
 <dateline>Mayo 28-1927-</dateline>
 <address><addrLine>Sr. Maxsimino Torrez</addrLine></address>
-<salute>Muy querido y nunca holbidado hermano congusto y placer derijo las precentes linias para saludarte afectozamente deciando que esta tealle bien como yo lo estoy y en inion de mi tio y su familia A Dios Grasias.</salute>
+<address><addrLine>RockSprings,Wyo.</addrLine></address>
+<salute>Muy querido y nunca holbidado hermano</salute>
 </opener>
+
+<p>congusto y placer derijo las precentes linias para saludarte afectozamente deciando que esta tealle bien como yo lo estoy y en inion de mi tio y su familia A Dios Grasias.</p>
 
 <p>hermano después de saludarte cariñozamente te ago saber que enmipoder son tus gratas de fecha 29 y del mes procsimo pasado y la hotra del corriente mes y enterado de su contenido te digo que la carta quedereguiste adonde yo estaba me la trajo mi tia Lola y la trajo avierta y todas las perzonas estan rrecebidas de tus rrecuerdos que les mandastes y de Blas pues yo le dire cuando lovea y le dare tu direcsion.</p>
     
@@ -167,8 +170,8 @@
     
 <closer>
 <salute>y rrecibe saludes de mi tio y de mi tia y de Filomena y de mi tio Antonio y familia y de mi tio Crispin y familia y de tu hermano rrecibe elmas sincere afecto de quien te decea mil y mil felicidades entodo tu</salute>
-<signed>S.S.</signed>
-<signed>Clemente Torrez</signed>
+<signed>S.S.<lb/>
+Clemente Torrez<lb/></signed>
 </closer>
 
 </div1>

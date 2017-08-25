@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"  xml:id="shan_L210.meta">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Jesusita B. Torres to Santos B. Schubert, April 20, 1969</title>
+<title type="main">Carta de Jesusita B. Torres a Santos B. Schubert, 20 de abril, 1969</title>
+<author>Torres, Jesusita B.</author>
+<principal xml:id="iv001">Velázquez, Isabel</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name xml:id="af">Faxas, Adoni A.</name>
+<name xml:id="ji">Isasi, Jennifer</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Family Letters: An analysis of the Personal Correspondence of a Mexican American Family in Western Colorado and Eastern Nebraska in the First Half of the 20th Century</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Department of Modern Languages and Literatures</name>
+ <address>
+<addrLine>1111 Oldfather Hall</addrLine>
+<addrLine>660 N 12th</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+<addrLine>modlang2@unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+</address>
+<idno>shan_L212.meta</idno>
+<availability>
+<p>COPYRIGHT STATEMENT TO GO HERE</p>
+</availability>
+</publicationStmt>
+            
+<notesStmt><note></note></notesStmt>
+            
+<sourceDesc>
+<bibl>
+<author>Torres, Jesusita B.</author>
+<title level="m" type="main">Letter from Jesusita B. Torres to Santos B. Schubert</title>
+<date when="1969-04-20">April 20, 1969</date>
+<extent>3 pages and envelope</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Shanahan Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p>3 hand-written pages and envelope</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support></support>
+<extent>3 pages and envelope
+<dimensions unit="mm"><height></height><width></width></dimensions>
+</extent>
+<condition>
+<p></p></condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="h01" scribe="jbt001" medium="pen"><p>Media: blue ink</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote><p></p></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin></origin>
+<provenance></provenance>
+<acquisition></acquisition>
+</history>
+</msDesc>
+                
+</sourceDesc>
+</fileDesc>
+        
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term></term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+<particDesc>
+<person role="sender" xml:id="jbt001">
+<persName>Jesusita B. Torres</persName>
+</person>
+<person role="recipient" xml:id="sbs001">
+<persName>Santos B. Schubert</persName>
+</person>
+</particDesc>
+</profileDesc>
+        
+<revisionDesc>
+<change when="2017" who="#af">Initial Encoding</change>
+<change when="2017" who="#ji">Transcription</change>
+            
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>
+            
+<div1 type="letter">
+                
+<pb facs="shan_l.735.jpg"/>
+                
+<opener>
+<address><addrLine>ft, Lupton Colo</addrLine></address>
+<dateline>April 20, - 1969</dateline>
+
+<salute>Mi querida hija,</salute>
+</opener>
+                
+<p>la precente es para Saludate, tanto a ti como Bill, tu Espozo, y á todos los muchachos esperando que todos esten bien, pues yo estoy bien poco mala de las rumas; pero siempre le doy Gracias a Dios pues ya estoy vieja por eso pienzo me siento mal en veces;</p>
+
+<p>la Helen no trabaja, dise que se siente nerbioza, el Jerry es muy andusío, bueno pues trabaja de Lunes asta el Viernes; y el Saba<add>do</add> quíen sabe onde duerme dise que no viene en todo el dia ni en la noche hasta el amedio dia; ella dise que no se siente bien que <add>no</add> duerme estar penzando en el;</p>
+
+<p>la Kathy dise que ba á benir en el mes de Sep y el Jerry dise que para ese tiempo ba a agarar un apartam en Denver, <add>el trabaja en Denver</add> bueno puras penas tiene con el le disen que se Case y el no dise nada no ma se reí
+
+<pb facs="shan_l.736.jpg"/>
+
+Há! Ha! Ha! la Helen estubo en el Hosptal como una semana de po<add>r</add>si que <add>es</add> delgadita pues haora esta mas delgadita; Markl el si esta cresiendo ya esta muy grande muchacho, para la edad que tiene, y Uds como les á ido con el Billy Jr.</p>
+
+<p>pues mira tu no trabajes mucho tambien ya tambien te estas asiendo vieja tu como quiera tienes tus 47 años deja que el page lo que deben; al fin cuando uno puede pues esta bien; pero ya cuando el cuerpo se Cansa pues ya; asta ay nomas; Max dise que tambien se cansa mucho yo le digo, ya se te esta acabando la fuerzas no traba tu saves en el fill no mas aqui en la Casa en el jardin</p>
+
+<p>bueno hija pues yo pienso que <add>esto</add> <del>esl</del>sera todo por esta ves saludes para todos y para <add>ti</add> un fino recuerdo de todos nosotros y tambien de tu mamá escribeme cuando puedas yo me siento triste cuando Uds no me escriben;</p>
+
+<closer>
+<salute>El Señor que te Bendiga Hija;</salute>
+
+<pb facs="shan_l.737.jpg"/>
+
+<signed>Jesusita Torres
+814 Pacific Ave
+ft. Lupton Colo, 80621.</signed>
+</closer>
+
+</div1>
+
+<div1 type="envelope">
+
+<pb facs="shan_l.733.jpg"/>
+
+<ab type="return">
+<address>
+<addrLine>814 Pacific Ave</addrLine>
+<addrLine>ft Lupton Colo. 80621</addrLine>
+<addrLine>Jesusita Torres</addrLine>
+</address>
+</ab>
+
+<ab type="address">
+<address>
+<addrLine>Mrs S. Schubert</addrLine>
+<addrLine>3830 “C” Street</addrLine>
+<addrLine>Lincoln, Nebraska</addrLine>
+</address>
+</ab>
+
+<ab type="postmark">
+FORT LUPTON, CO<lb/>
+APR 21<lb/>
+PM<lb/>
+1969<lb/>
+80621<lb/>
+</ab>
+
+<figure type="stamp">
+<p></p>
+</figure>
+
+</div1>
+</body>
+        
+<back></back>
+</text>
+</TEI>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0"  xml:id="shan_L047.meta">
 <teiHeader>
@@ -51,7 +51,7 @@
 <author>Demetrio Flemate</author>
 <title level="m" type="main">Letter from Demetrio Flemate to Jesusita Torrez</title>
 <date when="1970-10-18">October 18, 1970</date>
-<extent>2 pages</extent>
+<extent>2 pages and envelope</extent>
 </bibl>
 <msDesc>
 <msIdentifier>
@@ -59,13 +59,13 @@
 <idno></idno>
 </msIdentifier>
 <msContents>
-<p>2 hand-written pages</p>
+<p>2 hand-written pages and envelope</p>
 </msContents>
 <physDesc>
 <objectDesc>
 <supportDesc>
 <support></support>
-<extent>2 pages
+<extent>2 pages and envelope
 <dimensions unit="mm"><height></height><width></width></dimensions>
 </extent>
 <condition>
@@ -148,7 +148,7 @@
 
 <dateline>10-18-75</dateline>
 
-<address><addrLine>Querida Ermana:</addrLine></address>
+<salute>Querida Ermana:</salute>
 </opener>
                 
 <p>Hoy resibi tu carta en donde me das la cruel noticia que perdiste un pie, de lo que estoy muy triste. Pero siquiera ya supe de ti pues ase como 3 años que te escrebí una carta y otra a jesus, y no me las contestaron, entonses pensé que seguro ya te abias muerto. Porque desde que fuiste a Mexico, ya decias que estavas enferma. Yo digo que 100 Dollars entre jesus santos katy y el enfermero que no me acuerdo como se llama no es mucho dinero porque todos estan en mejores condiciones economicas que yo, pero si no se puede ni modo.</p>
@@ -174,6 +174,41 @@ tengo derecho a la pension federal, pero toda via no resibo nada. Eso de Julia F
 <signed>D. Flemate</signed>
 </closer>
                 
+</div1>
+
+<div1 type="envelope">
+
+<pb facs="shan_l.202.jpg"/>
+
+<ab type="return">
+<address>
+<addrLine>Demetrio Flemate</addrLine>
+<addrLine>223 N. Breed st</addrLine>
+<addrLine>Los angeles california</addrLine>
+<addrLine>90033</addrLine>
+</address>
+</ab>
+
+<ab type="address">
+<address>
+<addrLine>Jesusita Torrez</addrLine>
+<addrLine>814 Pacific ave</addrLine>
+<addrLine>Fort Lupton Colorado</addrLine>
+<addrLine>80621</addrLine>
+</address>
+</ab>
+
+<ab type="postmark">
+LOS ANGELES CA 164 006<lb/>
+PM<lb/>
+18 OCT<lb/>
+1975<lb/>
+</ab>
+
+<figure type="stamp">
+<p></p>
+</figure>
+
 </div1>
 </body>
         

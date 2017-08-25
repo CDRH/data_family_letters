@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0"  xml:id="shan_L080.meta">
 <teiHeader>
@@ -51,7 +51,7 @@
 <author>Jesusita B Torres</author>
 <title level="m" type="main">Letter from Jesusita B Torres to Sandra B Schubert</title>
 <date when="1957-04-23">April 23, 1957</date>
-<extent>3 pages</extent>
+<extent>2 pages</extent>
 </bibl>
 <msDesc>
 <msIdentifier>
@@ -59,22 +59,21 @@
 <idno></idno>
 </msIdentifier>
 <msContents>
-<p>3 hand-written pages</p>
+<p>2 hand-written pages</p>
 </msContents>
 <physDesc>
 <objectDesc>
 <supportDesc>
 <support></support>
-<extent>3 pages
+<extent>2 pages
 <dimensions unit="mm"><height></height><width></width></dimensions>
 </extent>
 <condition>
 <p></p></condition>
 </supportDesc>
 </objectDesc>
-<handDesc hands="2">
-<handNote xml:id="h01" scribe="ua002" medium="pen"><p>Media: black ink</p></handNote>
-<handNote xml:id="h02" scribe="jbt01" medium="pen"><p>Media: black ink</p></handNote>
+<handDesc hands="1">
+<handNote xml:id="h01" scribe="jbt01" medium="pen"><p>Media: black ink</p></handNote>
 </handDesc>
 <typeDesc>
 <typeNote><p></p></typeNote>
@@ -147,13 +146,13 @@
                 
 <opener>
 
-<dateline>ft, Lupton Colo</dateline>
-<add>April 23,--1957</add>
+<address><addrLine>ft, Lupton Colo</addrLine></address>
+<dateline>April 23,--1957</dateline>
 
-<address><addrLine>Querida hija,</addrLine></address>
-
-<salute>la presente es para saludarte, tanto á ti como al Bill, y á toda la familía,</salute>
+<salute>Querida hija,</salute>
 </opener>
+
+<p>la presente es para saludarte, tanto á ti como al Bill, y á toda la familía,</p>
                 
 <p>nosotros estamos bien gracias á Dios; reciví tu carta con fecha 17 April pues me dises que estan los niños resfriados; ojalá y ya para oy espero que esten ya descansados; parese que ay mucha enfermeda aquí tambien beo yo que todos los muchachos, y tambien los biejos, tienen mucho tos;</p>
 
@@ -167,7 +166,7 @@
 
 <closer>
 
-<salute>bueno hija dales mís recuerdos tanto como al Bill y los niños y tu resibe el mas fino recuerdo de tu mamá que te deceo muchas felisida <note>des</note><!--inserted above line--> y tambien max,</salute>      
+<salute>bueno hija dales mís recuerdos tanto como al Bill y los niños y tu resibe el mas fino recuerdo de tu mamá que te deceo muchas felisida<add>des</add> y tambien max,</salute>      
                
 <signed>jesusita Baros</signed>
 </closer>

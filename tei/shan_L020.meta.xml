@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0"  xml:id="shan_L020.meta">
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from Guadalupe Flemate to Jesusita Baros, September 8, 19XX</title>
-<title type="main">Carta de Guadalupe Flemate a Jesusita Baros, 8 de septiembre, 19XX</title>
+<title type="main">Letter from Guadalupe Flemate to Jesusita Baros</title>
+<title type="main">Carta de Guadalupe Flemate a Jesusita Baros,</title>
 <author>Flemate, Guadalupe</author>
 <principal xml:id="iv001">Velázquez, Isabel</principal>
 <respStmt>
@@ -44,14 +44,13 @@
 </availability>
 </publicationStmt>
             
-<notesStmt><note></note></notesStmt>
+<notesStmt><note>torn letter; date on letter is listed as September 18th with the year unknown as it was torn off</note></notesStmt>
             
 <sourceDesc>
 <bibl>
 <author>Flemate, Guadalupe</author>
 <title level="m" type="main">Letter from Guadalupe Flemate to Jesusita Baros</title>
-<date cert="high">September 8, 19xx</date>
-<extent>1 fragment</extent>
+<extent>1 letter</extent>
 </bibl>
 <msDesc>
 <msIdentifier>
@@ -59,27 +58,24 @@
 <idno></idno>
 </msIdentifier>
 <msContents>
-<p>1 typed fragment</p>
+<p>1 typed letter</p>
 </msContents>
 <physDesc>
 <objectDesc>
 <supportDesc>
 <support></support>
-<extent>1 fragment
+<extent>1 letter
 <dimensions unit="mm"><height></height><width></width></dimensions>
 </extent>
 <condition>
 <p></p></condition>
 </supportDesc>
 </objectDesc>
-<handDesc hands="4">
-<handNote xml:id="h01" scribe="se001" medium="pen"><p>Media: black ink</p></handNote>
-<handNote xml:id="h02" scribe="iv002" medium="pen"><p>Media:black ink</p></handNote>
-<handNote xml:id="h03" scribe="tw001" medium="typewriter"><p>Media:black ink</p></handNote>
-<handNote xml:id="h04" scribe="gf001" medium="pen"><p>Media:black ink</p></handNote>
+<handDesc hands="1">
+<handNote xml:id="h01" scribe="gf001" medium="pen"><p>Media:black ink</p></handNote>
 </handDesc>
 <typeDesc>
-<typeNote><p></p></typeNote>
+<typeNote><p>Media:black ink</p></typeNote>
 </typeDesc>
 </physDesc>
 <history><origin></origin>
@@ -145,22 +141,19 @@
             
 <div1 type="letter">
                 
-<pb facs="L20 To Jesusita Baros September 18, 19XX PDF ONLY.pdf"/>
-                
-<note xml:id="es001">Copy to I.</note>
-<note xml:id="iv002">[L20]</note>
+<pb facs="shan_l.760.jpg"/>
 
-<note xml:id="gf001"/>
 <opener>
-<dateline>M/a. Guadalupe Flemate.</dateline>
-<add>Hotal Zaragoza.</add>
-<add>Juchipila,Zac; septiembre 18 de 1<unclear reason="torn">9</unclear></add>
+<address><addrLine>M/a. Guadalupe Flemate.</addrLine></address>
+<address><addrLine>Hotal Zaragoza.</addrLine></address>
+<address><addrLine>Juchipila,Zac; septiembre 18 de 1<unclear reason="torn">9</unclear></addrLine></address>
 
-<add>Sra. Jesusita Baros.</add>
-<add>P.O. Box# 681</add>
-<add>Luptón,Colorado.</add>
+<address><addrLine>Sra. Jesusita Baros.</addrLine></address>
+<address><addrLine>P.O. Box# 681</addrLine></address>
+<address><addrLine>Luptón,Colorado.</addrLine></address>
 
-<address><addrLine>Muy estimada hermana,</addrLine></address></opener>
+<salute>Muy estimada hermana,</salute>
+</opener>
 
 <p>Esperando que al recibo de la presente est<unclear reason="torn"/> tal como yo me encuentro gracias a Dios, aunque u <unclear reason="torn"/> Hermana: Me enteré de la que le escribiste a mi <unclear reason="torn"/> que veo estas un pco sentida porque ya estaré enfa <unclear reason="torn"/> mana lo que pasa es que he estado algo grave, nada m<unclear reason="torn"/>co de un dolor que me da muy seguida con la nada y m <unclear reason="torn"/> muerte, me dijeron en Guadalajara, que tal vez me cos<unclear reason="torn"/>el operarme, y que si me operaba que me veia mas mala <unclear reason="torn"/> ajuantara ese dolo el tiempo de Dios quiera tenerme <unclear reason="torn"/>do.</p>
 

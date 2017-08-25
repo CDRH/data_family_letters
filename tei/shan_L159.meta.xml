@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"  xml:id="shan_L159.meta">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Jesusita Baros Torres to Santos Baros Schubert, November 7, 1966</title>
+<title type="main">Carta de Jesusita Baros Torres a Santos Baros Schubert, 07 de noviembre, 1966</title>
+<author>Baros Torres, Jesusita</author>
+<principal xml:id="iv001">Velázquez, Isabel</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name xml:id="af">Faxas, Adoni A.</name>
+<name xml:id="iv">Velázquez, Isabel</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2016</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Family Letters: An analysis of the Personal Correspondence of a Mexican American Family in Western Colorado and Eastern Nebraska in the First Half of the 20th Century</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Department of Modern Languages and Literatures</name>
+ <address>
+<addrLine>1111 Oldfather Hall</addrLine>
+<addrLine>660 N 12th</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+<addrLine>modlang2@unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+</address>
+<idno>shan_L159.meta</idno>
+<availability>
+<p>COPYRIGHT STATEMENT TO GO HERE</p>
+</availability>
+</publicationStmt>
+            
+<notesStmt><note></note></notesStmt>
+            
+<sourceDesc>
+<bibl>
+<author>Baros Torres, Jesusita</author>
+<title level="m" type="main">Letter from Jesusita Baros Torres to Santos Baros Schubert</title>
+<date when="1966-11-07">November 7, 1966</date>
+<extent>3 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Shanahan Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p>3 hand-written pages</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support></support>
+<extent>3 pages
+<dimensions unit="mm"><height></height><width></width></dimensions>
+</extent>
+<condition>
+<p></p></condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="h01" scribe="jbt001" medium="pen"><p>Media: blue ink</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote><p></p></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin></origin>
+<provenance></provenance>
+<acquisition></acquisition>
+</history>
+</msDesc>
+                
+</sourceDesc>
+</fileDesc>
+        
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term></term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+<particDesc>
+<person role="sender" xml:id="jbt001">
+<persName>Jesusita Baros Torres</persName>
+</person>
+<person role="recipient" xml:id="sbs001">
+<persName>Santos Baros Schubert</persName>
+</person>
+</particDesc>
+</profileDesc>
+        
+<revisionDesc>
+<change when="2016" who="#af">Initial Encoding</change>
+<change when="2014" who="#iv">Transcription</change>
+            
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>
+            
+<div1 type="letter">
+                
+<pb facs="shan_l.584.jpg"/>
+
+<note>cashier's check. state bank no.<lb/>
+40133<lb/>
+Dec. 8, 1966.<lb/></note>
+                
+<opener>
+<address><addrLine>Ft, Lupton Colo</addrLine></address>
+<dateline>novem 7,-1966</dateline>
+
+<salute>mi Querida hija</salute>
+</opener>
+
+<p>la precente es para Saludarte, tanto á tí como  al Bill, tu espozo; y á todos los muchachos</p>
+                
+<p>bueno te dire que ayer Martes agare tu carta onde veo me dises que estan todos es por lo que tengo mucho gusto; nosotros estamos bíen, yo estoy bíen Gracías á Díosito;</p>
+
+<p>pues desde julio estaba cuidando al Markos el baby de Jesse; la Helen trabajando en un lugar de costura; pero haora en  novem como para el día de Gracías; me toco, pues antes del día de Gracía fuí con el Doctor, ál Hospital Colo; y me ayaron alta precion de la Sangre y sí tube que desír que esta cuidando un niño al Markitos; pues me evitó el Doctor me dijo que yo no podia cuídar babys
+
+<pb facs="shan_l.586.jpg"/>
+
+<fw>2</fw>
+
+bueno le mando un papelito á Helen, que me llevara la proxcíma ves; bueno pues yo le dí el papelito que me dío el Doctor, se lo di á Helen; y ella se me enogó; me digo poreque Ud, no me avía dicho que estaba mala; yo le dige pues ya lo saben que estoy enferma, pero parese que <add>no</add> me lo cren, uds;</p>
+
+<p>bueno, pues desde entonses no la é bisto mas; a Jesse sí el me lleva á la missa, y al markitos lo esta degando con la otra herman, la Lila tu saves la que caso con un Texano; hora se quedaron aqui en Lupton, de modo que me ase mucho mal liriar con babys y los hombresitos son los piores; bueno te dire que vide al Bill, ó me dío mucho gusto, sí tambíen me conbido que fuera á vesitar pues sí boy á ir no mas que orita porque estoy poco mala
+
+<pb facs="shan_l.587.jpg"/>
+
+<fw>3</fw>
+
+carino espalda yo y aquí esta mucho frío, ase 2 días que esta callendo nieve;</p>
+
+<p>bueno tambien <del>tambien</del> me dises que es lo que yo quiciera para los <del>cle</del> christmas; pues te dire que cada <add>año</add> tu eres la que <add>me</add> compras calzones calíentítos pero <add>the</add> zize 42 ó 44, por que cuando uno los lava se asen chiquitos. no mas como 2; y unas medias calíentitas, eso <add>si</add> que tienes tiempo de salir á comprarlas, y sí no pues salir, á comprar pues lo que quíeras; que yo no ay quíen me lleve á comprar algo; la Helen parece que ya se enogo con migo; pero mira higa mirando bien y despacio no se abían sentir por eso; enojarse menos; cuando estaba alíviada, sí podia pero haora ya no;</p>
+
+<closer>
+<salute>bueno muchos recuerdos á los muchachos; y para un fino recuerdo de tu mamá gracias porque me escríbites</salute>                    
+<signed>Jesusita Torres</signed>
+</closer>
+                
+</div1>
+</body>
+        
+<back></back>
+</text>
+</TEI>

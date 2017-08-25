@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"  xml:id="shan_L130.meta">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from WF Schubert to Mrs. Santos B. Schubert, December 10, 1947</title>
+<title type="main">Carta de WF Schubert a Mrs. Santos B. Schubert, 10 de diciembre, 1947</title>
+<author>Schubert, WF</author>
+<principal xml:id="iv001">Velázquez, Isabel</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name xml:id="af">Faxas, Adoni A.</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2016</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Family Letters: An analysis of the Personal Correspondence of a Mexican American Family in Western Colorado and Eastern Nebraska in the First Half of the 20th Century</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Department of Modern Languages and Literatures</name>
+ <address>
+<addrLine>1111 Oldfather Hall</addrLine>
+<addrLine>660 N 12th</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+<addrLine>modlang2@unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+</address>
+<idno>shan_L130.meta</idno>
+<availability>
+<p>COPYRIGHT STATEMENT TO GO HERE</p>
+</availability>
+</publicationStmt>
+            
+<notesStmt><note></note></notesStmt>
+            
+<sourceDesc>
+<bibl>
+<author>Schubert, WF</author>
+<title level="m" type="main">Letter from WF Schubert to Mrs. Santos B. Schubert</title>
+<date when="1947-12-10">December 10, 1947</date>
+<extent>2 pages and envelope</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Shanahan Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p>2 hand-written pages and envelope</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support></support>
+<extent>2 pages and envelope
+<dimensions unit="mm"><height></height><width></width></dimensions>
+</extent>
+<condition>
+<p></p></condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="h01" scribe="wfs001" medium="pen"><p>Media: blue ink</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote><p></p></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin></origin>
+<provenance></provenance>
+<acquisition></acquisition>
+</history>
+</msDesc>
+                
+</sourceDesc>
+</fileDesc>
+        
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term></term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+<particDesc>
+<person role="sender" xml:id="wfs001">
+<persName>WF Schubert</persName>
+</person>
+<person role="recipient" xml:id="sbs001">
+<persName>Mrs. Santos B. Schubert</persName>
+</person>
+</particDesc>
+</profileDesc>
+        
+<revisionDesc>
+<change when="2017" who="#af">Initial Encoding</change>
+<change when="2016" who="#af">Initial Encoding</change>
+<change when="2014" who="#af">Transcription</change>
+            
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>
+            
+<div1 type="letter">
+                
+<pb facs="shan_l.488.jpg"/>
+                
+<opener>
+<address><addrLine>Havelock Nebr</addrLine></address>
+<dateline>10 Dec 1947</dateline>
+<dateline>8:00 P.M.</dateline>
+
+<salute>My Darling Wife&amp;Baby –</salute>
+</opener>
+
+<p>How are my loved ones tonight; am sending a few lines to let you know that I love you both and miss you very much. Really get lonesome and blue; but look for the day soon, that we will be together. Didn’t receive any mail as I got two yesterday so look for a niu letter tomorrow –</p>
+
+<p>I have banked my boiler fire so am ready to go to bed after I finish your letter. Am getting along fine except that some of the men cause a little trouble in the dining room so I gave a couple of them their board bills so they could leave as I’m not going to feed them; but the railroad wants them to work&amp;eat here – The one man carried meat outdoors and threw it away and another poured coffee in the potatoes and things like that – I don’t worry about it <del>by</del> but the Head Railroad man in Havelock Shops might try to get me out of here; but
+
+<pb facs="shan_l.490.jpg"/>
+
+<fw>-2-</fw>
+
+don’t think that he will.</p>
+
+<p>The camp inspector was here this afternoon and took a commissary inventory so I didn’t get to find out about a room – maybe I’ll get time tomorrow. My commissary checked ok – I got a good pair of rubber overshoes and had to buy some gloves so am taking good care of myself.</p>
+
+<p>Got some hoarhound&amp;honey mixed up for my cough. This should help-the cook has a bad cough too so got the stuff mixed-</p>
+
+<p>Darling I wish I had you to warm my bed for me and keep me warm at night Honey. I really need you. Remember I love you very much –</p>
+
+<p>It’s colder and clear tonight – Have snow about three inches on the ground.</p>
+
+<p>Well, I hope and pray that you are both well – Take good care of yourself.</p>
+
+<closer>
+<salute>Your Husband<lb/>
+Always<lb/></salute>                    
+<signed>Bill</signed>
+</closer>
+
+<postscript>
+<p>-All my love&amp;kisses-</p>
+</postscript>            
+            
+</div1>
+
+<div1 type="envelope">
+
+<pb facs="shan_l.486.jpg"/>
+
+<ab type="return">
+<address>
+<addrLine>WF Schubert</addrLine>
+<addrLine>Box 18</addrLine>
+<addrLine>Havelock, Nebr.</addrLine>
+</address>
+</ab>
+
+<ab type="address">
+<address>
+<addrLine>Mrs. Santos B. Schubert</addrLine>
+<addrLine>General Delivery</addrLine>
+<addrLine>Ft. Lupton,</addrLine>
+<addrLine>Colorado</addrLine>
+</address>
+</ab>
+
+<ab type="postmark">
+LINCOLN<lb/>
+DEC 11<lb/>
+1230 PM<lb/>
+1947<lb/>
+</ab>
+
+<pb facs="shan_l.487.jpg"/>
+
+<ab type="postmark">
+FORT LUPTON<lb/>
+DEC. 12<lb/>
+5 PM<lb/>
+1947<lb/>
+COLO.<lb/>
+</ab>
+
+</div1>
+</body>
+        
+<back></back>
+</text>
+</TEI>

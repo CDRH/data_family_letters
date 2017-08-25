@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0"  xml:id="shan_L074.meta">
 <teiHeader>
@@ -12,6 +12,7 @@
 <respStmt>
 <resp>transcription and encoding</resp>
 <name xml:id="jda">Avelar, Janette D.</name>
+<name xml:id="af">Faxas, Adoni A.</name>
 <name xml:id="iv002">Velázquez, Isabel</name>
 </respStmt>
 </titleStmt>
@@ -51,7 +52,7 @@
 <author>Lillian Wilhelm</author>
 <title level="m" type="main">Letter from Lillian Wilhelm to Mr. and Mrs. Wm. Schubert and Family</title>
 <date when="1958-01-30">January 01, 1958</date>
-<extent>4 pages</extent>
+<extent>4 pages and envelope</extent>
 </bibl>
 <msDesc>
 <msIdentifier>
@@ -59,13 +60,13 @@
 <idno></idno>
 </msIdentifier>
 <msContents>
-<p>4 hand-written pages</p>
+<p>4 hand-written pages and envelope</p>
 </msContents>
 <physDesc>
 <objectDesc>
 <supportDesc>
 <support></support>
-<extent>4 pages
+<extent>4 pages and envelope
 <dimensions unit="mm"><height></height><width></width></dimensions>
 </extent>
 <condition>
@@ -125,7 +126,7 @@
 <persName>Lillian Wilhelm</persName>
 </person>
 <person role="recipient" xml:id="sbs001">
-<persName>Mrs. Wm. Schubert</persName> <!--Is Mrs. Wm. Schubert also Sandra Baros Schubert?-->
+<persName>Mrs. Wm. Schubert</persName>
 </person>
 <person role="recipient" xml:id="wfs002">
 <persName>Mr. Wm. Schubert</persName>
@@ -134,6 +135,7 @@
 </profileDesc>
         
 <revisionDesc>
+<change when="2017" who="#af">Initial Encoding</change>
 <change when="2015" who="#jda">Initial Encoding</change>
 <change when="2014" who="#iv002">Transcription</change>
             
@@ -163,15 +165,15 @@
 
 <pb facs="shan_l.222.jpg"/>
 
-<p>2/</p>
+<fw>2/</fw>
 
 <p>Nice to hear that Billy was given the award last year for being top one in his grade! That is quite an honor. Good Bobby doesn’t have far to go to school. Expect Pamela will like school real well. You folks are putting forth a lot of effort to improve your house. With the room for the boys in the basement, also wanting to make a “rec” room down there, too. Just don’t try to do it all overnite. <unclear reason="illegible"/> Fine Billy is on Cub Scouts, that Sandra will be Den Mother. Del is in Cub Scouts, gets lots of good out of it He had his birthday yesterday Jan. 27, his folks between all of them. Mande Shirley, Patty, her hubby, gave him a bi cycle so he was one tickled boy. We gave him a package of different kinds of candy bars.</p>
 
-<p>Excuse the scribbling folks, am sort of sleepy headed. Have been trying to catch up a little on our letter writing –don’t pretend to keep it up to date anymore – just hack away at it now & then! With so many relatives</p>
+<p>Excuse the scribbling folks, am sort of sleepy headed. Have been trying to catch up a little on our letter writing –don’t pretend to keep it up to date anymore – just hack away at it now&amp;then! With so many relatives</p>
 
 <pb facs="shan_l.224.jpg"/>
 
-<p>3/</p>
+<fw>3/</fw>
 
 <p>one of his favorite <unclear reason="illegible">jr</unclear> programs, Bruce is writing <unclear reason="illegible">Lou</unclear>. He took <unclear reason="illegible">Lou</unclear> backs up to Flagstaff yesterday for second semester college. She had registered last week already for the second semester. B. registered today for his second semester. The Triple C’s. the older youth group in our church went up to our Church camp on Mingus mountain  up north west about 100 mi this last week end for what was to be their annual snow party. Well, they didn’t find enough snow for a proper snow man! Let alone enough to sleigh ride on! They had a lot of fun. Mostly eating, hiking around on the mountain. The higher colder altitude really gave them the big appetites. The camp is at about 1 ½ mi. elevation. It’s a nice camp is really made use of in the summer time The Triple c’s were snowed in up there for a short while last year!</p>
 
@@ -179,7 +181,7 @@
 
 <pb facs="shan_l.226.jpg"/>
 
-<p>4/</p>
+<fw>4/</fw>
 
 <p>paper to write my letters on but always give it away as gifts.</p>
 
@@ -189,10 +191,44 @@
 
 <closer>  
 <salute>Love</salute>                  
-<signed>Lillian & family</signed>
+<signed>Lillian&amp;family</signed>
 </closer>
                 
 </div1>
+
+<div1 type="envelope">
+
+<pb facs="shan_l.218.jpg"/>
+
+<ab type="return">
+<address>
+<addrLine>MRS. LILLIAN WILHELM</addrLine>
+<addrLine>1321 West Elm Drive</addrLine>
+<addrLine>Phoenix, Arizona</addrLine>
+</address>
+</ab>
+
+<ab type="address">
+<address>
+<addrLine>Mr. &amp; Mrs. Wm. Schubert &amp; family</addrLine>
+<addrLine>1016 South 40th St.</addrLine>
+<addrLine>Lincoln 10, Nebraska</addrLine>
+</address>
+</ab>
+
+<ab type="postmark">
+PHOENIX, ARIZ.<lb/>
+JAN30<lb/>
+6-PM<lb/>
+1958<lb/>
+</ab>
+
+<figure type="stamp">
+<p></p>
+</figure>
+
+</div1>
+
 </body>
         
 <back></back>

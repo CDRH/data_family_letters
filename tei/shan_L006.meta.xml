@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0"  xml:id="shan_L006.meta">
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from Unknown Arroyo to Maximino Torrez, March 18, 1926</title>
+<title type="main">Letter from Arroyo to Maximino Torrez, March 18, 1926</title>
 <title type="main">Carta de Arroyo a Maximino Torrez, 18 de marzo, 1926</title>
-<author>Unknown Arroyo</author>
+<author>Arroyo</author>
 <principal xml:id="iv001">Velázquez, Isabel</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,7 +49,7 @@
 <sourceDesc>
 <bibl>
 <author>Unknown Arroyo</author>
-<title level="m" type="main">Letter from Unknown Arroyo to Maximino Torrez</title>
+<title level="m" type="main">Letter from Arroyo to Maximino Torrez</title>
 <date when="1926-03-18">March 18, 1926</date>
 <extent>2 pages</extent>
 </bibl>
@@ -121,8 +121,8 @@
 </keywords>
 </textClass>
 <particDesc>
-<person role="sender" xml:id="ua001">
-<persName>Unknown Arroyo</persName>
+<person role="sender" xml:id="a003">
+<persName>Arroyo</persName>
 </person>
 <person role="recipient" xml:id="mt001">
 <persName>Maximino Torrez</persName>
@@ -150,12 +150,14 @@
 <dateline>Marzo 18-1926</dateline>
 <address><addrLine>Sr. Maxsimino Torrez</addrLine></address>
 <address><addrLine>Rock Springs</addrLine></address>
-<salute>Mimuy Estimado primo congusto derijo las precentes linias para saludarte en union de las perzonas que te acompañen y cean contigo la que de nosotros cedespide unpoco buena no muy buena pero asi lo quiere y lo manda Dios</salute>
+<salute>Mimuy Estimado primo </salute>
 </opener>
+
+<p>congusto derijo las precentes linias para saludarte en union de las perzonas que te acompañen y cean contigo la que de nosotros cedespide unpoco buena no muy buena pero asi lo quiere y lo manda Dios</p>
     
-<p>primo despues de saludarte cariñosamente acuso rresibo de tu muy atenta de fecha 28 del M.p.p. por la que estoy enterada de tu Buena salud y de lo que enella medices que <del>a</del> memandastes las abujas las cualesno errecebido todabia nilas medecinas de Mama asique no tedoy cuenta de ello.</p>
+<p>primo despues de saludarte cariñosamente acuso rresibo de tu muy atenta de fecha 28 del M.p.p. por la que estoy enterada de tu Buena salud y de lo que enella medices que a <del/> memandastes las abujas las cualesno errecebido todabia nilas medecinas de Mama asique no tedoy cuenta de ello.</p>
     
-<p>y sobre ho tro particular no puedo desirte nada por que por que no puedo contestarte nada deloque en la tulla medices asique yo pueda <unclear reason="illegible">te</unclear> contestarte lo <del/> que amime parece locura túlla talbes tu no tenido que platicarme solo disparates tubistes parami pero yo no los creo pobre de mi si yo me ubiera creido de las bonitas fraces que hotros <del/> como tu me las desian home las escrebian no primo yo asta horita no epenzado dar esepaso y muchomenos con unprimo como tu que aqui te sobran delas que atite gustan te aseguro primo que te gustan mas que las que pudieran certe fieles </p>
+<p>y sobre ho tro particular no puedo desirte nada por que por que no puedo contestarte nada deloque en la tulla medices asique yo pueda <unclear reason="illegible">te</unclear> contestarte lo <del/> que amime parece locura túlla talbes tu no tenido que platicarme solo disparates tubistes parami pero yo no los creo pobre de mi si yo me ubiera creido de las bonitas fraces que hotros <del/> como tu me las desian home las escrebian no primo yo asta horita no epenzado dar esepaso y muchomenos con unprimo como tu que aqui te sobran delas que atite gustan te aseguro primo que te gustan mas que las que pudieran certe fieles</p>
 
 <pb facs="shan_l.018.jpg"/>
     
@@ -165,14 +167,13 @@
     
 <closer>
 <salute>y rresibe saludes de papa y Mama y de tu prima rrecibe el afecto de quien bien te quiere y te dece felicidades tu</salute>
-<signed>p.N.J.N.C.q.y q.
-S.S.
-Arroyo</signed>
+<signed>p.N.J.N.C.q.y q.<lb/>
+S.S.<lb/>
+Arroyo<lb/></signed>
 </closer>
+
 <postscript>
-<label>P.S.</label>
-<p>derije las anombre de</p>
-<p>papa</p>
+<p>derije las anombre de papa</p>
 </postscript>
 
 </div1>

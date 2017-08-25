@@ -1,170 +1,215 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nei.">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title type="main">Letter to María Jesús Barrios</title>
-                <author>Samaniego, Jesus</author>
-                <principal>Velázquez, Isabel</principal>
-            </titleStmt>
-            <editionStmt>
-                <edition>
-                    <date>1938-10-15</date>
-                </edition>
-            </editionStmt>
-            <publicationStmt>
-                <authority>Family Letters: An analysis of the Personal Correspondence of a Mexican American Family in Western Colorado and Eastern Nebraska in the First Half of the 20th Century</authority>
-                <publisher>University of Nebraska-Lincoln</publisher>
-                <distributor>
-                    <name>Department of Modern Languagues and Literatures</name>
-                    <address>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"  xml:id="shan_L021.meta">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Jesús Samaniego to Mrs. Jesusita Baros, October 15, 1938</title>
+<title type="main">Carta de Jesús Samaniego a Mrs. Jesusita Baros, 15 de octubre, 1938</title>
+<author>Samaniego, Jesús</author>
+<principal xml:id="iv001">Velázquez, Isabel</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name xml:id="jda">Avelar, Janette D.</name>
+<name xml:id="iv002">Velázquez, Isabel</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2015</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Family Letters: An analysis of the Personal Correspondence of a Mexican American Family in Western Colorado and Eastern Nebraska in the First Half of the 20th Century</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Department of Modern Languages and Literatures</name>
+ <address>
 <addrLine>1111 Oldfather Hall</addrLine>
-<addrLine>660 N 12th St</addrLine>
+<addrLine>660 N 12th</addrLine>
 <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-0315</addrLine>
 <addrLine>modlang2@unl.edu</addrLine>
 </address>
-                </distributor>
-                <pubPlace>Lincoln, Nebraska</pubPlace> 
-                <address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-0315</addrLine>
 </address>
-                <idno></idno>
-                <availability>
-                    <licence></licence>
-                    <p></p>
-                </availability>
-            </publicationStmt>
+<idno>shan_L021.meta</idno>
+<availability>
+<p>COPYRIGHT STATEMENT TO GO HERE</p>
+</availability>
+</publicationStmt>
             
-            <notesStmt><note></note></notesStmt>
+<notesStmt><note></note></notesStmt>
             
-            <sourceDesc>
-                <bibl>
-                    <author>Samaniego, Jesus</author>
-                    <title level="m" type="main"></title>
-                    <date when="1938-10-15"></date>
-                    <extent> 4 pages</extent>
-                </bibl>
-                <msDesc>
-                    <msIdentifier>
-                        <repository></repository>
-                        <idno></idno>
-                    </msIdentifier>
-                    <msContents>
-                        <p>4 hand-written pages</p>
-                    </msContents>
-                    <physDesc>
-                        <objectDesc>
-                            <supportDesc>
-                                <support></support>
-                                <extent> 4 pages
-                                    <dimensions unit="mm"><height></height><width></width></dimensions>
-                                </extent>
-                                <condition>
-                                    <p></p></condition>
-                            </supportDesc>
-                        </objectDesc>
-                        <handDesc hands="1">
-                            <handNote xml:id="type"><p>Media: lead/graphite</p></handNote>
-                        </handDesc>
-                        <typeDesc>
-                            <typeNote><p></p></typeNote>
-                        </typeDesc>
-                    </physDesc>
-                    <history><origin></origin>
-                        <provenance></provenance>
-                        <acquisition></acquisition>
-                    </history>
-                </msDesc>
+<sourceDesc>
+<bibl>
+<author>Samaniego, Jesús</author>
+<title level="m" type="main">Jesús Samaniego to Mrs. Jesusita Baros</title>
+<date when="1938-10-15">October 15, 1938</date>
+<extent>4 pages and envelope</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Shanahan Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p>4 hand-written pages and envelope</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support></support>
+<extent>4 pages and envelope
+<dimensions unit="mm"><height></height><width></width></dimensions>
+</extent>
+<condition>
+<p></p></condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="h01" scribe="js001" medium="pencil"><p>Media: lead/graphite</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote><p></p></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin></origin>
+<provenance></provenance>
+<acquisition></acquisition>
+</history>
+</msDesc>
                 
-            </sourceDesc>
-        </fileDesc>
+</sourceDesc>
+</fileDesc>
         
-        <encodingDesc>
-            <editorialDecl>
-                <correction>
-                    <p></p>
-                </correction>
-                <normalization>
-                    <p></p>
-                </normalization>
-            </editorialDecl>
-        </encodingDesc>
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
         
-        <profileDesc>
-            <textClass>
-                <keywords scheme="original" n="category">
-                    <term></term>
-                </keywords>
-                <keywords scheme="original" n="subcategory">
-                    <term></term>
-                </keywords>
-                <keywords scheme="original" n="topic">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="keywords">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="people">
-                    <term></term>
-                </keywords>
-                <keywords scheme="lcsh" n="places">
-                    <term></term>
-                </keywords>
-            </textClass>
-            <particDesc><person role="sender"><persName>Jesus Samaniego</persName></person>
-                <person role="recipient"><persName>María Jesús Barrios</persName></person>
-            </particDesc>
-        </profileDesc>
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term></term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+<particDesc>
+<person role="sender" xml:id="js001">
+<persName>Jesús Samaniego</persName>
+</person>
+<person role="recipient" xml:id="jbt001">
+<persName>Jesusita Baros Torres</persName>
+</person>
+</particDesc>
+</profileDesc>
         
-        <revisionDesc>
-            <change when="2015"><name xml:id="jda">Avelar, Janette D.</name> Initial Encoding</change>
-            <change when="2014-05-08"><name xml:id="iv">Velázquez, Isabel</name> Transcription</change>
+<revisionDesc>
+<change when="2017" who="#af">Initial Encoding</change>
+<change when="2015" who="#jda">Initial Encoding</change>
+<change when="2014" who="#iv002">Transcription</change>
             
-        </revisionDesc>
-    </teiHeader>
+</revisionDesc>
+</teiHeader>
     
-    <text>
-        <body>
+<text>
+<body>
             
-            <div1 type="letter">
+<div1 type="letter">
                 
-                <pb facs="shan_l.090.jpg"/>
+<pb facs="shan_l.090.jpg"/>
                   
-                <opener>
-                    <address><addrLine>1 Juchipila Zacal</addrLine></address>
+<opener>
+<address><addrLine>1 Juchipila Zacal</addrLine></address>
 <dateline>Otubre 15 de 1938</dateline>
-                    <salute>Señora eliboria flemate mi mui atenta y cariñosa mama
-yo me a le grare que alresibo de estos tres 3 rin glones se in cuentren sino bedad que la que de mi se des pide es buena grasias a dios</salute></opener>
+<salute>Señora eliboria flemate</salute>
+</opener>
+
+<p>mi mui atenta y cariñosa mama yo me a le grare que alresibo de estos tres 3 rin glones se in cuentren sino bedad que la que de mi se des pide es buena grasias a dios</p>
 
 <p>pues mama des pues de saludarlos conel cariño de siempre ledigo losigete pues antes de platicarle al guna cosas que me pasanprimero le doi los sentimientos porque nomea esqürito quizás en nal guna cosa la ofendí pero siasies perdóname mamita no lo ise adrede pongatension alo que mepasa mama no se inmajina enla confusión que llo me encuentro le boi a</p>
 
 <pb facs="shan_l.091.jpg"/>
 
-<p>2</p>
+<fw>2</fw>
 <p>platicar como y de que manera me encuentro ma de berguensa desirle qüiero que e aga favor de prestarme 15 pesos oro para yrme de juchipila me atitulan que llo estaba ena morando una mujer casada noes sierto pero tanto y tanto senpeso a de sir asta que llego a oídos del marido y <unclear reason="illegible">en</unclear> mediantemente casila mato a leñasos ydiai seria como al <unclear reason="illegible">peso</unclear> de media noche lle garon el marido de la señora y un ermano queriendo me disque me matar no me mataron porque no qüisieron llo que iba aser para dos pero se que dice que como dios lede lisensia no mes capo no quiere a</p>
 
 <pb facs="shan_l.091.jpg"/>
 
-<p>3</p>
+<fw>3</fw>
 <p>mas que lo grar una upurtunidad de in contrarme solo en nun lugar donde naiden sedecuenta a si me platico un amigo que el tiene de sus confiansas p ues mama llo no lo qureo pero nilo dudo tanpoco considerando que son unos <unclear reason="illegible">casos</unclear> de desgreñarse u no ya de mas de eso medisen que meretire de mi pueblo que para que mañana o cuando meballa aen <unclear reason="illegible">felisar</unclear> conel oel con migo mama viendo llo esto algo de motivo que <unclear reason="illegible">di</unclear> y llo que tengo ganas de salir <unclear reason="illegible">me</unclear> llo mama mi salida es para ca con Ud Sea que pueda permanecer aqüi con ustedes o sea que me echen para fuera</p>
 
 <pb facs="shan_l.092.jpg"/>
 
-<p>4</p>
+<fw>4</fw>
 
-<p>Porque se que esta mui trabajoso para <unclear reason="illegible">llo</unclear> mi gusto es mama de conocerlos aus tede yustedes que me conoscanami sea que dure undia sea que dure 2 lo mis mo quelle gare en nun mes o llegare en dos no se la suerte que me toque lo que si le digo mama que no me deje de la mano qüiero que me aga ese favor conlo que pueda y en lo que pueda si enesta vida no le pago abersi en lotra mi <unclear reason="illegible">dilasion</unclear> de salir es que me conteste Ud
+<p>Porque se que esta mui trabajoso para <unclear reason="illegible">llo</unclear> mi gusto es mama de conocerlos aus tede yustedes que me conoscanami sea que dure undia sea que dure 2 lo mis mo quelle gare en nun mes o llegare en dos no se la suerte que me toque lo que si le digo mama que no me deje de la mano qüiero que me aga ese favor conlo que pueda y en lo que pueda si enesta vida no le pago abersi en lotra mi <unclear reason="illegible">dilasion</unclear> de salir es que me conteste Ud</p>
                 
-                <closer>Saludes para chui y santitos re siba saludes demi esposa para todos mes quri con la direision esta calle rosales numero 63 es cuanto</p>
-                    <signed>Jesus Samaniego</signed>
-                </closer>
+<closer>Saludes para chui y santitos re siba saludes demi esposa para todos mes quri con la direision esta calle rosales numero 63 es cuanto
+<signed>Jesus Samaniego</signed>
+</closer>
                 
-            </div1>
-        </body>
+</div1>
+
+<div1 type="envelope">
+
+<pb facs="shan_l.088.jpg"/>
+
+<ab type="return">
+<address>
+<addrLine>after 10 days Return to</addrLine>
+<addrLine>Demetrio Flemate</addrLine>
+<addrLine>Juchipila Zacatecas</addrLine>
+<addrLine>mexico</addrLine>
+</address>
+</ab>
+
+<ab type="address">
+<address>
+<addrLine>Mrs. Jesusita Baros</addrLine>
+<addrLine>in care of Bill Kennedy</addrLine>
+<addrLine>Route #3 Longmont Colorado</addrLine>
+<addrLine>U.S.</addrLine>
+</address>
+</ab>
+
+<pb facs="shan_l.089.jpg"/>
+
+<ab type="postmark">
+AGUASCALIENTES<lb/>
+<unclear reason="illegible"/><lb/>
+AGS<lb/>
+</ab>
+
+</div1>
+</body>
         
-        <back></back>
-    </text>
+<back></back>
+</text>
 </TEI>

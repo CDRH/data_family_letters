@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0"  xml:id="shan_L079.meta">
 <teiHeader>
@@ -72,9 +72,8 @@
 <p></p></condition>
 </supportDesc>
 </objectDesc>
-<handDesc hands="2">
+<handDesc hands="1">
 <handNote xml:id="h01" scribe="jbt001" medium="pen"><p>Media: black ink</p></handNote>
-<handNote xml:id="h02" scribe="ua002" medium="pencil"><p>Media:lead/graphite</p></handNote>
 </handDesc>
 <typeDesc>
 <typeNote><p></p></typeNote>
@@ -146,13 +145,13 @@
 <pb facs="shan_l.248.jpg"/>
                 
 <opener>
-<dateline>ft, Lupton colo</dateline>
-<add>march, 6,-1957</add>
+<address><addrLine>ft, Lupton colo</addrLine></address>
+<dateline>march, 6,-1957</dateline>
 
-<address><addrLine>querida hija,</addrLine></address>
-
-<salute>la presente espara Saludarlos á ti, y Esposo, y familía,</salute>
+<salute>querida hija,</salute>
 </opener>
+
+<p>la presente espara Saludarlos á ti, y Esposo, y familía,</p>
                 
 <p>nosotros estamos bien gracías á Dios; pues te dire que Demetrio mi hermano, me escribe y me dise que te mande estos retratos, para que conoscas el lugar, de juchipila, y que bayan á paseo, y que le escribas y que les mandes los retratos, de ti y tu esposo y los niños,</p>
 
@@ -172,8 +171,6 @@
                 
 <signed>jesusita Baros Torres;</signed>
 </closer>
-
-<!--code note "h02"on back-->
                 
 </div1>
 </body>

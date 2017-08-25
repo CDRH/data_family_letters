@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0"  xml:id="shan_L075.meta">
 <teiHeader>
 <fileDesc>
 <titleStmt>
 <title type="main">Letter from Jesusita B Torres to Sandra Schubert, January 5, 1953</title>
-<title type="main">Carta de Jesusita B Torres a Sandra Schubert, 5 de energo, 1953</title>
+<title type="main">Carta de Jesusita B Torres a Sandra Schubert, 5 de enero, 1953</title>
 <author>Torres, Jesusita B</author>
 <principal xml:id="iv001">Velázquez, Isabel</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name xml:id="jda">Avelar, Janette D.</name>
+<name xml:id="af">Faxas, Adoni A.</name>
 <name xml:id="km">Mendell, Kate</name>
 </respStmt>
 </titleStmt>
@@ -51,7 +52,7 @@
 <author>Jesusita B Torres</author>
 <title level="m" type="main">Letter from Jesusita B Torres to Sandra Schubert</title>
 <date when="1953-01-05">January 5, 1953</date>
-<extent>4 pages</extent>
+<extent>4 pages and envelope</extent>
 </bibl>
 <msDesc>
 <msIdentifier>
@@ -59,13 +60,13 @@
 <idno></idno>
 </msIdentifier>
 <msContents>
-<p>4 hand-written pages</p>
+<p>4 hand-written pages and envelope</p>
 </msContents>
 <physDesc>
 <objectDesc>
 <supportDesc>
 <support></support>
-<extent>4 pages
+<extent>4 pages and envelope
 <dimensions unit="mm"><height></height><width></width></dimensions>
 </extent>
 <condition>
@@ -131,6 +132,7 @@
 </profileDesc>
         
 <revisionDesc>
+<change when="2017" who="#af">Initial Encoding</change>
 <change when="2015" who="#jda">Initial Encoding</change>
 <change when="2014" who="#km">Transcription</change>
             
@@ -160,7 +162,7 @@
 
 <pb facs="shan_l.231.jpg."/>
 
-<p>2</p>
+<fw>2</fw>
 
 <p>pues á Max le gustaron mucho sus panllamas que le mandaste y jesus le dio una Camisa; y á mi tambien me gusto mis dos camisones uno tu y otro Helena; el año pasado, Helena me dio una kimona, y otra tu pues ya tengo dos kimonas y dos Camisones; y la Betty haygada me mando un set de una azucarera, y un salero, y otro para echar la pímíenta; muy curiosos; estan bonitos; bueno hija,  ya hace dias que te quiero preguntar; que tal salieron los retratos, aquellos cuando venistes <del>para</del>, que fuimos á Denver y nos retratamos en el City Parke; salieron vien, ó que pazo al fin; y dime Como estas, yo te soñe anoche que venías en Car tu sola toda greñuda, Con los ojos Colorados, como si ubieras acavado de llorar;</p>
 
@@ -185,6 +187,40 @@
 </closer>
                 
 </div1>
+
+<div1 type="envelope">
+
+<pb facs="shan_l.228.jpg"/>
+
+<ab type="return">
+<address>
+<addrLine>P.O. Box. 681. J. Baros</addrLine>
+<addrLine>f.t. Lupoton Colo.</addrLine>
+</address>
+</ab>
+
+<ab type="address">
+<address>
+<addrLine>Mrs Sandra B. Schubert</addrLine>
+<addrLine>2738. Pear St.</addrLine>
+<addrLine>Lincoln 3 Ne</addrLine>
+</address>
+</ab>
+
+<ab type="postmark">
+FORT LUPTON<lb/>
+JAN 5<lb/>
+4 PM<lb/>
+1953<lb/>
+COLO.<lb/>
+</ab>
+
+<figure type="stamp">
+<p></p>
+</figure>
+
+</div1>
+
 </body>
         
 <back></back>

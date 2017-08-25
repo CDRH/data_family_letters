@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0"  xml:id="shan_L004.meta">
 <teiHeader>
@@ -50,7 +50,7 @@
 <bibl>
 <author>Torrez, Clemente</author>
 <title level="m" type="main">Letter from Clemente Torrez to Maximino Torres</title>
-<date when="1927-06-25">Month xx, 19xx</date>
+<date when="1927-06-25">June 25, 1927</date>
 <extent>2 pages</extent>
 </bibl>
 <msDesc>
@@ -159,13 +159,14 @@
 <p>hermano despues de saludarte cariñozamente teago saber que en mi poder esta grata de fecha 8 del precente mes viendo enella que teallas con salud delo que tengo vastante gusto que tencuentres con salud y yote ago saber que eestado enfermo cerca de un mes y ace po menos de cuatro dias que me ele vantado y ahora  estoy de combalesiente y yo desiaria que sitienes y puedes mandarme $20.00 veinte pesos horo cera una cosa delas que mucho te agradecera por<unclear reason="illegible"/> siempre tu hermano que falto de salud cencuentra ahora y que emberdad es triste y rreferente a nuestra situasion pues es berdad quees triste por que nos ace falta lo que mas puede uno adorar y apresiar en este mundo que es nuestros padres y rreferente ala pregunta que tu meaces de mi tio pues te digo el dice que sitiene que ir  adar una buelta sidios le presta bida y salud auncuando el dice que no sabe cuando por que tu lla bes que abeses no cepuede decir cuanando por que queda mal
 
 <pb facs="shan_l.006.jpg"/>
+
 y te manda desir mi tio que si sabes de la direcsion de Antonio Soria leagas fabor de mandarcela y silo ves que celo saludes y a Eduardo tambien y al mayordomo.</p>
     
-<p>y defacundo que estabien que si llegas aberlo que le digas ho que si tu sabes de la direcsion cela mandes y dice mitio que si alguien ceacuerda del por vien que celos saludes y rrecibe saludes y saludes de mitio y de Julia y Filomena. Y de mi tio Antonio y familia y de mi tio Crispin y familia y de tu hermano rresibe 3 abrazos y el corazon de tu hermano que te decea <unclear reason="illegible"/> felicidades tu</p>
+<p>y defacundo que estabien que si llegas aberlo que le digas ho que si tu sabes de la direcsion cela mandes y dice mitio <add>que</add> si alguien ceacuerda del por vien que celos saludes y rrecibe saludes y saludes de mitio y de Julia y Filomena. Y de mi tio Antonio y familia y de mi tio Crispin y familia y de tu hermano rresibe 3 abrazos y el corazon de tu hermano que te decea <unclear reason="illegible"/> felicidades tu</p>
     
 <closer>
-<signed>S.S.
-Clemente Torrez</signed>
+<signed>S.S.<lb/>
+Clemente Torrez<lb/></signed>
 </closer>
     
 </div1>

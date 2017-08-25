@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"  xml:id="shan_L092.meta">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Jesusita B Torres to Santos B Schubert, October 14, 1958</title>
+<title type="main">Carta de Jesusita B Torres a Santos B Schubert, 14 de octubre, 1958</title>
+<author>Torres, Jesusita B</author>
+<principal xml:id="iv001">Velázquez, Isabel</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name xml:id="af">Faxas, Adoni A.</name>
+<name xml:id="iv">Velázquez, Isabel</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2015</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Family Letters: An analysis of the Personal Correspondence of a Mexican American Family in Western Colorado and Eastern Nebraska in the First Half of the 20th Century</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Department of Modern Languages and Literatures</name>
+ <address>
+<addrLine>1111 Oldfather Hall</addrLine>
+<addrLine>660 N 12th</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+<addrLine>modlang2@unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+</address>
+<idno>shan_L092.meta</idno>
+<availability>
+<p>COPYRIGHT STATEMENT TO GO HERE</p>
+</availability>
+</publicationStmt>
+            
+<notesStmt><note></note></notesStmt>
+            
+<sourceDesc>
+<bibl>
+<author>Torres, Jesusita B</author>
+<title level="m" type="main">Jesusita B Torres to Santos B Schubert</title>
+<date when="1958-10-14">October 14, 1958</date>
+<extent>2 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Shanahan Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p>2 hand-written pages</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support></support>
+<extent>2 pages
+<dimensions unit="mm"><height></height><width></width></dimensions>
+</extent>
+<condition>
+<p></p></condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="h01" scribe="jbt001" medium="pen"><p>Media: black ink</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote><p></p></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin></origin>
+<provenance></provenance>
+<acquisition></acquisition>
+</history>
+</msDesc>
+                
+</sourceDesc>
+</fileDesc>
+        
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term></term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+<particDesc>
+<person role="sender" xml:id="jbt001">
+<persName>Jesusita B Torres</persName>
+</person>
+<person role="recipient" xml:id="sbs001">
+<persName>Santos B Schubert</persName>
+</person>
+</particDesc>
+</profileDesc>
+        
+<revisionDesc>
+<change when="2015" who="#af">Initial Encoding</change>
+<change when="2014" who="#iv">Transcription</change>
+            
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>
+            
+<div1 type="letter">
+                
+<pb facs="shan_l.314.jpg"/>
+                
+<opener>
+<address><addrLine>ft, Lupton Colo</addrLine></address>
+<dateline>Octu 14, -1958;</dateline>
+
+<salute>Querida hija</salute>
+</opener>
+
+<p>la precente es para Saludarlos, á todos. Siempre deseando esten bien. Con Salud asi como nosotros estamos;</p>
+                
+<p>pues bien ase muchos dias reciví tu carta onde me mandastes los colores de los retratos;</p>
+ 
+<p>sí; tamben ya bino el hombre y se los llevo, me dijo que para el 11, de novem los iba á mandar por correo, y creo que ban á salir muy bonitos;</p>
+
+<p>bueno tambien te platicare que jesus no se ban para Denver como pensaban siempre se ban á estar aqui;</p>
+
+<p>que bueno yo tengo mucho gusto, y deveras que si, tengo mucho gusto, haora estan componiendo la casa al cuarto de adelante lo estan asiendo mas grande;
+
+<pb facs="shan_l.315.jpg"/>
+
+quieren tener la casa mas garnde; la Helen ya no trabaja en Denver; pero estan con la casa;</p>
+
+<p>me dilate en contestarte; porque estaba muy ocupada enfrascando enfrasce chile, y y tomate, Pera, y Durazno; yo sola, Max anda trabajando en la Pisca de la zanoria; el tiempo esta muy bonito hoy pero en dias pasados cayo una eladita, no mucho pero siempre se elo el tomate, ymis flores todas se elaron;</p>
+
+<p>no mas quedaron los zempuales bueno tambien te dire para el 1, de novemb es día de tu Santo, dme con tiempo que es lo que tu quieres que te mande; del Billy boy pues yo se que en Octubre es el dia pero no se cuando, que día de Octu;</p>
+
+<closer>
+<salute>bueno hija pues de todos modos yo creo que sera todo por esta bes; muchos recuerdos para los muchachos y para el Bill; y para ti tu mama</salute>                    
+<signed>Jesusita B Torres</signed>
+</closer>
+                
+</div1>
+</body>
+        
+<back></back>
+</text>
+</TEI>

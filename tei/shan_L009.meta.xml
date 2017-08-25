@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0"  xml:id="shan_L009.meta">
 <teiHeader>
@@ -7,7 +7,7 @@
 <titleStmt>
 <title type="main">Letter from Rodolfo Aviña Torres to Clemente Torres, October 24, 1952</title>
 <title type="main">Carta de Rodolfo Aviña Torres a Clemente Torres, 24 de octubre, 1952</title>
-<author>Torres, Clemente</author>
+<author>Aviña Torres, Rodolfo</author>
 <principal xml:id="iv001">Velázquez, Isabel</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -48,7 +48,7 @@
             
 <sourceDesc>
 <bibl>
-<author>Rodolfo Aviña Torres</author>
+<author>Aviña Torres, Rodolfo</author>
 <title level="m" type="main">Letter from Rodolfo Aviña Torres to Clemente Torres</title>
 <date when="1952-10-24">October 24, 1952</date>
 <extent>2 pages</extent>
@@ -145,22 +145,22 @@
 <pb facs="shan_l.023.jpg"/>
 
 <opener>
-
 <dateline>octubre a 24, de 1952</dateline>
-
-<address><addrLine>Señor Clemente torres</addrLine></address>
-
-<salute>mi muy estimado y apresiado papa esta mi carta lleba el fin de saludarlo cariñosa mente y des pues de saludarlo con el cariño de siempre</salute>
+<salute>Señor Clemente torres</salute>
 </opener>
+
+<p>mi muy estimado y apresiado papa esta mi carta lleba el fin de saludarlo cariñosa mente y des pues de saludarlo con el cariño de siempre</p>
 
 <p>pues papa mas no dege de sentir triste que lemandara desir amimamaque no le contestara mi carta tal bes seria por que alguna cosa lo ayga ofendido pero si asi fue quiero que meaga usted el fabor de perdonarme y sigame contestando mis cartas asta que dios le de lisensia de benirse con nosotros pues papa  usted nos desia que cuando dios losocorriera nos iba aconprar una victrola oun Radio aqui enel Rancho ya ay algunos siusted pudiera traynos uno cuando dios lede lisensia de benir para que el niño agustin senseñe abailar lla comiensa ablar y lla anda vien como un titere y lla sabe desir papa y mama
 
 <pb facs="shan_l.024.jpg"/>
-y no leplatico mas por que estoy un poco malo y </p>
 
-<closer>Resiba muchos abrasos decada uno de sus hijos y de su comadre Selerina y saludinos mucho amitio Magsimino y amitia Jesusita y Resiban saludes de mi mama y de mi resiba los mas finos Recuerdos que berlo deseo mejor que escrebirle y es cuanto le dise el ultimo de sus hijos yo Rodolfo Torres
+y no leplatico mas por que estoy un poco malo y</p>
 
-<signed>albiña</signed>
+<closer>
+<salute>Resiba muchos abrasos decada uno de sus hijos y de su comadre Selerina y saludinos mucho amitio Magsimino y amitia Jesusita y Resiban saludes de mi mama y de mi resiba los mas finos Recuerdos que berlo deseo mejor que escrebirle y es cuanto le dise el ultimo de sus hijos yo</salute>
+<signed>Rodolfo Torres<lb/>
+abiña<lb/></signed>
 </closer>
 
 </div1>

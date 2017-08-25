@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"  xml:id="shan_L161.meta">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Santos Baros Schubert to William F. Schubert, October 7, 1950</title>
+<title type="main">Carta de Santos Baros Schubert to William F. Schubert, 07 de octubre, 1950</title>
+<author>Baros Schubert, Santos</author>
+<principal xml:id="iv001">Velázquez, Isabel</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name xml:id="af">Faxas, Adoni A.</name>
+<name xml:id="km">Mendell, Kate</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2016</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Family Letters: An analysis of the Personal Correspondence of a Mexican American Family in Western Colorado and Eastern Nebraska in the First Half of the 20th Century</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Department of Modern Languages and Literatures</name>
+ <address>
+<addrLine>1111 Oldfather Hall</addrLine>
+<addrLine>660 N 12th</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+<addrLine>modlang2@unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+</address>
+<idno>shan_L161.meta</idno>
+<availability>
+<p>COPYRIGHT STATEMENT TO GO HERE</p>
+</availability>
+</publicationStmt>
+            
+<notesStmt><note></note></notesStmt>
+            
+<sourceDesc>
+<bibl>
+<author>Baros Schubert, Santos</author>
+<title level="m" type="main">Letter from Santos Baros Schubert to William F. Schubert</title>
+<date when="1950-10-07">October 7, 1950</date>
+<extent>4 pages and envelope</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Shanahan Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p>4 hand-written pages and envelope</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support></support>
+<extent>4 pages and envelope
+<dimensions unit="mm"><height></height><width></width></dimensions>
+</extent>
+<condition>
+<p></p></condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="h01" scribe="sbs001" medium="pen"><p>Media: black ink</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote><p></p></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin></origin>
+<provenance></provenance>
+<acquisition></acquisition>
+</history>
+</msDesc>
+                
+</sourceDesc>
+</fileDesc>
+        
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term></term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+<particDesc>
+<person role="sender" xml:id="sbs001">
+<persName>Santos Baros Schubert</persName>
+</person>
+<person role="recipient" xml:id="wfs001">
+<persName>William F. Schubert</persName>
+</person>
+</particDesc>
+</profileDesc>
+        
+<revisionDesc>
+<change when="2017" who="#af">Initial Encoding</change>
+<change when="2016" who="#af">Initial Encoding</change>
+<change when="2015" who="#km">Transcription</change>
+            
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>
+            
+<div1 type="letter">
+                
+<pb facs="shan_l.594.jpg"/>
+                
+<opener>
+<dateline>Oct 7, 1950</dateline>
+
+<salute>Dearest Bill,</salute>
+</opener>
+                
+<p>Have received all your letters and we’re very glad to hear from “Daddy”.</p>
+
+<p>So sorry that I don’t write every day but that don’t mean that I don’t love you or miss you. Billy misses you, too and every night he wants his Daddy&amp;go to his trailer home.</p>
+
+<p>Helen&amp;Jess took me to the Spanish show last night. Mother’s leg didn’t feel so good so she stayed home and I left Billy home. </p>
+
+<p>Bet you think that I’m having a good time – well I’m not having a bad time either. Can’t get around much like when you came with me last year. I have only
+
+<pb facs="shan_l.595.jpg"/>
+
+gone to Denver once Wed.&amp;stayed there with Jerry Wed. nite and came home Thurs. 5:P.M.</p>
+
+<p>I went shopping for mother. Bought her a house dress&amp;hand vacuum cleaner like ours for only $20.86. Then I went to get my reservation for Oct. 22nd Sun at 4:PM. In the Denver Zephyr. If you want me to come home sooner why then you let me know, so I can cancel reservation.</p> 
+
+<p>Wed. night while we’re in Denver Jerry&amp;Johnnie took us to see your aunts. Stayed for about 2 hrs.&amp;then Jerry&amp;Johnnie came after us. And I had a heck of a night. Billy cried, couldn’t sleep. Kids down the basement cried, too. I didn’t sleep at all. They wanted to bring us home but I was so tired. Took the bus 5:PM.</p>
+
+<p>I won’t go to Denver anymore unless Jess could take me&amp;then I’d like to take Billy to the City Park as they have a baby elephant. And I haven’t vested those ladies where I sued to work with.</p>
+
+<p>Jerry came to play with Billy this afternoon but Billy is still asleep. He had a nice bath.</p>
+
+<p>Yesterday was really windy&amp;today so nice&amp;warm. It hasn’t rained here at all. Mother says it hasn’t rained all summer.</p>  
+
+<p>Helen isn’t working anymore as there were two nights that froze everything so Cathy isn’t here anymore. Billy misses her, too. Helen received a good check $120.00 for only two wks. She’s going to buy a gas heater. They’re going to have gas in their house.</p>
+
+<p>I better write to marjorie&amp;thank her for Billy’s sweater. I’ll write
+
+<pb facs="shan_l.596.jpg"/>
+
+again some other day. So don’t worry about us. We’re fine.</p>
+
+<p>Billy just woke up.</p>
+
+<p>Did Betty send anything for Billy’s birthday?</p>
+
+<p>Glad to hear you finally have the new trailer at your home.</p> 
+
+<p>Billy sends you all his love&amp;kisses.</p>
+
+<closer>
+<salute>All my Love,</salute>                    
+<signed>Sandra</signed>
+</closer>
+
+<postscript>
+<p>I love you.<lb/>
+I miss you.<lb/></p>
+ <label>P.S.</label><lb/><p>
+Don’t forget when we’re coming home Oct 22nd in the Denver Zephyr<lb/></p>
+</postscript>
+ 
+</div1>
+
+<div1 type="envelope">
+
+<pb facs="shan_l.592.jpg"/>
+
+<ab type="return">
+<address>
+<addrLine>Mrs. Sandra Schubert</addrLine>
+<addrLine>P.O. Box 681</addrLine>
+<addrLine>Ft. Lupton, Colo</addrLine>
+</address>
+</ab>
+
+<ab type="address">
+<address>
+<addrLine>Mr. W. F. Schubert</addrLine>
+<addrLine>Camp 67</addrLine>
+<addrLine>Rulo, Nebr.</addrLine>
+</address>
+</ab>
+
+<ab type="postmark">
+FORT LUPTON<lb/> 
+OCT 9<lb/>
+8 AM<lb/>
+1950<lb/>
+COLO<lb/>
+</ab>
+
+<figure type="stamp">
+<p></p>
+</figure>
+
+<pb facs="shan_l.593.jpg"/>
+
+<ab type="postmark">
+RULO<lb/>
+OCT 10<lb/>
+1950<lb/>
+NEBR.<lb/>
+</ab>
+
+</div1>
+</body>
+        
+<back></back>
+</text>
+</TEI>

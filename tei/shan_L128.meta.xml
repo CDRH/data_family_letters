@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"  xml:id="shan_L128.meta">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Jess Baros to Mr. and Mrs. Bill Schubert, September 23, 1974</title>
+<title type="main">Carta de Jess Baros a Mr. and Mrs. Bill Schubert, 23 de septiembre, 1974</title>
+<author>Baros, Jess</author>
+<principal xml:id="iv001">Velázquez, Isabel</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name xml:id="af">Faxas, Adoni A.</name>
+<name xml:id="km">Mendell, Kate</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2016</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Family Letters: An analysis of the Personal Correspondence of a Mexican American Family in Western Colorado and Eastern Nebraska in the First Half of the 20th Century</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Department of Modern Languages and Literatures</name>
+ <address>
+<addrLine>1111 Oldfather Hall</addrLine>
+<addrLine>660 N 12th</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+<addrLine>modlang2@unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+</address>
+<idno>shan_L128.meta</idno>
+<availability>
+<p>COPYRIGHT STATEMENT TO GO HERE</p>
+</availability>
+</publicationStmt>
+            
+<notesStmt><note></note></notesStmt>
+            
+<sourceDesc>
+<bibl>
+<author>Baros, Jess</author>
+<title level="m" type="main">Jess Baros to Mr. and Mrs. Bill Schubert</title>
+<date when="1974-09-23">September 23, 1974</date>
+<extent>3 pages and envelope</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Shanahan Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p>3 hand-written pages and envelope</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support></support>
+<extent>3 pages and envelope
+<dimensions unit="mm"><height></height><width></width></dimensions>
+</extent>
+<condition>
+<p></p></condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="h01" scribe="jjb001" medium="pen"><p>Media: black ink</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote><p></p></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin></origin>
+<provenance></provenance>
+<acquisition></acquisition>
+</history>
+</msDesc>
+                
+</sourceDesc>
+</fileDesc>
+        
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term></term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+<particDesc>
+<person role="sender" xml:id="jjb001">
+<persName>Jess Baros</persName>
+</person>
+<person role="recipient" xml:id="sbs001">
+<persName>Mr. and Mrs. Bill Schubert</persName>
+</person>
+</particDesc>
+</profileDesc>
+        
+<revisionDesc>
+<change when="2017" who="#af">Initial Encoding</change>
+<change when="2016" who="#af">Initial Encoding</change>
+<change when="2015" who="#km">Transcription</change>
+            
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>
+            
+<div1 type="letter">
+                
+<pb facs="shan_l.476.jpg"/>
+
+<fw>1</fw>
+                
+<opener>
+<dateline>Sept 23, 1974</dateline>
+<address><addrLine>Ft Lupton, Colo</addrLine></address>
+
+<address><addrLine>Dear Sandra&amp;Family</addrLine></address>
+<salute>I write a few lines to let you know that we are all fine, thanks be to God.</salute>
+</opener>
+
+<p>Hope that you and your family are all in good health.</p>
+
+<p>Well Sandra, I understand that you called Max yesterday and that he mention that mother was in the hospital. Well she is in the hospital but it is not serious. at least not at this time. It was serious when she went into the hospital; you see, the blood was not circulating in one leg, or rather in the right foot. and it was getting sort of serious. you know as a diabetic any infection could easily turn into something serious.</p>
+
+<p>But now after 7 days she is responding very well to the treatment. the swelling
+
+<pb facs="shan_l.478.jpg"/>
+
+<fw>2</fw>
+
+went down, the infection is now cleared as of today. I went with Max, to see her this evening and she is a lot better. some pain, but not too much.</p>
+
+<p>I was not going to tell you about her in the hospital unless it became of a serious nature, then I would have called you. but up to this time it is not too serious.</p>
+
+<p>Well how is your eye? Is it clearing up? or are you still bothered with it? I’m sure you’ll take good care of your eye sight. Its very important that you do. We have nothing to complain about in our family, God been very good to us.</p>
+
+<p>Max is bothered slightly with his legs but medication has helped him <del/> a lot. beside warm weather agrees with him and we been having warm weather up until now.</p>
+
+<pb facs="shan_l.480.jpg"/>
+
+<fw>3</fw>
+
+<p>Oh, before I forget to tell you, the african violet that you gave us is really a beautiful plant now. As I <del>st</del> sit here writing to you I can count 14 flowers in full bloom and about 15 or 16 flower buds on their way to bloom.</p>
+
+<p>My old african violet just sits there, no blooms or nothing </p>
+
+<closer>
+<salute>Well I guess this is all for now, lots of love from</salute>                    
+<signed>Jess, Helen&amp;Mark.</signed>
+</closer>
+                
+</div1>
+
+<div1 type="envelope">
+
+<pb facs="shan_l.474.jpg"/>
+
+<ab type="return">
+<address>
+<addrLine>JESS BAROS</addrLine>
+<addrLine>830 HOOVER AV</addrLine>
+<addrLine>FORT LUPTON CO 80621</addrLine>
+</address>
+</ab>
+
+<ab type="address">
+<address>
+<addrLine>Mr &amp; Mrs Bill Schubert</addrLine>
+<addrLine>3850 “C” St.</addrLine>
+<addrLine>Lincoln, Neb.</addrLine>
+</address>
+</ab>
+
+<ab type="postmark">
+FORT LUPTON, CO<lb/>
+SEP 24<lb/>
+AM<lb/>
+1974<lb/>
+80621<lb/>
+</ab>
+
+<figure type="stamp">
+<p></p>
+</figure>
+
+<figure type="stamp">
+<p></p>
+</figure>
+
+</div1>
+</body>
+        
+<back></back>
+</text>
+</TEI>

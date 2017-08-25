@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"  xml:id="shan_L105.meta">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Jesusita B Torres to Mrs. W. F. Schubert, May 28, 1960</title>
+<title type="main">Carta de Jesusita B Torres a Mrs. W. F. Schubert, 28 de mayo, 1960</title>
+<author>Torres, Jesusita B</author>
+<principal xml:id="iv001">Velázquez, Isabel</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name xml:id="af">Faxas, Adoni A.</name>
+<name xml:id="km">Mendell, Kate</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2015</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Family Letters: An analysis of the Personal Correspondence of a Mexican American Family in Western Colorado and Eastern Nebraska in the First Half of the 20th Century</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Department of Modern Languages and Literatures</name>
+ <address>
+<addrLine>1111 Oldfather Hall</addrLine>
+<addrLine>660 N 12th</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+<addrLine>modlang2@unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+</address>
+<idno>shan_L105.meta</idno>
+<availability>
+<p>COPYRIGHT STATEMENT TO GO HERE</p>
+</availability>
+</publicationStmt>
+            
+<notesStmt><note></note></notesStmt>
+            
+<sourceDesc>
+<bibl>
+<author>Torres, Jesusita B</author>
+<title level="m" type="main">Letter from Jesusita B Torres to Mrs. W. F. Schubert</title>
+<date when="1960-05-28">May 28, 1960</date>
+<extent>4 pages and envelope</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Shanahan Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p>4 hand-written pages and envelope</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support></support>
+<extent>4 pages and envelope
+<dimensions unit="mm"><height></height><width></width></dimensions>
+</extent>
+<condition>
+<p></p></condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="h01" scribe="jbt001" medium="pen"><p>Media: black ink</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote><p></p></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin></origin>
+<provenance></provenance>
+<acquisition></acquisition>
+</history>
+</msDesc>
+                
+</sourceDesc>
+</fileDesc>
+        
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term></term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+<particDesc>
+<person role="sender" xml:id="jbt001">
+<persName>Jesusita B Torres</persName>
+</person>
+<person role="recipient" xml:id="sbs001">
+<persName>Mrs. W. F. Schubert</persName>
+</person>
+</particDesc>
+</profileDesc>
+        
+<revisionDesc>
+<change when="2017" who="#af">Initial Encoding</change>
+<change when="2015" who="#af">Initial Encoding</change>
+<change when="2014" who="#km">Transcription</change>
+            
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>
+            
+<div1 type="letter">
+                
+<pb facs="shan_l.374.jpg"/>
+                
+<opener>
+<address><addrLine>Ft, Lupton Colo</addrLine></address>
+<dateline>27, may—1960,</dateline>
+
+<address><addrLine>Querida híja</addrLine></address>
+<salute>la precente es para Saludarlos, tanto al Bill, como á ti y á níños, esperando que esten bien, todos: pues nosotros estamos buenos gracías á Díos;</salute>
+</opener>
+                
+<p>pues ya ase días que me cayo el retrato de la baby Elizabeth, for mother day; pues esta deberas esta parecída á ti; ya se be muy grande quíen sabe sí <add>en</add> <del>el</del> en el cuerpo no se paresca á ti, tu estas chaparita quíen ella;</p>
+
+<p>de nuebas te platícare que aquí el tiempo esta muy bonito, y lla ay mucho trabajo, en el Betabel, y en las plantaciones ya tu sabes;</p>
+
+<pb facs="shan_l.375.jpg"/>
+
+<p>bueno en tu carta me dises que tienes flores; pero no me díses sí al fin te prendieron aqueyos camotes que llebo al Bill, de clabdioll<add>os</add> color de roza, y blancas; pues aqui tengo muchos; pero todabía estan chíquitas tu sabes todabía no es tiempo de que esten grandes; dallias tambíen tengo estan muy bonitas;</p>
+
+<p>yo é estado bien muy descansa<add>da</add> bendito se Díos; as oraciones <add>hija</add> para que se me quite esta enfermedad; porque esta enfermedad; es de ricos; á uno de pobre; no puede uno, estar asiendo costos; porque dinero, y dinero y mas, dinero;</p>
+
+<p>enseña á tus níños, á rezar y <add>e</add> pedir <add>por</add> los enfermos; Díos es muy
+
+<pb facs="shan_l.376.jpg"/>
+
+bueno sí oye las oracíones de los níños; por ellos son agelítos de Díos;</p>
+
+<p>y mira anque yo enbeses no te escríba, tu cuando puedes escríbirme, platicarme algo; de lo que te pase, ó de algunas news;</p>
+
+<p>pues aquí yo si te platico algo de lo que pasa; pues al esposo de la Frances nolasco; te platicare como siempre se queda poraya en Denver; dura asta 4, o. 5 días su pago lo resíven el Viernes, y cayo asta el martes todo golpeado le quitaron su dinero cayo aquí asta el martes despues de medío día, con las quijadas quebradas, y haora pues aquí esta sin trabajar; llendo con el Doctor, lo tienen; me dijo la Frances</p>
+
+<pb facs="shan_l.377.jpg"/>
+
+<p>que amarado de las quijadas el Doctr; con alambres que no puede ni ablar, <add>ni</add> comer pura cosas bebido; la Frances se rí díse pues ojala y ya haora se le quite lo andulante; pues pobres, pero haorita sí le estan alludando; porque yo beo que le train mucha comida; suguro que <add>por</add> los niños tu sabes por la familia; es muy bueno tener hijos pues yo se quí es mucho trabajo pero por la familía el Gobierno ayuda.</p>
+
+<closer>
+<salute>bueno ya estubimos platicando. saludes tanto para Bill, como para tí y los niños, de max y jessee y famíly y de mí tu mamá</salute>                    
+<signed>jesusita B. Torres;</signed>
+</closer>
+                
+</div1>
+
+<div1 type="envelope">
+
+<pb facs="shan_l.372.jpg"/>
+
+<ab type="return">
+<address>
+<addrLine>814. Pacífic, ave;</addrLine>
+<addrLine>Ft. Lupton colorado</addrLine>
+</address>
+</ab>
+
+<ab type="address">
+<address>
+<addrLine>mrs. W. F. Schubert</addrLine>
+<addrLine>1016 South, 40th St;</addrLine>
+<addrLine>Lincoln, 10, nebraska</addrLine>
+</address>
+</ab>
+
+<ab type="postmark">
+FORT LUPTON<lb/>
+MAY 28<lb/>
+430PM<lb/>
+1960<lb/>
+COLO.<lb/>
+</ab>
+
+</div1>
+</body>
+        
+<back></back>
+</text>
+</TEI>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0"  xml:id="shan_L019.meta">
 <teiHeader>
@@ -51,7 +51,7 @@
 <author>Felipita N. Baca</author>
 <title level="m" type="main">Letter from Felipita N. Baca to Jesusita Baros</title>
 <date when="1937-07-31">July 31, 1937</date>
-<extent>2 pages</extent>
+<extent>2 pages and envelope</extent>
 </bibl>
 <msDesc>
 <msIdentifier>
@@ -59,21 +59,22 @@
 <idno></idno>
 </msIdentifier>
 <msContents>
-<p>2 hand-written pages</p>
+<p>2 hand-written pages and envelope</p>
 </msContents>
 <physDesc>
 <objectDesc>
 <supportDesc>
 <support></support>
-<extent>2 pages
+<extent>2 pages and envelope
 <dimensions unit="mm"><height></height><width></width></dimensions>
 </extent>
 <condition>
 <p></p></condition>
 </supportDesc>
 </objectDesc>
-<handDesc hands="1">
+<handDesc hands="2">
 <handNote xml:id="h01" scribe="fnb001" medium="pencil"><p>Media: Lead/Graphite</p></handNote>
+<handNote xml:id="h02" scribe="ejs001" medium="pencil"><p>Media: Lead/Graphite</p></handNote>
 </handDesc>
 <typeDesc>
 <typeNote><p></p></typeNote>
@@ -170,11 +171,45 @@
 <closer>Sin mas su comadre que le desea Felecidadez,
 
 <signed>Felipita N. Baca.</signed>
-<add>1018 N. Walter St.</add>
-<add>Albuquurque N. Mex.</add>
+<address><addrLine>1018 N. Walter St.</addrLine></address>
+<address><addrLine>Albuquurque N. Mex.</addrLine></address>
 </closer>
 
 </div1>
+
+<div1 type="envelope">
+
+<pb facs="shan_l.076.jpg"/>
+
+<ab type="address">
+<address>
+<addrLine>Mrs. Jesusita Baros</addrLine>
+<addrLine>2115 Arapaho St.</addrLine>
+<addrLine>Denver</addrLine>
+<addrLine>Colorado</addrLine>
+</address>
+</ab>
+
+<ab type="postmark">
+ALBUQUERQUE<lb/>
+Aug 2<lb/>
+3 PM<lb/>
+1937<lb/>
+N. MEX.<lb/>
+</ab>
+
+<figure type="stamp">
+<p></p>
+</figure>
+
+<pb facs="shan_l.077.jpg"/>
+
+<p>After 10 days return to Mrs. Eduard Baca 1018 N. Walter St. Albuquerque N. Mex
+Walhter<lb/>
+</p>
+
+</div1>
+
 </body>
         
 <back></back>

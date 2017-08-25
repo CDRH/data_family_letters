@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0"  xml:id="shan_L043.meta">
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from Clemente Torres to Maximino Torres, July 7, 1944</title>
-<title type="main">Carta de Clemente Torres a Maximino Torres, 7 de julio, 1944</title>
+<title type="main">Letter from Clemente Torres to Maximino Torres, May 5, 1944</title>
+<title type="main">Carta de Clemente Torres a Maximino Torres, 5 de mayo, 1944</title>
 <author>Torres, Clemente</author>
 <principal xml:id="iv001">Velázquez, Isabel</principal>
 <respStmt>
@@ -50,8 +50,8 @@
 <bibl>
 <author>Clemente Torres</author>
 <title level="m" type="main">Letter from Clemente Torres to Maximino Torres</title>
-<date when="1944-07-07">July 7, 1944</date>
-<extent>2 pages</extent>
+<date when="1944-05-05">May 5, 1944</date>
+<extent>2 pages and envelope</extent>
 </bibl>
 <msDesc>
 <msIdentifier>
@@ -59,13 +59,13 @@
 <idno></idno>
 </msIdentifier>
 <msContents>
-<p>2 hand-written pages</p>
+<p>2 hand-written pages and envelope</p>
 </msContents>
 <physDesc>
 <objectDesc>
 <supportDesc>
 <support></support>
-<extent>2 pages
+<extent>2 pages and envelope
 <dimensions unit="mm"><height></height><width></width></dimensions>
 </extent>
 <condition>
@@ -146,11 +146,11 @@
                 
 <opener>
 <dateline>Mayo 5 de 1944</dateline>
-<add>Huapamacato, Mich</add>
+<address><addrLine>Huapamacato, Mich</addrLine></address>
 
-<address><addrLine>Estimado Hermano.</addrLine></address>
-<salute>Despues de saludarte y deseando te encuentre vien como son mis deseos paso a dar contestacion a tu appreciable cartita:</salute>
-</opener>
+<salute>Estimado Hermano.</salute></opener>
+
+<p>Despues de saludarte y deseando te encuentre vien como son mis deseos paso a dar contestacion a tu appreciable cartita:</p>
                 
 <p>Pues de lo que me dices de mi tio que si murio o no mi tio ya fallecio y mi tia Gracia tambien y a Blas Ayala ya lo entreviste y le di tu domicilio , de lo que me dises del volcan, pues siertamente si fue algo prejudicial, pero no perjudico mucho a Zamora lo que si perjudica es algo a las plantas, la arena que arroja el volcán pues es algo espantoso que nos amuela demaciado, que siempre como es natural para tiempo de las aguas se calma poco y por eso es como te había dicho que mis deseos son irme aya contigo
 
@@ -158,12 +158,59 @@
 
 pero no he logrado la oportunidad de hacerlo, porque nuestro gobierno no nos ha permitido el paso de nuestro estado pues uno de los muchachos de aqui mas o menos le costo como trescientos pesos la salida para los Estados Unidos como renganchista que ya pasando como de contrabando puede costar menos pero lleva mas peligros uno pues por lo pronto e pensado aguantarla hasta que el gobierno nos permita el paso a los Estados Unidos ya que aqui se la pasa uno muy amolado, tambien te recomiendo mucho que me hagas el favor de saludar a tu esposa y <unclear reason="illegible">berla</unclear> lo mejor que puedas ya que tu ves que se lo merece por lo vuena que ha sido.</p>
 
+<p>sin mas por haora que deseando te encuentres vien y me saludes a todos de mi parte cariñosamente y deseando me contestes lo mas pronto posible y resiban saludos de todos y de mi esposa y tu resibe los mas finos saludos de tu hermano que desea verte mejor que escribirte.</p>
+
 <closer>
-<salute>sin mas por haora que deseando te encuentres vien y me saludes a todos de mi parte cariñosamente y deseando me contestes lo mas pronto posible y resiban saludos de todos y de mi esposa y tu resibe los mas finos saludos de tu hermano que desea verte mejor que escribirte.</salute>  
+<salute>Tu hermano</salute>  
                 
-<signed>Tu hermano Clemente Torres.</signed>
+<signed>Clemente Torres.</signed>
 </closer>
                 
+</div1>
+
+<div1 type="envelope">
+
+<pb facs="shan_l.164.jpg"/>
+
+<ab type="return">
+<address>
+<addrLine>Remite</addrLine>
+<addrLine>Clemente Torres</addrLine>
+<addrLine>Huapamacato, MIch</addrLine>
+<addrLine>Churintzio, Mich.</addrLine>
+</address>
+</ab>
+
+<ab type="address">
+<address>
+<addrLine>Sr.</addrLine>
+<addrLine>Maximino Torrez</addrLine>
+<addrLine>529-22-nd-St</addrLine>
+<addrLine>Danver Colorado</addrLine>
+<addrLine>Estados Unidos A.</addrLine>
+</address>
+</ab>
+
+<ab type="postmark">
+LA <unclear reason= "illegibile"/><lb/>
+12-MAY <unclear reason= "illegibile"/> -12<lb/>
+MICH.<lb/>
+</ab>
+
+<ab type="postmark">
+LA PIEDAD<lb/>
+12-MAY <unclear reason= "illegibile"/> -12<lb/>
+MICH.<lb/>
+</ab>
+
+<figure type="stamp">
+<p></p>
+</figure>
+
+<figure type="stamp">
+<p></p>
+</figure>
+
 </div1>
 </body>
         

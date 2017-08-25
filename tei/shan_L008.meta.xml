@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0"  xml:id="shan_L008.meta">
 <teiHeader>
@@ -11,6 +11,7 @@
 <principal xml:id="iv001">Velázquez, Isabel</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name xml:id="af">Faxas, Adoni</name>
 <name xml:id="jda">Avelar, Janette D.</name>
 <name xml:id="km">Mendell, Kate</name>
 </respStmt>
@@ -51,7 +52,7 @@
 <author>Jesusita Baros Torres</author>
 <title level="m" type="main">Letter from Jesusita Baros Torres to Santos Baros Schubert</title>
 <date when="1964-01-01">January 1, 1964</date>
-<extent>1 page</extent>
+<extent>3 pages and envelope</extent>
 </bibl>
 <msDesc>
 <msIdentifier>
@@ -59,13 +60,13 @@
 <idno></idno>
 </msIdentifier>
 <msContents>
-<p>1 hand-written page</p>
+<p>3 hand-written pages and envelope</p>
 </msContents>
 <physDesc>
 <objectDesc>
 <supportDesc>
 <support></support>
-<extent>1 page
+<extent>3 pages and envelope
 <dimensions unit="mm"><height></height><width></width></dimensions>
 </extent>
 <condition>
@@ -131,6 +132,7 @@
 </profileDesc>
         
 <revisionDesc>
+<change when="2017" who="#af">Initial Encoding</change>
 <change when="2015" who="#jda">Initial Encoding</change>
 <change when="2013" who="#km">Transcription</change>
             
@@ -142,29 +144,74 @@
             
 <div1 type="letter">
                 
-<pb facs="L8 To Santos Baros Schubert January 1, 1964 PDF ONLY.pdf"/>
+<pb facs="shan_l.681.jpg"/>
                   
 <opener>
 <address><addrLine>Ft Lupton Colo</addrLine></address>
-<dateline>Jan 1.-64</dateline>
-<address><addrLine></addrLine></address>
-<salute>Mi querida hija la precente es para saludar los a todos.</salute>
+<dateline>Jan 1.- 64.</dateline>
+<salute>Mi querida hija</salute>
 </opener>
-                
+   
+<p>la precente es para saludar los, á todos;</p>
+             
 <p>Esperando que aygan pasado unos muy buenos, Cristmas; pues nosotros estubimos muy Agusto esta noche pasamos con mi comadre Naty;</p> 
 
-<p>isimos una muy buena sena, y despues nos fuimos á la misa de amedia noche recibí Cristmas de Jessee y de Helen me dieron unos zapatos y un delantar y tambien de la Betty Baca me mando una cristmas Card, y $5.00 y tambien de Uds, que mandaron, pues á max si le gusto las uniones que le mandaste; bueno tambíen a mi; muchas gracias por todo te platicare, que este dia es año new, y aqui esta tan boni dia mucho sol,</p>
+<p>isimos una muy buena sena, y despues nos fuimos á la misa de amedia noche recibí Cristmas de Jessee y de Helen me dieron unos zapatos y un delantar y tambien de la Betty Baca me mando una cristmas Card, y $5.00 y tambien de Uds, que mandaron, pues á max si le gusto las uniones que le
+
+<pb facs="shan_l.682.jpg"/>
+
+mandaste; bueno tambíen a mi; muchas gracias por todo te platicare, que este dia es año new, y aqui esta tan boni dia mucho sol,</p>
 
 <p>para el de cristmas si abia mucha, nieve; ó la Frances le dio mucho gusto por lo que le mandastes, dice que muchas Gracias;</p>
 
-<p>bueno pues ya no tengo mas nuevas. yo creo que esto sera todo por esta ves, y tambíen te quiero desir, que para cuidas vebies ajenos, yo creo que tu tienes sufuisienta trabajo en tu casa, y tu no tienes mucha necesidad; de batayar con familia ajena; yo creo que por eso estas tan flaca, cuidate porque si tu no te cuidas pos quien esperas que te cuide; mas por eso ni tienes tiempo ni de escribirme; bueno Diosito que te ayude muchos recuerdos para todos dile al Roberto que me escriba, y la Pamela tambíen ó al Billy boy que me escriba pues yo me siento mal cuando no se nada de uds; bueno recíve el mas cincero recuerdos de nostostros te deceo un feliz año new y prosperidad, tu mamá de deceo Diosito que de tu</p>
+<p>bueno pues ya no tengo mas nuevas. yo creo que esto sera todo por esta ves, y tambíen te quiero desir, que para cuidas vebies ajenos, yo creo que tu tienes sufuisienta trabajo en tu casa, y tu no tienes mucha necesidad; de batayar con familia ajena; yo creo que por eso estas tan flaca, cuidate porque si tu no te cuidas pos quien esperas que te cuide; mas por eso ni tienes tiempo ni de escribirme;</p>
 
-<closer>Bendiciones,
+<pb facs="shan_l.683.jpg"/>
 
+<p>bueno Diosito que te ayude muchos recuerdos para todos dile al Roberto que me escriba, y la Pamela tambíen ó al Billy boy que me escriba pues yo me siento mal cuando no se nada de uds; bueno recíve el mas cincero recuerdos de nostostros te deceo un feliz año new y prosperidad, tu mamá de deceo Diosito que de tu</p>
+
+<closer>
+<salute>Bendiciones,</salute>
 <signed>Jesusita B. Torres</signed>
 </closer>
                 
 </div1>
+
+<div1 type="envelope">
+
+<pb facs="shan_l.684.jpg"/>
+
+<ab type="return">
+<address>
+<addrLine>814, Pacific ave</addrLine>
+<addrLine>ft Lupton colo</addrLine>
+<addrLine>jesusita B. Torres</addrLine>
+</address>
+</ab>
+
+<ab type="address">
+<address>
+<addrLine>W. F. Schubert</addrLine>
+<addrLine>1016. South 40. th st</addrLine>
+<addrLine>Lincoln 10. nebraska;</addrLine>
+<addrLine>68510.</addrLine>
+</address>
+</ab>
+
+<ab type="postmark">
+FORT LUPTON<lb/>
+JAN 2<lb/>
+10 AM<lb/>
+1964<lb/>
+COLO.<lb/>
+</ab>
+
+<figure type="stamp">
+<p></p>
+</figure>
+
+</div1>
+
 </body>
         
 <back></back>

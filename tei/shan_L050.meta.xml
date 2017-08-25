@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0"  xml:id="shan_L050.meta">
 <teiHeader>
@@ -48,10 +48,10 @@
             
 <sourceDesc>
 <bibl>
-<author>SENDER</author>
+<author>Guadalupe Flemate Medrano</author>
 <title level="m" type="main">Letter from Guadalupe Flemate Medrano to Sandra B. Schubert</title>
 <date when="1957-07-26">July 26, 1957</date>
-<extent>2 pages</extent>
+<extent>2 pages and envelope</extent>
 </bibl>
 <msDesc>
 <msIdentifier>
@@ -59,13 +59,13 @@
 <idno></idno>
 </msIdentifier>
 <msContents>
-<p>2 hand-written pages</p>
+<p>2 hand-written pages and envelope</p>
 </msContents>
 <physDesc>
 <objectDesc>
 <supportDesc>
 <support></support>
-<extent>2 pages
+<extent>2 pages and envelope
 <dimensions unit="mm"><height></height><width></width></dimensions>
 </extent>
 <condition>
@@ -145,14 +145,12 @@
 <pb facs="shan_l.246.jpg"/>
                 
 <opener>
-<dateline>guchipila gulio 26 de 1,957</dateline>
+<address><addrLine>juchipila gulio 26 de 1,957</addrLine></address>
 
-<address><addrLine>Mrs Sandra B. Schubert</addrLine></address>
-
-<salute>mimuy es timada prima</salute>
+<salute>Mrs Sandra B. Schubert</salute>
 </opener>
-                
-<p>te mando esta carta auno que no ten el onor de conoserte pero yo quiro platicarte que le pidos a dioz que me aliví por que yo</p>
+
+<p>mi muy es timada prima te mando esta carta auno que no ten el onor de conoserte pero yo quiro platicarte que le pidos a dioz que me aliví por que yo</p>
 
 <p>estoy mala del desarroyo yo mas vén greo que no es eso so yo créo que tengo mas cosaz por que yo cin to munchas cosas me disen los dotorez que nesecito <unclear reason="illegible">muncho</unclear> curacin ya me an curado pero no me <unclear reason="illegible">alio</unclear> me an curado por que mi papá no tiene con que con que seinos munchos tine muncho gasto en darnoz de comer esta muy caro to do apenas al can samos a comer yo aveses me cinto muy triste que no ayo que aser por estar en ferma y estar ahorita mi papa tan atrasado mi papa tan vén esta un poco en fermo tan vén te digo que me mandes El Retrato de loz nenez para conoserlos pero no se te ol vide mandameloz para ver loz boy a trar a cuarto año no tengo con que con prar mis libroz y mis utilez que nesecito
 
@@ -165,13 +163,41 @@ yo quíra aun que meda pena decirte pero la a go un lado y te digo quiro que me 
 
 <add>y de mí papá y de mi Recive los mas finoz Recuerdoz</add>
 
-<add>Recuerdoz</add>
-
 <signed>de Guadalupe Flemate Medrano</signed>
 </closer>
 
 <postscript><p>Contestame pronto no se te olvide</p></postscript>
                 
+</div1>
+
+<div1 type="envelope">
+
+<pb facs="shan_l.224.jpg"/>
+
+<ab type="return">
+<address>
+<addrLine>after 10 days Return to</addrLine>
+<addrLine>Guadalupe Flemate Medrano</addrLine>
+<addrLine>Zaragosa 8 Juchipila Zacatecas</addrLine> 
+<addrLine>Mexico</addrLine>
+</address>
+</ab>
+
+<ab type="address">
+<address>
+<addrLine>Sra.</addrLine>
+<addrLine>Sandra B. Schubert</addrLine>
+<addrLine>1016 South 40th St.</addrLine>
+<addrLine>Lincoln, Nebrasca</addrLine>
+<addrLine>U.S.</addrLine>
+</address>
+</ab>
+
+<ab type="postmark">
+<unclear reason= "torn"/><lb/>
+ZAC.<lb/>
+</ab>
+
 </div1>
 </body>
         

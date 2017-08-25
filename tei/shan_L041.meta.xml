@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0"  xml:id="shan_L041.meta">
 <teiHeader>
@@ -51,7 +51,7 @@
 <author>Tomasita Autobus</author>
 <title level="m" type="main">Letter from Tomasita Autobus to Santos Barros</title>
 <date when="1942-01-06">January 6, 1942</date>
-<extent>1 page</extent>
+<extent>1 page and envelope</extent>
 </bibl>
 <msDesc>
 <msIdentifier>
@@ -59,13 +59,13 @@
 <idno></idno>
 </msIdentifier>
 <msContents>
-<p>1 hand-written page</p>
+<p>1 hand-written page and envelope</p>
 </msContents>
 <physDesc>
 <objectDesc>
 <supportDesc>
 <support></support>
-<extent>1 page
+<extent>1 page and envelope
 <dimensions unit="mm"><height></height><width></width></dimensions>
 </extent>
 <condition>
@@ -142,33 +142,69 @@
             
 <div1 type="letter">
                 
-<pb facs="L41 to Santos Baros January 6, 1942 PDF ONLY.pdf"/>
+<pb facs="shan_l.764"/>
                 
 <opener>
-<dateline>Erie Colorado</dateline>
-<add>Jan. 6, 1942</add>
+<address><addrLine>Erie Colorado</addrLine></address>
+<dateline>Jan. 6, 1942</dateline>
 
-<address><addrLine>Dearest Santo's</addrLine></address>
-
-<salute><unclear reason="illegible">Just</unclear> a few lines to say hello and when this letter reaches your hands I hope it will find yow in the best of health, as this [letter] leaves me just fine, except for a harmless cold.</salute>
+<salute>Dearest Santo's</salute>
 </opener>
+
+<p><unclear reason="illegible">Just</unclear> a few lines to say hello and when this letter reaches your hands I hope it will find yow in the best of health, as this leaves me just fine, except for a harmless cold.</p>
                 
 <p>Well kid I promised to write to you soon, well here it is, although I dont know exactly what to write</p>
 
-<p>Say kid if yow go to work some where dont forget to write to me & give me your new address, but just the same dont forget to answer any of my letters Gee did I <del/> wish you could come and visit me some time?</p>
+<p>Say kid if yow go to work some where dont forget to write to me&amp;give me your new address, but just the same dont forget to answer any of my letters Gee did I <del/> wish you could come and visit me some time?</p>
 
-<p>Did yow finally go to the show on Sunday? I didnt see you but I thought I saw Lupe I wasn’t sure though and Saturday night I was over in Lupton too and I saw your brother & some other guy’s, I as just going in the house when I saw him pass up by Amedy’s house & stay By the way tell yow mother hello & Lupe & Jennie if yow get to see them and I know yow will see your mother Ha! Ha!</p>
+<p>Did yow finally go to the show on Sunday? I didnt see you but I thought I saw Lupe I wasn’t sure though and Saturday night I was over in Lupton too and I saw your brother&amp;some other guy’s, I as just going in the house when I saw him pass up by Amedy’s house&amp;stay By the way tell yow mother hello&amp;Lupe&amp;Jennie if yow get to see them and I know yow will see your mother Ha! Ha!</p>
 
 <closer><salute>Well I better close I’m making rather a newspaper than a letter well so Long and answer soon Love</salute>    
                 
 <signed>Tammy Autobus</signed>
-<add>Erie Colorado</add>
-<add>Box 174 R #1</add>
+<address><addrLine>Erie Colorado</addrLine></address>
+<address><addrLine>Box 174 R #1</addrLine></address>
 </closer>
 
-<postscript>P.S. and I do mean answer soon</postscript>
-<add>Hmmmm</add>
-                
+<postscript>
+<p>P.S. and I do mean answer soon</p>
+<p>Hmmmm</p>
+</postscript>
+            
+</div1>
+
+<div1 type="envelope">
+
+<pb facs="shan_l.762.jpg"/>
+
+<ab type="return">
+<address>
+<addrLine>Return to Tomasita Autobus</addrLine>
+<addrLine><unclear reason= "illegible">Box  154 R. # I</unclear></addrLine>
+<addrLine>Erie Colorado</addrLine>
+</address>
+</ab>
+
+<ab type="address">
+<address>
+<addrLine>Miss Santos Barros</addrLine>
+<addrLine>Fort Lupton</addrLine> 
+<addrLine>Colorado</addrLine>
+</address>
+</ab>
+
+<ab type="postmark">
+ERIE.<lb/>
+JAN 6<lb/>
+2 –PM<lb/>
+1942<lb/>
+COLO.<lb/>
+</ab>
+
+<figure type="stamp">
+<p></p>
+</figure>
+
 </div1>
 </body>
         

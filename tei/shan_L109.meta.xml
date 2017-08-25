@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"  xml:id="shan_L109.meta">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Jesusita B Torres to Santos Schubert, January 07, 1963</title>
+<title type="main">Carta de Jesusita B Torres a Santos Schubert, 07 de enero, 1963</title>
+<author>Torres, Jesusita B</author>
+<principal xml:id="iv001">Velázquez, Isabel</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name xml:id="af">Faxas, Adoni A.</name>
+<name xml:id="km">Mendell, Kate</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2015</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Family Letters: An analysis of the Personal Correspondence of a Mexican American Family in Western Colorado and Eastern Nebraska in the First Half of the 20th Century</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Department of Modern Languages and Literatures</name>
+ <address>
+<addrLine>1111 Oldfather Hall</addrLine>
+<addrLine>660 N 12th</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+<addrLine>modlang2@unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+</address>
+<idno>shan_L109.meta</idno>
+<availability>
+<p>COPYRIGHT STATEMENT TO GO HERE</p>
+</availability>
+</publicationStmt>
+            
+<notesStmt><note></note></notesStmt>
+            
+<sourceDesc>
+<bibl>
+<author>Torres, Jesusita B</author>
+<title level="m" type="main">Letter from Jesusita B Torres to Santos Schubert</title>
+<date when="1928-01-07">January 07, 1963</date>
+<extent>3 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Shanahan Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p>3 hand-written pages</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support></support>
+<extent>3 pages
+<dimensions unit="mm"><height></height><width></width></dimensions>
+</extent>
+<condition>
+<p></p></condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="h01" scribe="jbt001" medium="pen"><p>Media: black ink</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote><p></p></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin></origin>
+<provenance></provenance>
+<acquisition></acquisition>
+</history>
+</msDesc>
+                
+</sourceDesc>
+</fileDesc>
+        
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term></term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+<particDesc>
+<person role="sender" xml:id="jbt001">
+<persName>Jesusita B Torres</persName>
+</person>
+<person role="recipient" xml:id="sbs001">
+<persName>Santos Schubert</persName>
+</person>
+</particDesc>
+</profileDesc>
+        
+<revisionDesc>
+<change when="2015" who="#jda">Initial Encoding</change>
+<change when="2014" who="#af">Transcription</change>
+            
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>
+            
+<div1 type="letter">
+                
+<pb facs="shan_l.400.jpg"/>
+
+<fw>1.</fw>
+                
+<opener>
+<address><addrLine>ft. Lupton Colo</addrLine></address>
+<dateline>jan 7,- 1963.</dateline>
+
+<salute>Querida hija</salute>
+</opener>
+
+<p>la precente es para Saludarlos, á todos Deceando haygan pasado unos muy buenos cristmas; y un feliz año new, pues nosotros la pasamos muy bíen Gracías, á Diosito que es tan bueno;</p>
+                
+<p>para el día de cristmas nos cambído Salome una becína puso un nacimiento; y nos combido una noche antes: y rezamos, y cantamos; á nosotros nos gusto mucho: esa noche íso mucho frío y abía mucha nieve; pero víníeron por nosotros y tambíen nos trajíeron, y un car;</p>
+
+<p>yo pense que me íba á –
+
+<pb facs="shan_l.402.jpg"/>
+
+<fw>2.</fw>
+
+enfermar, porque no dormimos en toda la noche; pero Díosito me ayudo; no me iso nada mal;</p>
+
+<p>bueno, tambíen recívímos precentes Helena le dío un Pantalon á Max, y tambíen tu le mandaste una camísa, y medías; hó á el le gusto, mucho, y dise muchas Gracías; pues á mi tambíen me gusto mis calzones que me mandastes; me cayo muy bíen, pues no tenía; pero pues yo no se porque se asen chiquitos despues que se laban;</p>
+
+<p>y tambíen mi comadre Felípíta me mando, $5.00, tambíen la Betty me mando, otros $5.00 yo les escríví antes les díje que no me mandaran nada;
+
+<pb facs="shan_l.404.jpg"/>
+
+<fw>3.</fw>
+
+porque yo no podía mandarles nada, pues ya ban 2, años que yo no les mando; pero síempre ellas me manda<add>ron</add> la Helen me dío unas toallas muy bonitas floreadas; y el jerry nos mando una. cristmas card, pobresito de mí jerry, yo rezo <add>por el y</add> todoas las noches por el y por todos de la famílía Díosíto nos tíene que ayudar;</p>
+
+<p>bueno y tambíen el baby de Helen y empíesa á andar, se esta parecíendo al jess; y grandote que esto lla usa del zize 3;</p>
+
+<p>bueno, pues estubimos, platicando pues yo creo que esto sera todo muchos saludes, al Bill; a bílly boy, y hojala y sea un <add>buen</add> muchachito, y Pamela y Elizabeth, diles algo de nosotros, que no se olbíden; y para tí, un fino recuerdo de max, y tu mamá</p>
+
+<closer>
+<salute>que te Bendice todas las noches</salute>
+<signed>J.B.T.</signed>
+</closer>
+                
+</div1>
+</body>
+        
+<back></back>
+</text>
+</TEI>

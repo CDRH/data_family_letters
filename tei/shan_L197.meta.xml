@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"  xml:id="shan_L197.meta">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Jesusita B. Torres to Santos B. Schubert, April 30, 1958</title>
+<title type="main">Carta de Jesusita B. Torres a Santos B. Schubert, 30 de abril, 1958</title>
+<author>Torres, Jesusita B.</author>
+<principal xml:id="iv001">Velázquez, Isabel</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name xml:id="af">Faxas, Adoni A.</name>
+<name xml:id="km">Reyes, Sara</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Family Letters: An analysis of the Personal Correspondence of a Mexican American Family in Western Colorado and Eastern Nebraska in the First Half of the 20th Century</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Department of Modern Languages and Literatures</name>
+ <address>
+<addrLine>1111 Oldfather Hall</addrLine>
+<addrLine>660 N 12th</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+<addrLine>modlang2@unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+</address>
+<idno>shan_L197.meta</idno>
+<availability>
+<p>COPYRIGHT STATEMENT TO GO HERE</p>
+</availability>
+</publicationStmt>
+            
+<notesStmt><note></note></notesStmt>
+            
+<sourceDesc>
+<bibl>
+<author>Torres, Jesusita B.</author>
+<title level="m" type="main">Letter from Jesusita B. Torres to Santos B. Schubert</title>
+<date when="1958-04-30">April 30, 1958</date>
+<extent>3 pages and envelope</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Shanahan Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p>3 hand-written pages and envelope</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support></support>
+<extent>3 pages and envelope
+<dimensions unit="mm"><height></height><width></width></dimensions>
+</extent>
+<condition>
+<p></p></condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="h01" scribe="jbt001" medium="pen"><p>Media: black ink</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote><p></p></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin></origin>
+<provenance></provenance>
+<acquisition></acquisition>
+</history>
+</msDesc>
+                
+</sourceDesc>
+</fileDesc>
+        
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term></term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+<particDesc>
+<person role="sender" xml:id="jbt001">
+<persName>Jesusita B. Torres</persName>
+</person>
+<person role="recipient" xml:id="sbs001">
+<persName>Santos B. Schubert</persName>
+</person>
+</particDesc>
+</profileDesc>
+        
+<revisionDesc>
+<change when="2017" who="#af">Initial Encoding</change>
+<change when="2015" who="#sr">Transcription</change>
+            
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>
+            
+<div1 type="letter">
+                
+<pb facs="shan_l.693.jpg"/>
+                
+<opener>
+<address><addrLine>ft, Lupton Colo</addrLine></address>
+<dateline>april 30,-1958</dateline>
+
+<salute>Querida hija,</salute>
+</opener>
+                
+<p>la precente es para Saludarte síempre deceando que esten bíen todos asi como nosotros estamos es por lo que le doy Gracías á Díos,</p>
+
+<p>pues bíen, recíví tu carta, yo siempre con la pena de Uds; le díje á jess que les hablara por . Telepon; vino me llevo, para su casa y le abla al Bill;</p>
+
+<p>si estaba poco malo de una mano, ya asía como 2, meses que se abía cortado un dedo muy malamente; se corto los nervíos de los dedos de la mano hisquerda en el trabajo; y el Doctor le cosío la cortado pero le cosío los nervios, de modo que no
+
+<pb facs="shan_l.694.jpg"/>
+
+los podía mober; y ya que se alíbío pero no tenía movimien<add>to</add> en sus dos dedos los mas grandes de la mano hisquerda, no podía trabajar, y le bolviern á ser operacíon; entonses se fue al Hospital por unos 10, días y le bolvieron aser operacíon para soltarle los nervios que le abían cosído y entonses le pusíeron una mano de llezo asta la canilla y unos fierros en los dedos; pero haora en esta semana se los quita<add>ron</add> y todabía no trabaja; la Helen sí, ya esta trabajando y el esta en la casa; max trabajo como un dia de cada semana, porque esta muy llovido; mucha agua;</p>
+
+<p>pues pobre del Bill ya se le acabaron las dos tias que tenía en Denver
+
+<pb facs="shan_l.695.jpg"/>
+
+ya mero acaban el cuarto que te platíque todabía no vienen las puertas; pero yo píenzo que cuando tu bengas ya estara acabado y siga bíen el Bill que no se enferme,</p>
+
+<p>que bonito, salío el Billy boy en el retrato y el Babe no se á retratado mandame uno tambíen, para tener recuerdos de cuando estaban en la escuela;</p>
+
+<p>bueno híja es todo muchos recuerdos del jess y famílía y de Max y de tu mama que mejor deseo berlos que escríbirles ojala y bengan pronto</p> 
+
+<closer>
+<salute>tu mamá</salute>                    
+<signed>jesusita B. Torres</signed>
+</closer>
+                
+</div1>
+
+<div1 type="envelope">
+
+<pb facs="shan_l.691.jpg"/>
+
+<ab type="return">
+<address>
+<addrLine>P.O. Box 681</addrLine>
+<addrLine>Ft. Lupton Colo</addrLine>
+</address>
+</ab>
+
+<ab type="address">
+<address>
+<addrLine>mrs. W F. Schubert</addrLine>
+<addrLine>1016 South 40th st;</addrLine> 
+<addrLine>Lincoln 10 nebraska</addrLine>
+</address>
+</ab>
+
+<ab type="postmark">
+FORT LUPTON<lb/>
+APR 30<lb/> 
+5 30PM<lb/> 
+1958<lb/>
+COLO.<lb/>
+</ab>
+
+<figure type="stamp">
+<p></p>
+</figure>
+
+</div1>
+</body>
+        
+<back></back>
+</text>
+</TEI>

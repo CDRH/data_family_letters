@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"  xml:id="shan_L090.meta">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Jesusita B Torres to Santos B Schubert, August 20, 1958</title>
+<title type="main">Carta de Jesusita B Torres a Santos B Schubert, 20 de agosto, 1958</title>
+<author>Torres, Jesusita B</author>
+<principal xml:id="iv001">Velázquez, Isabel</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name xml:id="af">Faxas, Adoni A.</name>
+<name xml:id="iv">Velázquez, Isabel</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2015</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Family Letters: An analysis of the Personal Correspondence of a Mexican American Family in Western Colorado and Eastern Nebraska in the First Half of the 20th Century</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Department of Modern Languages and Literatures</name>
+ <address>
+<addrLine>1111 Oldfather Hall</addrLine>
+<addrLine>660 N 12th</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+<addrLine>modlang2@unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+</address>
+<idno>shan_L090.meta</idno>
+<availability>
+<p>COPYRIGHT STATEMENT TO GO HERE</p>
+</availability>
+</publicationStmt>
+            
+<notesStmt><note></note></notesStmt>
+            
+<sourceDesc>
+<bibl>
+<author>Torres, Jesusita B</author>
+<title level="m" type="main">Letter from Jesusita B Torres to Santos B Schuber</title>
+<date when="1958-08-20">August 20, 1958</date>
+<extent>2 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Shanahan Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p>2 hand-written pages</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support></support>
+<extent>2 pages
+<dimensions unit="mm"><height></height><width></width></dimensions>
+</extent>
+<condition>
+<p></p></condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="h01" scribe="jbt001" medium="pen"><p>Media: black ink</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote><p></p></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin></origin>
+<provenance></provenance>
+<acquisition></acquisition>
+</history>
+</msDesc>
+                
+</sourceDesc>
+</fileDesc>
+        
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term></term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+<particDesc>
+<person role="sender" xml:id="jbt001">
+<persName>Jesusita B Torres</persName>
+</person>
+<person role="recipient" xml:id="sbs001">
+<persName>Santos B Schubert</persName>
+</person>
+</particDesc>
+</profileDesc>
+        
+<revisionDesc>
+<change when="2015" who="#af">Initial Encoding</change>
+<change when="2014" who="#iv">Transcription</change>
+            
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>
+            
+<div1 type="letter">
+                
+<pb facs="shan_l.310.jpg"/>
+                
+<opener>
+<address><addrLine>ft. Lupton Colo</addrLine></address>
+<dateline>Agost 20-1958</dateline>
+
+<salute>Querida hija</salute>
+</opener>
+
+<p>la precente es para saludarte tanto á tí como al los  muchachos y al Bill nosotros estamos bien Gracías á Dios</p>
+                
+<p>pues mucho gusto recive con tu carta on beo que llegaron bíen es por lo que le doy Gracías á Díos, que dijo el Bill del cheke del Billy boy, yo siempre me acuerdo que me ayudaba á llebarle el lonche al grandpa,</p>
+
+<p>Me dise  la Kethy que le dígas al Billy que los gatitos estan muy grandes y estan en el gallinero la gata se los llevo pal gallinero la Kethy me dijo y iban para Dever y abersí hayaban un phonograph para comprarselos á los muchachos bueno pues muchos recuerdos de la Helen y de Jesus y el Jerry trabajando en el pepino Kethy dise de que quiere ir para ya pero como ya mero
+
+<pb facs="shan_l.311.jpg"/>
+
+es la escuela pueda que sea para hotro año</p>
+
+<closer>
+<salute>bueno esto sera todo por esta ves siempre en cada y cuando me escrbes muchos recuerdos para todos max y de tu mama que les deseo bien en todo</salute>                    
+<signed>Jesusita B. Torres</signed>
+</closer>
+
+<postscript>
+<p>ya tenemos el correo en la casa;</p>
+</postscript>
+                
+</div1>
+</body>
+        
+<back></back>
+</text>
+</TEI>

@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"  xml:id="shan_L131.meta">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from WF Schubert to Mrs. Santos B. Schubert, December 16, 1947</title>
+<title type="main">Carta de WF Schubert a Mrs. Santos B. Schubert, 16 de diciembre, 1947</title>
+<author>Schubert, WF</author>
+<principal xml:id="iv001">Velázquez, Isabel</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name xml:id="af">Faxas, Adoni A.</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2016</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Family Letters: An analysis of the Personal Correspondence of a Mexican American Family in Western Colorado and Eastern Nebraska in the First Half of the 20th Century</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Department of Modern Languages and Literatures</name>
+ <address>
+<addrLine>1111 Oldfather Hall</addrLine>
+<addrLine>660 N 12th</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+<addrLine>modlang2@unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+</address>
+<idno>shan_L131.meta</idno>
+<availability>
+<p>COPYRIGHT STATEMENT TO GO HERE</p>
+</availability>
+</publicationStmt>
+            
+<notesStmt><note></note></notesStmt>
+            
+<sourceDesc>
+<bibl>
+<author>Schubert, WF</author>
+<title level="m" type="main">Letter from WF Schubert to Mrs. Santos B. Schubert</title>
+<date when="1947-12-16">December 16, 1947</date>
+<extent>4 pages and envelope</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Shanahan Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p>4 hand-written pages and envelope</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support></support>
+<extent>4 pages and envelope
+<dimensions unit="mm"><height></height><width></width></dimensions>
+</extent>
+<condition>
+<p></p></condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="h01" scribe="wfs001" medium="pen"><p>Media: blue ink</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote><p></p></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin></origin>
+<provenance></provenance>
+<acquisition></acquisition>
+</history>
+</msDesc>
+                
+</sourceDesc>
+</fileDesc>
+        
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term></term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+<particDesc>
+<person role="sender" xml:id="wfs001">
+<persName>WF Schubert</persName>
+</person>
+<person role="recipient" xml:id="sbs001">
+<persName>Mrs. Santos B. Schubert</persName>
+</person>
+</particDesc>
+</profileDesc>
+        
+<revisionDesc>
+<change when="2016" who="#af">Initial Encoding</change>
+<change when="2014" who="#af">Transcription</change>
+            
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>
+            
+<div1 type="letter">
+                
+<pb facs="shan_l.494.jpg"/>
+                
+<opener>
+<address><addrLine>Havelock, Nebr</addrLine></address>
+<dateline>16 Dec 1947</dateline>
+<dateline>7:45 P.M.</dateline>
+
+<salute>My Darling Wife&amp;Baby –</salute>
+</opener>
+
+<p>your letter of Sunday received this afternoon and glad to hear from you as it had been several days so I was getting more lonesome and blue.</p>
+                
+<p>I’ll be so glad when you two are here as I really miss you and am unhappy by myself. You didn’t say if you had your reservations but hope you do as I want you an baby for Christmas –</p>
+
+<p>Will send the Blue Cross; also, my Insurance tomorrow so it’ll be out of the way – The baby is on the Blue Cross, and it’s $7.00 now –</p>
+
+<p>Last night I had to close my books for the first half so was busy and didn’t write – Today, I have been busy too as I finally got to carry all the mattresses and extra blankets out of the gang bunk house – Have 24 men now after receiving some last night and again tonight – Most of the old ones are gone now so it should be better around here – Suppose most of them will quit about Christmas –</p>
+
+<pb facs="shan_l.496.jpg"/>
+
+<p>I’m getting along ok. My cough is improved so am feeling well – Will you be able to get another baptism certificate? Sure hope so; but wouldn’t know how you lost the other one.</p>
+
+<p>Darling, I want you to come but don’t say I have to get a place before you’ll come be<del>c</del> cause places aren’t that easy; and I do want you both with me it’s not any fun for me here worrying about you – After all I need you, and want baby so I can enjoy him as a baby –</p>
+
+<p>Tomorrow I am suppose to receive my meat, Groceries and some commissary; so hope to get in to town Thursday to get the shopping done and get some cards so I can send them out –</p>
+
+<p>The closet I have been working on is almost finished anyway I put a cloth over the front of it and have my clothes in it now – Mopped and really cleaned the commissary, and
+
+<pb facs="shan_l.495.jpg"/>
+
+my sleeping room – Want to paint some – also have some ply wood to make a little cabinet.</p>
+
+<p>I’ve put $175.00 in the bank since I’ve been here – This month I’ll have a good check coming – Let me know if you need some money as I don’t know how much you have or if you have any of your checks –</p>
+
+<p>Darling, remember I want you and baby for Christmas – I’ll be very unhappy if you disappoint me now. If I have to sleep by myself very much longer I’ll go nuts – Really miss you very very much. It’s been a long long time, over a month now I’ve been away from and that’s been too long now – You and baby get here and we’ll get by someway and have someplace to live.</p>
+
+<p>Sweet heart I’ll say Sweet Dreams now and God Bless You Both –</p>
+
+<closer>
+<salute>Your Husband</salute>                    
+<signed>Bill</signed>
+</closer>
+
+<pb facs="shan_l.497.jpg"/>
+
+<postscript>
+<p>Loads of Love and Kisses to you and Baby</p>
+</postscript>
+ 
+<closer>
+<salute>Your Husband&amp;Daddy</salute>                    
+<signed>Bill</signed>
+</closer>
+
+<postscript>
+<p>-Always yours-</p>
+</postscript>               
+
+</div1>
+
+<div1 type="envelope">
+
+<pb facs="shan_l.492.jpg"/>
+
+<ab type="return">
+<address>
+<addrLine>WF Schubert</addrLine>
+<addrLine>Box 18</addrLine>
+<addrLine>Havelock, Nebr.</addrLine>
+</address>
+</ab>
+
+<ab type="address">
+<address>
+<addrLine>Mrs. Santos B. Schubert</addrLine>
+<addrLine>General Delivery</addrLine>
+<addrLine>Ft. Lupton</addrLine>
+<addrLine>Colorado</addrLine>
+</address>
+</ab>
+
+<pb facs="shan_l.493.jpg"/>
+
+<ab type="postmark">
+FORT LUPTON<lb/>
+DEC 18<lb/>
+6 PM<lb/>
+1947<lb/>
+COLO.<lb/>
+</ab>
+
+</div1>
+</body>
+        
+<back></back>
+</text>
+</TEI>

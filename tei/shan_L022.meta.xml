@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0"  xml:id="shan_L022.meta">
 <teiHeader>
@@ -51,7 +51,7 @@
 <author>Guadalupe Flemate</author>
 <title level="m" type="main">Letter from Guadalupe Flemate to Jesusita Baros</title>
 <date when="1940-12-20">December 20, 1940</date>
-<extent>2 pages</extent>
+<extent>2 pages and envelope</extent>
 </bibl>
 <msDesc>
 <msIdentifier>
@@ -59,13 +59,13 @@
 <idno></idno>
 </msIdentifier>
 <msContents>
-<p>2 hand-written pages</p>
+<p>2 hand-written pages and envelope</p>
 </msContents>
 <physDesc>
 <objectDesc>
 <supportDesc>
 <support></support>
-<extent>2 pages
+<extent>2 pages and envelope
 <dimensions unit="mm"><height></height><width></width></dimensions>
 </extent>
 <condition>
@@ -145,13 +145,13 @@
 <pb facs="shan_l.146.jpg"/>
                   
 <opener>
-<dateline>Juchipila</dateline>
-<add>20 de deciembre de 1940</add>
+<address><addrLine>Juchipila</addrLine></address>
+<dateline>20 de deciembre de 1940</dateline>
 
-<address><addrLine>Sra Eliboria Flemate</addrLine></address>
-                
-<salute>mi muy estimada hermana te dirijo la presente para saludarte y al mismo tiempo para desirte que resebí tu carta  en la cual me dises que estas bien tu y tus hijos la que de mi se despide me deja bien gracias a dios</salute>
+<salute>Sra Eliboria Flemate</salute>
 </opener>
+          
+<p>mi muy estimada hermana te dirijo la presente para saludarte y al mismo tiempo para desirte que resebí tu carta  en la cual me dises que estas bien tu y tus hijos la que de mi se despide me deja bien gracias a dios</p>
 
 <p>pues hermana as de dispensarme la tardanza en contestar tu carta en ella benia un peso y estoy resebida del de tu encargo no tengas pendiente comadre en esta te digo que mi tia Gracia esta en agonía te mando decir para que rueges a a dios por ella que es muy difícil su alivio llo creo que ala hotra carta tedigo de su muerte comadre me da mucha pena contigo que te contesto tus cartas a los dos otres meses pero te boy a desir salgo tan cansada del trabajo que tengo <unclear reason="illegible">ya</unclear> me boy a descansar y seban pasando lo sdias y lla cuanod menos acuerdo lla se paso el tiempo si vieras que estar atendiendo a los clientes unos porque seban hotros porque llegan la cosa es que no descanza uno las desveladas cuando llgan en la noche señora un cuarto cuando uno esta mas agusto en su cama alla ba uno a dar camas llo te digo comadre que lla me canse de este trabajo pero que ago pues
 
@@ -165,6 +165,41 @@ Si no lo hago asi de trabajar en mi hotel de ay saco para la nanutencion tengo d
 </closer>
                 
 </div1>
+
+<div1 type="envelope">
+
+<pb facs="shan_l.144.jpg"/>
+
+<ab type="address">
+<address>
+<addrLine>Sra.</addrLine>
+<addrLine>Jesusita Baros</addrLine>
+<addrLine>P.O. box 481</addrLine>
+<addrLine>Fort Lupton. Colo</addrLine>
+</address>
+</ab>
+
+<ab type="postmark">
+JUCHIPILA<lb/>
+20.DIC.4017<lb/>
+ZAC<lb/>
+</ab>
+
+<figure type="stamp">
+<p></p>
+</figure>
+
+<pb facs="shan_l.145.jpg"/>
+
+<ab type="note">
+Si no es entregada debuelbase a<lb/>
+Guadalupe Flemate<lb/>
+Hotel Saragosa<lb/>
+Juchipila<lb/>
+</ab>
+
+</div1>
+
 </body>
         
 <back></back>

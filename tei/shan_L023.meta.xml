@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng" type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0"  xml:id="shan_L023.meta">
 <teiHeader>
@@ -51,7 +51,7 @@
 <author>Jesus Zamaniego</author>
 <title level="m" type="main">Letter from Jesus Zamaniego to Jesucita Baro</title>
 <date when="1940-01-17">January 17, 1940</date>
-<extent>1 page</extent>
+<extent>1 page and envelope</extent>
 </bibl>
 <msDesc>
 <msIdentifier>
@@ -59,24 +59,24 @@
 <idno></idno>
 </msIdentifier>
 <msContents>
-<p>1 typed page</p>
+<p>1 typed page and envelope</p>
 </msContents>
 <physDesc>
 <objectDesc>
 <supportDesc>
 <support></support>
-<extent>1 page
+<extent>1 page and envelope
 <dimensions unit="mm"><height></height><width></width></dimensions>
 </extent>
 <condition>
 <p></p></condition>
 </supportDesc>
 </objectDesc>
-<handDesc hands="1">
-<handNote xml:id="h01" scribe="js001" medium="typewriter"><p>Media: black ink</p></handNote>
+<handDesc>
+<handNote></handNote>
 </handDesc>
 <typeDesc>
-<typeNote><p></p></typeNote>
+<typeNote><p>Media: black ink</p></typeNote>
 </typeDesc>
 </physDesc>
 <history><origin></origin>
@@ -146,15 +146,15 @@
                     
 <opener>
 
-<dateline>Mexicali, B.C.</dateline>
-<add>a 17 de enero de 1940.</add>
+<address><addrLine>Mexicali, B.C.</addrLine></address><dateline>a 17 de enero de 1940.</dateline>
+
 <add>Sra. Jesucita Baro.</add>
 
-<address><addrLine>Querida mamacita;</addrLine></address>
-
-<salute>Con todo cariño le escribo la presente para saludarla en unión de todos esperando que se encuentre bien como son mis deseos.</salute>
+<salute>Querida mamacita;</salute>
 </opener>
-                
+
+<p>Con todo cariño le escribo la presente para saludarla en unión de todos esperando que se encuentre bien como son mis deseos.</p>
+             
 <p>Después de saludarla le digo que tocante a lo que me dice de la ropa si quiere mandrmela o si quiere mandar el dinero de todos modos es para mí lo mismo.</p>
 
 <p>Pero siempre que no este muy necesitados y no sea graboso.</p>
@@ -166,6 +166,37 @@
 <signed>Jesus Zamaniego.</signed>
 </closer>
                 
+</div1>
+
+<div1 type="envelope">
+
+<pb facs="shan_l.154.jpg"/>
+
+<ab type="return">
+<address>
+<addrLine>Jesus Zamaniego.</addrLine>
+<addrLine>Lista Correos</addrLine>
+<addrLine>Mexicali, B.C.</addrLine>
+</address>
+</ab>
+
+<ab type="address">
+<address>
+<addrLine>Sra. Jesucita Varos.</addrLine>
+<addrLine>P.O. Box 481</addrLine>
+<addrLine>Fort Leupton, Colorado, U.S.A.</addrLine>
+</address>
+</ab>
+
+<ab type="postmark">
+<unclear reason="illegible">MEXICA</unclear><lb/>
+<unclear reason="illegible">ENE</unclear><lb/>
+</ab>
+
+<figure type="stamp">
+<p></p>
+</figure>
+
 </div1>
 </body>
         

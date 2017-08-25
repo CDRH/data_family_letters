@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"  xml:id="shan_L071.meta">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Sr. Nemecio Samaniego to Sra. Ma. de Jesús Varos, September 26, 1961</title>
+<title type="main">Carta de Sr. Nemecio Samaniego a Sra. Ma. de Jesús Varos, 26 de septiembre, 1961</title>
+<author>Varos, María de Jesús</author>
+<principal xml:id="iv001">Velázquez, Isabel</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name xml:id="af">Faxas, Adoni A.</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Family Letters: An analysis of the Personal Correspondence of a Mexican American Family in Western Colorado and Eastern Nebraska in the First Half of the 20th Century</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Department of Modern Languages and Literatures</name>
+ <address>
+<addrLine>1111 Oldfather Hall</addrLine>
+<addrLine>660 N 12th</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+<addrLine>modlang2@unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+</address>
+<idno>shan_L071.meta</idno>
+<availability>
+<p>COPYRIGHT STATEMENT TO GO HERE</p>
+</availability>
+</publicationStmt>
+            
+<notesStmt><note></note></notesStmt>
+            
+<sourceDesc>
+<bibl>
+<author>Varos, María de Jesús</author>
+<title level="m" type="main">Letter from Sr. Nemecio Samaniego to Sra. Ma. de Jesús Varos</title>
+<date when="1961-09-26">September 26, 1961</date>
+<extent>envelope</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Shanahan Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p>envelope</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support></support>
+<extent>envelope
+<dimensions unit="mm"><height></height><width></width></dimensions>
+</extent>
+<condition>
+<p></p></condition>
+</supportDesc>
+</objectDesc>
+<handDesc>
+<handNote></handNote>
+</handDesc>
+<typeDesc>
+<typeNote><p>Media: black ink</p></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin></origin>
+<provenance></provenance>
+<acquisition></acquisition>
+</history>
+</msDesc>
+                
+</sourceDesc>
+</fileDesc>
+        
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term></term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+<particDesc>
+<person role="sender" xml:id="ns001">
+<persName>Nemecio Samaniego</persName>
+</person>
+<person role="recipient" xml:id="jbt001">
+<persName>Jesusita Baros Torres</persName>
+</person>
+</particDesc>
+</profileDesc>
+        
+<revisionDesc>
+<change when="2017" who="#af">Initial Encoding</change>
+<change when="2014" who="#af">Transcription</change>
+            
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>
+            
+<div1 type="envelope">
+
+<pb facs="l.174.jpg"/>
+
+<ab type="return">
+<address>
+<addrLine>Sr. Nemecio Samaniego.</addrLine>
+<addrLine>Calle Galeana 11</addrLine>
+<addrLine>Juchipila, Zac.-</addrLine>
+</address>
+</ab>
+
+<ab type="address">
+<address>
+<addrLine>Sra.-</addrLine>
+<addrLine>Ma. de Jesús Varos.-</addrLine>
+<addrLine>814, Pacific, Ave.</addrLine>
+<addrLine>Ft, Lupton Colo.</addrLine>
+<addrLine>E. U. A.-</addrLine>
+</address>
+</ab>
+
+<ab type="postmark">
+JUCH<lb/>
+26 SEP<lb/>
+ZAC<lb/>
+</ab>
+
+<ab type="postmark">
+ADMINISTRACION DE CORREOS<lb/>
+RECIBO Y DESPACHO<lb/>
+SET261961<lb/>
+DE CORREOS<lb/>
+JUCHIPILA, ZAC.<lb/>
+</ab>
+
+<figure type="stamp">
+<p></p>
+</figure>
+
+<pb facs="l.175.jpg"/>
+
+<ab type="postmark">
+ADMINISTRACION DE CORREOS<lb/>
+RECIBO Y DESPACHO<lb/>
+SET261961<lb/>
+DE CORREOS<lb/>
+JUCHUPILA, ZAC.<lb/>
+</ab>
+
+<ab type="postmark">
+ADMINISTRACION DE CORREOS<lb/>
+RECIBO Y DESPACHO<lb/>
+SET261961<lb/>
+DE CORREOS<lb/>
+JUCHUPILA, ZAC.<lb/>
+</ab>
+
+<ab type="postmark">
+ADMINISTRACION DE CORREOS<lb/>
+RECIBO Y DESPACHO<lb/>
+SET261961<lb/>
+DE CORREOS<lb/>
+JUCHUPILA, ZAC.<lb/>
+</ab>
+
+<ab type="postmark">
+FORT LUPTON<lb/>
+OCT<lb/>
+3<lb/>
+1961<lb/>
+COLO.<lb/>
+</ab>
+
+<ab type="postmark">
+REGISTRADOS<lb/>
+INTERNACIONALES<lb/>
+SET 29 1961<lb/>
+CD. JUAREZ CHIH.<lb/>
+</ab>
+
+</div1>
+</body>
+        
+<back></back>
+</text>
+</TEI>

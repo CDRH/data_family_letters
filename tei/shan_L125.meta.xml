@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"  xml:id="shan_L125.meta">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Jesusita Baros Torres to Santos Baros Schubert, December 17, 1964</title>
+<title type="main">Carta de Jesusita Baros Torres a Santos Baros Schubert, 17 de diciembre, 1964</title>
+<author>Torres, Jesusita Baros</author>
+<principal xml:id="iv001">Velázquez, Isabel</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name xml:id="af">Faxas, Adoni A.</name>
+<name xml:id="km">Mendell, Kate</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Family Letters: An analysis of the Personal Correspondence of a Mexican American Family in Western Colorado and Eastern Nebraska in the First Half of the 20th Century</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Department of Modern Languages and Literatures</name>
+ <address>
+<addrLine>1111 Oldfather Hall</addrLine>
+<addrLine>660 N 12th</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+<addrLine>modlang2@unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+</address>
+<idno>shan_L125.meta</idno>
+<availability>
+<p>COPYRIGHT STATEMENT TO GO HERE</p>
+</availability>
+</publicationStmt>
+            
+<notesStmt><note></note></notesStmt>
+            
+<sourceDesc>
+<bibl>
+<author>Jesusita Baros Torres</author>
+<title level="m" type="main">Letter from Jesusita Baros Torres to Santos Baros Schubert</title>
+<date when="1964-12-17">December 17, 1964</date>
+<extent>3 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Shanahan Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p>3 hand-written pages</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support></support>
+<extent>3 pages
+<dimensions unit="mm"><height></height><width></width></dimensions>
+</extent>
+<condition>
+<p></p></condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="h01" scribe="jbt001" medium="pen"><p>Media: blue ink</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote><p></p></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin></origin>
+<provenance></provenance>
+<acquisition></acquisition>
+</history>
+</msDesc>
+                
+</sourceDesc>
+</fileDesc>
+        
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term></term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+<particDesc>
+<person role="sender" xml:id="jbt001">
+<persName>Jesusita Baros Torres</persName>
+</person>
+<person role="recipient" xml:id="sbs001">
+<persName>Santos Baros Torres</persName>
+</person>
+</particDesc>
+</profileDesc>
+        
+<revisionDesc>
+<change when="2017" who="#af">Initial Encoding</change>
+<change when="2014" who="#km">Transcription</change>
+            
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>
+            
+<div1 type="letter">
+                
+<pb facs="shan_l.428.jpg"/>
+                
+<opener>
+<address><addrLine>ft, Lupton colo</addrLine></address>
+<dateline>Decem 17, – 1964.</dateline>
+
+<salute>Querida hija</salute>
+</opener>
+                
+<p>la precente es para Saludarlos tanto á ti, como al Bill, y la Pamela, y á todos, esperando que todos esten bien pues así lo deceamos; te escribo estas cuantas linías para desírte que recíví la carta que me manda la Panela; pero tu ní ouna palabra tan siquiera; síquiera fírma tu nombre con tu mano, tan siquiera; para desír que estas vívá Todabia;</p>
+
+<p>bueno yo estoy poquito bíen: Gracías á Diosíto que todabía me tiene aquí en el mundo;</p>
+
+<p>bueno pues como todos los años te mando $20 para que les compres las cristmás á los muchachos, y tu sí puedes mandame unas medías que sean calíentitas; pues yo no se sí te acordaras de una ves que tu me conprates una medías del mangamar Wrd, bueno yo no se como se escríbe esa palabra,
+
+<pb facs="shan_l.430.jpg"/>
+
+pero si es la tienda grande; que ay aquí en Denver; y Max tambien medías;</p>
+
+<p>bueno y píenzo sera todo por esta ves, y tambíen quería preguntar de la jane; esta este año á la escuela ó no; pues otras veces me escribe. pero no me escrito ní tu, ni la baby; y siempre no te desentiendas; te lo suplíco, por favor escribeme</p>
+
+<closer>
+<salute>bueno muchos recuerdos á todos los muchachos; de nosotros; max y de mí tu mamaá que te deceo muy buenos cristmas y felíz navidad, –</salute>                    
+<signed>Jesusita B, Torres;</signed>
+
+<pb facs="shan_l.431.jpg"/>
+
+<address><addrLine>mrs. Felipita Baca</addrLine></address>
+<address><addrLine>11043 Arbuckle </addrLine></address>
+<address><addrLine>San Fernando. Calif.</addrLine></address>
+
+</closer>
+                
+</div1>
+</body>
+        
+<back></back>
+</text>
+</TEI>
