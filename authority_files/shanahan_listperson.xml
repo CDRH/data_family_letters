@@ -189,6 +189,7 @@
     <!-- Barbara Fe -->
     <person xml:id="bf001">
         <persName type="display">Barbara Fe</persName>
+        <persName type="facet">Fe, Barbara</persName>
         <persName type="full"><surname type="paternal ">Fe</surname><forename type="first" xml:lang="es">Barbara</forename></persName>
         <sex>female</sex>
     </person>
@@ -196,6 +197,7 @@
     <!-- Teresa Aguilar -->
     <person xml:id="ta001">
         <persName type="display">Teresa Aguilar</persName>
+        <persName type="facet">Aguilar, Teresa</persName>
         <persName type="full"><surname type="marital">Aguilar</surname><forename type="first" xml:lang="es">Teresa</forename></persName>
         <persName type="full"><surname type="marital">Aguilar</surname><forename type="nickname" xml:lang="en">Terry</forename></persName>
         <persName type="full"><surname type="paternal " xml:lang="en">Martinez</surname>, <forename type="first" xml:lang="es">Teresa</forename></persName>
@@ -205,6 +207,7 @@
     <!-- Juan Alanis -->
     <person xml:id="ja002">
         <persName type="display">Juan Alanis</persName>
+        <persName type="facet">Alanis, Juan</persName>
         <persName type="full"><surname xml:lang="es">Alanis</surname><forename type="first" xml:lang="es">Juan</forename></persName>
         <sex>male</sex>
     </person>
@@ -212,6 +215,7 @@
     <!-- Camilo Arellano -->
     <person xml:id="ca002">
         <persName type="display">Camilo Arellano</persName>
+        <persName type="facet">Arellano, Camilo</persName>
         <persName type="full"><surname type="paternal " xml:lang="es">Arellano</surname>, <forename type="first" xml:lang="es">Camilo</forename></persName>
         <nationality source="Shanahan Collection">Mexican</nationality>
         <residence source="Shanahan Collection">Juchipila</residence>
@@ -221,6 +225,7 @@
     <!-- José Arellano -->
     <person xml:id="ja003">
         <persName type="display">José Arellano</persName>
+        <persName type="facet">Arellano, José</persName>
         <persName type="full"><surname type="paternal " xml:lang="es">Arellano</surname>, <forename type="first" xml:lang="es">José</forename></persName>
         <birth when="1835" source="Shanahan Collection">c. 1835</birth>
         <nationality source="Shanahan Collection">Mexican</nationality>
@@ -231,6 +236,7 @@
     <!-- S. S. Arroyo-->
     <person xml:id="ssa">
         <persName type="display">S. S. Arroyo</persName>
+        <persName type="facet">Arroyo, S. S.</persName>
         <persName type="full"><surname xml:lang="es">Arroyo</surname><forename type="first">S. S.</forename></persName>
         <sex></sex>
     </person>
@@ -245,6 +251,7 @@
     <!-- Concepción Arroyo -->
     <person xml:id="ca001">
         <persName type="display">Concepción Arroyo</persName>
+        <persName type="facet">Arroyo, Concepción</persName>
         <persName type="full"><surname type="marital" xml:lang="es">Arroyo</surname><forename type="first" xml:lang="es">Concepción</forename></persName>
         <nationality source="Jane Shanahan">Mexican</nationality>
         <sex>female</sex>
@@ -253,6 +260,7 @@
     <!-- Rafaela Arroyo viuda de Torres -->
     <person xml:id="ravt001">
         <persName type="display">Rafaela Arroyo viuda de Torres</persName>
+        <persName type="facet">Arroyo, Rafaela</persName>
         <persName type="full"><surname type="paternal " xml:lang="es">Arroyo</surname> <nameLink>de</nameLink> <surname type="marital" xml:lang="es"> Torres</surname>, <forename type="first" xml:lang="es">Rafaela</forename></persName>
         <persName type="full"><surname type="paternal " xml:lang="es">Arroyo</surname> <nameLink>viuda de</nameLink> <surname type="marital" xml:lang="es">Torres</surname>, <forename type="first" xml:lang="es">Rafaela</forename></persName>
         <nationality source="Jane Shanahan">Mexican</nationality>
@@ -262,6 +270,7 @@
     <!-- Julia de Arroyo -->
     <person xml:id="ja001">
         <persName type="display">Julia de Arroyo</persName>
+        <persName type="facet">de Arroyo, Julia</persName>
         <persName type="full"><surname type="marital" xml:lang="es">de Arroyo</surname>, <forename type="first" xml:lang="es">Julia</forename></persName>
         <nationality source="Jane Shanahan">Mexican</nationality>
         <sex>female</sex>
@@ -270,6 +279,7 @@
     <!-- Lisa Artega -->
     <person xml:id="la001">
         <persName type="display">Lisa Artega</persName>
+        <persName type="facet">Artega, Lisa</persName>
         <persName type="full"><surname type="paternal " xml:lang="es">Artega</surname>, <forename type="first" xml:lang="en">Lisa</forename></persName>
         <sex>female</sex>
     </person>
@@ -277,6 +287,7 @@
     <!-- Tammy Autobus -->
     <person xml:id="ta002">
         <persName type="display">Tammy Autobus</persName>
+        <persName type="facet">Autobus, Tammy</persName>
         <persName type="full"><surname type="paternal " xml:lang="es">Autobus</surname>, <forename type="first" xml:lang="en">Tammy</forename></persName>
         <sex>female</sex>
     </person>
@@ -284,6 +295,7 @@
     <!-- Victoria Aviña de Torres -->
     <person xml:id="vat001">
         <persName type="display">Victoria Aviña de Torres</persName>
+        <persName type="facet">Aviña de Torres, Victoria</persName>
         <persName type="full"><surname type="paternal " xml:lang="es">Aviña</surname> <surname type="marital" xml:lang="es">de Torre</surname>, <forename type="first">Victoria</forename></persName>
         <nationality> Mexican</nationality>
         <sex>female</sex>
@@ -292,6 +304,7 @@
     <!-- Della Ayna -->
     <person xml:id="da001">
         <persName type="display">Della Ayna</persName>
+        <persName type="facet">Ayna, Della</persName>
         <persName type="full"><surname xml:lang="es">Ayna</surname>, <forename type="first">Della</forename></persName>
         <sex>female</sex>
     </person>
@@ -299,7 +312,8 @@
     <!-- Aurelia Baca Sanchez -->
     <person xml:id="abs001">
         <persName type="display">Aurelia Baca Sanchez</persName>
-        <persName type="full"><surname type="paternal " xml:lang="es">Baca</surname> <surname type="paternal " xml:lang="es">Sanchez</surname> , <forename type="first" xml:lang="es">Aurelia</forename></persName>
+        <persName type="facet">Baca Sánchez,</persName>
+        <persName type="full"><surname type="paternal " xml:lang="es">Baca</surname> <surname type="maternal " xml:lang="es">Sanchez</surname> , <forename type="first" xml:lang="es">Aurelia</forename></persName>
         <residence source="Shanahan Collection">Albuquerque (NM)</residence>
         <sex>female</sex>
     </person>
