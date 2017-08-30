@@ -312,7 +312,7 @@
     <!-- Aurelia Baca Sanchez -->
     <person xml:id="abs001">
         <persName type="display">Aurelia Baca Sanchez</persName>
-        <persName type="facet">Baca Sánchez,</persName>
+        <persName type="facet">Baca Sánchez,Aurelia</persName>
         <persName type="full"><surname type="paternal " xml:lang="es">Baca</surname> <surname type="maternal " xml:lang="es">Sanchez</surname> , <forename type="first" xml:lang="es">Aurelia</forename></persName>
         <residence source="Shanahan Collection">Albuquerque (NM)</residence>
         <sex>female</sex>
@@ -321,13 +321,15 @@
     <!-- Betty Baca -->
     <person xml:id="bb001">
         <persName type="display">Betty Baca</persName>
+        <persName type="facet">Baca, Betty</persName>
         <persName type="full"><surname type="paternal " xml:lang="es">Baca</surname>, <forename type="first" xml:lang="es-en">Betty</forename></persName>
         <sex>female</sex>
     </person>
     
     <!-- Felipita N Baca -->
     <person xml:id="fnb001">
-        <persName type="display">Felipita N Baca</persName>
+        <persName type="display">Felipita N. Baca</persName>
+        <persName type="facet">Baca, Felipita N.</persName>
         <persName type="full"><surname type="marital" xml:lang="es">Baca</surname>,<forename type="first" xml:lang="es">Felipita</forename><forename type="middle" xml:lang="es">N</forename> </persName>
         <sex>female</sex>
     </person>
@@ -342,6 +344,7 @@
     <!-- Lenore Baca -->
     <person xml:id="lb001">
         <persName type="display">Lenore Baca</persName>
+        <persName type="facet">Baca, Lenore</persName>
         <persName type="full"><surname type="paternal " xml:lang="es">Baca</surname>,<forename type="first" xml:lang="es">Lenore</forename></persName>
         <sex>female</sex>
     </person>
@@ -349,6 +352,7 @@
     <!-- Jerry Baros -->
     <person xml:id="jb001">
         <persName type="display">Jerry Baros</persName>
+        <persName type="facet">Baros, Jerry</persName>
         <persName type="full"><surname type="paternal " xml:lang="es">Baros</surname>,<forename type="first" xml:lang="en">Jerry</forename> <forename type="middle" xml:lang="en">Jess</forename></persName>
         <birth when="1943">1943</birth>
         <nationality source="Jane Shanahan">American</nationality>
@@ -358,6 +362,7 @@
     <!-- Kathy Baros -->
     <person xml:id="kb001">
         <persName type="display">Kathy Baros</persName>
+        <persName type="facet">Baros, Kathy</persName>
         <persName type="full"><surname type="paternal " xml:lang="es">Baros</surname>,<forename type="first" xml:lang="en">Kathy</forename> <forename type="middle" xml:lang="en">Olivia</forename></persName>
         <birth when="1946">1946</birth>
         <nationality source="Jane Shanahan">American</nationality>
@@ -367,6 +372,7 @@
     <!-- Helen Baros -->
     <person xml:id="hb001">
         <persName type="display">Helen Baros</persName>
+        <persName type="facet">Baros, Helen</persName>
         <persName type="full"><surname type="marital" xml:lang="es">Baros</surname>,<forename type="first" xml:lang="en">Helen</forename></persName>
         <persName type="full"><surname type="marital" xml:lang="es">Baros</surname>,<forename type="first" xml:lang="es">Helena</forename></persName>
         <persName type="full"><surname type="paternal " xml:lang="unknown">Vosco</surname>, <forename type="first" xml:lang="en">Helen</forename></persName>
@@ -377,6 +383,7 @@
     <!-- Jess Jesús Baros -->
     <person xml:id="jjb001">
         <persName type="display">Jess Jesús Baros</persName>
+        <persName type="facet">Baros, Jess Jesús</persName>
         <persName type="full"> <surname type="maternal " xml:lang="es">Baros</surname>, <forename type="first" full="yes" xml:lang="en">Jess</forename><forename type="middle" full="yes" xml:lang="es">Jesús</forename></persName>
         <persName type="full"> <surname type="maternal " xml:lang="es">Baros</surname>, <forename type="first" full="yes" xml:lang="es">Jesús</forename></persName>
         <persName type="full"> <surname type="maternal " xml:lang="es">Baros</surname>, <forename type="first" full="yes" xml:lang="en">Jessy</forename></persName>
@@ -391,6 +398,7 @@
     <!-- Mark Baros -->
     <person xml:id="mb001">
         <persName type="display">Mark Baros</persName>
+        <persName type="facet">Baros, Mark</persName>
         <persName type="full"><surname type="paternal " xml:lang="es">Baros</surname>,<forename type="first" xml:lang="en">Mark</forename><forename type="middle" xml:lang="en">Max</forename></persName>
         <persName type="full"><surname type="paternal " xml:lang="es">Baros</surname>,<forename type="first" xml:lang="es">Markos</forename></persName>
         <nationality source="Jane Shanahan">American</nationality>
@@ -400,6 +408,7 @@
     <!-- Santos Baros Schubert -->
     <person xml:id="sbs001">
         <persName type="display">Santos Baros Schubert</persName>
+        <persName type="facet">Baros Schubert, Santos</persName>
         <persName type="full"> <surname type="maternal" xml:lang="es">Baros</surname>, <forename type="first" full="yes" xml:lang="es">Santos</forename><forename type="first" xml:lang="es">María</forename> </persName>
         <persName type="full"> <surname type="marital" xml:lang="en">Schubert</surname>, <surname type="maternal " xml:lang="es">Baros</surname> <forename type="first" full="yes" xml:lang="es">Santos</forename></persName>
         <persName type="full"> <surname type="marital" xml:lang="en">Schubert</surname>, <surname type="maternal " xml:lang="es">Baros</surname> <forename type="chosen" full="yes" xml:lang="es-en">Sandra</forename></persName>
@@ -420,6 +429,7 @@
     <!-- Jesusita Baros Torres -->
     <person xml:id="jbt001">
         <persName type="display">Jesusita Baros Torres</persName>
+        <persName type="facet">Baros Torres, Jesusita</persName>
         <persName type="full"> <surname type="paternal " xml:lang="es">Flemate</surname>, <forename type="given" full="yes" xml:lang="es">Livoria</forename></persName>
         <persName type="full"> <surname type="paternal " xml:lang="es">Flemate</surname>, <forename type="variation" full="yes" xml:lang="es">Eliboria</forename></persName>
         <persName type="full"> <surname type="paternal " xml:lang="es">Flemate</surname> <forename type="variation" full="yes" xml:lang="es">Liboria</forename></persName>
@@ -445,6 +455,7 @@
     <!-- Pabla Cisneros -->
     <person xml:id="pc001">
         <persName type="display">Pabla Cisneros</persName>
+        <persName type="facet">Cisneros, Pabla</persName>
         <persName type="full"><surname type="paternal " xml:lang="es">Cisneros</surname>,<forename type="first" xml:lang="es">Pabla</forename></persName>
         <birth when="1918" source="Shanahan Collection">c. 1918</birth>
         <sex>female</sex>
@@ -454,6 +465,7 @@
     <!-- Joe Domingez -->
     <person xml:id="jd001">
         <persName type="display">Joe Dominguez</persName>
+        <persName type="facet">Dominguez, Joe</persName>
         <persName type="full"><surname type="paternal " xml:lang="es">Dominguez</surname>,<forename type="first" xml:lang="en">Joe</forename></persName>
         <sex>male</sex>
     </person>
@@ -461,6 +473,7 @@
     <!-- Eddie Duran -->
     <person xml:id="ed001">
         <persName type="display">Eddie Duran</persName>
+        <persName type="facet">Duran, Eddie</persName>
         <persName type="full"><surname type="paternal " xml:lang="es">Duran</surname>, <forename type="first" xml:lang="en">Eddie</forename></persName>
         <sex>male</sex>
     </person>
@@ -468,6 +481,7 @@
     <!-- Antonio Esparza -->
     <person xml:id="ae001">
         <persName type="display">Antonio Esparza</persName>
+        <persName type="facet">Esparza, Antonio</persName>
         <persName type="full"><surname type="paternal " xml:lang="es">Esparza</surname>, <forename type="first" xml:lang="es">Antonio</forename></persName>
         <nationality source="Shanahan Collection">Mexican</nationality>
         <birth when="1911-10-19" source="Shanahan Collection">October 19, 1911</birth> <!-- D130 -->
@@ -478,6 +492,7 @@
     <!-- Juana Esparza -->
     <person xml:id="je001">
         <persName type="display">Juana Esparza</persName>
+        <persName type="facet">Esparza, Juana</persName>
         <persName type="full"><surname type="paternal " xml:lang="es">Esparza</surname>, <forename type="first" xml:lang="es">Juana</forename></persName>
         <nationality source="Shanahan Collection">Mexican</nationality>
         <birth when="1910-06-21" source="Shanahan Collection">June 21, 1910</birth> <!-- D181 -->
@@ -488,6 +503,7 @@
     <!-- Ruperto Esparza -->
     <person xml:id="re001">
         <persName type="display">Ruperto Esparza</persName>
+        <persName type="facet">Esparza, Ruperto</persName>
         <persName type="full"><surname type="paternal " xml:lang="es">Esparza</surname>, <forename type="first" xml:lang="es">Ruperto</forename></persName>
         <nationality source="Shanahan Collection">Mexican</nationality>
         <birth when="1913-04-15" source="Shanahan Collection">April 15, 1913</birth> <!-- D148 -->
@@ -498,6 +514,7 @@
     <!-- Telesforo Esparza -->
     <person xml:id="te001">
         <persName type="display">Telesforo Esparza</persName>
+        <persName type="facet">Esparza, Telesforo</persName>
         <persName type="full"><surname type="paternal " xml:lang="es">Esparza</surname>, <forename type="first" xml:lang="es">Telesforo</forename></persName>
         <birth when="1857" source="Shanahan Collection">c. 1857</birth>
         <nationality source="Shanahan Collection">Mexican</nationality>
@@ -508,6 +525,7 @@
     <!-- Esperanza Estrada Quirarte -->
     <person xml:id="eeq001">
         <persName type="display">Esperanza Estrada Quirarte</persName>
+        <persName type="facet">Estrada Quirarte, Esperanza</persName>
         <persName type="full"><surname type="first" xml:lang="es">Estrada</surname> <surname type="second" xml:lang="es">Quirarte</surname>, <forename type="first" xml:lang="es">Esperanza</forename></persName>
         <nationality source="Jane Shanahan">Mexican</nationality>
         <sex>female</sex>
@@ -516,6 +534,7 @@
     <!-- Alejo Flemate -->
     <person xml:id="af001">
         <persName type="display">Alejo Flemate</persName>
+        <persName type="facet">Flemate, Alejo</persName>
         <persName type="full"><surname type="paternal " xml:lang="es">Flemate</surname>, <forename type="first" xml:lang="es">Alejo</forename></persName>
         <nationality source="Shanahan Collection">Mexican</nationality>
         <birth when="1835-07-17" source="Shanahan Collection">July 17, 1835</birth> <!-- D178 -->
@@ -527,6 +546,7 @@
     <!-- Candelaria Flemate Medrano-->
     <person xml:id="cf002">
         <persName type="display">Candelaria Flemate Medrano</persName>
+        <persName type="facet">Flemate Medrano, Candelaria</persName>
         <persName type="full"><surname type="paternal" xml:lang="es">Flemate</surname> <surname type="maternal" xml:lang="es">Medrano</surname>, <forename type="first" xml:lang="es">Candelaria</forename></persName>
         <nationality source="Jane Shanahan">Mexican </nationality>
         <sex>female</sex>
@@ -535,6 +555,7 @@
     <!-- Consuelo Flemate -->
     <person xml:id="cf001">
         <persName type="display">Consuelo Flemate</persName>
+        <persName type="facet">Flemate, Consuelo</persName>
         <persName type="full"><surname type="paternal " xml:lang="es">Flemate</surname>, <forename type="first" xml:lang="es">Consuelo</forename></persName>
         <nationality source="Jane Shanahan">Mexican</nationality>
         <sex>female</sex>
@@ -543,6 +564,7 @@
     <!-- Danielito Flemate Medrano -->
     <person xml:id="df002">
         <persName type="display">Danielito Flemate Medrano</persName>
+        <persName type="facet">Flemate Medrano, Danielito</persName>
         <persName type="full"><surname type="paternal" xml:lang="es">Flemate</surname> <surname type="maternal" xml:lang="es">Medrano</surname>, <forename type="first" xml:lang="es">Danielito</forename></persName>
         <nationality source="Jane Shanahan">Mexican</nationality>
         <sex>male</sex>
@@ -551,6 +573,7 @@
     <!-- Demetrio Flemate -->
     <person xml:id="df001">
         <persName type="display">Demetrio Flemate</persName>
+        <persName type="facet">Flemate, Demetrio</persName>
         <persName type="full"><surname type="paternal " xml:lang="es">Flemate</surname>, <forename type="first" xml:lang="es">Demetrio</forename></persName>
         <nationality source="Jane Shanahan">Mexican</nationality> 
         <birth when="1906-12-23" source="Shanahan Collection">December 23, 1906</birth> <!-- D134 -->
@@ -560,6 +583,7 @@
     <!-- Demetrito Flemate Medrano-->
     <person xml:id="df003">
         <persName type="display">Demetrito Flemate Medrano</persName>
+        <persName type="facet">Flemate Medrano, Demetrio</persName>
         <persName type="full"><surname type="paternal" xml:lang="es">Flemate</surname> <surname type="maternal" xml:lang="es">Medrano</surname>, <forename type="first" xml:lang="es">Demetrio</forename></persName>
         <nationality source="Jane Shanahan">Mexican</nationality>
         <sex>male</sex>
@@ -568,6 +592,7 @@
     <!-- Domingo Flemate -->
     <person xml:id="df004">
         <persName type="display">Domingo Flemate</persName>
+        <persName type="facet">Flemate, Domingo</persName>
         <persName type="full"><surname type="paternal " xml:lang="es">Flemate</surname>, <forename type="first" xml:lang="es">Domingo</forename></persName>
         <nationality source="Jane Shanahan">Mexican</nationality>
         <birth when="1864" source="Shanahan Collection">c. 1864</birth>
@@ -578,6 +603,7 @@
     <!-- Demetrito Flemate Medrano-->
     <person xml:id="df005">
         <persName type="display">Domingo Flemate Medrano</persName>
+        <persName type="facet">Flemate Medrano, Domingo</persName>
         <persName type="full"><surname type="paternal" xml:lang="es">Flemate</surname> <surname type="maternal" xml:lang="es">Medrano</surname>, <forename type="first" xml:lang="es">Domingo</forename></persName>
         <nationality source="Jane Shanahan">Mexican</nationality>
         <sex>male</sex>
@@ -586,6 +612,7 @@
     <!-- José de Jesús Flemate Medrano-->
     <person xml:id="jjf001">
         <persName type="display">José de Jesús Flemate Medrano</persName>
+        <persName type="facet">Flemate Medrano, José de Jesús</persName>
         <persName type="full"><surname type="paternal" xml:lang="es">Flemate</surname> <surname type="maternal" xml:lang="es">Medrano</surname>, <forename type="first" xml:lang="es">José</forename><forename type="second" xml:lang="es">de Jesús</forename> </persName>
         <nationality source="Jane Shanahan">Mexican</nationality>
         <sex>male</sex>
@@ -594,6 +621,7 @@
     <!-- Juan Flemate -->
     <person xml:id="jf002">
         <persName type="display">Juan Flemate</persName>
+        <persName type="facet">Flemate, Juan</persName>
         <persName type="full"><surname type="paternal" xml:lang="es">Flemate</surname>, <forename type="first" xml:lang="es">Juan</forename></persName>
         <birth when="1878-05-20" source="Shanahan Collection">May 20, 1878</birth> <!-- 182 -->
         <nationality source="Jane Shanahan">Mexican</nationality>
@@ -603,6 +631,7 @@
     <!-- Julia Flemate -->
     <person xml:id="jf001">
         <persName type="display">Julia Flemate</persName>
+        <persName type="facet">Flemate, Julia</persName>
         <persName type="full"><surname type="paternal " xml:lang="es">Flemate</surname>, <forename type="first" xml:lang="es">Julia</forename></persName>
         <nationality source="Jane Shanahan">Mexican</nationality>
         <sex>female</sex>
@@ -611,6 +640,7 @@
     <!-- Lydia Flemate Medrano-->
     <person xml:id="lfm002">
         <persName type="display">Lydia Flemate Medrano</persName>
+        <persName type="facet">Flemate Medrano, Lydia</persName>
         <persName type="full"><surname type="paternal" xml:lang="es">Flemate</surname> <surname type="maternal" xml:lang="es">Medrano</surname>, <forename type="first" xml:lang="es">Lydia</forename></persName>
         <nationality source="Jane Shanahan">Mexican</nationality>
         <sex>female</sex>
@@ -619,6 +649,7 @@
     <!-- Margarita Flemate -->
     <person xml:id="mf001">
         <persName type="display">Margarita Flemate</persName>
+        <persName type="facet">Flemate, Margarita</persName>
         <persName type="full"><surname type="paternal " xml:lang="es">Flemate</surname>, <forename type="first" xml:lang="es">Margarita</forename></persName>
         <nationality source="Jane Shanahan">Mexican</nationality>
         <birth when="1909-02-20" source="Shanahan Collection">February 20, 1909</birth> <!-- D179 -->
@@ -629,6 +660,7 @@
     <!-- Martina Flemate -->
     <person xml:id="mf002">
         <persName type="display">Martina Flemate</persName>
+        <persName type="facet">Flemate, Martina</persName>
         <persName type="full"><surname type="paternal " xml:lang="es">Flemate</surname>, <forename type="first" xml:lang="es">Martina</forename></persName>
         <nationality source="Jane Shanahan">Mexican</nationality>
         <birth when="1906-11-15" source="Shanahan Collection">November 15, 1906</birth> <!-- D153 -->
@@ -638,6 +670,7 @@
     <!-- Mercedes Flemate Medrano-->
     <person xml:id="mfm001">
         <persName type="display">Mercedes Flemate Medrano</persName>
+        <persName type="facet">Flemate Medrano, Mercedes</persName>
         <persName type="full"><surname type="paternal" xml:lang="es">Flemate</surname> <surname type="maternal" xml:lang="es">Medrano</surname>, <forename type="first" xml:lang="es">Mercedes</forename></persName>
         <nationality source="Jane Shanahan">Mexican</nationality>
         <sex>female</sex>
@@ -646,6 +679,7 @@
     <!-- Guadalupe Flemate -->
     <person xml:id="gf001">
         <persName type="display">Guadalupe Flemate</persName>
+        <persName type="facet">Flemate, Guadalupe</persName>
         <persName type="full"><surname type="paternal " xml:lang="es">Flemate</surname>, <forename type="first" xml:lang="es">Guadalupe</forename></persName>
         <nationality source="Jane Shanahan">Mexican</nationality>
         <birth when="1890-07-02" source="Shanahan Collection">July 02, 1890</birth> <!-- D135 -->
@@ -656,6 +690,7 @@
     <!-- Guadalupe Flemate Medrano -->
     <person xml:id="gf002">
         <persName type="display">Gudalupe Flemate Medrano</persName>
+        <persName type="facet">Flemate Medrano, Guadalupe</persName>
         <persName type="full"><surname type="paternal" xml:lang="es">Flemate</surname> <surname type="maternal" xml:lang="es">Medrano</surname>, <forename type="first" xml:lang="es">Guadalupe</forename></persName>
         <persName type="full"><surname type="paternal" xml:lang="es">Flemate</surname> <surname type="maternal" xml:lang="es">Medrano</surname>, <forename type="nickname" xml:lang="es">Lupe</forename></persName>
         <nationality source="Jane Shanahan">Mexican</nationality>
@@ -672,13 +707,15 @@
     <!-- Julia Gómez -->
     <person xml:id="jg001">
         <persName type="display">Julia Gómez</persName>
+        <persName type="facet">Gómez, Julia</persName>
         <persName type="full"><surname type="first" xml:lang="es">Gómez</surname>, <forename type="first" xml:lang="es">Julia</forename></persName>
         <sex>female</sex>
     </person>
     
     <!-- Joe O González -->
     <person xml:id="jog001">
-        <persName type="display">Joe O González</persName>
+        <persName type="display">Joe O. González</persName>
+        <persName type="facet">González, Joe O.</persName>
         <persName type="full"><surname type="paternal " xml:lang="es">González</surname>, <forename type="first" xml:lang="en">Joe</forename> <forename type="middle">O.</forename> </persName>
         <sex>male</sex>
     </person>
@@ -686,6 +723,7 @@
     <!-- María Juana Hernández -->
     <person xml:id="mjh001">
         <persName type="display">María Juana Hernández</persName>
+        <persName type="facet">Hernández, María Juana</persName>
         <persName type="full"><surname type="paternal " xml:lang="es">Hernández</surname>, <forename type="first" xml:lang="en">María Juana</forename></persName>
         <sex>female</sex>
     </person>
@@ -693,6 +731,7 @@
     <!-- Pauline Hernández -->
     <person xml:id="ph001">
         <persName type="display">Pauline Hernández</persName>
+        <persName type="facet">Hernández, Pauline</persName>
         <persName type="full"><surname type="paternal " xml:lang="es">Hernández</surname>, <forename type="first" xml:lang="en">Pauline</forename></persName>
         <sex>female</sex>
     </person>
@@ -700,6 +739,7 @@
     <!-- Reynaldo Hurtado -->
     <person xml:id="rh001">
         <persName type="display">Reynaldo Hurtado</persName>
+        <persName type="facet">Hurtado, Reynaldo</persName>
         <persName type="full"><surname type="paternal " xml:lang="es">Hurtado</surname>, <forename type="first" xml:lang="es">Reynaldo</forename></persName>
         <nationality source="Jane Shanahan">Mexican</nationality>
         <sex>male</sex>
@@ -707,21 +747,24 @@
     
     <!-- Charles James -->
     <person xml:id="cj001">
-        <persName type="display">Charles D James</persName>
-        <persName type="full"><surname type="paternal " xml:lang="ef">James</surname>, <forename type="first" xml:lang="en">Charles</forename><forename type="middle">D</forename></persName>
+        <persName type="display">Charles D. James</persName>
+        <persName type="facet">James, Charles D.</persName>
+        <persName type="full"><surname type="paternal " xml:lang="ef">James</surname>, <forename type="first" xml:lang="en">Charles</forename><forename type="middle">D.</forename></persName>
         <sex>male</sex>
     </person>
     
     <!-- Frank R Juillen -->
     <person xml:id="frj001">
-        <persName type="display">Frank R Juillen</persName>
-        <persName type="full"><surname type="paternal " xml:lang="ef">Juillen</surname>, <forename type="first" xml:lang="en">Frank</forename><forename type="middle">R</forename></persName>
+        <persName type="display">Frank R. Juillen</persName>
+        <persName type="facet">Juillen, Frank R.</persName>
+        <persName type="full"><surname type="paternal " xml:lang="ef">Juillen</surname>, <forename type="first" xml:lang="en">Frank</forename><forename type="middle">R.</forename></persName>
         <sex>male</sex>
     </person>
     
     <!-- Alberto Lara -->
     <person xml:id="al002">
         <persName type="display">Alberto Lara</persName>
+        <persName type="facet">Lara, Alberto</persName>
         <persName type="full"><surname type="paternal " xml:lang="es">Lara</surname>, <forename type="first" xml:lang="es">Alberto</forename></persName>
         <sex>male</sex>
     </person>
@@ -729,6 +772,7 @@
     <!-- José Lara Miranda -->
     <person xml:id="jlm001">
         <persName type="display">José Lara Miranda</persName>
+        <persName type="facet">Lara Miranda, José</persName>
         <persName type="full"><surname type="paternal" xml:lang="es">Lara</surname> <surname type="maternal" xml:lang="es">Miranda</surname>, <forename type="first" xml:lang="es">José</forename></persName>
         <birth when="1897-10-01" source="Shanahan Collection">October 1, 1897</birth> <!-- D125 -->
         <death when="1948-02-04" source="Shanahan Collection">February 4, 1948</death> <!-- D175 -->
@@ -744,6 +788,7 @@
     <!-- Tony Logothetis -->
     <person xml:id="tl001">
         <persName type="display">Tony Logothetis</persName>
+        <persName type="facet">Logothetis, Tony</persName>
         <persName type="full"><surname type="paternal ">Logothetis</surname>, <forename type="first" xml:lang="en">Tony</forename></persName>
         <sex>male</sex>
     </person>
@@ -751,6 +796,7 @@
     <!-- Antonia López -->
     <person xml:id="al001">
         <persName type="display">Antonia López</persName>
+        <persName type="facet">López, Antonia</persName>
         <persName type="full"><surname type="paternal " xml:lang="es">López</surname>, <forename type="first" xml:lang="es">Antonia</forename></persName>
         <sex>female</sex>
     </person>
@@ -758,6 +804,7 @@
     <!-- Benny Lujan -->
     <person xml:id="bl001">
         <persName type="display">Benny Lujan</persName>
+        <persName type="facet">Lujan, Benny</persName>
         <persName type="full"><surname type="paternal ">Lujan</surname>, <forename type="first" xml:lang="en">Benny</forename></persName>
         <sex>male</sex>
     </person>
@@ -765,13 +812,15 @@
     <!-- Johns Manville -->
     <person xml:id="jm004">
         <persName type="display">Johns Manville</persName>
+        <persName type="facet">Manville, Johns</persName>
         <persName type="full"><surname type="paternal " xml:lang="en">Manville</surname>, <forename type="first" xml:lang="en">Johns</forename></persName>
         <sex>male</sex>
     </person>
     
     <!-- Juana Medina -->
     <person xml:id="jm005">
-        <persName type="display">Juana Medina </persName>
+        <persName type="display">Juana Medina</persName>
+        <persName type="facet">Medina, Juana</persName>
         <persName type="full"><surname type="paternal " xml:lang="es">Medina</surname>, <forename type="first" xml:lang="es">Juana</forename></persName>
         <birth when="1915" source="Shanahan Collection">c. 1915</birth>
         <nationality source="Jane Shanahan">Mexican</nationality>
@@ -781,6 +830,7 @@
     <!-- Patricia Medrano -->
     <person xml:id="pm001">
         <persName type="display">Patricia Medrano</persName>
+        <persName type="facet">Medrano, Patricia</persName>
         <persName type="full"><surname type="paternal " xml:lang="es">Medrano</surname>, <forename type="first" xml:lang="es">Patricia</forename></persName>
         <nationality source="Jane Shanahan">Mexican</nationality>
         <sex>female</sex>
@@ -789,6 +839,7 @@
     <!-- María Miranda -->
     <person xml:id="mm004">
         <persName type="display">María Miranda</persName>
+        <persName type="facet">Miranda, María</persName>
         <persName type="full"><surname type="paternal " xml:lang="es">Miranda</surname>, <forename type="first" xml:lang="es">María</forename></persName>
         <sex>female</sex>
     </person>
@@ -796,6 +847,7 @@
     <!-- Josephine Montoya -->
     <person xml:id="jm001">
         <persName type="display">Josephine Montoya</persName>
+        <persName type="facet">Montoya, Josephine</persName>
         <persName type="full"><surname type="paternal " xml:lang="es">Montoya</surname>, <forename type="first" xml:lang="en">Josephine</forename></persName>
         <sex>female</sex>
     </person>
@@ -803,6 +855,7 @@
     <!-- Odelia Montoya -->
     <person xml:id="om001">
         <persName type="display">Odelia Montoya</persName>
+        <persName type="facet">Montoya, Odelia</persName>
         <persName type="full"><surname type="paternal " xml:lang="es">Montoya</surname>, <forename type="first" xml:lang="en">Odelia</forename></persName>
         <sex>female</sex>
     </person>
@@ -810,6 +863,7 @@
     <!-- Mary Moreno -->
     <person xml:id="mm001">
         <persName type="display">Mary Moreno</persName>
+        <persName type="facet">Moreno, Mary</persName>
         <persName type="full"><surname type="paternal " xml:lang="es">Moreno</surname>, <forename type="first" xml:lang="en">Mary</forename></persName>
         <sex>female</sex>
     </person>
@@ -817,6 +871,7 @@
     <!-- Florencia Muñoz -->
    <person xml:id="fm001">
        <persName type="display">Florencia Muñoz</persName>
+       <persName type="facet">Muñoz, Florencia</persName>
        <persName type="full"><surname type="paternal" xml:lang="es">Muñoz</surname>, <forename type="first" xml:lang="es">Florencia</forename></persName>
        <sex>female</sex>
        <nationality>Mexican</nationality>
@@ -825,6 +880,7 @@
     <!-- Joe Muñoz -->
     <person xml:id="jm002">
         <persName type="display">Joe Muñoz</persName>
+        <persName type="facet">Muñoz, Joe</persName>
         <persName type="full"><surname type="paternal " xml:lang="es">Muñoz</surname>, <forename type="first" xml:lang="en">Joe</forename></persName>
         <sex>male</sex>
     </person>
@@ -832,6 +888,7 @@
     <!-- John Muñoz -->
     <person xml:id="jm003">
         <persName type="display">John Muñoz</persName>
+        <persName type="facet">Muñoz, John</persName>
         <persName type="full"><surname type="paternal " xml:lang="es">Muñoz</surname>, <forename type="first" xml:lang="en">John</forename></persName>
         <sex>male</sex>
     </person>
@@ -839,6 +896,7 @@
     <!-- Manuel Muñoz -->
     <person xml:id="mm003">
         <persName type="display">Manuel Muñoz</persName>
+        <persName type="facet">Muñoz, Manuel</persName>
         <persName type="full"><surname type="paternal " xml:lang="es">Muñoz</surname>, <forename type="first" xml:lang="es">Manuel</forename></persName>
         <sex>male</sex>
     </person>
@@ -846,6 +904,7 @@
     <!-- Mary Muñoz -->
     <person xml:id="mm002">
         <persName type="display">Manry Muñoz</persName>
+        <persName type="facet">Muñoz, Manry</persName>
         <persName type="full"><surname type="paternal " xml:lang="es">Muñoz</surname>, <forename type="first" xml:lang="en">Mary</forename></persName>
         <sex>female</sex>
     </person>
@@ -853,6 +912,7 @@
     <!-- Josephine Nieto -->
     <person xml:id="jn001">
         <persName type="display">Josephine Nieto</persName>
+        <persName type="facet">Nieto, Josephine</persName>
         <persName type="full"><surname type="paternal " xml:lang="es">Nieto</surname>, <forename type="first" xml:lang="en">Josephine</forename></persName>
         <sex>female</sex>
     </person>
@@ -860,6 +920,7 @@
     <!-- Vera Parkhurst -->
     <person xml:id="vp001">
         <persName type="display">Vera Parkhurst</persName>
+        <persName type="facet">Parkhurst, Vera</persName>
         <persName type="full"><surname>Parkhurst</surname>, <forename type="first" xml:lang="en">Vera</forename></persName>
         <sex>female</sex>
     </person>
@@ -867,13 +928,15 @@
     <!-- Mrs. C.E. Parrish -->
     <person xml:id="cep001">
         <persName type="display">Mrs. C.E. Parrish</persName>
-        <persName type="full"><surname type="marital">Parrish</surname>, <forename type="first">C.E.</forename></persName>
+        <persName type="facet">Parrish, C.E.</persName>
+        <persName type="full"><surname type="marital">Parrish</surname>, <roleName type="honorific">Mrs.</roleName> <forename type="first">C.E.</forename></persName>
         <sex>female</sex>
     </person>
     
     <!-- Helen Pearcy -->
     <person xml:id="hp001">
         <persName type="display">Helen Pearcy</persName>
+        <persName type="facet">Pearcy, Helen</persName>
         <persName type="full"><surname type="marital" xml:lang="en">Pearcy</surname>, <forename type="first" xml:lang="en">Helen</forename></persName>
         <sex>female</sex>
     </person>
@@ -881,6 +944,7 @@
     <!-- Roger Dale Pearcy -->
     <person xml:id="rdp001">
         <persName type="display">Roger Dale Pearcy</persName>
+        <persName type="facet">Pearcy, Roger Dale</persName>
         <persName type="full"><surname type="paternal " xml:lang="en">Pearcy</surname>, <forename type="first" xml:lang="en">Roger</forename> <forename type="middle" xml:lang="en">Dale</forename></persName>
         <sex>male</sex>
     </person>
@@ -888,6 +952,7 @@
     <!-- Angie Perez -->
     <person xml:id="ap001">
         <persName type="display">Angie Perez</persName>
+        <persName type="facet">Perez, Angie</persName>
         <persName type="full"><surname type="marital" xml:lang="en">Perez</surname>, <forename type="first" xml:lang="en">Angie</forename></persName>
         <sex>female</sex>
     </person>
@@ -895,6 +960,7 @@
     <!-- Dora Perez -->
     <person xml:id="dp001">
         <persName type="display">Dora Perez</persName>
+        <persName type="facet">Perez, Dora</persName>
         <persName type="full"><surname type="marital" xml:lang="en">Perez</surname>, <forename type="first" xml:lang="es">Dora</forename></persName>
         <sex>female</sex>
     </person>
@@ -902,6 +968,7 @@
     <!-- Leandro Jesús Perez -->
     <person xml:id="ljp001">
         <persName type="display">Leandro Jesús Perez</persName>
+        <persName type="facet">Pérez, Leandro Jesús</persName>
         <persName type="full"><surname type="paternal " xml:lang="es">Perez</surname>, <forename type="first" xml:lang="es">Leandro</forename> <forename type="middle" xml:lang="es">Jesús</forename></persName>
         <sex>male</sex>
     </person>
@@ -909,14 +976,16 @@
     <!-- Manuel Perez -->
     <person xml:id="mp001">
         <persName type="display">Manuel Perez</persName>
+        <persName type="facet">Perez, Manuel</persName>
         <persName type="full"><surname type="paternal " xml:lang="es">Perez</surname>, <forename type="first" xml:lang="es">Manuel</forename></persName>
         <sex>male</sex>
     </person>
     
     <!-- John F Hamaker  -->
     <person xml:id="jh001">
-        <persName type="display">John F Hamaker</persName>
-        <persName type="full"><surname type="paternal " xml:lang="en">Hamaker</surname>, <forename type="first" xml:lang="en">John</forename> <forename type="middle" xml:lang="en">F</forename></persName>
+        <persName type="display">John F. Hamaker</persName>
+        <persName type="facet">Hamajer, John F.</persName>
+        <persName type="full"><surname type="paternal " xml:lang="en">Hamaker</surname>, <forename type="first" xml:lang="en">John</forename> <forename type="middle" xml:lang="en">F.</forename></persName>
         <sex>male</sex>
     </person>
     
@@ -930,6 +999,7 @@
     <!-- Narciso Ramos -->
     <person xml:id="nr001">
         <persName type="display">Narciso Ramos</persName>
+        <persName type="facet">Ramos, Narciso</persName>
         <persName type="full"><surname type="paternal " xml:lang="es">Ramos</surname>, <forename type="first" xml:lang="es">Narciso</forename></persName>
         <sex>male</sex>
     </person>
@@ -937,6 +1007,7 @@
     <!-- María Refugio Rentería -->
     <person xml:id="mrr001">
         <persName type="display">María Refugio Rentería</persName>
+        <persName type="facet">Rentería, María Refugio</persName>
         <persName type="full"><surname type="paternal" xml:lang="es">Rentería</surname>, <forename type="first" xml:lang="es">María Refugio</forename></persName>
         <nationality source="Shanahan Collection">Mexican</nationality>
         <residence source="Shanahan Collection">Juchipila</residence>
@@ -946,6 +1017,7 @@
     <!-- Helen Romero -->
     <person xml:id="hr001">
         <persName type="display">Helen Romero</persName>
+        <persName type="facet">Romero, Helen</persName>
         <persName type="full"><surname type="paternal " xml:lang="es">Romero</surname>, <forename type="first" xml:lang="en">Helen</forename></persName>
         <sex>female</sex>
     </person>
@@ -953,6 +1025,7 @@
     <!-- Walter Saffron -->
     <person xml:id="ws001">
         <persName type="display">Walter Saffron</persName>
+        <persName type="facet">Saffron, Walter</persName>
         <persName type="full"><surname type="paternal " xml:lang="en">Saffron</surname>, <forename type="first" xml:lang="en">Walter</forename></persName>
         <sex>male</sex>
     </person>
@@ -960,6 +1033,7 @@
     <!-- Pablita Salas -->
     <person xml:id="ps002">
         <persName type="display">Pablita Salas</persName>
+        <persName type="facet">Salas, Pablita</persName>
         <persName type="full"><surname type="paternal " xml:lang="es">Salas</surname>, <forename type="first" xml:lang="es">Pablita</forename></persName>
         <sex>male</sex>
     </person>
@@ -967,6 +1041,7 @@
     <!-- Bruno Samaniego -->
     <person xml:id="bs001">
         <persName type="display">Bruno Samaniego</persName>
+        <persName type="facet">Samaniego, Bruno</persName>
         <persName type="full"><surname type="paternal " xml:lang="es">Samaniego</surname>, <forename type="first" xml:lang="es">Bruno</forename></persName>
         <birth when="1848-10-06" source="Shanahan Collection">October 6, 1848</birth> 
         <nationality source="Jane Shanahan">Mexican</nationality>
@@ -976,6 +1051,7 @@
     <!-- Fernando Samaniego -->
     <person xml:id="fs001">
         <persName type="display">Fernando Samaniego</persName>
+        <persName type="facet">Samaniego, Fernando</persName>
         <persName type="full"><surname type="paternal " xml:lang="es">Samaniego</surname>, <forename type="first" xml:lang="es">Fernando</forename></persName>
         <birth when="1892-05-31" source="Shanahan Collection">May 31, 1892</birth> <!-- D169 -->
         <death when="1943-07-29" source="Shanahan Collection">July 29, 1943</death> <!-- D170-->
@@ -986,6 +1062,7 @@
     <!-- José Jesús Samaniego -->
     <person xml:id="js001">
         <persName type="display">José Jesús Samaniego</persName>
+        <persName type="facet">Samaniego, José Jesús</persName>
         <persName type="full"><surname type="paternal " xml:lang="es">Samaniego</surname>, <forename type="first" xml:lang="es"></forename>José<forename type="first" xml:lang="es">Jesús</forename></persName>
         <birth when="1915-07-30" source="Shanahan Collection">July 30, 1915</birth> <!-- D140 -->
         <nationality source="Jane Shanahan">Mexican</nationality> 
@@ -996,6 +1073,7 @@
     <!-- José Ascension Samaniego -->
     <person xml:id="jas001">
         <persName type="display">José Ascensión Samaniego</persName>
+        <persName type="facet">Samaniego, José Ascensión</persName>
         <persName type="full"><surname type="paternal " xml:lang="es">Samaniego</surname>, <forename type="first" xml:lang="es">José</forename> <forename type="middle" xml:lang="es">Ascensión</forename></persName>
         <nationality source="Jane Shanahan">Mexican</nationality>
         <sex>male</sex>
@@ -1004,6 +1082,7 @@
     <!-- Nemecio Samaniego -->
     <person xml:id="ns001">
         <persName type="display">Nemecio Samaniego</persName>
+        <persName type="facet">Samaniego, Nemecio</persName>
         <persName type="full"><surname type="paternal " xml:lang="es">Samaniego</surname>, <forename type="first" xml:lang="es">Nemecio</forename></persName>
         <birth when="1913-11-01" source="Shanahan Collection">November 01, 1913</birth> <!-- D147 --> 
         <nationality source="Shanahan Collection">Mexican</nationality>
@@ -1014,6 +1093,7 @@
     <!-- Pablo Samaniego -->
     <person xml:id="ps001">
         <persName type="display">Pablo Samaniego</persName>
+        <persName type="facet">Samaniego, Pablo</persName>
         <persName type="full"><surname type="paternal " xml:lang="es">Samaniego</surname>, <forename type="first" xml:lang="es">Pablo</forename></persName>
         <sex>male</sex>
     </person>
@@ -1021,6 +1101,7 @@
     <!-- Tomasa Samaniego -->
     <person xml:id="ts001">
         <persName type="display">Tomasa Samaniego</persName>
+        <persName type="facet">Samaniego, Tomasa</persName>
         <persName type="full"><surname type="paternal " xml:lang="es">Samaniego</surname>, <forename type="first" xml:lang="es">Tomasa</forename></persName>
         <nationality source="Jane Shanahan">Mexican</nationality>
         <birth when="1889-12-21" source="Shanahan Collection">December 21, 1889</birth> <!-- D172 -->
@@ -1030,9 +1111,9 @@
     
     <!-- María Sánchez Rubalcava -->
     <person xml:id="msr001">
-        <persName type="display">María Sánchez/Rubalcava</persName>
-        <persName type="full"><surname type="paternal " xml:lang="es">Sánchez</surname>, <forename type="first" xml:lang="es">María</forename></persName>
-        <persName type="full"><surname type="paternal " xml:lang="es">Rubalcava</surname>, <forename type="first" xml:lang="es">María</forename></persName>
+        <persName type="display">María Sánchez Rubalcava</persName>
+        <persName type="facet">Sánchez Rubalcava, María</persName>
+        <persName type="full"><surname type="paternal " xml:lang="es">Sánchez</surname> <surname type="maternal " xml:lang="es">Rubalcava</surname>, <forename type="first" xml:lang="es">María</forename></persName>
         <nationality source="Shanahan Collection">Mexican</nationality>
         <residence source="Shanahan Collection">Juchipila</residence>
         <sex>female</sex>
@@ -1041,6 +1122,7 @@
     <!-- Mariana Sandoval -->
     <person xml:id="ms001">
         <persName type="display">Mariana Sandoval</persName>
+        <persName type="facet">Sandoval, Mariana</persName>
         <persName type="full"><surname type="paternal " xml:lang="es">Sandoval</surname>, <forename type="first" xml:lang="es">Mariana</forename></persName>
         <nationality source="Shanahan Collection">Mexican</nationality>
         <sex>female</sex>
@@ -1049,6 +1131,7 @@
     <!-- Herman Schmidt -->
     <person xml:id="hs001">
         <persName type="display">Herman Schmidt</persName>
+        <persName type="facet">Schmidt, Herman</persName>
         <persName type="full"><surname type="paternal" xml:lang="en">Schmidt</surname>, <forename type="first" xml:lang="en">Herman</forename></persName>
         <nationality source="Jane Shanahan">American</nationality>
         <sex>male</sex>
@@ -1057,6 +1140,7 @@
     <!-- Carol Schubert -->
     <person xml:id="cs001">
         <persName type="display">Carol Schubert</persName>
+        <persName type="facet">Schubert, Carol</persName>
         <persName type="full"><surname type="marital" xml:lang="en">Schubert</surname>, <forename type="first" xml:lang="en">Carol</forename></persName>
         <nationality source="Jane Shanahan">American</nationality>
         <sex>female</sex>
@@ -1065,6 +1149,7 @@
     <!-- Gwendoly Schubert -->
     <person xml:id="gs001">
         <persName type="display">Gwendoly Schubert</persName>
+        <persName type="facet">Schubert, Gwendoly</persName>
         <persName type="full"><surname type="marital" xml:lang="en">Schubert</surname>, <forename type="first" xml:lang="en">Gwendoly</forename></persName>
         <birth when="1894-05-15" source="Jane Shanahan">May 15, 1894</birth>
         <death when="1982-04-16" source="Jane Shanahan">April 16, 1982</death>
@@ -1077,6 +1162,7 @@
     <!-- John Jack Schubert -->
     <person xml:id="jjs001">
         <persName type="display">John Jack Schubert</persName>
+        <persName type="facet">Schubert, John Jack</persName>
         <persName type="full"><surname type="paternal " xml:lang="en">Schubert</surname>, <forename type="first" xml:lang="en">John</forename><forename type="middle" xml:lang="en">Jack</forename></persName>
         <birth when="1892-11-07" source="Jane Shanahan">November 7, 1892</birth>
         <death when="1000" source="Jane Shanahan"></death> <!-- Ask Jane, not on Lancaster Country Chart -->
@@ -1088,6 +1174,7 @@
     <!-- John R Schubert -->
     <person xml:id="jrs001">
         <persName type="display">John R. Schubert</persName>
+        <persName type="facet">Schubert, John R.</persName>
         <persName type="full"><surname type="paternal " xml:lang="en">Schubert</surname>, <forename type="first" xml:lang="en">John</forename><forename type="middle" xml:lang="en">R.</forename></persName>
         <nationality source="Jane Shanahan">American</nationality>
         <sex>male</sex>
@@ -1096,6 +1183,7 @@
     <!-- William F. Schubert -->
     <person xml:id="wfs001">
         <persName type="display">William F. Schubert</persName>
+        <persName type="facet">Schubert, William F.</persName>
         <persName type="full"><surname type="paternal " xml:lang="en">Schubert</surname>, <forename type="first" xml:lang="en">William</forename><forename type="middle" xml:lang="en">F.</forename></persName>
         <persName type="nickname">Bill</persName>
         <birth when="1923-06-20" source="Jane Shanahan">June 20, 1923</birth>
@@ -1109,6 +1197,7 @@
     <!-- William D. Schubert -->
     <person xml:id="wds001">
         <persName type="display">William D. Schubert</persName>
+        <persName type="facet">Schubert, William D.</persName>
         <persName type="full"><surname type="paternal " xml:lang="en">Schubert</surname>, <forename type="first" xml:lang="en">William</forename><forename type="middle" xml:lang="en">D.</forename></persName>
         <persName type="nickname">Billy</persName>
         <birth when="1947-10-02" source="Jane Shanahan">October 2, 1947</birth>
@@ -1120,6 +1209,7 @@
     <!-- Pamela L. Schubert -->
     <person xml:id="pls001">
         <persName type="display">Pamela L. Schubert</persName>
+        <persName type="facet">Schubert, Pamela L.</persName>
         <persName type="full"><surname type="paternal " xml:lang="en">Schubert</surname>, <forename type="first" xml:lang="en">Pamela</forename><forename type="middle" xml:lang="en">Linda</forename></persName>
         <persName type="nickname">Pam</persName>
         <birth when="1952-11-17" source="Jane Shanahan">November 17, 1952</birth>
@@ -1131,6 +1221,7 @@
     <!-- Robert S. Schubert -->
     <person xml:id="rss001">
         <persName type="display">Robert S. Schubert</persName>
+        <persName type="facet">Schubert, Robert S.</persName>
         <persName type="full"><surname type="paternal " xml:lang="en">Schubert</surname>, <forename type="first" xml:lang="en">Robert</forename><forename type="middle" xml:lang="en">S.</forename></persName>
         <persName type="nickname">Bobby</persName>
         <birth when="1951-12-22" source="Jane Shanahan">December 22, 1951</birth>
@@ -1142,6 +1233,7 @@
     <!-- Rodney Schubert -->
     <person xml:id="rs001">
         <persName type="display">Rodney Schubert</persName>
+        <persName type="facet">Schubert, Rodney</persName>
         <persName type="full"><surname type="paternal " xml:lang="en">Schubert</surname>, <forename type="first" xml:lang="en">Rodney</forename></persName>
         <!-- <birth when="1000" source="Jane Shanahan"></birth> -->
         <!-- <death when="1000" source="Jane Shanahan"></death> -->
@@ -1153,6 +1245,7 @@
     <!-- Roger Dale Schubert -->
     <person xml:id="rds001">
         <persName type="display">Roger Dale Schubert</persName>
+        <persName type="facet">Schubert, Roger Dale</persName>
         <persName type="full"><surname type="paternal " xml:lang="en">Schubert</surname>, <forename type="first" xml:lang="en">Roger</forename><forename type="middle" xml:lang="en">Dale</forename></persName>
         <!-- <birth when="1000" source="Jane Shanahan"></birth> -->
         <!-- <death when="1000" source="Jane Shanahan"></death> -->
@@ -1164,6 +1257,7 @@
     <!-- Elizabeth Jane Shanahan -->
     <person xml:id="ejs001">
         <persName type="display">Elizabeth Jane Shanahan</persName>
+        <persName type="facet">Shanahan, Elizabeth Jane</persName>
         <persName type="full"><surname type="marital" xml:lang="en">Shanahan</surname>, <forename type="first" xml:lang="en">Elizabeth</forename><forename type="middle" xml:lang="en">Jane</forename></persName>
         <birth when="1959-03-20" source="Jane Shanahan">March 20, 1959</birth>
         <nationality source="Jane Shanahan">American</nationality>
@@ -1174,6 +1268,7 @@
     <!-- Katie B. -->
     <person xml:id="kb002">
         <persName type="display">Katie Beiriger</persName>
+        <persName type="facet">Beiriger, Katie</persName>
         <persName type="full"><surname type="paternal" xml:lang="en">Beiriger</surname> <forename type="first">Katie</forename></persName>
         <birth when="1977-11-13" source="Jane Shanahan">November 13, 1977</birth>
         <nationality>American</nationality>
@@ -1183,6 +1278,7 @@
     <!-- Steve Shanahan -->
     <person xml:id="ss001">
         <persName type="display">Steve Shanahan</persName>
+        <persName type="facet">Shanahan, Steve</persName>
         <persName type="full"><surname type="paternal " xml:lang="en">Shanahan</surname>, <forename type="first" xml:lang="en">Steve</forename></persName>
         <!-- <birth when="1000" source="Jane Shanahan"></birth> -->
         <nationality source="Jane Shanahan">American</nationality>
@@ -1192,7 +1288,8 @@
     
     <!-- Demetria Simón -->
     <person xml:id="ds001">
-        <persName type="display">Carlotta E. Tabor</persName>
+        <persName type="display">Demetria Simón</persName>
+        <persName type="facet">Simón, Demetria</persName>
         <persName type="full"><surname type="paternal " xml:lang="es">Simón</surname>, <forename type="first" xml:lang="es">Demetria</forename></persName>
         <nationality source="Shanahan Collection">Mexican</nationality>
         <sex>female</sex>
@@ -1201,6 +1298,7 @@
     <!-- Carlotta E. Tabor -->
     <person xml:id="cet001">
         <persName type="display">Carlotta E. Tabor</persName>
+        <persName type="facet">Tabor, Carlotta E.</persName>
         <persName type="full"><surname type="paternal " xml:lang="en">Tabor</surname>, <forename type="first" xml:lang="en">Carlotta</forename><forename type="middle" xml:lang="en">E.</forename></persName>
         <!-- <birth when="1000" source="Jane Shanahan"></birth> -->
         <nationality source="Jane Shanahan">American</nationality>
@@ -1211,6 +1309,7 @@
     <!-- Joel Tabor -->
     <person xml:id="jt001">
         <persName type="display">Joel Tabor</persName>
+        <persName type="facet">Tabor, Joel</persName>
         <persName type="full"><surname type="paternal " xml:lang="en">Tabor</surname>, <forename type="first" xml:lang="en">Joel</forename></persName>
         <!-- <birth when="1000" source="Jane Shanahan"></birth> -->
         <nationality source="Jane Shanahan">American</nationality>
@@ -1221,6 +1320,7 @@
     <!-- Clemente Torres -->
     <person xml:id="ct001">
         <persName type="display">Clemente Torres</persName>
+        <persName type="facet">Torres, Clemente</persName>
         <persName type="full"><surname type="paternal " xml:lang="en">Torres</surname>, <forename type="first" xml:lang="en">Clemente</forename></persName>
         <nationality source="Jane Shanahan">Mexican</nationality>
         <residence source="Shanahan Collection">Huapamacato, Michoacan, Mexico</residence>
@@ -1230,6 +1330,7 @@
     <!-- Maximino Torres -->
     <person xml:id="mt001">
         <persName type="display">Maximino Torres</persName>
+        <persName type="facet">Torres, Maximino</persName>
         <persName type="full"><surname type="paternal " xml:lang="en">Torres</surname>, <forename type="first" xml:lang="en">Maximino</forename></persName>
         <birth when="1896-06-09" source="Shanahan Collection">June 09, 1896</birth>
         <death when="1980-09-10" source="Shanahan Collection">September 10, 1980</death>
@@ -1242,6 +1343,7 @@
     <!-- José Dolores Torres -->
     <person xml:id="jdt001">
         <persName type="display">José Dolores Torres</persName>
+        <persName type="facet">Torres, José Dolores</persName>
         <persName type="full"><surname type="paternal " xml:lang="en">Torres</surname>, <forename type="first" xml:lang="en">José Dolores</forename></persName>
         <birth when="1874" source="Shanahan Collection">c. 1874</birth>
         <death when="1919-08-09" source="Shanahan Collection">August 9, 1919</death> <!-- D177 -->
@@ -1253,6 +1355,7 @@
     <!-- Rodolfo Torres Aviña -->
     <person xml:id="rta001">
         <persName type="display">Rodolfo Torres Aviña</persName>
+        <persName type="facet">Torres Aviña, Rodolfo</persName>
         <persName type="full"><surname type="paternal " xml:lang="en">Torres</surname><surname type="maternal" xml:lang="es">Aviña</surname>, <forename type="first" xml:lang="en">Rodolfo</forename></persName>
         <nationality source="Jane Shanahan">Mexican</nationality>
         <sex>male</sex>
@@ -1281,6 +1384,7 @@
     <!-- Eddie Unnkel -->
     <person xml:id="eu001">
         <persName type="display">Eddie Unnkel</persName>
+        <persName type="facet">Unkel, Eddie</persName>
         <persName type="full"><surname type="marital">Unnkel</surname>, <forename type="first" xml:lang="en">Eddie</forename></persName>
 
         <sex>female</sex>
@@ -1289,6 +1393,7 @@
     <!-- Frances Vaga -->
     <person xml:id="fv002">
         <persName type="display">Frances Vaga</persName>
+        <persName type="facet">Vaga, Frances</persName>
         <persName type="full"><surname type="paternal ">Vaga</surname>, <forename type="first" xml:lang="en">Frances</forename></persName>
         <sex>male</sex>
     </person>
@@ -1296,6 +1401,7 @@
     <!-- Placido Villanueva -->
     <person xml:id="pv001">
         <persName type="display">Placido Villanueva</persName>
+        <persName type="facet">Villanueva, Placido</persName>
         <persName type="full"><surname type="paternal " xml:lang="es">Villanueva</surname>, <forename type="first" xml:lang="es">Placido</forename></persName>
         <sex>male</sex> 
     </person>
@@ -1303,6 +1409,7 @@
     <!-- Shone Villanueva -->
     <person xml:id="sv001">
         <persName type="display">Shone Villanueva</persName>
+        <persName type="facet">Villanueva, Shone</persName>
         <persName type="full"><surname type="paternal " xml:lang="es">Villanueva</surname>, <forename type="first" xml:lang="en">Shone</forename></persName>
         <sex>female</sex>
     </person>    
@@ -1310,6 +1417,7 @@
     <!-- Faustin Villanueva -->
     <person xml:id="fv001">
         <persName type="display">Faustin Villanueva</persName>
+        <persName type="facet">Villanueva, Faustin</persName>
         <persName type="full"><surname type="paternal " xml:lang="es">Villanueva</surname>, <forename type="first" xml:lang="es">Faustin</forename></persName>
         <nationality source="Jane Shanahan"></nationality>
         <residence source="Jane Shanahan"></residence>
@@ -1319,6 +1427,7 @@
     <!-- Mercedes Villarreal -->
     <person xml:id="mv001">
         <persName type="display">Mercedes Villarreal</persName>
+        <persName type="facet">Villarreal, Mercedes</persName>
         <persName type="full"><surname type="paternal " xml:lang="es">Villarreal</surname>, <forename type="first" xml:lang="es">Mercedes</forename></persName>
         <birth when="1872" source="Shanahan Collection"> c. 1872</birth>
         <nationality source="Jane Shanahan">Mexican</nationality>
@@ -1329,6 +1438,7 @@
     <!-- Tomás Villarreal -->
     <person xml:id="tv001">
         <persName type="display">Tomás Villarreal</persName>
+        <persName type="facet">Villarreal, Tomás</persName>
         <persName type="full"><surname type="paternal " xml:lang="es">Villarreal</surname>, <forename type="first" xml:lang="es">Tomás</forename></persName>
         <nationality source="Shanahan Collection">Mexican</nationality>
         <death when="1836" source="Shanahan Collection">c. 1836</death> <!-- D150 -->
@@ -1340,6 +1450,7 @@
     <!-- Lillian Wilhelm -->
     <person xml:id="lw001">
         <persName type="display">Lillian Wilhelm</persName>
+        <persName type="facet">Wilhem, Lillian</persName>
         <persName type="full"><surname type="paternal " xml:lang="en">Wilhelm</surname>, <forename type="first" xml:lang="en">Lillian</forename></persName>
         <birth when="1000" source="Jane Shanahan"></birth>
         <nationality source="Jane Shanahan"></nationality>
@@ -1350,21 +1461,27 @@
     <!-- Team members -->
     <person xml:id="jda"> 
         <persName type="display">Janette Avelar</persName>
+        <persName type="facet">Avelar, Janette</persName>
     </person>
     <person xml:id="af"> 
         <persName type="display">Adoni A. Faxas</persName>
+        <persName type="facet">Faxas, Adoni A.</persName>
     </person>
     <person xml:id="bk"> 
         <persName type="display">Brenda López</persName>
+        <persName type="facet">López, Brenda</persName>
     </person>
     <person xml:id="km"> 
         <persName type="display">Kate Mendell</persName>
+        <persName type="facet">Mendell, Kate</persName>
     </person>
     <person xml:id="sr"> 
-        <persName type="display">Sara Reyes</persName>        
+        <persName type="display">Sara Reyes</persName>
+        <persName type="facet">Reyes, Sara</persName>        
     </person>
     <person xml:id="iv"> 
         <persName type="display">Isabel Velázquez</persName>
+        <persName type="facet">Velázquez, Isabel</persName>
     </person>
 
 </listPerson>
