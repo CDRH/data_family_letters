@@ -13,6 +13,7 @@
 <resp>transcription and encoding</resp>
 <name xml:id="jda">Avelar, Janette D.</name>
 <name xml:id="iv002">Velázquez, Isabel</name>
+<name xml:id="sbg">Garcia, Sarita B.</name>
 </respStmt>
 </titleStmt>
 <editionStmt>
@@ -120,14 +121,21 @@
 <term></term>
 </keywords>
 </textClass>
-<particDesc>
-<person role="sender" xml:id="mt001">
-<persName>Maximino Torrez</persName>
-</person>
-<person role="recipient" xml:id="rh001">
-<persName>Reynaldo Hurtado</persName>
-</person>
-</particDesc>
+<correspDesc>
+<correspAction type="sentBy">
+<persName xml:id="mt001">Torrez, Maximino</persName>
+<placeName></placeName>
+<date when="1923-02-05"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="rh001">Hurtado, Reynaldo</persName>
+<placeName></placeName>
+</correspAction>
+<correspContext>
+<ref type="prev" target="shan">Letter from x to y, date</ref>
+<ref type="next" target="shan">Letter from x to y, date</ref>
+</correspContext> 
+</correspDesc>
 </profileDesc>
         
 <revisionDesc>
