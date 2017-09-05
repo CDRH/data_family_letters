@@ -13,6 +13,7 @@
 <resp>transcription and encoding</resp>
 <name xml:id="af">Faxas, Adoni A.</name>
 <name xml:id="km">Mendell, Kate</name>
+<name xml:id="sbg">Garcia, Sarita B.</name>
 </respStmt>
 </titleStmt>
 <editionStmt>
@@ -50,7 +51,7 @@
 <bibl>
 <author>Torres, Jesusita B.</author>
 <title level="m" type="main">Letter from Jesusita B. Torres to Sandra B. Schubert</title>
-<date when="1957-06-24">June 24, 1957</date>
+<date when="1957-06-24">June 23, 1957</date>
 <extent>3 pages and envelope</extent>
 </bibl>
 <msDesc>
@@ -120,14 +121,21 @@
 <term></term>
 </keywords>
 </textClass>
-<particDesc>
-<person role="sender" xml:id="jbt001">
-<persName>Jesusita B. Torres</persName>
-</person>
-<person role="recipient" xml:id="sbs001">
-<persName>Sandra B. Schubert</persName>
-</person>
-</particDesc>
+<correspDesc>
+<correspAction type="sentBy">
+<persName xml:id="jbt001">Baros Torres, Jesusita</persName>
+<placeName></placeName>
+<date when="1957-06-23"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="sbs001">Baros Schubert, Santos</persName>
+<placeName></placeName>
+</correspAction>
+<correspContext>
+<ref type="prev" target="shan">Letter from x to y, date</ref>
+<ref type="next" target="shan">Letter from x to y, date</ref>
+</correspContext> 
+</correspDesc>
 </profileDesc>
         
 <revisionDesc>
