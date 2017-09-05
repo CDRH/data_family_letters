@@ -14,6 +14,7 @@
 <name xml:id="jda">Avelar, Janette D.</name>
 <name xml:id="af">Faxas, Adoni A.</name>
 <name xml:id="km">Mendell, Kate</name>
+<name xml:id="sbg">Garcia, Sarita B.</name>
 </respStmt>
 </titleStmt>
 <editionStmt>
@@ -74,7 +75,7 @@
 </supportDesc>
 </objectDesc>
 <handDesc hands="1">
-<handNote xml:id="h01" scribe="jbt001" medium="pencil"><p>Media: lead/grahpite</p></handNote>
+<handNote xml:id="h01" scribe="jbt001" medium="pencil"><p>Media: lead/graphite</p></handNote>
 </handDesc>
 <typeDesc>
 <typeNote><p></p></typeNote>
@@ -121,14 +122,21 @@
 <term></term>
 </keywords>
 </textClass>
-<particDesc>
-<person role="sender" xml:id="jbt001">
-<persName>Jesusita B Torres</persName>
-</person>
-<person role="recipient" xml:id="sbs002">
-<persName>Sandra Schubert</persName>
-</person>
-</particDesc>
+<correspDesc>
+<correspAction type="sentBy">
+<persName xml:id="jbt001">Baros Torres, Jesusita</persName>
+<placeName></placeName>
+<date when="1953-01-03"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="sbs001">Baros Schubert, Santos</persName>
+<placeName></placeName>
+</correspAction>
+<correspContext>
+<ref type="prev" target="shan">Letter from x to y, date</ref>
+<ref type="next" target="shan">Letter from x to y, date</ref>
+</correspContext> 
+</correspDesc>
 </profileDesc>
         
 <revisionDesc>
