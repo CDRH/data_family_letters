@@ -127,7 +127,7 @@
 <correspAction type="sentBy">
 <persName xml:id="ravt001">Arroyo, Rafaela</persName>
 <placeName></placeName>
-<date when="1919-08-21"/>
+<date type="written" when="1919-08-21"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName xml:id="mt001">Torres, Maximino</persName>

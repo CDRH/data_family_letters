@@ -125,7 +125,7 @@
 <correspAction type="sentBy">
 <persName xml:id="jlm001">Lara Miranda, Jose</persName>
 <placeName></placeName>
-<date when="1942-11-08"/>
+<date type="written" when="1942-11-08"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName xml:id="jbt001">Baros Torres, Jesusita</persName>

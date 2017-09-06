@@ -125,7 +125,7 @@
 <correspAction type="sentBy">
 <persName xml:id="mf001">Flemate, Margarita</persName>
 <placeName></placeName>
-<date when="1967-10-05"/>
+<date type="written" when="1967-10-05"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName xml:id="jbt001">Baros Torres, Jesusita</persName>

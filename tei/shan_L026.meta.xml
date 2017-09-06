@@ -125,7 +125,8 @@
 <correspAction type="sentBy">
 <persName xml:id="df001">Flemate, Demetrio</persName>
 <placeName></placeName>
-<date when="1958-12-06"/>
+<date type="written" when="1958-12-06"/>
+<date type="postmarked" when="1958-12-07"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName xml:id="jbt001">Baros Torres, Jesusita</persName>

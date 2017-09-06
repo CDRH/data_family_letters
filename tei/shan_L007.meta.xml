@@ -125,7 +125,7 @@
 <correspAction type="sentBy">
 <persName xml:id="ct001">Torrez, Clemente</persName>
 <placeName></placeName>
-<date when="1927-05-28"/>
+<date type="written" when="1927-03-28"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName xml:id="mt001">Torrez, Maximino</persName>

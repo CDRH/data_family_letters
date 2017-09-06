@@ -123,12 +123,12 @@
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
-<!--<persName xml:id="ini">Villanueva, L.</persName>-->
+<persName xml:id="lv001">Villanueva, L.</persName>
 <placeName></placeName>
-<date when="1937-07-08"/>
+<date type="postmarked" when="1937-07-08"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName xml:id="id">Baros Torres, Jesusita</persName>
+<persName xml:id="jbt001">Baros Torres, Jesusita</persName>
 <placeName></placeName>
 </correspAction>
 <correspContext>
@@ -136,14 +136,6 @@
 <ref type="next" target="shan">Letter from x to y, date</ref>
 </correspContext> 
 </correspDesc>
-<particDesc>
-<person role="sender" xml:id="lv001">
-<persName>L. Villanueva</persName>
-</person>
-<person role="recipient" xml:id="jbt001">
-<persName>Jesusita Baros Torres</persName>
-</person>
-</particDesc>
 </profileDesc>
         
 <revisionDesc>

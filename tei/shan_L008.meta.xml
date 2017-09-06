@@ -5,8 +5,8 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from Jesusita Baros Torres to Santos Baros Schubert, January 1, 1964</title>
-<title type="main">Carta de Jesusita Baros Torres a Santos Baros Schubert, 1 de enero, 1964</title>
+<title type="main">Letter from Jesusita Baros Torres to Santos Baros Schubert, January 01, 1964</title>
+<title type="main">Carta de Jesusita Baros Torres a Santos Baros Schubert, 01 de enero, 1964</title>
 <author>Torres, Jesusita</author>
 <principal xml:id="iv001">Velázquez, Isabel</principal>
 <respStmt>
@@ -52,7 +52,7 @@
 <bibl>
 <author>Jesusita Baros Torres</author>
 <title level="m" type="main">Letter from Jesusita Baros Torres to Santos Baros Schubert</title>
-<date when="1964-01-01">January 1, 1964</date>
+<date when="1964-01-02">January 2, 1964</date>
 <extent>3 pages and envelope</extent>
 </bibl>
 <msDesc>
@@ -126,7 +126,8 @@
 <correspAction type="sentBy">
 <persName xml:id="jbt001">Baros Torres, Jesusita</persName>
 <placeName></placeName>
-<date when="1964-01-01"/>
+<date type="written" when="1964-01-01"/>
+<date type="postmarked" when="1964-01-02"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName xml:id="sbs001">Baros Shubert, Santos</persName>

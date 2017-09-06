@@ -125,7 +125,7 @@
 <correspAction type="sentBy">
 <persName xml:id="rta001">Torres Aviña, Rodolfo</persName>
 <placeName></placeName>
-<date when="1952-10-24"/>
+<date type="written" when="1924-10-24"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName xml:id="ct001">Torres, Clemente</persName>

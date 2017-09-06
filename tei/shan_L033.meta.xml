@@ -5,8 +5,8 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from Mrs. Baca to Jesusita Torres, March 17, 1939</title>
-<title type="main">Carta de Mrs. Baca a Jesusita Torres, 17 de marzo, 1939</title>
+<title type="main">Letter from Mrs. Baca to Jesusita Torres, March 18, 1939</title>
+<title type="main">Carta de Mrs. Baca a Jesusita Torres, 18 de marzo, 1939</title>
 <author>Mrs. Baca</author>
 <principal xml:id="iv001">Velázquez, Isabel</principal>
 <respStmt>
@@ -45,13 +45,13 @@
 </availability>
 </publicationStmt>
             
-<notesStmt><note></note></notesStmt>
+<notesStmt><note>The date this letter was written, March 19, came after its postmark date, March 18. Since this situation is impossible, we have chosen to use March 18 as the date this letter was composed.</note></notesStmt>
             
 <sourceDesc>
 <bibl>
 <author>Mrs. Baca</author>
 <title level="m" type="main">Letter from Mrs. Baca to Jesusita Barros</title>
-<date when="1939-03-17">March 17, 1939</date>
+<date when="1939-03-17">March 18, 1939</date>
 <extent>2 pages and envelope</extent>
 </bibl>
 <msDesc>
@@ -125,7 +125,7 @@
 <correspAction type="sentBy">
 <persName xml:id="fnb001">Baca, Felipita N.</persName>
 <placeName></placeName>
-<date when="1939-03-19"/>
+<date type="postmarked" when="1939-03-18"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName xml:id="jbt001">Baros Torres, Jesusita</persName>

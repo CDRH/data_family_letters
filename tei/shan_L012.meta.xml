@@ -5,8 +5,8 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from R. Patricia Medrano to Jesusita Baros Torres, May 28, 1927</title>
-<title type="main">Carta de R. Patricia Medrano a Jesusita Baros Torres, 28 de mayo, 1927</title>
+<title type="main">Letter from R. Patricia Medrano to Jesusita Baros Torres</title>
+<title type="main">Carta de R. Patricia Medrano a Jesusita Baros Torres</title>
 <author>Medrano, R. Patricia</author>
 <principal xml:id="iv001">Velázquez, Isabel</principal>
 <respStmt>
@@ -51,7 +51,6 @@
 <bibl>
 <author>Medrano, R. Patricia</author>
 <title level="m" type="main">Letter from R. Patricia Medrano to Jesusita Baros Torres</title>
-<date when="1927-05-28">May 28, 1927</date>
 <extent>2 pages and envelope</extent>
 </bibl>
 <msDesc>
@@ -125,7 +124,6 @@
 <correspAction type="sentBy">
 <persName xml:id="pm001">Medrano, Patricia</persName>
 <placeName></placeName>
-<date when="09-04"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName xml:id="jbt001">Baros Torres, Jesusita</persName>
