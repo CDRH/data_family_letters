@@ -125,7 +125,7 @@
 <correspAction type="sentBy">
 <persName xml:id="vat001">Aviña de Torres, Victoria</persName>
 <placeName></placeName>
-<date when="1952-10-28"/>
+<date type="postmarked" when="1952-10-28"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName xml:id="mt001">Torres, Maximino</persName>

@@ -5,8 +5,8 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from Maximino Torres to Reynaldo Hurtado, March 6, 1923</title>
-<title type="main">Carta de Maximino Torres a Reynaldo Hurtado, 06 de marzo, 1923</title>
+<title type="main">Letter from Maximino Torres to Reynaldo Hurtado, March 27, 1923</title>
+<title type="main">Carta de Maximino Torres a Reynaldo Hurtado, 27 de marzo, 1923</title>
 <author>Torres, Maximino</author>
 <principal xml:id="iv001">Velázquez, Isabel</principal>
 <respStmt>
@@ -51,7 +51,7 @@
 <bibl>
 <author>Torres, Maximino</author>
 <title level="m" type="main">Letter from Maximino Torres to Reynaldo Hurtado</title>
-<date when="1923-03-06">March 6, 1923</date>
+<date when="1923-03-06">March 27, 1923</date>
 <extent>envelope</extent>
 </bibl>
 <msDesc>
@@ -125,7 +125,7 @@
 <correspAction type="sentBy">
 <persName xml:id="mt001">Torres, Maximino</persName>
 <placeName></placeName>
-<date when="1923-03-06"/>
+<date type="postmarked" when="1923-03-27"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName xml:id="rh001">Hurtado, Reynaldo</persName>

@@ -125,7 +125,8 @@
 <correspAction type="sentBy">
 <persName xml:id="rh001">Hurtado, Reynaldo</persName>
 <placeName></placeName>
-<date when="1939-09-10"/>
+<date type="written" when="1939-09-10"/>
+<date type="postmarked" when="1939-09-10"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName xml:id="mt001">Torres, Maximino</persName>

@@ -125,7 +125,8 @@
 <correspAction type="sentBy">
 <persName xml:id="ns001">Samaniego, Nemesio</persName>
 <placeName></placeName>
-<date when="1969-02-20"/>
+<date type="written" when="1969-02-20"/>
+<date type="postmarked" when="1969-02"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName xml:id="jbt001">Baros Torres, Jesusita</persName>

@@ -125,7 +125,7 @@
 <correspAction type="sentBy">
 <persName xml:id="mt001">Torres, Maximino</persName>
 <placeName></placeName>
-<date when="1977-06-08"/>
+<date type="postmarked" when="1977-06-08"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName xml:id="js001">Samaniego, Jesus</persName>
@@ -188,13 +188,6 @@ y quiero con la ayuda de Uds. aber que arelamos yo me encuentro muy enfermo y no
 <addrLine>Lista de Correo</addrLine>
 <addrLine>Mexicali B.C. Mexico</addrLine>
 </address>
-</ab>
-
-<ab type="postmark">
-ALBUQUERQUE N. MEX.<lb/>
-FEB 23<lb/>
-330 PM<lb/>
-1939<lb/>
 </ab>
 
 <figure type="stamp">

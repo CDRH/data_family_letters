@@ -5,8 +5,8 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from Mrs. C. E. Parrish to Mr and Mrs. W.F. Schubert, January 6, 1958</title>
-<title type="main">Carta de la Sra. C. E. Parrish a Sr. y Sra. W.F. Schubert, 6 de enero, 1958</title>
+<title type="main">Letter from Mrs. C. E. Parrish to Mr and Mrs. W.F. Schubert, January 5, 1958</title>
+<title type="main">Carta de la Sra. C. E. Parrish a Sr. y Sra. W.F. Schubert, 5 de enero, 1958</title>
 <author>Mrs. C. E. Parrish</author>
 <principal xml:id="iv001">Velázquez, Isabel</principal>
 <respStmt>
@@ -52,7 +52,7 @@
 <bibl>
 <author>Mrs. C. E. Parrish</author>
 <title level="m" type="main">Letter from Mrs. C. E. Parrish to Mr. and Mrs. W.F. Schubert</title>
-<date when="1958-01-06">January 6, 1958</date>
+<date when="1958-01-06">January 5, 1958</date>
 <extent>2 pages and envelope</extent>
 </bibl>
 <msDesc>
@@ -126,7 +126,8 @@
 <correspAction type="sentBy">
 <persName xml:id="cep">Parrish, Mrs. C. E.</persName>
 <placeName></placeName>
-<date when="1958-01-06"/>
+<date type="written" when="1958-01-05"/>
+<date type="postmarked" when="1958-01-06"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName xml:id="sbs001">Baros Schubert, Santos</persName>

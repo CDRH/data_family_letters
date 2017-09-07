@@ -5,8 +5,8 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from Jesusita B Torres to Sandra Schubert, January 5, 1953</title>
-<title type="main">Carta de Jesusita B Torres a Sandra Schubert, 5 de enero, 1953</title>
+<title type="main">Letter from Jesusita B Torres to Sandra Schubert, January 3, 1953</title>
+<title type="main">Carta de Jesusita B Torres a Sandra Schubert, 3 de enero, 1953</title>
 <author>Torres, Jesusita B</author>
 <principal xml:id="iv001">Velázquez, Isabel</principal>
 <respStmt>
@@ -52,7 +52,7 @@
 <bibl>
 <author>Jesusita B Torres</author>
 <title level="m" type="main">Letter from Jesusita B Torres to Sandra Schubert</title>
-<date when="1953-01-05">January 5, 1953</date>
+<date when="1953-01-05">January 3, 1953</date>
 <extent>4 pages and envelope</extent>
 </bibl>
 <msDesc>
@@ -126,7 +126,8 @@
 <correspAction type="sentBy">
 <persName xml:id="jbt001">Baros Torres, Jesusita</persName>
 <placeName></placeName>
-<date when="1953-01-03"/>
+<date type="written" when="1953-01-03"/>
+<date type="postmarked" when="1953-01-05"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName xml:id="sbs001">Baros Schubert, Santos</persName>

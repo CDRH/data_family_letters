@@ -125,7 +125,8 @@
 <correspAction type="sentBy">
 <persName xml:id="ct001">Torres, Clemente</persName>
 <placeName></placeName>
-<date when="1943-08-30"/>
+<date type="written" when="1943-08-30"/>
+<date type="postmarked" when="1943-09-01"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName xml:id="mt001">Torres, Maximino</persName>

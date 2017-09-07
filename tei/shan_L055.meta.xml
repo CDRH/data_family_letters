@@ -125,7 +125,7 @@
 <correspAction type="sentBy">
 <persName xml:id="js001">Samaniego, Jesús</persName>
 <placeName></placeName>
-<date when="1951-08-23"/>
+<date type="postmarked" when="1951-08-23"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName xml:id="jbt001">Baros Torres, Jesusita</persName>
