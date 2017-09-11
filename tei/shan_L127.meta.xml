@@ -13,6 +13,7 @@
 <resp>transcription and encoding</resp>
 <name xml:id="af">Faxas, Adoni A.</name>
 <name xml:id="km">Mendell, Kate</name>
+<name xml:id="sbg">Garcia, Sarita B.</name>
 </respStmt>
 </titleStmt>
 <editionStmt>
@@ -120,23 +121,34 @@
 <term></term>
 </keywords>
 </textClass>
-<particDesc>
-<person role="sender" xml:id="hb001">
-<persName>Helen Baros</persName>
-</person>
- <person role="sender" xml:id="jjb001">
-  <persName>Jess Baros</persName>
- </person>
- <person role="sender" xml:id="mb001">
-  <persName>Mark Baros</persName>
- </person>
-<person role="recipient" xml:id="wfs001">
-<persName>Mr. Bill Schubert</persName>
-</person>
- <person role="recipient" xml:id="sbs001">
- <persName>Mrs. Bill Schubert</persName>
- </person>
-</particDesc>
+<correspDesc>
+<correspAction type="sentBy">
+<persName xml:id="hb001">Baros, Helen</persName>
+<placeName></placeName>
+<date type="written" when="1977-03-16"/>
+<date type="postmarked" when="1977-03-17"/>
+</correspAction>
+<correspAction type="sentBy">
+<persName xml:id="jjb001">Baros, Jess Jesus</persName>
+<placeName></placeName>
+</correspAction>
+<correspAction type="sentBy">
+<persName xml:id="mb001">Baros, Mark</persName>
+<placeName></placeName>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="wfs001">Schubert, William F.</persName>
+<placeName></placeName>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="sbs001">Baros Schubert, Santos</persName>
+<placeName></placeName>
+</correspAction>
+<correspContext>
+<ref type="prev" target="shan">Letter from x to y, date</ref>
+<ref type="next" target="shan">Letter from x to y, date</ref>
+</correspContext> 
+</correspDesc>
 </profileDesc>
         
 <revisionDesc>

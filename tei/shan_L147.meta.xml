@@ -12,6 +12,7 @@
 <respStmt>
 <resp>transcription and encoding</resp>
 <name xml:id="af">Faxas, Adoni A.</name>
+<name xml:id="sbg">Garcia, Sarita B.</name>
 </respStmt>
 </titleStmt>
 <editionStmt>
@@ -119,6 +120,21 @@
 <term></term>
 </keywords>
 </textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName xml:id="ini">Anderson, Mrs.</persName>
+<placeName></placeName>
+<date type="written" when="1952-11-19"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="id">Baros Schubert, Santos</persName>
+<placeName></placeName>
+</correspAction>
+<correspContext>
+<ref type="prev" target="shan">Letter from x to y, date</ref>
+<ref type="next" target="shan">Letter from x to y, date</ref>
+</correspContext> 
+</correspDesc>
 <particDesc>
 <person role="sender" xml:id="a002">
 <persName>Mrs. Anderson</persName>

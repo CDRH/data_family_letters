@@ -125,7 +125,7 @@
 <correspAction type="sentBy">
 <persName xml:id="jbt001">Baros Torres, Jesusita</persName>
 <placeName></placeName>
-<date when="1958-08-28"/>
+<date type="written" when="1958-08-28"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName xml:id="sbs001">Baros Schubert, Santos</persName>
