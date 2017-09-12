@@ -5,14 +5,15 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from Victoria A de Sorrez to Jesusita Baros Torres</title>
-<title type="main">Carta de Victoria A de Sorrez a Jesusita Baros Torres</title>
-<author>de Sorrez, Victoria A.</author>
+<title type="main">Letter from Victoria Aviña de Torres to Jesusita Baros Torres</title>
+<title type="main">Carta de Victoria Aviña de Torres a Jesusita Baros Torres</title>
+<author>de Torres, Victoria Avina</author>
 <principal xml:id="iv001">Velázquez, Isabel</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name xml:id="af">Faxas, Adoni A.</name>
 <name xml:id="iv">Velázquez, Isabel</name>
+<name xml:id="sbg">Garcia, Sarita B.</name>
 </respStmt>
 </titleStmt>
 <editionStmt>
@@ -48,8 +49,8 @@
             
 <sourceDesc>
 <bibl>
-<author>de Sorrez, Victoria A.</author>
-<title level="m" type="main">Letter from Victoria A de Sorrez to Jesusita Baros Torres</title>
+<author>de Torres, Victoria Aviña</author>
+<title level="m" type="main">Letter from Victoria Aviña de Torres to Jesusita Baros Torres</title>
 <extent>1 page</extent>
 </bibl>
 <msDesc>
@@ -119,14 +120,20 @@
 <term></term>
 </keywords>
 </textClass>
-<particDesc>
-<person role="sender" xml:id="xx001">
-<persName>Victoria A de Sorrez</persName>
-</person>
-<person role="recipient" xml:id="jbt001">
-<persName>Jesusita Baros Torres</persName>
-</person>
-</particDesc>
+<correspDesc>
+<correspAction type="sentBy">
+<persName xml:id="vat001">de Torres, Victoria Aviña</persName>
+<placeName></placeName>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="jbt001">Baros Torres, Jesusita</persName>
+<placeName></placeName>
+</correspAction>
+<correspContext>
+<ref type="prev" target="shan">Letter from x to y, date</ref>
+<ref type="next" target="shan">Letter from x to y, date</ref>
+</correspContext> 
+</correspDesc>
 </profileDesc>
         
 <revisionDesc>
