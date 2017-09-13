@@ -5,14 +5,15 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from Jesusita B. Torres to Santos B. Schubert, March 03, 1985</title>
-<title type="main">Carta de Jesusita B. Torres a Santos B. Schubert, 03 de marzo, 1985</title>
+<title type="main">Letter from Jesusita B. Torres to Santos B. Schubert, March 03, 1965</title>
+<title type="main">Carta de Jesusita B. Torres a Santos B. Schubert, 03 de marzo, 1965</title>
 <author>Torres, Jesusita B.</author>
 <principal xml:id="iv001">Velázquez, Isabel</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name xml:id="af">Faxas, Adoni A.</name>
 <name xml:id="ji">Isasi, Jennifer</name>
+<name xml:id="sbg">Garcia, Sarita B.</name>
 </respStmt>
 </titleStmt>
 <editionStmt>
@@ -50,7 +51,7 @@
 <bibl>
 <author>Torres, Jesusita B.</author>
 <title level="m" type="main">Letter from Jesusita B. Torres to Santos B. Schubert</title>
-<date when="1985-03-03">March 03, 1985</date>
+<date when="1965-03-03">March 03, 1965</date>
 <extent>2 pages and envelope</extent>
 </bibl>
 <msDesc>
@@ -120,14 +121,22 @@
 <term></term>
 </keywords>
 </textClass>
-<particDesc>
-<person role="sender" xml:id="jbt001">
-<persName>Jesusita B. Torres</persName>
-</person>
-<person role="recipient" xml:id="sbs001">
-<persName>Santos B. Schubert</persName>
-</person>
-</particDesc>
+<correspDesc>
+<correspAction type="sentBy">
+<persName xml:id="jbt001">Baros Torres, Jesusita</persName>
+<placeName></placeName>
+<date type="written" when="1965-03-03"/>
+<date type="postmarked" when="1965-03-03"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="sbs001">Baros Schubert, Santos</persName>
+<placeName></placeName>
+</correspAction>
+<correspContext>
+<ref type="prev" target="shan">Letter from x to y, date</ref>
+<ref type="next" target="shan">Letter from x to y, date</ref>
+</correspContext> 
+</correspDesc>
 </profileDesc>
         
 <revisionDesc>
@@ -193,7 +202,7 @@ Domingo, y el Lunes nos benimos llegamos á qui el martes en la noche, y le tel�
 FORT LUPTON<lb/> 
 MAR 3<lb/> 
 PM<lb/>
-1985<lb/>
+1965<lb/>
 COLO.<lb/>
 </ab>
 
