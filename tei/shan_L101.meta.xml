@@ -137,14 +137,6 @@
 <ref type="next" target="shan">Letter from x to y, date</ref>
 </correspContext> 
 </correspDesc>
-<particDesc>
-<person role="sender" xml:id="jbt001">
-<persName>Jesusita B Torres</persName>
-</person>
-<person role="recipient" xml:id="sbs001">
-<persName>Mrs. W. F. Schubert</persName>
-</person>
-</particDesc>
 </profileDesc>
         
 <revisionDesc>

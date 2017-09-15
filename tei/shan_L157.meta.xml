@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="shan_L157.meta">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Mrs. F. N. Baca to Santos and Bill Schubert, August 14, 1982</title>
+<title type="main">Carta de Mrs. F. N. Baca a Santos y Bill Schubert, 14 de agosto, 1982</title>
+<author>Baca, Felipita N.</author>
+<principal xml:id="iv001">Velázquez, Isabel</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name xml:id="km">Mendell, Kate</name>
+<name xml:id="sbg">Garcia, Sarita B.</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Family Letters: An analysis of the Personal Correspondence of a Mexican American Family in Western Colorado and Eastern Nebraska in the First Half of the 20th Century</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Department of Modern Languages and Literatures</name>
+<address>
+<addrLine>1111 Oldfather Hall</addrLine>
+<addrLine>660 N 12th</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+<addrLine>modlang2@unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+</address>
+<idno>shan_L157.meta</idno>
+<availability>
+<p>COPYRIGHT STATEMENT TO GO HERE</p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author>Baca, Mrs. F. N.</author>
+<title level="m" type="main">Letter from Mrs. F. N. Baca to Santos and Bill Schubert</title>
+<date when="1982-08-14">August 14, 1982</date>
+<extent>1 page and envelope</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Shanahan Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p>1 hand-written page and envelope</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support></support>
+<extent>1 page and envelope
+<dimensions unit="mm"><height></height><width></width></dimensions>
+</extent>
+<condition>
+<p></p></condition>
+</supportDesc>
+</objectDesc>
+<handDesc>
+<handNote><p>Media: black ink</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote><p></p></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin></origin>
+<provenance></provenance>
+<acquisition></acquisition>
+</history>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term></term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName xml:id="fnb001">Baca, Felipita N.</persName>
+<placeName></placeName>
+<date type="written" when="1982-08-14"/>
+<date type="postmark" when="1982-08-16"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="wfs001">Schubert, William F.</persName>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="sbs001">Baros Schubert, Santos</persName>
+<placeName></placeName>
+</correspAction>
+<correspContext>
+<ref type="prev" target="shan">Letter from x to y, date</ref>
+<ref type="next" target="shan">Letter from x to y, date</ref>
+</correspContext> 
+</correspDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017" who="#sbg">Initial Encoding</change>
+<change when="2015" who="#km">Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+                
+<pb facs="shan_l.574..jpg"/>
+
+<opener>
+<dateline>August 14 1982</dateline>
+
+<salute>Dear Bill &amp; Santos</salute>
+</opener>
+
+<p>Sorry it takes me so long to write. I am very happy here in Albuquerque. I had surgery on my
+right eye. I guess Bethy has told you. I had Catoract &amp; glowcoma but I am doing fine, so far.
+And I will be having the same thing on my left eye. Bethy says that you would like to have
+information about you. All I can tell you, is that I know you since 1928 Then is when your
+mother moved to the room, next to</p>
+
+<pb facs="shan_l.576.jpg"/>
+
+<p>our house. You must have been about 7 years old. If there is something else that, I can help you let me know. You went to Longfellow school. My address is</p>
+<p>3000 Aztec N.E.</p>
+<p>space 49</p>
+<p>Phone</p>
+<p>505 884-0407</p>
+<p>I live in a mobil home 2 bedrooms 2 baths. You and Bill are welcome when ever you come to Albuquerque.</p>
+<closer>
+<salute>Love.</salute>                    
+<signed>Mrs. Baca.</signed>
+</closer>
+
+</div1>
+<div1 type="envelope">
+
+<pb facs="shan_l.572.jpg"/>
+
+<ab type="return">
+<address>
+<addrLine>Mrs. F. N. Baca</addrLine>
+<addrLine>3000 Aztec, N.E. 49</addrLine>
+<addrLine>Albuquerque, NM 87107</addrLine>
+</address>
+</ab>
+
+<ab type="address">
+<address>
+<addrLine>Mr. &amp; Mrs. Bill Schubert</addrLine>
+<addrLine>3830 "C." Street</addrLine>
+<addrLine>Lincoln Neb. 68510</addrLine>
+</address>
+</ab>
+
+<ab type="postmark">
+ALBUQUERQUE NM 871<lb/>
+PM 6<lb/>
+16 AUG<lb/>
+1982<lb/>
+NEBR.<lb/>
+</ab>
+
+<figure type="stamp">
+<p></p>
+</figure>
+
+</div1>
+</body>
+</text>
+
+</TEI>
