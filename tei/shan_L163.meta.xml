@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="shan_L157.meta">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"  xml:id="shan_L163.meta">
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from Felipita N. Baca to Santos Baros Schubert and William F. Schubert, August 14, 1982</title>
-<title type="main">Carta de Felipita N. Baca a Santos Baros Schubert y William F. Schubert, 14 de agosto, 1982</title>
-<author>Baca, Felipita N.</author>
+<title type="main">Letter from Santos Baros Schubert to William F. Schubert, October 04, 1950</title>
+<title type="main">Carta de Santos Baros Schubert a William F. Schubert, 04 de octubre, 1950</title>
+<author>Baros Schubert, Santos</author>
 <principal xml:id="iv001">Velázquez, Isabel</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -25,10 +25,10 @@
 <publisher>University of Nebraska-Lincoln</publisher>
 <distributor>
 <name>Department of Modern Languages and Literatures</name>
-<address>
+ <address>
 <addrLine>1111 Oldfather Hall</addrLine>
 <addrLine>660 N 12th</addrLine>
-<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-0315</addrLine>
 <addrLine>modlang2@unl.edu</addrLine>
 </address>
@@ -38,20 +38,20 @@
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-0315</addrLine>
 </address>
-<idno>shan_L157.meta</idno>
+<idno>shan_L163.meta</idno>
 <availability>
 <p>COPYRIGHT STATEMENT TO GO HERE</p>
 </availability>
 </publicationStmt>
-
+            
 <notesStmt><note></note></notesStmt>
-
+            
 <sourceDesc>
 <bibl>
-<author>Baca, Felipita N.</author>
-<title level="m" type="main">Letter from Felipita N. Baca to Santos Baros Schubert and William F. Schubert</title>
-<date when="1982-08-14">August 14, 1982</date>
-<extent>1 page and envelope</extent>
+<author>Baros Schubert, Santos</author>
+<title level="m" type="main">Letter from Santos Baros Schubert to William F. Schubert</title>
+<date when="1950-10-04">October 04, 1950</date>
+<extent>2 pages and envelope</extent>
 </bibl>
 <msDesc>
 <msIdentifier>
@@ -59,13 +59,13 @@
 <idno></idno>
 </msIdentifier>
 <msContents>
-<p>1 hand-written page and envelope</p>
+<p>2 hand-written pages and envelope</p>
 </msContents>
 <physDesc>
 <objectDesc>
 <supportDesc>
 <support></support>
-<extent>1 page and envelope
+<extent>2 pages and envelope
 <dimensions unit="mm"><height></height><width></width></dimensions>
 </extent>
 <condition>
@@ -73,7 +73,7 @@
 </supportDesc>
 </objectDesc>
 <handDesc>
-<handNote><p>Media: black ink</p></handNote>
+<handNote><p>Media:</p></handNote>
 </handDesc>
 <typeDesc>
 <typeNote><p></p></typeNote>
@@ -84,10 +84,10 @@
 <acquisition></acquisition>
 </history>
 </msDesc>
-
+                
 </sourceDesc>
 </fileDesc>
-
+        
 <encodingDesc>
 <editorialDecl>
 <correction>
@@ -98,7 +98,7 @@
 </normalization>
 </editorialDecl>
 </encodingDesc>
-
+        
 <profileDesc>
 <textClass>
 <keywords scheme="original" n="category">
@@ -122,16 +122,13 @@
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
-<persName xml:id="fnb001">Baca, Felipita N.</persName>
+<persName xml:id="sbs001">Baros Schubert, Santos</persName>
 <placeName></placeName>
-<date type="written" when="1982-08-14"/>
-<date type="postmark" when="1982-08-16"/>
+<date type="written" when="1950-10-04"/>
+<date type="postmark" when="1950-10-04"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName xml:id="wfs001">Schubert, William F.</persName>
-</correspAction>
-<correspAction type="deliveredTo">
-<persName xml:id="sbs001">Baros Schubert, Santos</persName>
 <placeName></placeName>
 </correspAction>
 <correspContext>
@@ -140,81 +137,93 @@
 </correspContext> 
 </correspDesc>
 </profileDesc>
-
+        
 <revisionDesc>
 <change when="2017" who="#sbg">Initial Encoding</change>
 <change when="2015" who="#km">Transcription</change>
-
+            
 </revisionDesc>
 </teiHeader>
-
+    
 <text>
 <body>
-
+            
 <div1 type="letter">
                 
-<pb facs="shan_l.574..jpg"/>
-
+<pb facs="shan_l.605.jpg"/>
+                
 <opener>
-<dateline>August 14 1982</dateline>
+<address><addrLine></addrLine></address>
+<dateline>October 4, 1950</dateline>
 
-<salute>Dear Bill &amp; Santos</salute>
+<salute>Dearest Bill,</salute>
 </opener>
+<p>I'm going to Denver today for the first time since I beenhere. I missed the bus this A.M. so have to take one this P.M. Don't matter too much as we're staying overnight in Denver so I can get all my business done.</p>
 
-<p>Sorry it takes me so long to write. I am very happy here in Albuquerque. I had surgery on my
-right eye. I guess Bethy has told you. I had Catoract &amp; glowcoma but I am doing fine, so far.
-And I will be having the same thing on my left eye. Bethy says that you would like to have
-information about you. All I can tell you, is that I know you since 1928 Then is when your
-mother moved to the room, next to</p>
+<p>Well, Well, Billy had a swell birthday we’d chicken dinner &amp; his birthday cake was baked at the bakery I invited Jess &amp; family &amp; Terry &amp; family Terry didn’t come but Jess &amp; family came so Billy had a swell day with the kids. Jess &amp;
+Helen gave him a wool <unclear reason= "illegible"/> blue sweater—Terry a gun—Cathy a tractor.</p>
 
-<pb facs="shan_l.576.jpg"/>
+<p>Terry &amp; Johnnie came Mon. night just to bring Billy's gifts a wooden toy &amp; clown pajamas</p>
 
-<p>our house. You must have been about 7 years old. If there is something else that, I can help you let me know. You went to Longfellow school. My address is</p>
-<p>3000 Aztec N.E.</p>
-<p>space 49</p>
-<p>Phone</p>
-<p>505 884-0407</p>
-<p>I live in a mobil home 2 bedrooms 2 baths. You and Bill are welcome when ever you come to Albuquerque.</p>
+<pb facs="shan_l.606.jpg"/>
+
+<p>Mother gave us $20.00 for our birthdays. Marjorie &amp; Jack sent him a yellow &amp; brown sweater
+And Dale some plastic toys so he didn’t do so bad.
+Thanks for the pickle recipe I’m going to try &amp; go over to your aunts. I guess I’ll come home
+about the 22nd it’s on a Sunday. Then Jess can take me to Denver you should charge Sgt. Ruth
+sent for living in our trailer. if he wants his trailer back he can have it. Anyway that’s too much
+money for the trailer. You can buy a lot here for only $100.00 there’s a place here, it’s a house
+plus 4 acres for only $7,000.
+Well, I guess I better eat so I can take the next bus. Sending you all our love from your son &amp; wife. At nights Billy wants to go home to Daddy.</p>
+
 <closer>
-<salute>Love.</salute>                    
-<signed>Mrs. Baca.</signed>
+<salute>Lovingly your Wife,</salute>                    
+<signed>Sandra</signed>
 </closer>
 
+
 </div1>
+
 <div1 type="envelope">
 
-<pb facs="shan_l.572.jpg"/>
+<pb facs="shan_l.603.jpg"/>
 
 <ab type="return">
 <address>
-<addrLine>Mrs. F. N. Baca</addrLine>
-<addrLine>3000 Aztec, N.E. 49</addrLine>
-<addrLine>Albuquerque, NM 87107</addrLine>
+<addrLine>Sandra Schubert</addrLine>
+<addrLine>P.O. Box 681</addrLine>
+<addrLine>Ft. Lupton, Colo</addrLine>
 </address>
 </ab>
 
 <ab type="address">
 <address>
-<addrLine>Mr. &amp; Mrs. Bill Schubert</addrLine>
-<addrLine>3830 "C." Street</addrLine>
-<addrLine>Lincoln Neb. 68510</addrLine>
+<addrLine>Mr. William F. Schubert</addrLine>
+<addrLine>Camp 67</addrLine>
+<addrLine><del type="strike">Adams</del>Rulo, Nebraska</addrLine>
 </address>
 </ab>
 
 <ab type="postmark">
-ALBUQUERQUE NM 871<lb/>
-PM 6<lb/>
-16 AUG<lb/>
-1982<lb/>
+FORT LUPTON<lb/>
+OCT 4<lb/>
+530 PM<lb/>
+1950<lb/>
+COLO<lb/>
+</ab>
+
+<ab type="postmark">
+ADAMS<lb/>
+OCT 5<lb/>
+3 PM<lb/>
+1950<lb/>
 NEBR.<lb/>
 </ab>
 
-<figure type="stamp">
-<p></p>
-</figure>
 
 </div1>
 </body>
+        
+<back></back>
 </text>
-
 </TEI>
