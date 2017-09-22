@@ -5,9 +5,9 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from José Lara M. to Santos Baros, November 8, 1942</title>
-<title type="main">Carta de José Lara M. a Santos Baros, 8 de noviembre, 1942</title>
-<author>José Lara M.</author>
+<title type="main">Letter from José Lara Miranda to Santos Baros Schubert, November 08, 1942</title>
+<title type="main">Carta de José Lara Miranda a Santos Baros Schubert, 08 de noviembre, 1942</title>
+<author>Lara, José Miranda</author>
 <principal xml:id="iv001">Velázquez, Isabel</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,9 +49,9 @@
             
 <sourceDesc>
 <bibl>
-<author>José Lara M.</author>
-<title level="m" type="main">Letter from José Lara M. to Santos Baros</title>
-<date when="1942-11-08">November 8, 1942</date>
+<author>Miranda, José Lara</author>
+<title level="m" type="main">Letter from José Lara Miranda to Santos Baros Schubert</title>
+<date when="1942-11-08">November 08, 1942</date>
 <extent>1 page</extent>
 </bibl>
 <msDesc>
@@ -128,7 +128,7 @@
 <date type="written" when="1942-11-08"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName xml:id="jbt001">Baros Torres, Jesusita</persName>
+<persName xml:id="sbs001">Baros Schubert, Santos</persName>
 <placeName></placeName>
 </correspAction>
 <correspContext>

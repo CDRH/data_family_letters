@@ -5,9 +5,9 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from Clemente Torres to Maximino Torrez, June 25, 1927</title>
-<title type="main">Carta de Clemente Torrez a Maximino Torres, 25 de junio, 1927</title>
-<author>Torrez, Clemente</author>
+<title type="main">Letter from Clemente Torres to Maximino Torres, June 25, 1927</title>
+<title type="main">Carta de Clemente Torres a Maximino Torres, 25 de junio, 1927</title>
+<author>Torres, Clemente</author>
 <principal xml:id="iv001">Velázquez, Isabel</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,8 +49,8 @@
             
 <sourceDesc>
 <bibl>
-<author>Torrez, Clemente</author>
-<title level="m" type="main">Letter from Clemente Torrez to Maximino Torres</title>
+<author>Torres, Clemente</author>
+<title level="m" type="main">Letter from Clemente Torres to Maximino Torres</title>
 <date when="1927-06-25">June 25, 1927</date>
 <extent>2 pages</extent>
 </bibl>
@@ -123,7 +123,7 @@
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
-<persName xml:id="ct001">Torrez, Clemente</persName>
+<persName xml:id="ct001">Torres, Clemente</persName>
 <placeName></placeName>
 <date type="written" when="1927-06-25"/>
 </correspAction>

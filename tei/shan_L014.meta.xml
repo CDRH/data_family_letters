@@ -5,9 +5,9 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from Jesús Samaniego to Jesusita Baros, December 02, 1934</title>
-<title type="main">Carta de Jesús Samaniego a Jesusita Baros, 02 de diciembre, 1934</title>
-<author>Samaniego, Jesús</author>
+<title type="main">Letter from José Jesús Samaniego to Jesusita BarosTorres, December 02, 1934</title>
+<title type="main">Carta de José Jesús Samaniego a Jesusita Baros Torres, 02 de diciembre, 1934</title>
+<author>Samaniego, José Jesús</author>
 <principal xml:id="iv001">Velázquez, Isabel</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,8 +49,8 @@
             
 <sourceDesc>
 <bibl>
-<author>Samaniego, Jesús</author>
-<title level="m" type="main">Letter from Jesús Samaniego to Jesusita Baros</title>
+<author>Samaniego, José Jesús</author>
+<title level="m" type="main">Letter from Jesús Samaniego to Jesusita Baros Torres</title>
 <date when="1934-12-02">December 02, 1934</date>
 <extent>2 pages and envelope</extent>
 </bibl>
@@ -123,7 +123,7 @@
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
-<persName xml:id="js001">Samaniego,Jesús</persName>
+<persName xml:id="js001">Samaniego, José Jesús</persName>
 <placeName></placeName>
 <date type="written" when="1934-12-02"/>
 <date type="postmarked" when="1934-12-05"/>

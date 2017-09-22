@@ -5,9 +5,9 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from Julia de Arroyo to Maximino Torrez, March 18, 1926</title>
-<title type="main">Carta de Julia de Arroyo a Maximino Torrez, 18 de marzo, 1926</title>
-<author>Arroyo, Julia</author>
+<title type="main">Letter from Julia de Arroyo to Maximino Torres, March 18, 1926</title>
+<title type="main">Carta de Julia de Arroyo a Maximino Torres, 18 de marzo, 1926</title>
+<author>de Arroyo, Julia</author>
 <principal xml:id="iv001">Velázquez, Isabel</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,8 +49,8 @@
             
 <sourceDesc>
 <bibl>
-<author>Julia de Arroyo</author>
-<title level="m" type="main">Letter from Julia de Arroyo to Maximino Torrez</title>
+<author>de Arroyo, Julia</author>
+<title level="m" type="main">Letter from Julia de Arroyo to Maximino Torres</title>
 <date when="1926-03-18">March 18, 1926</date>
 <extent>2 pages</extent>
 </bibl>
@@ -128,7 +128,7 @@
 <date type="written" when="1926-03-18"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName xml:id="mt001">Torrez, Maximino</persName>
+<persName xml:id="mt001">Torres, Maximino</persName>
 <placeName></placeName>
 </correspAction>
 <correspContext>

@@ -5,9 +5,9 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from Jesús Samaniego to Mrs. Jesusita Baros, October 15, 1938</title>
-<title type="main">Carta de Jesús Samaniego a Mrs. Jesusita Baros, 15 de octubre, 1938</title>
-<author>Samaniego, Jesús</author>
+<title type="main">Letter from José Jesús Samaniego to Jesusita Baros Torres, October 15, 1938</title>
+<title type="main">Carta de José Jesús Samaniego a Jesusita Baros Torres, 15 de octubre, 1938</title>
+<author>Samaniego, José Jesús</author>
 <principal xml:id="iv001">Velázquez, Isabel</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,8 +49,8 @@
             
 <sourceDesc>
 <bibl>
-<author>Samaniego, Jesús</author>
-<title level="m" type="main">Jesús Samaniego to Mrs. Jesusita Baros</title>
+<author>Samaniego, José Jesús</author>
+<title level="m" type="main">José Jesús Samaniego to Jesusita Baros Torres</title>
 <date when="1938-10-15">October 15, 1938</date>
 <extent>4 pages and envelope</extent>
 </bibl>
@@ -123,7 +123,7 @@
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
-<persName xml:id="js001">Samaniego, Jesús</persName>
+<persName xml:id="js001">Samaniego, José Jesús</persName>
 <placeName></placeName>
 <date type="written" when="1938-10-15"/>
 </correspAction>
