@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0"  xml:id="shan_L163.meta">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"  xml:id="shan_L165.meta">
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from Santos Baros Schubert to William F. Schubert, October 04, 1950</title>
-<title type="main">Carta de Santos Baros Schubert a William F. Schubert, 04 de octubre, 1950</title>
-<author>Baros Schubert, Santos</author>
+<title type="main">Letter from William F. Schubert to Santos Baros Schubert, January 08, 1953</title>
+<title type="main">Carta de William F. Schubert a Santos Baros Schubert, 08 de enero, 1953</title>
+<author>Schubert, William F.</author>
 <principal xml:id="iv001">Velázquez, Isabel</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -38,7 +38,7 @@
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-0315</addrLine>
 </address>
-<idno>shan_L163.meta</idno>
+<idno>shan_L165.meta</idno>
 <availability>
 <p>COPYRIGHT STATEMENT TO GO HERE</p>
 </availability>
@@ -48,9 +48,9 @@
             
 <sourceDesc>
 <bibl>
-<author>Baros Schubert, Santos</author>
-<title level="m" type="main">Letter from Santos Baros Schubert to William F. Schubert</title>
-<date when="1950-10-04">October 04, 1950</date>
+<author>Schubert, William F.</author>
+<title level="m" type="main">William F. Schubert to Santos Baros Schubert</title>
+<date when="1953-01-08">1953-01-08</date>
 <extent>2 pages and envelope</extent>
 </bibl>
 <msDesc>
@@ -122,13 +122,13 @@
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
-<persName xml:id="sbs001">Baros Schubert, Santos</persName>
+<persName xml:id="wfs001">Schubert, William F.</persName>
 <placeName></placeName>
-<date type="written" when="1950-10-04"/>
-<date type="postmark" when="1950-10-04"/>
+<date type="written" when="1953-01-08"/>
+<date type="postmark" when="1953-01-08"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName xml:id="wfs001">Schubert, William F.</persName>
+<persName xml:id="sbs001">Baros Schubert, Santos</persName>
 <placeName></placeName>
 </correspAction>
 <correspContext>
@@ -150,35 +150,41 @@
             
 <div1 type="letter">
                 
-<pb facs="shan_l.605.jpg"/>
+<pb facs="shan_l.614.jpg"/>
                 
 <opener>
-<address><addrLine></addrLine></address>
-<dateline>October 4, 1950</dateline>
+<address><addrLine>Berwyn Ill.</addrLine></address>
+<dateline>January 8, 1953</dateline>
 
-<salute>Dearest Bill,</salute>
+<salute>Darling Sandra, Billy, Bobby &amp; Pamela</salute>
 </opener>
-<p>I'm going to Denver today for the first time since I beenhere. I missed the bus this A.M. so have to take one this P.M. Don't matter too much as we're staying overnight in Denver so I can get all my business done.</p>
+<p>I got back ok yesterday morning and went to the meeting at 3:00PM Didn’t have much at the
+meeting, Last night my supervisor told me I’ll work from 10:30 PM to 7:30 AM starting tonight.
+It’s a relief job. Two nights at a fit yard closer to Chicago; then two nights at the workhouses &amp;
+fit houses in Chicago where the office is and one night at another fit house would just as soon
+stayed in the fit yard I was in I still get Monday &amp;Tuesday off. Didn’t have much doing last
+night at the fit houses is where usually there’s more theft, etc.</p>
+<p>Am going to look at this trailer court which is suppose to be about a mile from here; Also, have
+to get my laundry. Last night I got my overcoat dirty so am going to get some cleaning fluid and
+try cleaning it up today. One thing about the fit houses I’ll wear a suit and overcoat, it’s a lot
+cleaner.</p>
+<p>Looks as if it rained and froze this morning. Hade some snow yesterday then warmed up a little
+last night. The company has a couple more new men suppose to go to work so that will probably
+give me a different job again in 2 or 3 weeks</p>
+<p>Sure wish I had you and the trailer up here. Maybe we will get a break before long.</p>
 
-<p>Well, Well, Billy had a swell birthday we’d chicken dinner &amp; his birthday cake was baked at the bakery I invited Jess &amp; family &amp; Terry &amp; family Terry didn’t come but Jess &amp; family came so Billy had a swell day with the kids. Jess &amp;
-Helen gave him a wool <unclear reason= "illegible"/> blue sweater—Terry a gun—Cathy a tractor.</p>
-
-<p>Terry &amp; Johnnie came Mon. night just to bring Billy's gifts a wooden toy &amp; clown pajamas</p>
-
-<pb facs="shan_l.606.jpg"/>
-
-<p>Mother gave us $20.00 for our birthdays. Marjorie &amp; Jack sent him a yellow &amp; brown sweater
-And Dale some plastic toys so he didn’t do so bad.
-Thanks for the pickle recipe I’m going to try &amp; go over to your aunts. I guess I’ll come home
-about the 22nd it’s on a Sunday. Then Jess can take me to Denver you should charge Sgt. Ruth
-sent for living in our trailer. if he wants his trailer back he can have it. Anyway that’s too much
-money for the trailer. You can buy a lot here for only $100.00 there’s a place here, it’s a house
-plus 4 acres for only $7,000.
-Well, I guess I better eat so I can take the next bus. Sending you all our love from your son &amp; wife. At nights Billy wants to go home to Daddy.</p>
+<pb facs="shan_l.615.jpg"/>
+<p>-2-</p>
+<p>We are getting $2.00 a month less starting in January as the Government cost of living index is
+suppose to have gone down the wage contract is based on the index so if it goes up there’s a
+raise, if it goes down there’s a decrease.</p>
+<p>Darling I miss you very much and love all of you very very much too. How are the kids’ colds?
+Suppose Billy is wanting to wear his new overshoes &amp; leggings. Not much to write as nothing
+goes on around here. I’ll see you again Monday &amp; Tuesday. Write me a note if you have time.</p>
 
 <closer>
-<salute>Lovingly your Wife,</salute>                    
-<signed>Sandra</signed>
+<salute>All my love</salute>                    
+<signed>Bill</signed>
 </closer>
 
 
@@ -186,38 +192,30 @@ Well, I guess I better eat so I can take the next bus. Sending you all our love 
 
 <div1 type="envelope">
 
-<pb facs="shan_l.603.jpg"/>
+<pb facs="shan_l.612.jpg"/>
 
 <ab type="return">
 <address>
-<addrLine>Sandra Schubert</addrLine>
-<addrLine>P.O. Box 681</addrLine>
-<addrLine>Ft. Lupton, Colo</addrLine>
+<addrLine>W. F. Schubert</addrLine>
+<addrLine>3417 So Euclid Ave</addrLine>
+<addrLine>Berwyn, Ill.</addrLine>
 </address>
 </ab>
 
 <ab type="address">
 <address>
-<addrLine>Mr. William F. Schubert</addrLine>
-<addrLine>Camp 67</addrLine>
-<addrLine><del type="strike">Adams</del>Rulo, Nebraska</addrLine>
+<addrLine>Mrs. Santos B Schubert</addrLine>
+<addrLine>2738 Pear St</addrLine>
+<addrLine>Lincoln 3</addrLine>
+<addrLine>Nebraska</addrLine>
 </address>
 </ab>
 
 <ab type="postmark">
-FORT LUPTON<lb/>
-OCT 4<lb/>
-530 PM<lb/>
-1950<lb/>
-COLO<lb/>
-</ab>
-
-<ab type="postmark">
-ADAMS<lb/>
-OCT 5<lb/>
-3 PM<lb/>
-1950<lb/>
-NEBR.<lb/>
+BERWYN, ILL.<lb/>
+JAN 8<lb/>
+1-PM<lb/>
+1953<lb/>
 </ab>
 
 <figure type="stamp">

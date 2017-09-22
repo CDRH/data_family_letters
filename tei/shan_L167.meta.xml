@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0"  xml:id="shan_L163.meta">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"  xml:id="shan_L167.meta">
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from Santos Baros Schubert to William F. Schubert, October 04, 1950</title>
-<title type="main">Carta de Santos Baros Schubert a William F. Schubert, 04 de octubre, 1950</title>
+<title type="main">Letter from Santos Baros Schubert to William F. Schubert, December 12,1950</title>
+<title type="main">Carta de Santos Baros Schubert a William F. Schubert, 12 de diciembre, 1950</title>
 <author>Baros Schubert, Santos</author>
 <principal xml:id="iv001">Velázquez, Isabel</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name xml:id="km">Mendell, Kate</name>
+<name xml:id="iv">Velázquez, Isabel</name>
 <name xml:id="sbg">Garcia, Sarita B.</name>
 </respStmt>
 </titleStmt>
@@ -38,7 +38,7 @@
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-0315</addrLine>
 </address>
-<idno>shan_L163.meta</idno>
+<idno>shan_L167.meta</idno>
 <availability>
 <p>COPYRIGHT STATEMENT TO GO HERE</p>
 </availability>
@@ -50,8 +50,8 @@
 <bibl>
 <author>Baros Schubert, Santos</author>
 <title level="m" type="main">Letter from Santos Baros Schubert to William F. Schubert</title>
-<date when="1950-10-04">October 04, 1950</date>
-<extent>2 pages and envelope</extent>
+<date when="1950-12-12">December 12, 1950</date>
+<extent>2 pages</extent>
 </bibl>
 <msDesc>
 <msIdentifier>
@@ -59,13 +59,13 @@
 <idno></idno>
 </msIdentifier>
 <msContents>
-<p>2 hand-written pages and envelope</p>
+<p>2 hand-written pages</p>
 </msContents>
 <physDesc>
 <objectDesc>
 <supportDesc>
 <support></support>
-<extent>2 pages and envelope
+<extent>2 pages
 <dimensions unit="mm"><height></height><width></width></dimensions>
 </extent>
 <condition>
@@ -73,7 +73,7 @@
 </supportDesc>
 </objectDesc>
 <handDesc>
-<handNote><p>Media:</p></handNote>
+<handNote><p>Media: black ink</p></handNote>
 </handDesc>
 <typeDesc>
 <typeNote><p></p></typeNote>
@@ -124,8 +124,7 @@
 <correspAction type="sentBy">
 <persName xml:id="sbs001">Baros Schubert, Santos</persName>
 <placeName></placeName>
-<date type="written" when="1950-10-04"/>
-<date type="postmark" when="1950-10-04"/>
+<date type="written" when="1950-12-12"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName xml:id="wfs001">Schubert, William F.</persName>
@@ -140,7 +139,7 @@
         
 <revisionDesc>
 <change when="2017" who="#sbg">Initial Encoding</change>
-<change when="2015" who="#km">Transcription</change>
+<change when="2017" who="#iv">Transcription</change>
             
 </revisionDesc>
 </teiHeader>
@@ -150,82 +149,42 @@
             
 <div1 type="letter">
                 
-<pb facs="shan_l.605.jpg"/>
+<pb facs="shan_l.620.jpg"/>
                 
 <opener>
-<address><addrLine></addrLine></address>
-<dateline>October 4, 1950</dateline>
+<dateline>Dec 12, 1950</dateline>
 
 <salute>Dearest Bill,</salute>
 </opener>
-<p>I'm going to Denver today for the first time since I beenhere. I missed the bus this A.M. so have to take one this P.M. Don't matter too much as we're staying overnight in Denver so I can get all my business done.</p>
+<p>Received yours two letters yesterday. I was wondering where you were.</p>
+<p>Billy &amp; I ‘re fine. Hope that you’re better by now. Honey if you can’t work- you come home.
+Better take it easy for a while.</p>
+<p>We’re having nice weather. I went to town yesterday by myself. Did some shopping. I’m not
+thru yet.</p>
+<p>Yes, your Dad fixed the Xmas tree last night but I don’t like the shape of it. The branches aren’t
+down. Anyway I’m going to wait till</p>
 
-<p>Well, Well, Billy had a swell birthday we’d chicken dinner &amp; his birthday cake was baked at the bakery I invited Jess &amp; family &amp; Terry &amp; family Terry didn’t come but Jess &amp; family came so Billy had a swell day with the kids. Jess &amp;
-Helen gave him a wool <unclear reason= "illegible"/> blue sweater—Terry a gun—Cathy a tractor.</p>
+<pb facs="shan_l.621.jpg"/>
 
-<p>Terry &amp; Johnnie came Mon. night just to bring Billy's gifts a wooden toy &amp; clown pajamas</p>
-
-<pb facs="shan_l.606.jpg"/>
-
-<p>Mother gave us $20.00 for our birthdays. Marjorie &amp; Jack sent him a yellow &amp; brown sweater
-And Dale some plastic toys so he didn’t do so bad.
-Thanks for the pickle recipe I’m going to try &amp; go over to your aunts. I guess I’ll come home
-about the 22nd it’s on a Sunday. Then Jess can take me to Denver you should charge Sgt. Ruth
-sent for living in our trailer. if he wants his trailer back he can have it. Anyway that’s too much
-money for the trailer. You can buy a lot here for only $100.00 there’s a place here, it’s a house
-plus 4 acres for only $7,000.
-Well, I guess I better eat so I can take the next bus. Sending you all our love from your son &amp; wife. At nights Billy wants to go home to Daddy.</p>
+<p>You can come over. Then we can decorate it. No, don’t buy any kind of telephone. I’ve
+something else for Dolores.</p>
+<p>Billy &amp; Dale are playing here. Making racket. They play ok.</p>
+<p>Helen &amp; Dale decorated their Christmas tree last night.</p>
+<p>Helen &amp; I went to the show Sunday. Took the kids with us. I didn’t like the movie at all. You be
+sure not to send any money to Sgt. Ruth. Write him and tell him that you’ll send him some next
+month.</p>
+<p>We’re getting along fine so don’t worry about us. Have to get dinner.</p>
 
 <closer>
-<salute>Lovingly your Wife,</salute>                    
-<signed>Sandra</signed>
+<salute>Love</salute>                    
+<signed>Sandra.</signed>
 </closer>
 
+<postscript><p>Billy says, "the tree isn't decorated &amp; that Pa saw it down." And that we wraped packages last night.</p>
+<p>We love you, Bill.</p></postscript>
 
 </div1>
 
-<div1 type="envelope">
-
-<pb facs="shan_l.603.jpg"/>
-
-<ab type="return">
-<address>
-<addrLine>Sandra Schubert</addrLine>
-<addrLine>P.O. Box 681</addrLine>
-<addrLine>Ft. Lupton, Colo</addrLine>
-</address>
-</ab>
-
-<ab type="address">
-<address>
-<addrLine>Mr. William F. Schubert</addrLine>
-<addrLine>Camp 67</addrLine>
-<addrLine><del type="strike">Adams</del>Rulo, Nebraska</addrLine>
-</address>
-</ab>
-
-<ab type="postmark">
-FORT LUPTON<lb/>
-OCT 4<lb/>
-530 PM<lb/>
-1950<lb/>
-COLO<lb/>
-</ab>
-
-<ab type="postmark">
-ADAMS<lb/>
-OCT 5<lb/>
-3 PM<lb/>
-1950<lb/>
-NEBR.<lb/>
-</ab>
-
-<figure type="stamp">
-<p></p>
-</figure>
-
-
-</div1>
 </body>
         
 <back></back>
