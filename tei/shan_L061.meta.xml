@@ -5,9 +5,9 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from Mrs. Baca to Mrs. Jesusita Barros, May 03, 1939</title>
-<title type="main">Carta de Mrs. Baca a Mrs. Jesusita Barros, 03 de mayo, 1939</title>
-<author>Baca, Felipita</author>
+<title type="main">Letter from Felipita N. Baca to Jesusita Baros Torres, May 03, 1939</title>
+<title type="main">Carta de Felipita N. Baca a Jesusita Baros Torres, 03 de mayo, 1939</title>
+<author>Baca, Felipita N.</author>
 <principal xml:id="iv001">Velázquez, Isabel</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -48,8 +48,8 @@
             
 <sourceDesc>
 <bibl>
-<author>Baca, Felipita</author>
-<title level="m" type="main">Letter from Mrs. Baca to Mrs. Jesusita Barros</title>
+<author>Baca, Felipita N.</author>
+<title level="m" type="main">Letter from Felipita N. Baca to Jesusita Barros Torres</title>
 <date when="1939-05-03">May 03, 1939</date>
 <extent>envelope</extent>
 </bibl>

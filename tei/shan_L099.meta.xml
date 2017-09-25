@@ -5,8 +5,8 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from Unknown to Mrs. W.F. Schubert, June 4, 1959</title>
-<title type="main">Carta de Desconocido a Mrs. W.F. Schubert, 04 de junio, 1959</title>
+<title type="main">Letter from Unknown to Santos Baros Schubert, June 4, 1959</title>
+<title type="main">Carta de Desconocido a Santos Baros Schubert, 04 de junio, 1959</title>
 <author>Unknown</author>
 <principal xml:id="iv001">Velázquez, Isabel</principal>
 <respStmt>
@@ -49,7 +49,7 @@
 <sourceDesc>
 <bibl>
 <author>Unknown</author>
-<title level="m" type="main">Letter from Unknown to Mrs. W.F. Schubert</title>
+<title level="m" type="main">Letter from Unknown to Santos Baros Schubert</title>
 <date when="1959-06-04">June 4, 1959</date>
 <extent>envelope</extent>
 </bibl>

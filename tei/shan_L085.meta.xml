@@ -5,9 +5,9 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from Mrs. Eddie Unkel to Mr. and Mrs. William B Schubert, November 6, 1957</title>
-<title type="main">Carta de Mrs. Eddie Unkel a Mr. and Mrs. William B Schubert, 6 de noviembre, 1957</title>
-<author>Unkel, Eddie</author>
+<title type="main">Letter from Mrs. Eddie Unnkel to William F. Schubert and Santos Baros Schubert, November 6, 1957</title>
+<title type="main">Carta de Sra. Eddie Unnkel a William F. Schubert y Santos Baros Schubert 6 de noviembre, 1957</title>
+<author>Unnkel, Eddie</author>
 <principal xml:id="iv001">Velázquez, Isabel</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,8 +49,8 @@
             
 <sourceDesc>
 <bibl>
-<author>Unkel, Eddie</author>
-<title level="m" type="main">Mrs. Eddie Unkel to Mr. and Mrs. William B Schubert</title>
+<author>Unnkel, Mrs. Eddie</author>
+<title level="m" type="main">Mrs. Eddie Unnkel to William F. Schubert and Santos Baros Schubert</title>
 <date when="1957-11-06">November 6, 1957</date>
 <extent>4 pages and envelope</extent>
 </bibl>
@@ -123,7 +123,7 @@
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
-<persName xml:id="eu001">Unkel, Mrs. Eddie</persName>
+<persName xml:id="eu001">Unnkel, Mrs. Eddie</persName>
 <placeName></placeName>
 <date type="written" when="1957-11-06"/>
 <date type="postmarked" when="1957-11-06"/>

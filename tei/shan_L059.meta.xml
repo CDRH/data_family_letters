@@ -5,8 +5,8 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from Unknown to Santos Baros, January 25, 1938</title>
-<title type="main">Carta de Desconocido a Santos Baros, 25 de enero, 1938</title>
+<title type="main">Letter from Unknown to Santos Baros Schubert, January 25, 1938</title>
+<title type="main">Carta de Desconocido a Santos Baros Schubert, 25 de enero, 1938</title>
 <author>Unknown</author>
 <principal xml:id="iv001">Velázquez, Isabel</principal>
 <respStmt>
@@ -50,7 +50,7 @@
 <sourceDesc>
 <bibl>
 <author>Unknown</author>
-<title level="m" type="main">Letter from Unknown to Santos Baros</title>
+<title level="m" type="main">Letter from Unknown to Santos Baros Schubert</title>
 <date when="1938-01-25">January 25, 1938</date>
 <extent>envelope</extent>
 </bibl>

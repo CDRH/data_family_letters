@@ -5,8 +5,8 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from Mrs. A. Marín to Mrs. Jesusita Baros, February 19, 1940</title>
-<title type="main">Carta de Mrs. A. Marín a Mrs. Jesusita Baros, 19 de febrero, 1940</title>
+<title type="main">Letter from A. Marín to Jesusita Baros Torres, February 19, 1940</title>
+<title type="main">Carta de A. Marín a Jesusita Baros Torres, 19 de febrero, 1940</title>
 <author>Marín, A.</author>
 <principal xml:id="iv001">Velázquez, Isabel</principal>
 <respStmt>
@@ -48,8 +48,8 @@
             
 <sourceDesc>
 <bibl>
-<author>Mrs. A. Marín</author>
-<title level="m" type="main">Letter from Mrs. A. Marín to Mrs. Jesusita Baros</title>
+<author>A. Marín</author>
+<title level="m" type="main">Letter from A. Marín to Jesusita Baros Torres</title>
 <date when="1940-02-19">February 19, 1940</date>
 <extent>envelope</extent>
 </bibl>
@@ -122,7 +122,7 @@
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
-<persName xml:id="am001">Marín, Mrs. A.</persName>
+<persName xml:id="am001">Marín, A.</persName>
 <placeName></placeName>
 <date type="postmarked" when="1940-02-19"/>
 </correspAction>

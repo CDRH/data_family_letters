@@ -5,8 +5,8 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from Maximino Torres to Victoria Aviña, October 28, 1952</title>
-<title type="main">Carta de Maximino Torres a Victoria Aviña, 28 de octubre, 1952</title>
+<title type="main">Letter from Maximino Torres to Victoria Aviña Torres, October 28, 1952</title>
+<title type="main">Carta de Maximino Torres a Victoria Aviña Torres, 28 de octubre, 1952</title>
 <author>Torres, Maximino</author>
 <principal xml:id="iv001">Velázquez, Isabel</principal>
 <respStmt>
@@ -49,8 +49,8 @@
             
 <sourceDesc>
 <bibl>
-<author>Maximino Torres</author>
-<title level="m" type="main">Letter from Maximino Torres to Victoria Aviña</title>
+<author>Torres, Maximino</author>
+<title level="m" type="main">Letter from Maximino Torres to Victoria Aviña Torres</title>
 <date when="1952-10-28">October 28, 1952</date>
 <extent>envelope</extent>
 </bibl>
@@ -123,7 +123,7 @@
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
-<persName xml:id="vat001">Aviña de Torres, Victoria</persName>
+<persName xml:id="vat001">Aviña Torres, Victoria</persName>
 <placeName></placeName>
 <date type="postmarked" when="1952-10-28"/>
 </correspAction>

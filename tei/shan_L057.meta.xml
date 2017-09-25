@@ -5,8 +5,8 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from Unknown to Jesusita Baros, September 19, 1937</title>
-<title type="main">Carta de Desconocido to Jesusita Baros, 19 de septiembre, 1937</title>
+<title type="main">Letter from Unknown to Jesusita Baros Torres, September 19, 1937</title>
+<title type="main">Carta de Desconocido to Jesusita Baros Torres, 19 de septiembre, 1937</title>
 <author>Unknown</author>
 <principal xml:id="iv001">Velázquez, Isabel</principal>
 <respStmt>
@@ -50,7 +50,7 @@
 <sourceDesc>
 <bibl>
 <author>Unknown</author>
-<title level="m" type="main">Letter from Unknown to Jesusita Baros</title>
+<title level="m" type="main">Letter from Unknown to Jesusita Baros Torres</title>
 <date when="1937-09-19">September 19, 1937</date>
 <extent>envelope</extent>
 </bibl>

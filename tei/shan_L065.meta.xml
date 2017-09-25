@@ -5,9 +5,9 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from Jesusita Baros to Mr. Demetrio Flemate, August 12, 1939</title>
-<title type="main">Carta de Jesusita Baros a Mr. Demetrio Flemate, 12 de agosto, 1939</title>
-<author>Baros, Jesusita</author>
+<title type="main">Letter from Jesusita Baros Torres to Demetrio Flemate, August 12, 1939</title>
+<title type="main">Carta de Jesusita Baros Torres a Demetrio Flemate, 12 de agosto, 1939</title>
+<author>Baros Torres, Jesusita</author>
 <principal xml:id="iv001">Velázquez, Isabel</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -48,8 +48,8 @@
             
 <sourceDesc>
 <bibl>
-<author>Baros, Jesusita</author>
-<title level="m" type="main">Letter from Jesusita Baros to Mr. Demetrio Flemate</title>
+<author>Baros Torres, Jesusita</author>
+<title level="m" type="main">Letter from Jesusita Baros Torres to Demetrio Flemate</title>
 <date when="1939-08-12">August 12, 1939</date>
 <extent>envelope</extent>
 </bibl>

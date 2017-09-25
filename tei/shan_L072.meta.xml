@@ -5,8 +5,8 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from Josephine Montoya to Sandra Baros, August 1, 1942</title>
-<title type="main">Carta de Josephine Montoya a Sandra Baros, 1 de agosto, 1942</title>
+<title type="main">Letter from Josephine Montoya to Santos Baros Schubert, August 1, 1942</title>
+<title type="main">Carta de Josephine Montoya a Santos Baros Schubert, 1 de agosto, 1942</title>
 <author>Montoya, Josephine</author>
 <principal xml:id="iv001">Velázquez, Isabel</principal>
 <respStmt>
@@ -50,7 +50,7 @@
 <sourceDesc>
 <bibl>
 <author>Josephine Montoya</author>
-<title level="m" type="main">Letter from Josephine Montoya to Sandra Baros</title>
+<title level="m" type="main">Letter from Josephine Montoya to Santos Baros Schubert</title>
 <date when="1942-08-01">August 1, 1942</date>
 <extent>1 page</extent>
 </bibl>
