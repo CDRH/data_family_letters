@@ -5,9 +5,9 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from Nemesio Samaniego to Jesusita B Torres, February 20, 1969</title>
-<title type="main">Carta de Nemesio Samaniego a Jesusita B Torres, 20 de febrero, 1969</title>
-<author>Samaniego, Nemesio</author>
+<title type="main">Letter from Nemecio Samaniego to Jesusita Baros Torres, February 20, 1969</title>
+<title type="main">Carta de Nemecio Samaniego a Jesusita Baros Torres, 20 de febrero, 1969</title>
+<author>Samaniego, Nemecio</author>
 <principal xml:id="iv001">Velázquez, Isabel</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,8 +49,8 @@
             
 <sourceDesc>
 <bibl>
-<author>Nemesio Samaniego</author>
-<title level="m" type="main">Letter from Nemesio Samaniego to Jesusita B Torres</title>
+<author>Samaniego, Nemecio</author>
+<title level="m" type="main">Letter from Nemecio Samaniego to Jesusita Baros Torres</title>
 <date when="1969-02-20">February 20, 1969</date>
 <extent>1 page and envelope</extent>
 </bibl>
@@ -123,7 +123,7 @@
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
-<persName xml:id="ns001">Samaniego, Nemesio</persName>
+<persName xml:id="ns001">Samaniego, Nemecio</persName>
 <placeName></placeName>
 <date type="written" when="1969-02-20"/>
 <date type="postmarked" when="1969-02"/>

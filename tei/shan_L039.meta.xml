@@ -5,8 +5,8 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from Reynaldo Hurtado to Maximino Torrez, September 10, 1939</title>
-<title type="main">Carta de Reynaldo Hurtado a Maximino Torrez, 10 de septiembre, 1939</title>
+<title type="main">Letter from Reynaldo Hurtado to Maximino Torres, September 10, 1939</title>
+<title type="main">Carta de Reynaldo Hurtado a Maximino Torres, 10 de septiembre, 1939</title>
 <author>Hurtado, Reynaldo</author>
 <principal xml:id="iv001">Velázquez, Isabel</principal>
 <respStmt>
@@ -50,7 +50,7 @@
 <sourceDesc>
 <bibl>
 <author>Hurtado, Reynaldo</author>
-<title level="m" type="main">Letter from Reynaldo Hurtado to Maximino Torrez</title>
+<title level="m" type="main">Letter from Reynaldo Hurtado to Maximino Torres</title>
 <date when="1939-09-10">September 10, 1939</date>
 <extent>2 pages and envelope</extent>
 </bibl>

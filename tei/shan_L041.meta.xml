@@ -5,9 +5,9 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from Tomasita Autobus to Santos Barros, January 6, 1942</title>
-<title type="main">Carta de Tomasita Autobus a Santos Barros, 6 de enero, 1942</title>
-<author>Autobus, Tomasita</author>
+<title type="main">Letter from Tammy Autobus to Santos Baros Schubert, January 6, 1942</title>
+<title type="main">Carta de Tammy Autobus a Santos Baros Schubert, 6 de enero, 1942</title>
+<author>Autobus, Tammy</author>
 <principal xml:id="iv001">Velázquez, Isabel</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,8 +49,8 @@
             
 <sourceDesc>
 <bibl>
-<author>Tomasita Autobus</author>
-<title level="m" type="main">Letter from Tomasita Autobus to Santos Barros</title>
+<author>Autobus, Tammy</author>
+<title level="m" type="main">Letter from Tammy Autobus to Santos Baros Schubert</title>
 <date when="1942-01-06">January 6, 1942</date>
 <extent>1 page and envelope</extent>
 </bibl>
@@ -123,7 +123,7 @@
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
-<persName xml:id="ta001">Autobus, Tomasita</persName>
+<persName xml:id="ta002">Autobus, Tammy</persName>
 <placeName></placeName>
 <date type="written" when="1942-01-06"/>
 <date type="postmarked" when="1942-01-06"/>

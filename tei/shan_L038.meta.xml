@@ -5,9 +5,9 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from Mary Moreno to Santos Barros, June 20, 1939</title>
-<title type="main">Carta de Mary Moreno a Santos Barros, 20 de junio, 1939</title>
-<author>Mary Moreno</author>
+<title type="main">Letter from Mary Moreno to Santos Baros Schubert, June 20, 1939</title>
+<title type="main">Carta de Mary Moreno a Santos Baros Schubert, 20 de junio, 1939</title>
+<author>Moreno, Mary</author>
 <principal xml:id="iv001">Velázquez, Isabel</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,8 +49,8 @@
             
 <sourceDesc>
 <bibl>
-<author>Mary Moreno</author>
-<title level="m" type="main">Letter from Mary Moreno to Santos Barros</title>
+<author>Moreno, Mary</author>
+<title level="m" type="main">Letter from Mary Moreno to Santos Baros Schubert</title>
 <date when="1939-06-20">June 20, 1939</date>
 <extent>1 page and envelope</extent>
 </bibl>

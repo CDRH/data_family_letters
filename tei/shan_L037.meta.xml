@@ -5,15 +5,15 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from Concepción Arroyo to Maxsimino Torrez, January 28, 1939</title>
-<title type="main">Carta de Concepción Arroyo a Maxsimino Torrez, 28 de enero, 1939</title>
+<title type="main">Letter from Concepción Arroyo to Maximino Torres, January 28, 1939</title>
+<title type="main">Carta de Concepción Arroyo a Maximino Torres, 28 de enero, 1939</title>
 <author>Arroyo, Concepción</author>
 <principal xml:id="iv001">Velázquez, Isabel</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name xml:id="jda">Avelar, Janette D.</name>
 <name xml:id="km">Mendell, Kate</name>
-<name xml:id="sbg">Garica, Sarita B.</name>
+<name xml:id="sbg">Garcia, Sarita B.</name>
 </respStmt>
 </titleStmt>
 <editionStmt>
@@ -49,8 +49,8 @@
             
 <sourceDesc>
 <bibl>
-<author>Concepción Arroyo</author>
-<title level="m" type="main">Letter from Concepción Arroyo to Maxsimino Torrez</title>
+<author>Arroyo, Concepción</author>
+<title level="m" type="main">Letter from Concepción Arroyo to Maximino Torrez</title>
 <date when="1939-01-28">January 28, 1939</date>
 <extent>2 pages and envelope</extent>
 </bibl>
@@ -123,7 +123,7 @@
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
-<persName xml:id="ca001">Arroyo, Concepcion</persName>
+<persName xml:id="ca001">Arroyo, Concepción</persName>
 <placeName></placeName>
 <date type="written" when="1939-01-28"/>
 <date type="postmarked" when="1939-02-14"/>

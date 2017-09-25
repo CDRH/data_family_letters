@@ -5,8 +5,8 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from Nemecio Samaniego to Sra. Jesusita Baros, June 20, 1952</title>
-<title type="main">Carta de Nemecio Samaniego a Sra. Jesusita Baros, 20 de junio, 1952</title>
+<title type="main">Letter from Nemecio Samaniego to Jesusita Baros Torres, June 20, 1952</title>
+<title type="main">Carta de Nemecio Samaniego a Jesusita Baros Torres, 20 de junio, 1952</title>
 <author>Samaniego, Nemecio</author>
 <principal xml:id="iv001">Velázquez, Isabel</principal>
 <respStmt>
@@ -50,7 +50,7 @@
 <sourceDesc>
 <bibl>
 <author>Samaniego, Nemecio</author>
-<title level="m" type="main">Letter from Nemecio Samaniego to Sra. Jesusita Baros</title>
+<title level="m" type="main">Letter from Nemecio Samaniego to Jesusita Baros Torres</title>
 <date when="1952-06-20">June 20, 1952</date>
 <extent>envelope</extent>
 </bibl>
