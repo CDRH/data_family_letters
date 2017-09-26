@@ -5,8 +5,8 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Envelope from Unknown to Sra. Jesucita Baros, January 4, 1938</title>
-<title type="main">Sobre de Desconocido a Sra. Jesucita Baros, 4 de enero, 1938</title>
+<title type="main">Envelope from Unknown to Jesusita Baros Torres, January 4, 1938</title>
+<title type="main">Sobre de Desconocido a Jesusita Baros Torres, 4 de enero, 1938</title>
 <author>Unknown</author>
 <principal xml:id="iv001">Velázquez, Isabel</principal>
 <respStmt>
@@ -49,7 +49,7 @@
 <sourceDesc>
 <bibl>
 <author>Unknown</author>
-<title level="m" type="main">Envelope from Unknown to Sra. Jesucita Baros</title>
+<title level="m" type="main">Envelope from Unknown to Jesusita Baros Torres</title>
 <date when="1938-01-04">January 4, 1938</date>
 <extent>envelope</extent>
 </bibl>

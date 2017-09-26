@@ -5,8 +5,8 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from Bill to Mrs. Sandra B Schubert, May 27, 1949</title>
-<title type="main">Carta de Bill a Mrs. Sandra B Schubert, 27 de mayo, 1949</title>
+<title type="main">Letter from William F. Schubert to MSantos Baros Schubert, May 27, 1949</title>
+<title type="main">Carta de William F. Schubert a Santos Baros Schubert, 27 de mayo, 1949</title>
 <author>Schubert, William F.</author>
 <principal xml:id="iv001">Velázquez, Isabel</principal>
 <respStmt>
@@ -49,7 +49,7 @@
 <sourceDesc>
 <bibl>
 <author>Schubert, William F.</author>
-<title level="m" type="main">Letter from Bill to Mrs. Sandra B Schubert</title>
+<title level="m" type="main">Letter from William F. Schubert to Santos Baros Schubert</title>
 <date when="1949-05-27">May 27, 1949</date>
 <extent>2 pages and envelope</extent>
 </bibl>

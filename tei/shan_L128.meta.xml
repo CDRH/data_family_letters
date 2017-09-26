@@ -5,9 +5,9 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from Jess Baros to Mr. and Mrs. Bill Schubert, September 23, 1974</title>
-<title type="main">Carta de Jess Baros a Mr. and Mrs. Bill Schubert, 23 de septiembre, 1974</title>
-<author>Baros, Jess</author>
+<title type="main">Letter from Jess Jesús Baros to Mr. and William F. Schubert and Santos Baros Schubert, September 23, 1974</title>
+<title type="main">Carta de Jess Jesús Baros a William F. Schubert y Santos Baros Schubert, 23 de septiembre, 1974</title>
+<author>Baros, Jess Jesús</author>
 <principal xml:id="iv001">Velázquez, Isabel</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,8 +49,8 @@
             
 <sourceDesc>
 <bibl>
-<author>Baros, Jess</author>
-<title level="m" type="main">Jess Baros to Mr. and Mrs. Bill Schubert</title>
+<author>Baros, Jess Jesús</author>
+<title level="m" type="main">Jess Jesús Baros to William F. Schubert and Santos Baros Schubert</title>
 <date when="1974-09-23">September 23, 1974</date>
 <extent>3 pages and envelope</extent>
 </bibl>
@@ -123,7 +123,7 @@
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
-<persName xml:id="jjb001">Baros, Jess Jesus</persName>
+<persName xml:id="jjb001">Baros, Jess Jesús</persName>
 <placeName></placeName>
 <date type="written" when="1974-09-23"/>
 <date type="postmarked" when="1974-09-24"/>

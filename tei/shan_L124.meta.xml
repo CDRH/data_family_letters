@@ -5,8 +5,8 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from William F. Schubert to [Family], March 17, 1942</title>
-<title type="main">Carta de William F. Schubert a [Family], 17 de marzo, 1942</title>
+<title type="main">Letter from William F. Schubert to John J. Schubert and Gwendoly Schubert, March 17, 1942</title>
+<title type="main">Carta de William F. Schubert a John J. Schubert and Gwendoly Schubert, 17 de marzo, 1942</title>
 <author>Schubert, William F.</author>
 <principal xml:id="iv001">Velázquez, Isabel</principal>
 <respStmt>
@@ -50,7 +50,7 @@
 <sourceDesc>
 <bibl>
 <author>Schubert, William F.</author>
-<title level="m" type="main">Letter from William F. Schubert to [Family]</title>
+<title level="m" type="main">Letter from William F. Schubert to John J. Schubert and Gwendoly Schubert</title>
 <date when="1942-03-17">March 17, 1942</date>
 <extent>4 pages and envelope</extent>
 </bibl>

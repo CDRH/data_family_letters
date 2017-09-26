@@ -5,9 +5,9 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Envelope from Jesus Samaniego to Mrs. Jesusita Baros, February 23, 1939</title>
-<title type="main">Sobre de Jesus Samaniego a Mrs. Jesusita Baros, 23 de febrero, 1939</title>
-<author>Samaniego, Jesus</author>
+<title type="main">Envelope from José Jesús Samaniego to Jesusita Baros Torres, February 23, 1939</title>
+<title type="main">Sobre de Jesus Samaniego a Jesusita Baros Torres, 23 de febrero, 1939</title>
+<author>Samaniego, José Jesús</author>
 <principal xml:id="iv001">Velázquez, Isabel</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -48,8 +48,8 @@
             
 <sourceDesc>
 <bibl>
-<author>Samaniego, Jesus</author>
-<title level="m" type="main">Envelope from Jesus Samaniego to Mrs. Jesusita Baros</title>
+<author>Samaniego, José Jesús</author>
+<title level="m" type="main">Envelope from José Jesús Samaniego to Jesusita Baros Torres</title>
 <date when="1939-02-23">February 23, 1939</date>
 <extent>envelope</extent>
 </bibl>
@@ -122,7 +122,7 @@
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
-<persName xml:id="jas001">Samaniego, Jose Ascencion</persName>
+<persName xml:id="js001">Samaniego, José Jesús</persName>
 <placeName></placeName>
 <date type="postmarked" when="1939-02-23"/>
 </correspAction>

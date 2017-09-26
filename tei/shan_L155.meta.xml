@@ -5,9 +5,11 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from Jess Baros to Santos Baros Schubert, January 2, 1976</title>
-<title type="main">Carta de Jess Baros a Santos Baros Schubert, 02 de enero, 1976</title>
-<author>Baros, Jess</author>
+<title type="main">Letter from Jess Jesús Baros, Helen Baros and Mark Baros to Santos Baros Schubert and William F. Schubert, January 2, 1976</title>
+<title type="main">Carta de Jess Jesús Baros, Helen Baros y Mark Baros a Santos Baros Schubert y William F. Schubert, 02 de enero, 1976</title>
+<author>Baros, Jess Jesús</author>
+<author>Baros, Helen</author>
+<author>Baros, Mark</author>
 <principal xml:id="iv001">Velázquez, Isabel</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -48,8 +50,10 @@
             
 <sourceDesc>
 <bibl>
-<author>Baros, Jess</author>
-<title level="m" type="main">Letter from Jess Baros to Santos Baros Schubert</title>
+<author>Baros, Jess Jesús</author>
+<author>Baros, Helen</author>
+<author>Baros, Mark</author>
+<title level="m" type="main">Letter from JJess Jesús Baros, Helen Baros and Mark Baros to Santos Baros Schubert and William F. Schubert</title>
 <date when="1976-01-02">January 2, 1976</date>
 <extent>3 pages</extent>
 </bibl>

@@ -5,9 +5,9 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Envelope from Victoria Aviña to Maximino Torres, January 22, 1952</title>
-<title type="main">Sobre de Victoria Aviña a Maximino Torres, 22 de enero, 1952</title>
-<author>Aviña, Victoria</author>
+<title type="main">Envelope from Victoria Aviña de Torres to Maximino Torres, January 22, 1952</title>
+<title type="main">Sobre de Victoria Aviña de Torres a Maximino Torres, 22 de enero, 1952</title>
+<author>Aviña de Torres, Victoria</author>
 <principal xml:id="iv001">Velázquez, Isabel</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,8 +49,8 @@
             
 <sourceDesc>
 <bibl>
-<author>Aviña, Victoria</author>
-<title level="m" type="main">Envelope from Victoria Aviña to Maximino Torres</title>
+<author>Aviña de Torres, Victoria</author>
+<title level="m" type="main">Envelope from Victoria Aviña de Torres to Maximino Torres</title>
 <date when="1952-01-22">January 22, 1952</date>
 <extent>envelope</extent>
 </bibl>

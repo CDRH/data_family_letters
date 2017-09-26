@@ -5,9 +5,9 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from WF Schubert to Mrs. Santos B. Schubert, December 16, 1947</title>
-<title type="main">Carta de WF Schubert a Mrs. Santos B. Schubert, 16 de diciembre, 1947</title>
-<author>Schubert, WF</author>
+<title type="main">Letter from William F. Schubert to Santos Baros Schubert, December 16, 1947</title>
+<title type="main">Carta de William F. Schubert a Santos Baros Schubert, 16 de diciembre, 1947</title>
+<author>Schubert, William F.</author>
 <principal xml:id="iv001">Velázquez, Isabel</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -48,8 +48,8 @@
             
 <sourceDesc>
 <bibl>
-<author>Schubert, WF</author>
-<title level="m" type="main">Letter from WF Schubert to Mrs. Santos B. Schubert</title>
+<author>Schubert, William F.</author>
+<title level="m" type="main">Letter from William F. Schubert to Santos Baros Schubert</title>
 <date when="1947-12-16">December 16, 1947</date>
 <extent>4 pages and envelope</extent>
 </bibl>

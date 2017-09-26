@@ -5,9 +5,11 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from Helen and Jess and Mark to Mr. and Mrs. Bill Schubert, March 16, 1977</title>
-<title type="main">Carta de Helen y Jess y Mark a Mr. y Mrs. Bill Schubert, 16 de marzo, 1977</title>
-<author>Torres, Jesusita B.</author>
+<title type="main">Letter from Helen Baros, Jess Jesús Baros, and Mark Baros to William F. Schubert and Santos Baros Schubert, March 16, 1977</title>
+<title type="main">Carta de Helen Baros, Jess Jesús Baros y Mark Baros a William F. Schubert y Santos Baros Schubert,16 de marzo, 1977</title>
+<author>Baros, Helen</author>
+<author>Baros, Jess Jesús</author>
+<author>Baros, Mark</author>
 <principal xml:id="iv001">Velázquez, Isabel</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,8 +51,10 @@
             
 <sourceDesc>
 <bibl>
-<author>[Multiple authors]</author>
-<title level="m" type="main">Letter from Helen and Jess and Mark to Mrs. and Mrs. Bill Schubert</title>
+<author>Baros, Helen</author>
+<author>Baros, Jess Jesús</author>
+<author>Baros, Mark</author>
+<title level="m" type="main">Letter from Helen Baros, Jess Jesús Baros, and Mark Baros to William F. Schubert and Santos Baros Schubert </title>
 <date when="1977-03-16">March 16, 1977</date>
 <extent>1 page and envelope</extent>
 </bibl>
@@ -129,7 +133,7 @@
 <date type="postmarked" when="1977-03-17"/>
 </correspAction>
 <correspAction type="sentBy">
-<persName xml:id="jjb001">Baros, Jess Jesus</persName>
+<persName xml:id="jjb001">Baros, Jess Jesús</persName>
 <placeName></placeName>
 </correspAction>
 <correspAction type="sentBy">

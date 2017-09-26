@@ -5,9 +5,9 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Note from Sandra B. Schubert, May 26, 1986</title>
-<title type="main">Nota de Sandra B Schubert, 26 de mayo, 1986</title>
-<author>Schubert, Sandra B.</author>
+<title type="main">Note from Santos Baros Schubert, May 26, 1986</title>
+<title type="main">Nota de Santos Baros Schubert, 26 de mayo, 1986</title>
+<author>Baros Schubert, Santos</author>
 <principal xml:id="iv001">Velázquez, Isabel</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -49,8 +49,8 @@
             
 <sourceDesc>
 <bibl>
-<author>Schubert, Sandra B.</author>
-<title level="m" type="main">Note from Sandra B. Schubert</title>
+<author>Baros Schubert, Santos</author>
+<title level="m" type="main">Note from Santos Baros Schubert</title>
 <date when="1964-01-02">May 26, 1986</date>
 <extent>1 page</extent>
 </bibl>
@@ -122,7 +122,7 @@
 </keywords>
 </textClass>
 <correspDesc>
-<correspAction type="sentBy">
+<correspAction type="author">
 <persName xml:id="sbs001">Baros Schubert, Santos</persName>
 <placeName></placeName>
 <date type="written" when="1986-05-26"/>

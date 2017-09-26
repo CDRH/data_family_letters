@@ -5,9 +5,9 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Envelope from Mr Mrs Schubert</title>
-<title type="main">Sobre de Mr Mrs Schubert</title>
-<author>Mr Mrs Schubert</author>
+<title type="main">Envelope from William F. Schubert and Santos Baros Schubert</title>
+<title type="main">Sobre de William F. Schubert y Santos Baros Schubert</title>
+<author>Schubert, William F. and Santos Baros Schubert</author>
 <principal xml:id="iv001">Velázquez, Isabel</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -48,8 +48,8 @@
             
 <sourceDesc>
 <bibl>
-<author>Mr Mrs Schubert</author>
-<title level="m" type="main">Envelope from Mr Mrs Schubert</title>
+<author>Schubert, William F. and Santos Baros Schubert</author>
+<title level="m" type="main">Envelope from William F. Schubert and Santos Baros Schubert</title>
 <extent>envelope</extent>
 </bibl>
 <msDesc>
