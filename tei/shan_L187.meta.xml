@@ -5,8 +5,8 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Envelope from José Lara M. to Miss Santos Baros, October 12, 1942</title>
-<title type="main">Sobre de José Lara M. a Miss Santos Baros, 12 de octubre, 1942</title>
+<title type="main">Envelope from José Lara Miranda to Santos Baros Schubert, October 12, 1942</title>
+<title type="main">Sobre de José Lara Miranda a Santos Baros Schubert, 12 de octubre, 1942</title>
 <author>Lara Miranda, José</author>
 <principal xml:id="iv001">Velázquez, Isabel</principal>
 <respStmt>
@@ -49,7 +49,7 @@
 <sourceDesc>
 <bibl>
 <author>Lara Miranda, José</author>
-<title level="m" type="main">Envelope from José Lara M. to Miss Santos Baros</title>
+<title level="m" type="main">Envelope from José Lara Miranda to Santos Baros Schubert</title>
 <date when="1942-10-13">October 12, 1942</date>
 <extent>envelope</extent>
 </bibl>

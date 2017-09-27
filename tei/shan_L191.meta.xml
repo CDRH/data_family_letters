@@ -5,8 +5,8 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Envelope from Roberto Gonzales to Sr. Maximino Torrez, July 01, 1970</title>
-<title type="main">Sobre de Roberto Gonzales a Sr. Maximino Torrez, 01 de julio, 1970</title>
+<title type="main">Envelope from Roberto Gonzales to Maximino Torres, July 01, 1970</title>
+<title type="main">Sobre de Roberto Gonzales a Maximino Torres, 01 de julio, 1970</title>
 <author>Gonzales, Roberto</author>
 <principal xml:id="iv001">Velázquez, Isabel</principal>
 <respStmt>
@@ -49,7 +49,7 @@
 <sourceDesc>
 <bibl>
 <author>Gonzales, Roberto</author>
-<title level="m" type="main">Envelope from Roberto Gonzales to Sr. Maximino Torrez</title>
+<title level="m" type="main">Envelope from Roberto Gonzales to Maximino Torres</title>
 <date when="1970-07-01">July 01, 1970</date>
 <extent>envelope</extent>
 </bibl>
