@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"  xml:id="shan_L216.meta">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Jesusita Baros Torres to Santos Baros Schubert, January 12, 1962</title>
+<title type="main">Carta de Jesusita Baros Torres a Santos Baros Schubert, 12 de enero, 1962</title>
+<author>Baros Torres, Jesusita</author>
+<principal xml:id="iv001">Velázquez, Isabel</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name xml:id="ji">Isasi, Jennifer</name>
+<name xml:id="sbg">Garcia, Sarita B.</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Family Letters: An analysis of the Personal Correspondence of a Mexican American Family in Western Colorado and Eastern Nebraska in the First Half of the 20th Century</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Department of Modern Languages and Literatures</name>
+ <address>
+<addrLine>1111 Oldfather Hall</addrLine>
+<addrLine>660 N 12th</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+<addrLine>modlang2@unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+</address>
+<idno>shan_L216.meta</idno>
+<availability>
+<p>COPYRIGHT STATEMENT TO GO HERE</p>
+</availability>
+</publicationStmt>
+            
+<notesStmt><note></note></notesStmt>
+            
+<sourceDesc>
+<bibl>
+<author>Baros Torres, Jesusita</author>
+<title level="m" type="main">Letter from Jesusita Baros Torres to Santos Baros Schubert</title>
+<date when="1962-01-12">January 12, 1962</date>
+<extent>1 envelope and 3 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Shanahan Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p>1 hand-written envelope and 3 hand-written pages</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support></support>
+<extent>1 envelope and 3 pages
+<dimensions unit="mm"><height></height><width></width></dimensions>
+</extent>
+<condition>
+<p></p></condition>
+</supportDesc>
+</objectDesc>
+<handDesc>
+<handNote><p>Media: pencil</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote><p></p></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin></origin>
+<provenance></provenance>
+<acquisition></acquisition>
+</history>
+</msDesc>
+                
+</sourceDesc>
+</fileDesc>
+        
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term></term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName xml:id="jbt001">Baros Torres, Jesusita</persName>
+<placeName></placeName>
+<date type="written" when="1962-01-12"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="sbs001">Baros Schubert, Santos</persName>
+<placeName></placeName>
+</correspAction>
+<correspContext>
+<ref type="prev" target="shan">Letter from x to y, date</ref>
+<ref type="next" target="shan">Letter from x to y, date</ref>
+</correspContext> 
+</correspDesc>
+</profileDesc>
+        
+<revisionDesc>
+<change when="2017" who="#sbg">Initial Encoding</change>
+<change when="2017" who="#ji">Transcription</change>
+            
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>
+            
+<div1 type="letter">
+                
+<pb facs="shan_l.772.jpg"/>
+                
+<opener>
+<fw>page 1.</fw>
+<address><addrLine>ft, Lupton Colo</addrLine></address>
+<dateline>Jan 12, - 1962</dateline>
+</opener>
+
+<p>Querida hija, la presente es para saludarlos á todos en general deceandoles esten bíen
+pues Gracias á Dios.</p>
+<p>pues hija yo estoy bien gracias á Dios, estube poquito mala despues de los Cristmas pero
+ya haora me siento bien.</p>
+<p>y todos los dias, cuando me lebanto el mañana pienzo en escribirte;</p>
+<p>pero tanto frío que á echo á asta 25 abajo de zero,</p>
+<p>se nos ba en deselar las pípas, aqui adentro en la cosina, pues y aser de comer ?y como
+esta aya en Nebra; ¿</p>
+<p>ó y tambien recivi mucho</p>
+
+<pb facs="shan_l.773.jpg"/>
+<fw>2</fw>
+
+<p>gusto, por mí vestido que me mandaste este síme quedo, y bonito color, esta bonito y
+tambien las nahuas me quedaron. pues Helen me dío unas chanclas de andar en la casa sí
+tambíen estan bonitas son azules, y la Betty Baca me mando una Christmas card escríta
+en español y $5. 00 pobresita de la Betty, tambien el año pasado me mando $5. 00 y yo pues
+no le mande nada en primer lugar aqui en Lupton no ay nada. la Helen me dijo que ella
+no iba pa nínguna parte porque no tenia dinero pa [‘pa’ written above line] comprar nada
+y mí comadre Felipita Baca ella me mando una canasta con deites, y yo no le mande nada
+tampoco. yo les escrío nomas</p>
+
+<pb facs="shan_l.774.jpg"/>
+<fw>3</fw>
+
+<p>y muchas Gracias sí te escríben a ti diles diles que estoy muy agradecida; por todo pues
+yo ní quísíera que me mandaran nada yo no tengo que dales nada bueno Max esta muy
+contento con la camísa que le mandaste luego se la puso; y le quedo muy bien buena híja
+que síempre esten Helen le gusto la Bolza y la ropíta que le mandastes; bueno recíbe
+saludes de todos y escríbeme hija, cuando tu puedas;</p>
+<p>recive tu Bendícíon que todas la noches yo te doy Diosito nos ayude tanto á Uds como á
+nosotros este es el unico Conzuelo.</p>
+
+<closer>
+<salute>de tu mamá</salute>                    
+<signed>Jesusíta B. Torres,</signed>
+</closer>
+</div1>
+
+<div1 type="envelope">
+
+<pb facs="shan_l.770.jpg"/>
+
+<ab type="return">
+<address>
+<addrLine>814 pacific Ave</addrLine>
+<addrLine>ft Lupton colo</addrLine>
+<addrLine>Jesusita B. Torres</addrLine>
+</address>
+</ab>
+
+<ab type="address">
+<address>
+<addrLine>Mrs W.F. Schubert</addrLine>
+<addrLine>1016, South. 40th St.</addrLine>
+<addrLine>Lincoln 10, nebraska</addrLine>
+</address>
+</ab>
+
+<ab type="postmark">
+FORT LUPTON<lb/> 
+JAN 12<lb/>
+4 PM<lb/>
+1962<lb/>
+COLO<lb/>
+</ab>
+
+<figure type="stamp">
+<p></p>
+</figure>
+
+</div1>
+</body>
+        
+<back></back>
+</text>
+</TEI>
