@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"  xml:id="shan_L219.meta">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Jesusita Baros Torres to Santos Baros Schubert, October 4, 1968</title>
+<title type="main">Carta de Jesusita Baros Torres a Santos Baros Schubert, 4 de octubre, 1968</title>
+<author>Baros Torres, Jesusita</author>
+<principal xml:id="iv001">Velázquez, Isabel</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name xml:id="ji">Isasi, Jennifer</name>
+<name xml:id="sbg">Garcia, Sarita B.</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Family Letters: An analysis of the Personal Correspondence of a Mexican American Family in Western Colorado and Eastern Nebraska in the First Half of the 20th Century</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Department of Modern Languages and Literatures</name>
+ <address>
+<addrLine>1111 Oldfather Hall</addrLine>
+<addrLine>660 N 12th</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+<addrLine>modlang2@unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+</address>
+<idno>shan_L219.meta</idno>
+<availability>
+<p>COPYRIGHT STATEMENT TO GO HERE</p>
+</availability>
+</publicationStmt>
+            
+<notesStmt><note></note></notesStmt>
+            
+<sourceDesc>
+<bibl>
+<author>Baros Torres, Jesusita</author>
+<title level="m" type="main">Letter from Jesusita Baros Torres to Santos Baros Schubert</title>
+<date when="1968-10-04">October 4, 1968</date>
+<extent>1 envelope and 2 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Shanahan Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p>1 hand-written envelope and 2 hand-written pages</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support></support>
+<extent>1 envelope and 2 pages
+<dimensions unit="mm"><height></height><width></width></dimensions>
+</extent>
+<condition>
+<p></p></condition>
+</supportDesc>
+</objectDesc>
+<handDesc>
+<handNote><p>Media: pencil</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote><p></p></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin></origin>
+<provenance></provenance>
+<acquisition></acquisition>
+</history>
+</msDesc>
+                
+</sourceDesc>
+</fileDesc>
+        
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term></term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term></term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName xml:id="jbt001">Baros Torres, Jesusita</persName>
+<placeName></placeName>
+<date type="written" when="1968-10-04"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="sbs001">Baros Schubert, Santos</persName>
+<placeName></placeName>
+</correspAction>
+<correspContext>
+<ref type="prev" target="shan">Letter from x to y, date</ref>
+<ref type="next" target="shan">Letter from x to y, date</ref>
+</correspContext> 
+</correspDesc>
+</profileDesc>
+        
+<revisionDesc>
+<change when="2017" who="#sbg">Initial Encoding</change>
+<change when="2017" who="#ji">Transcription</change>
+            
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>
+            
+<div1 type="letter">
+                
+<pb facs="shan_l.784.jpg"/>
+                
+<opener>
+<address><addrLine>ft Lupton Colo</addrLine></address>
+<dateline>Octubre 4, - 1968</dateline>
+</opener>
+
+<p>Querida híga; la precente es para saludarlos [‘saludarlos’ written above line] tanto á tí
+como al Bíll, y á todos los muchachos esperando que esten todos víen; y al Billy boy
+good Birthday</p>
+<p>Heppy Bírthday</p>
+<p>pues aquí no hay nada de <del type="strike">neew</del> nuevas, toda esta lo mísmo, no mas
+que se esta poníendo ya muy frío; Sandra te díre que recíví el parquete que me mandastes
+pues así quería yo mís pentes calsones calíentítos; deberas
+que sí te lo agradesco; muchas gracias. Helen trabajando todavía, el Markl en la escuela
+Max tambien trabajando yo solita aqui en la casa; queriendo
+meter mis flores, porque ya esta frío y queríendo tambíen mandarte aquella cosa que te
+díge; pero pues no ay quien me lleva para la plaza; pues yo sola no me tanteo sufísíente
+para ír a la plaza;</p>
+<p></p>
+<p></p>
+<p></p>
+
+<pb facs="shan_l.785.jpg"/>
+
+
+<p>bueno híga; pues yo creo que esto sera todo por esta vez muchachos recuerdos par la
+Pam, Jane, Albert y para todos de Jess, y family, y de la Frances despues que se fueron
+Uds. ella víno á saludarte, pero - ya Uds se abían ído; pues pobre de la Frances, anda con
+la pena del Tony alcanza la penitencía;</p>
+<p>pues que Díosíto nos ayude con esta famílía; porque los muchachos se estan asíendo muy
+malos;</p>
+<p>buen me contestas cuando puedan Díosíto lindo que nos ayude, tanto á Uds. como á
+nosotros.</p>
+<p>EL SEÑOR QUE TE ACONPAÑE</p>
+
+<closer>
+<salute>tu mamá Jesusita Torres</salute>                  
+</closer>
+</div1>
+
+<div1 type="envelope">
+
+<pb facs="shan_l.782.jpg"/>
+
+<ab type="return">
+<address>
+<addrLine>814 pacific Ave</addrLine>
+<addrLine>ft Lupton Colo 80621</addrLine>
+<addrLine>Jesusita Torres</addrLine>
+</address>
+</ab>
+
+<ab type="address">
+<address>
+<addrLine>Mrs. Schubert</addrLine>
+<addrLine>3830 "C"</addrLine>
+<addrLine>Lincoln Nebraska, 68510</addrLine>
+</address>
+</ab>
+
+<ab type="postmark">
+FORT LUPTON CO<lb/> 
+OCT 4<lb/>
+PM<lb/>
+1968<lb/>
+80621<lb/>
+</ab>
+
+<figure type="stamp">
+<p></p>
+</figure>
+
+</div1>
+</body>
+        
+<back></back>
+</text>
+</TEI>
