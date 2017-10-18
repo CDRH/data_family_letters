@@ -212,6 +212,14 @@
         <sex>male</sex>
     </person>
     
+    <!-- Mrs. Anderson -->
+    <person xml:id="a002">
+        <persName type="display">Mrs. Anderson</persName>
+        <persName type="facet">Anderson, Mrs.</persName>
+        <persName type="full"><surname xml:lang="es">Anderson</surname></persName>
+        <sex>female</sex>
+    </person>
+    
     <!-- Camilo Arellano -->
     <person xml:id="ca002">
         <persName type="display">Camilo Arellano</persName>
@@ -231,6 +239,13 @@
         <nationality source="Shanahan Collection">Mexican</nationality>
         <residence source="Shanahan Collection">Juchipila</residence>
         <sex>male</sex>
+    </person>
+    
+    <!-- Arroyo -->
+    <person xml:id="a003">
+        <persName type="display">Arroyo</persName>
+        <persName type="facet">Arroyo</persName>
+        <persName type="full"><surname xml:lang="es">Arroyo</surname></persName>
     </person>
     
     <!-- S. S. Arroyo-->
@@ -449,6 +464,22 @@
         <residence source="Shanahan Collection">Juchipila, Mexico</residence>
         <residence source="Shanahan Collection" >Albuquerque (NM)</residence> <!-- I could add a notBefore for a chronological order notBefore, from the letters and Documents -->
         <residence source="Shanahan Collection">Fort Lupton (CO)</residence>
+        <sex>female</sex>
+    </person>
+    
+    <!-- Ascensión Beltrán -->
+    <person xml:id="ab001">
+        <persName type="display">Ascensión Beltrán</persName>
+        <persName type="facet">Beltrán, Ascensión</persName>
+        <persName type="full"><surname type="paternal " xml:lang="es">Beltrán</surname>,<forename type="first" xml:lang="es">Ascensión</forename></persName>
+        <sex>female</sex>
+    </person>
+    
+    <!-- Gloria Botello -->
+    <person xml:id="gjb001">
+        <persName type="display">Gloria Botello</persName>
+        <persName type="facet">Botello, Gloria</persName>
+        <persName type="full"><surname type="paternal " xml:lang="es">Botello</surname>,<forename type="first" xml:lang="es">Gloria</forename></persName>
         <sex>female</sex>
     </person>
     
@@ -724,7 +755,7 @@
     <person xml:id="mjh001">
         <persName type="display">María Juana Hernández</persName>
         <persName type="facet">Hernández, María Juana</persName>
-        <persName type="full"><surname type="paternal " xml:lang="es">Hernández</surname>, <forename type="first" xml:lang="en">María Juana</forename></persName>
+        <persName type="full"><surname type="paternal " xml:lang="es">Hernández</surname>, <forename type="first" xml:lang="es">María Juana</forename></persName>
         <sex>female</sex>
     </person>
     
@@ -1421,6 +1452,14 @@
         <persName type="full"><surname type="paternal " xml:lang="es">Villanueva</surname>, <forename type="first" xml:lang="es">Faustin</forename></persName>
         <nationality source="Jane Shanahan"></nationality>
         <residence source="Jane Shanahan"></residence>
+        <sex>male</sex>
+    </person>
+    
+    <!-- L. Villanueva -->
+    <person xml:id="lv001">
+        <persName type="display">L. Villanueva</persName>
+        <persName type="facet">Villanueva, L.</persName>
+        <persName type="full"><surname type="paternal " xml:lang="es">Villanueva</surname>, <forename type="first" xml:lang="es">L.</forename></persName>
         <sex>male</sex>
     </person>
     
