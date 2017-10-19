@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="shan_D004.meta">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Jesusita Baros Torres' handwritten notes for citizenship exam</title>
+                <title type="main">Notas manuscritas para el examen de ciudadanía de Jesusita Baros Torres</title>
+                <author>Baros Torres, Jesusita</author>
+                <principal xml:id="iv">Velázquez, Isabel</principal>
+                <respStmt>
+                    <resp>transcription and encoding</resp>
+                    <name xml:id="ji">Isasi, Jennifer</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2017</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>Family Letters: An analysis of the Personal Correspondence of a Mexican American Family in Western Colorado and Eastern Nebraska in the First Half of the 20th Century</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Department of Modern Languages and Literatures</name>
+                    <address>
+                        <addrLine>1111 Oldfather Hall</addrLine>
+                        <addrLine>660 N 12th St</addrLine>
+                        <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                        <addrLine>Lincoln, NE 68588-0315</addrLine>
+                        <addrLine>modlang2@unl.edu</addrLine>
+                    </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace>
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-0315</addrLine>
+                </address>
+                <idno>shan_D004.meta</idno>
+                <availability>
+                    <p></p>
+                    <p></p>
+                </availability>
+            </publicationStmt>
+            
+            <notesStmt><note></note></notesStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <author>Baros Torres, Jesusita</author>
+                    <title level="m" type="main">Jesusita Baros Torres' handwritten notes for citizenship exam</title>
+                    <date when="1953-10">October, 1953</date>
+                    <extent> 32 pages </extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Shanahan Collection</repository>
+                        <idno></idno>
+                    </msIdentifier>
+                    <msContents>
+                        <p>32 hand-written pages</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support></support>
+                                <extent> 32 pages
+                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                </extent>
+                                <condition>
+                                    <p></p></condition>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc hands="1">
+                            <handNote xml:id="h01" scribe="jbt001" medium="pen"><p>Media: black ink</p></handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <typeNote><p></p></typeNote>
+                        </typeDesc>
+                    </physDesc>
+                    <history><origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+                
+                
+            </sourceDesc>   
+        </fileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p></p>
+                </correction>
+                <normalization>
+                    <p></p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term></term>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term></term>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term></term>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term></term>
+                </keywords>
+            </textClass>
+            <particDesc><person role="writer" xml:id="jbt001"><persName>Jesusita Baros Torres</persName></person>
+            </particDesc>
+        </profileDesc>
+        
+        <revisionDesc>
+            <change when="2017" who="#ji">Transcription</change>
+            <change when="2017" who="#ji">Initial Encoding</change>
+            <change when="2017" who="#spg">Revision</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1 type="document">
+                
+                <pb facs="shan_d.001.jpg"/>
+                
+                <opener>The Jeffersonian Tablet. Bond paper</opener>
+                
+                <p>1020 Wather</p>
+                    
+                    <pb facs="shan_d.002.jpg"/>
+                    
+                <note type="unrelated">Joe Brancho Herrrera oy 20, pago Renta</note>
+                
+                <pb facs="shan_d.003.jpg"/>
+                
+                <note type="unrelated">
+                    <!--> Create a list here <-->
+                    Lunes
+                   Martes 101 Box tomate
+                   Miercoles 67 Box tomate seboyas 11 sakos
+                   Gueves 
+                   Viernes
+                   tomates
+                   Lunes 100 Box
+                   Martes 115
+                   Miércoles 93
+                   Jueves 95
+                   Viernes 100
+                   503
+                   45
+                   548
+                </note>
+                
+                <pb facs="shan_d.004.jpg"/>
+                
+                <note type="unrelated">Mañana</note>
+                
+                <pb facs="shan_d.005.jpg"/>
+                
+                <note type="unrelated">
+                <!--> Create a list here <-->
+                    Octubre 1953
+                    labor
+                    morni			nun
+                    6 Tue 8 ½	hors - off 12 - 1 - 5 hors
+                    7 Wed - 9 - hors off 12 - 1 - 4 ½
+                    8 Thu -  8 hors - off 12 1 - 3
+                    9 no W
+                    10 no W
+                    11 no W
+                    12 - - 
+                    13 - -
+                    mañan	tarde	
+                    14 Wed - - 8 - - - off 12 - 1 - 5 horas 
+                    15 Thu - - 7 ½ - - - off - 12 - </note>
+                
+                <pb facs="shan_d.006.jpg"/>
+                <!--> ?Laura> this goes after 'div X' below but on pb 006 <-->
+                <fw> Page 24</fw>
+                <p>    Prometo lealdad á la Bandera de los E.U. <add place="above">de</add> A. y la republica que ella representa una nacion indivicible que garantiza libertad y justicia para todos. Un juramento es una promesa solemne. La lealdad se inifica fidelidad inalterable. En este juramento prometemos solamente que de pensamiento, palabra y obra respetaremos la Bandera y el Pais que ella representa. Esto republica es una nacion indivisible, que ofrece libertad y justicia para todos sus habitantes. </p>
+                <p> La Bandera es el simbolo de nuestra libertad y de nuestra fe con nuestro corazon henchido de agradecimiento Juramos defenderla y debemos sentirnos orgullosus de vivir bajo su sombra</p>
+                
+                <pb facs="shan_d.007.jpg"/>
+                
+                <p> injusticia y da la crueldad, sino que estará dispuesto á pelea si fuere necesaria, para  tmantender poderoso y libre este paíz, los E. U. de America, que es tambien su patria.</p> 
+                <p> Pagina 13 </p>
+                <p> El Nacimiento de los E. U. fue por virtud del descubrimiento hecho por Cristobal Colon el 12 de Octubre en 1492, que este paiz llamado mas tarde E. U. <add place="above">de</add> A. fue poblado; otros viajeros habian desembarcado en este continente, pero nunca establecieron colonia alguna. El dinero para el viaje de Colon fue suministrado por la Reyna Isabel de España. 
+                    MAS de cien años trascurieron antes de que llegaron á estas comarcas los verdaderos colonizadores que bautizaron con el apelativo de Colonias los sitios en donde se establesieron. Estas Colonias vineron á ser mas tarde los E. U. <add place="above">de</add> A. </p>
+                <p> la mayor parte de los Colonos vinieron de Inglatierra. el Rey continió siendo su soberano aún despues de haber desembarcado ellos en este paiz, y el inglés vino á ser el idioma nacional. Algunos colones holandeses se establecieron en lo que es hoy Nueva York, otros colones suecos en Delaware, y muchos alemanes en Pensilbania a la ves en todas las colonias se en contraban súbditos escoseses é irlandeses.</p>
+                <p> los ingleses establesieron su primera colonia en 1607 en Jamestown, estado de Virginia. Ellos cruzaron el Atlántico en tiempo de invierno, haciendo la travecia en tres barcos pequeños llamados la Sarah Constant, el Goodspeed y el Discovery. En dicho barcos hicieron el viaje cinto cinco colonos comandaddos por el Capitan Christopher Newport. MÁS tarde, despues de desembarcar, los colonos quedaron al mando del Valeroso y famoso capitan John Smith. Loas Colonas tardaron cuatro meses en cruzar el océano. En el viaje fueron azotados por varias tempestades y sufrieron unimerables contratiempos Finalmente el 26 de Abril, llegaron á las plallas de de Virginia y de á alli siguieron navegando,
+                
+                <pb facs="shan_d.009.jpg"/>
+                    Pagina 14
+                    navegando por ciento sesenta kilometros á través de la Bahia de Chespeake y aguas arriba del Rio James en busca de un sitio adecuado en donde poder estableser una Colonia. El 13 de Mayo encontraron el sitio deseado al cual dieron el nombre de Jamestown en honor del Rey James de Inglatierra. Alli desembarcaron y comenzaron imediatamente á constituir su propio govierno. </p>
+                <p> Esta parte del pais estaba habitada únicamente por indios y animales salbajes, y en ella no habia ciudades ni aldeas ni casas. Todo eran espesos bosques, pantanos y el ancho rio que corria majestouoso en sus cercanias. Era el anocheser en medio de una gran arboleda los viajeros cortaron un arbol gigantesco y utilizaron su tronco para contruir sobre de el un altar de las ramas de otro arbol colgaron una vela para formar un sestandarte y celebraron alli un servicio religioso. Asi con <del type="overstrike">la formasión de un govierno y la celebracion de un</del>nacio la primera colonia inglesa permanente en America.</p>
+                <p> No paso mucho tiempo antes de que los colonos volvieron a exprimentar contratiempos y <del type="overstrike">sufriendo</del> sufrimientos. Pronto aprendieron que sólo á fuerza de trabajo podían subsistir y que tenian que cortar árbóles, desmontar la tierra, labrar el suelo y cultivar maiz. Ellos no habian traido esposas ni hijos que pudieran ayudarles á construir casas, pronto agotaron las provisiones que habían traido de Inglatierra. Y al prencipio no pudieron producir suficiente maiz para atender á su sustento. Entonces sobrevino una terrible época de hambre y desolacion que ellos llamaron la “Hora del Hombre” y en <del type="overstrike">tonces</del> la cual muchos de ellos perecieron y varios otros fueron asesinados por los indios. Desesperados con tantos reveces los colonos resolvieron regresas á su paiz, se aproximaba á la desembocadura se encontraron con un buque ingles cargado de provisiones. Esto fue su salvasion. </p>
+                <p> Pagina 15</p>
+                <p> Y desde entonces la colonia de Jamestown comenzo a florecer y prosperar, en poco tiempo surgieron otras colonias y aumento el numero de colonos
+                    
+                <pb facs="shan_d.011.jpg"/>
+                    Procedente de Inglatierra. La gran colonia de Virginia quedo fundada difinitivamente, en el 1619 los havitantes de ella celebraron la primera asamblea reprecentativa en America. Cada una de las Colonias designó does de sus miembros para hacerse representar a ella. La asamblea se reunío en Jamestown y expirdio las leyes que debian regir los destinos de la Colonia. Como los ingleses creian firmemente en el govierno popular trajeron consigo sus propias leyes y sus instituciones libres. </p>
+                <p> La segunda Colonia inglesa permanente fue fundada en 1620. En Playmouth, estado de Massachusetts por los “Padres peregrinos”. Ellos vinieron a los E. U. pues deseaban hallar un lugar en donde pudieran venerar a Dios segun los dictados de su propia conciencia, cosa que no podían hacer en Inglatierra. Ellos zarparon del puerto inglés de Plymouth en un pequeño barco que llamaban <add place="above">ron</add> el Mayflower. Y en helado del dia mes de Diciembre desembarcaron en la costa rocallosa de la Nueva Inglatierra. A su desembarco no hallaron hombre blanco alguno que saliera á recivirlos y tuvieron desde un prencipio que comenzar á edeficar casas para albergarse en ellas con sus esposas y hijos. </p>
+                <p> La Vida les fue muy dura en los primeros años, pero ellos estaban resueltos á afrentar sufrimientos con tal de poder vener á Dios de acuerdo con sus creencias. Convencidos como estaban de que la mano del Todopoderoso las guiaba á un istante, su fe les daba fuerza para soportar los sufrimientos y las penalidades. Los E. U. honraban siempre la memoria de esos peregrinos porque fueron ellos quieres trajieron consigo el amor á la liverta y quienes padesieron incensantemente para arraigar este amor en suelo Americano. Este amor á la livertad es el que ha hecho libre y el que ha dado grandeza á este propero pais. Veamos ahora cual era esta idea de libertad que profesaban los peregrinos. Ellos creian que el Pueblo tenia el derecho y la facultad de promulgar las leyes. Creian (over
+
+                <pb facs="shan_d.013.jpg"/>
+                    tambien que estas leyes tenian por objeto el bien general, o sea el beneficio de todos. Y que cada cual debia obedecerlas puesto que eran dictados por el pueblo mismo. La verdadera libertad respeto los derechos ajenos. Y esa fue la libertad que los Peregrinos vinieron á buscar en los E. U. y que no queriendo perderla prefirieron sufrir grandes penalidades. </p>
+                <p> Inglatierra poseia trece colonias en la Costa del Atlantico que crecieron y florecieron por espacio de 150 años. Muchas de las leyes de estas colonias no tenian reprecentacion. A ellos les parecia injusto que se les obligara á obedecer leyes dictadas sin su consentimiento, y cuando el Rey jorge III quizo gobernar despóticamente á Inglatierra y á los E. U. estallo empeso en abril de 1775. Los Colonos lucharon valerosamente durante siete años terribles bajo las ordenes del insigne General Gorge Washington, á quién hoy los norteamericanos llaman justamente el Padre de la Patria. Unieronse á ellos los ilustres generales franceses Lafatte y Rochambeu, mas tarde Francia envio en su ayuda un ejercito y una armada. El aleman Stuben, el bavaro DeKabby y el polaco Kosciusko fueron otros estranjeros que ayudaron a nuestros solados. La independencia de Inglatierra se obtuvo difinitivamente, y la paz se selló en 1783. El propósito de esta guerra de Independencia fue el de Prese <del type="overstrike">curar</del>var los prencipios de los goviernos coloniales y mantener viva la libertad de los colonos que Jorge III habia tratado de coartar. Los norteamericanos aborrecieron aquellos revoluciones que tienden á destruir, á derrocar á sesinar, a saquear o á incendiar. La Victoria trasformo así las trece colonias independientes en lo que es hoy día de las E. U. de A., gobernados por la Constitución, he á qui el significado de la Revolucion Norteamerican ó guerra de la Independencia. </p>
+                
+                <pb facs="shan_d.015.jpg"/>
+                <p> La Declaracion de la Independencia 17 page </p>
+                <p> Esta declaracion fue echa por los 13 estados originales de los E. U. de A. sancionada el 4 de Julio de 1776 por el Congreso Continental que se reunió en la ciudad de Filadelfía Estado de Pensilvania. La Declaración comienza expresando las razones por las cuales los Estados Unidos, compuestos en ese entonces, de solo trece estados, se vieron obligados á separarse de la Gran Bretaña, su Madre Patria.</p>
+                <p> Nosotros sostenemos como verdades plamarias que todos los hombres han sido creados iguales por la naturaleza, que todos están dotados por su Creadir con ciertos derechos inalienables, entre los cuales figuran la Vida, la Libertad y la <del type="overstrike">buena</del> busca de la Felecidad. Que para asegurar estos derechos se han establecido entre los hombres los goviernos, que derivan sus ligítimas poderes del Consentimiento de los goviernos que siempre que una forma de govierno llega á convertirse en instrumento para destruir estos fines el pueblo tiene el derecho de cambiarla o de abolirla y de crear en su lugar un Nuevo Govierno.”
+                <list rend="simple">
+                    <item>1. Todos los hombres han nacido iguales. Dios les ha Concedido ciertos derechos que no pueden usurpárselos, entre los cuales los principales son la vida, la libertad y la Felicidad. </item>
+                    <item>2. Para gozar de estos derechos, los hombres establecen goviernos, que derrivan sus poderes del consentimiento de quienes son establecieron. </item>
+                    <item>3. La Declaracion prosigue diciendo que el actual Rey de la Gran Bretaña, Jorge III, se ha negado á autorizar las leyes mas saludables y necesarias para el bien publico.</item>
+                    <item>4. Estas son algunas de las injusticias impuestas al pueblo de los E. U. que se mencionaron en la Declaracion de la Independencia. </item>
+                </list> 
+                </p>    
+                
+                <p> Page 18
+                    <list rend="simple"> <item>4. Estas son algunas de las injusticias impuestas al pueblo de los E. U. que se mencionaron en la Declaracion de la Independencia. </item>
+                </list>
+                </p>
+                
+                <p> El Rey hizo que los jueces fueran responsables ante él íncamente por el tiempo de ocupación de sus cargos como por el montante de sus <del type="overstrike">cargo</del> sueldos, para que asi los habitantes de los estados no tuvieron nada que decir sobre sus propios (over  
+                </p>
+                
+                <pb facs="shan_d.017.jpg"/>
+                <p>y sige page 18</p>
+                <p>Tribunales,</p>
+                <p>El nativo en el pais ejercitos en pie de guerra sin el concentimiento de los Estados.</p>
+                <p>Suspendó el comercio de los estados con otras partes del mundo, para que pudieran traficar unicamente con la Gran Bretaña. Esto causó grandes trastornos al Pais. </p>
+                <p>Declaró que únicamente el tenia facultad para expedir los lelley estaduales. </p>
+                <p>Impuso grávemenes sin el consentimiento del Pueblo.</p> 
+                <p>En esta famosa declaración se citan muchos otros de los abusos é injusticias cometidas. La Declaración de Independencia prosige diciendo que el pueblo de los E. U. ha pedido, con la mayor humildad, que se le exonere de esas injusticias, pero la única respuesta que ha recibido es la de nuevas afrentas. Por ello no le quedó mas por hacer que libertar á los estados de sus vinculos para con la Corona Inglesa. He aqui la noble declaración que hicieron los reprecentantes de los E.U. en el Congreso Continental: </p>
+                <p>“Por todo ello, nosotros, los reprecentantes de los E.U.A., reunidos en samblea general, apelando al Supremo Juez del del Univerzo respecto á la autoridad de nuestras intenciones y en el nombre y por la autoridad del buen pueblo dé estas colonias unidas son, y por derecho deben ser, estados libres é independientes. Que estan emancipadas de todo compromiso de lealdad hacia la corona britanica, y que todos los lazos politicos entre ellos y el</p>
+                <p>page 19</p>
+                <p>Estado de la Gran Bretaña deben quedar y han quedado completamente rotos. Y que, como estados libres é independientes, tienen plena autoridad para declarar la guerra, concertar la paz, celebrar tratados, establecer un sistema de comercio y realizar todos aquellos actos á que tienen derecho los estados independientes. En confirmación de lo dicho, y con una fé inquebrantable en la protecsión de la Divina Providencia, enpeñamos mutuamente nuestras vidas y haciendas y nuestro hogar sagrado para el mantenimiento de la presente Declaracion. La Declaracion de Independencia fue firmada por todas las cincuenta y ses 56 miembros de Congreso.</p>
+                <p>Los hombres son libres puesto que ellos son hijos de Dios. por lo tanto son iguales y dotados de una - (over
+                
+                <pb facs="shan_d.018.jpg"/>
+                    Page 19
+                    De una dignidad y valor humano que ninguno govierno les puede usurpar. 
+                    Puesto que todos son hijos de un mismo creador, son tambien hermanos y se deben cariño respeto unos á otros</p>
+                 
+                <pb facs="shan_d.020.jpg"/>
+                <p>page 20</p> <!-- floating? -->
+                <head>Cuna de la independencia</head> 
+                <p>En la calle Chestnut de la ciudad de Feladelfia, E. Pensilvania se encuentra un edificio de ladrillo, sencillo y muy antigo coronado por una torre. En el George Washington fue desinado comandante en jefe del ejército que luchó en la guerra de Independe <add place="above">cia</add> y que obtubo la victoria. En este mismo sitio se firmó la Declaración de Independencia en sus escalinatas se leyeron los preceptos de ella antepasados formularon y suscribieron la Carta Fundamental que nos gobierna, ó sea la Constitución de los E. U. A. En ese edeficio puede Ud. ver la Compana de la Libertad que anunció al mundo la Consumacion de la independencia ESTA historica casa es un santuario venerado por todos los norteamericanos.</p>
+                <p>Page 21</p>
+                <p>La Bandera de los estados Unidos</p>
+                <p>LA Bandera de los E. U. se llama á veces el Pabellón de las estrellas y Listas rojas y seis blancas representan los 13 Estados originales. Un fondo azul con 48 estrellas representa los 48 estados de que hoy se compone la Republica.</p>
+                
+                
+                
+            
+            
+            </div1>
+        </body>
+        <back></back>
+    </text>
+</TEI>

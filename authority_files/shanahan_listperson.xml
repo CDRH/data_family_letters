@@ -216,7 +216,7 @@
     <person xml:id="a002">
         <persName type="display">Mrs. Anderson</persName>
         <persName type="facet">Anderson, Mrs.</persName>
-        <persName type="full"><surname xml:lang="es">Anderson</surname></persName>
+        <persName type="full"><surname xml:lang="es">Anderson</surname><roleName type="honorific">Mrs.</roleName></persName>
         <sex>female</sex>
     </person>
     
@@ -453,6 +453,7 @@
         <persName type="full"> <surname type="unknown" xml:lang="es">Baros</surname> <surname type="marital" xml:lang="es">Torres</surname>, <forename type="chosen" full="yes" xml:lang="es">Jesusita</forename></persName>
         <persName type="full" when="1976-02-10"> <surname type="paternal " xml:lang="es">F.</surname> <surname type="marital" xml:lang="es">Torres</surname>, <forename type="chosen" full="yes" xml:lang="es"> Jesusita</forename></persName>
         <persName type="full"> <surname type="unknown" xml:lang="es">Baros</surname> <surname type="marital" xml:lang="es">Torres</surname>, <roleName type="honorific">Mrs.</roleName> <forename type="marital">Max</forename> <forename type="chosen" xml:lang="es">Jesusita</forename> </persName>
+        <persName type="full"> <surname type="unknown" xml:lang="es">Baros</surname> <surname type="marital" xml:lang="es">Torres</surname>, <roleName type="honorific">Mrs.</roleName><forename type="marital">Max</forename> <forename type="chosen" xml:lang="es">Jesusita</forename> </persName>
         <persName type="full"> <surname type="marital">Torres</surname>, <roleName type="honorific">Mrs.</roleName></persName>
         <persName type="full" when="1928"> <surname type="unknown" xml:lang="es">Rodriguez</surname>, <forename type="chosen" full="yes" xml:lang="es">Jesusita</forename> </persName> <!-- D91 -->
         <birth when="1896-07-15" source="Shanahan Collection">July 15, 1896</birth> <!-- D142 -->
@@ -1505,6 +1506,9 @@
     <person xml:id="af"> 
         <persName type="display">Adoni A. Faxas</persName>
         <persName type="facet">Faxas, Adoni A.</persName>
+    </person>
+    <person xml:id="spg"> 
+        <persName type="facet">Garcia, Sarita</persName>
     </person>
     <person xml:id="bk"> 
         <persName type="display">Brenda López</persName>
