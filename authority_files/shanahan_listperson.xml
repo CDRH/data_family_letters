@@ -452,7 +452,6 @@
         <persName type="full"> <surname type="paternal" xml:lang="es">Flemate</surname> <surname type="unknown" xml:lang="es">Baros</surname>, <forename type="chosen" full="yes" xml:lang="es">Jesusita</forename></persName> <!-- D6 -->
         <persName type="full"> <surname type="unknown" xml:lang="es">Baros</surname> <surname type="marital" xml:lang="es">Torres</surname>, <forename type="chosen" full="yes" xml:lang="es">Jesusita</forename></persName>
         <persName type="full" when="1976-02-10"> <surname type="paternal " xml:lang="es">F.</surname> <surname type="marital" xml:lang="es">Torres</surname>, <forename type="chosen" full="yes" xml:lang="es"> Jesusita</forename></persName>
-        <persName type="full"> <surname type="unknown" xml:lang="es">Baros</surname> <surname type="marital" xml:lang="es">Torres</surname>, <roleName type="honorific">Mrs.</roleName> <forename type="marital">Max</forename> <forename type="chosen" xml:lang="es">Jesusita</forename> </persName>
         <persName type="full"> <surname type="unknown" xml:lang="es">Baros</surname> <surname type="marital" xml:lang="es">Torres</surname>, <roleName type="honorific">Mrs.</roleName><forename type="marital">Max</forename> <forename type="chosen" xml:lang="es">Jesusita</forename> </persName>
         <persName type="full"> <surname type="marital">Torres</surname>, <roleName type="honorific">Mrs.</roleName></persName>
         <persName type="full" when="1928"> <surname type="unknown" xml:lang="es">Rodriguez</surname>, <forename type="chosen" full="yes" xml:lang="es">Jesusita</forename> </persName> <!-- D91 -->
@@ -1508,6 +1507,7 @@
         <persName type="facet">Faxas, Adoni A.</persName>
     </person>
     <person xml:id="spg"> 
+        <persName type="display">Sarita Garcia</persName>
         <persName type="facet">Garcia, Sarita</persName>
     </person>
     <person xml:id="bk"> 
