@@ -101,6 +101,10 @@
         </encodingDesc>
         
         <profileDesc>
+            <langUsage>
+                <language ident="es">Spanish</language>
+                <language ident="en">English</language>
+            </langUsage>
             <textClass>
                 <keywords scheme="original" n="category">
                     <term></term>
@@ -138,61 +142,284 @@
         <body>
             
             <div1 type="front">
-                
                 <pb facs="shan_d.001.jpg"/>
-                
                 <opener>The Jeffersonian Tablet. Bond paper</opener>
-                
                 <p>1020 Wather</p>
-               
+                
                 <div2 type="note">
                 
                 <pb facs="shan_d.002.jpg"/>
                     
-                <note type="unrelated">Joe Brancho Herrrera oy 20, pago Renta</note>
+                    <note type="unrelated">Joe Brancho Herrrera oy 20, pago Renta</note>
                 
+                    <table rows="9" cols="1">
+                        <row>
+                            <cell role="data">2.05</cell>
+                        </row>
+                        <row>
+                            <cell role="data">97</cell>
+                        </row>
+                        <row>
+                            <cell role="data">81</cell>
+                        </row>
+                        <row>
+                            <cell role="data">67</cell>
+                        </row>
+                        <row>
+                            <cell role="data">4.50</cell>
+                        </row>
+                        <row>
+                            <cell role="data">14 x</cell>
+                        </row>
+                        <row>
+                            <cell role="data">180</cell>
+                        </row>
+                        <row>
+                            <cell role="data">451</cell>
+                        </row>
+                        <row>
+                            <cell role="data">46.90</cell>
+                        </row>
+                    </table>
+                
+                </div2>
+                
+                <div2 type="note">
+                
+                    <list rend="simple">
+                        <item>101</item>
+                        <item>67</item>
+                        <item>168</item>
+                    </list>    
+                
+                </div2>
+
                 <pb facs="shan_d.003.jpg"/>
                 
-                <note type="unrelated">
-                   <!--> Create a list here <-->
-                   Lunes
-                   Martes 101 Box tomate
-                   Miercoles 67 Box tomate seboyas 11 sakos
-                   Gueves 
-                   Viernes
-                   tomates
-                   Lunes 100 Box
-                   Martes 115
-                   Miércoles 93
-                   Jueves 95
-                   Viernes 100
-                   503
-                   45
-                   548
-                </note>
-                 
-                <pb facs="shan_d.004.jpg"/>
+                <div2 type="note">
+
+                    <note type="unrelated">
+                    
+                        <table rows="5" cols="2">
+                       
+                            <row>
+                                <cell role="label">Lunes</cell>
+                            </row>
+                            <row>
+                                <cell role="label">Martes</cell> 
+                                <cell role="data">101 Box tomate</cell>
+                            </row>
+                            <row>
+                                <cell role="label">Miercoles</cell> 
+                                <cell role="data">67 Box tomate seboyas 11 sakos</cell>
+                            </row>
+                            <row>
+                                <cell role="label">Gueves</cell> 
+                                <cell role="data"></cell>
+                            </row>
+                        
+                            <row>
+                                <cell role="label">Viernes</cell> 
+                                <cell role="data"></cell>
+                            </row>
+                    
+                        </table>
+                        
+                    
+                        <table rows="8" cols="2">
+
+                            <head>Tomates Box</head>
+                        
+                            <row>
+                                <cell role="label">Lunes</cell> 
+                                <cell role="data">100</cell>
+                            </row>
+                            <row>
+                                <cell role="label">Martes</cell> 
+                                <cell role="data">115</cell>
+                            </row>
+                            <row>
+                                <cell role="label">Miercoles</cell> 
+                                <cell role="data">93</cell>
+                            </row>
+                            <row>
+                                <cell role="label">Jueves</cell> 
+                                <cell role="data">95</cell>
+                            </row>
+                            <row>
+                                <cell role="label">Viernes</cell> 
+                                <cell role="data">100</cell>
+                            </row>
+                            <row>
+                                <cell role="data">503</cell>
+                            </row>
+                            <row>
+                                <cell role="data">45</cell>
+                            </row>
+                            <row>
+                                <cell role="data">548</cell>
+                            </row>
+                        </table>   
+                    </note>
+                </div2>
                 
-                <note type="unrelated">Mañana</note>
+                    <pb facs="shan_d.004.jpg"/>
                 
-                <pb facs="shan_d.005.jpg"/>
+                <div2>
+                    <note type="unrelated">
+                        <table rows="8" cols="2">
+                            <head>mañana</head>
+                            <row>
+                                <cell role="data">8 1/2</cell>
+                            </row>
+                            <row>
+                                <cell role="data">6 1/2</cell>
+                            </row>
+                            <row>
+                                <cell role="data">6</cell>
+                            </row>
+                            <row>
+                                <cell role="data">21</cell>
+                                <cell role="label">horas</cell>
+                            </row>
+                            <row>
+                                <cell role="data">x85</cell>
+                            </row>
+                           <row>
+                               <cell role="data">105</cell>
+                           </row>
+                            <row>
+                                <cell role="data">168</cell>
+                            </row>
+                            <row>
+                                <cell role="data">1785</cell>
+                            </row>
+                        </table>
+                    </note>
                 
-                <note type="unrelated">
-                <!--> Create a list here <-->
-                    Octubre 1953
-                    labor
-                    morni			nun
-                    6 Tue 8 ½	hors - off 12 - 1 - 5 hors
-                    7 Wed - 9 - hors off 12 - 1 - 4 ½
-                    8 Thu -  8 hors - off 12 1 - 3
-                    9 no W
-                    10 no W
-                    11 no W
-                    12 - - 
-                    13 - -
-                    mañan	tarde	
-                    14 Wed - - 8 - - - off 12 - 1 - 5 horas 
-                    15 Thu - - 7 ½ - - - off - 12 - </note>
+                    <note type="unrelated">
+                        <table rows="3" cols="1">
+                            <row>
+                                <cell role="data">3</cell>
+                            </row>
+                            <row>
+                                <cell role="data">3 1-/</cell>
+                            </row>
+                            <row>
+                                <cell role="data">4</cell>
+                            </row>
+                        </table>    
+                    </note>
+
+                </div2>
+                    <pb facs="shan_d.005.jpg"/>
+                
+                <div2>
+                    <note type="unrelated">
+                        <table rows="12" cols="9">
+                            <head>Octubre 1953</head>
+                            <row>
+                                <cell role="label"></cell>
+                                <cell role="label"></cell>
+                                <cell role="label">morni</cell>
+                                <cell role="label"></cell>
+                                <cell role="label">labor</cell>
+                                <cell role="label">nun</cell>
+                                <cell role="label"></cell>
+                            </row>
+                            <row>
+                                <cell role="data">6</cell> 
+                                <cell role="label">Tue</cell>
+                                <cell role="data">8 1/2 hors</cell>
+                                <cell role="label">off</cell>
+                                <cell role="data">12</cell>
+                                <cell role="data">1</cell>
+                                <cell role="data">5 hors</cell>
+                            </row>
+                            <row>
+                                <cell role="data">7</cell>   
+                                <cell role="label">Wed</cell>
+                                <cell role="data">9 hors</cell>
+                                <cell role="label">off</cell>
+                                <cell role="data">12</cell>
+                                <cell role="data">1</cell>
+                                <cell role="data">4 1/2</cell>
+                            </row>
+                            <row>
+                                <cell role="data">8</cell> 
+                                <cell role="label">Thu</cell>
+                                <cell role="data">8 1/2 hors</cell>
+                                <cell role="label">off</cell>
+                                <cell role="data">12</cell>
+                                <cell role="data">1</cell>
+                                <cell role="data">5 hors</cell>
+                            </row>
+                            <row>
+                                <cell role="data">9</cell> 
+                                <cell role="label">no w.</cell>
+                                <cell role="data"></cell>
+                                <cell role="label"></cell>
+                                <cell role="data"></cell>
+                                <cell role="data"></cell>
+                                <cell role="data"></cell>
+                            </row>
+                            <row>
+                                <cell role="data">10</cell> 
+                                <cell role="label">no w.</cell>
+                                <cell role="data"></cell>
+                                <cell role="label"></cell>
+                                <cell role="data"></cell>
+                                <cell role="data"></cell>
+                                <cell role="data"></cell>
+                            </row>
+                            <row>
+                                <cell role="data">11</cell> 
+                                <cell role="label">no w.</cell>
+                                <cell role="data"></cell>
+                                <cell role="label"></cell>
+                                <cell role="data"></cell>
+                                <cell role="data"></cell>
+                                <cell role="data"></cell>
+                            </row>
+                            <row>
+                                <cell role="data">12</cell> 
+                                <cell role="label">- -</cell>
+                                <cell role="data"></cell>
+                                <cell role="label"></cell>
+                                <cell role="data"></cell>
+                                <cell role="data"></cell>
+                                <cell role="data"></cell>
+                            </row>
+                            <row>
+                                <cell role="data">13</cell> 
+                                <cell role="label">- -</cell>
+                                <cell role="data"></cell>
+                                <cell role="label"></cell>
+                                <cell role="data"></cell>
+                                <cell role="data"></cell>
+                                <cell role="data"></cell>
+                            </row>
+                            <row>
+                                <cell role="data">14</cell> 
+                                <cell role="label">Wed</cell>
+                                <cell role="data">8</cell>
+                                <cell role="label">off</cell>
+                                <cell role="data">12</cell>
+                                <cell role="data">1</cell>
+                                <cell role="data">5</cell>
+                            </row>
+                            <row>
+                                <cell role="data">15</cell> 
+                                <cell role="label">Thu</cell>
+                                <cell role="data">7 1/2</cell>
+                                <cell role="label">off</cell>
+                                <cell role="data">12</cell>
+                                <cell role="data"></cell>
+                                <cell role="data"></cell>
+                            </row>
+                        </table>
+                    </note>
+
                 </div2>
             </div1>  
             
