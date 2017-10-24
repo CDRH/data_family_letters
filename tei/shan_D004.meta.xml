@@ -10,7 +10,7 @@
                 <author>Baros Torres, Jesusita</author>
                 <principal xml:id="iv">Velázquez, Isabel</principal>
                 <respStmt>
-                    <resp>transcription and encoding</resp>
+                    <resp >Transcription, translation, and encoding</resp>
                     <name xml:id="ji">Isasi, Jennifer</name>
                 </respStmt>
             </titleStmt>
@@ -51,7 +51,7 @@
                     <author>Baros Torres, Jesusita</author>
                     <title level="m" type="main">Jesusita Baros Torres' handwritten notes for citizenship exam</title>
                     <date when="1953-10">October, 1953</date>
-                    <extent> 32 pages </extent>
+                    <extent>32 pages</extent>
                 </bibl>
                 <msDesc>
                     <msIdentifier>
@@ -65,7 +65,7 @@
                         <objectDesc>
                             <supportDesc>
                                 <support></support>
-                                <extent> 32 pages
+                                <extent>32 pages
                                     <dimensions unit="mm"><height></height><width></width></dimensions>
                                 </extent>
                                 <condition>
@@ -127,6 +127,7 @@
         
         <revisionDesc>
             <change when="2017" who="#ji">Transcription</change>
+            <change when="2017" who="#ji">Translation</change>
             <change when="2017" who="#ji">Initial Encoding</change>
             <change when="2017" who="#spg">Revision</change>
             
@@ -192,7 +193,7 @@
                     mañan	tarde	
                     14 Wed - - 8 - - - off 12 - 1 - 5 horas 
                     15 Thu - - 7 ½ - - - off - 12 - </note>
-                  </div2>
+                </div2>
             </div1>  
             
             <div1 type="body">
@@ -202,7 +203,6 @@
             <fw>Page 24</fw>
                 
             <div2 type="section">
-                <!--> ?Laura> this goes after 'div X' below but on pb 006 <--> 
                 <p> Prometo lealdad á la Bandera de los E.U. <add place="above">de</add> A. y la republica que ella representa una nacion indivicible que garantiza libertad y justicia para todos. Un juramento es una promesa solemne. La lealdad se inifica fidelidad inalterable. En este juramento prometemos solamente que de pensamiento, palabra y obra respetaremos la Bandera y el Pais que ella representa. Esto republica es una nacion indivisible, que ofrece libertad y justicia para todos sus habitantes. </p>
                 <p> La Bandera es el simbolo de nuestra libertad y de nuestra fe con nuestro corazon henchido de agradecimiento. Juramos defenderla y debemos sentirnos orgullosus de vivir bajo su sombra</p>
             
@@ -572,9 +572,7 @@
                  <p>Benjamin Franklin, 33 años tenia cuando iso la primera articolo de la Constitusion</p>
                  <p>Reunio un grupo de personas de las mismas colonias isieron dinero, en seguida lebantar los articolos de la Constitu duraron dos años para aser los articolos de la Constitusion, se formo se establesio en el año 1775.</p>
              </div2>   
-             
 
-            
             </div1>
         </body>
         <back></back>
