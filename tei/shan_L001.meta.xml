@@ -150,7 +150,7 @@
     <text>
         <body>
             
-            <div1 type="letter">
+            <div1 type="letter" xml:lang="es">
                 
                 <pb facs="shan_l.001.jpg"/>
                 
@@ -182,6 +182,53 @@ Cariñosos recuerdos de Clemente y muchos abrazos, hermano ahora sí me quedé s
 <closer>    
 <signed>Rafaela Arroyo Vda. De Torres</signed></closer>
             </div1>
+
+<div1 type="letter" xml:lang="en">
+
+<pb facs="shan_l.001.jpg"></pb>
+
+<opener> <dateline>Ecuanduero, Mich. Agosto 21 de 1919.</dateline>
+<address><addrLine> Mister Maximino Torres</addrLine>
+<addrLine>Knobles, Okla.</addrLine></address>
+
+<salute>My beloved son,</salute></opener>
+
+<p>I have in my hands your letter dated August 3rd of this year, which pleased me greatly and I
+acknowledge its receipt.</p>
+
+<p>I inform you that your father passed away and since you tell me that you are very
+discontent because of the discontentment between me and him, I
+hope you are now content and as you can see with what has happened I
+have no one else to care about me but you.</p>
+
+<p>I inform you also that I am very worried because Teodosio cannot go to Pasímaro anymore
+because people in uncle Juan’s house are saying that even though your father is dead there
+is still Teodosio, and that they will take their revenge on him.</p>
+
+<p>Tell me what I should do about this worry because it’s easy to
+understand that they say that so that I don’t make a move regarding the small piece of land.
+Your uncle Juan didn’t…</p>
+
+<pb facs="shan_l.002.jpg"/>
+
+<p>see your father die, and now your uncle’s children are asking me to write a document in court so that <unclear reason="stain"/> your uncle Juan can defend himself in case that <unclear reason="torn"/> claims said land, but I won’t make a move about that land
+until you come <unclear reason="faded"/> you will know if you leave it to them or you claim it, I just ask you
+again not to forget me, because I always, at every step and every day am entrusting you to
+God.</p>
+
+<p>Receive warm greetings from Teodosio, who asks that you tell him how is the crossing to
+<unclear reason="faded"/> because he is not happy here, and he also asks that you send him money for his
+trip.</p>
+
+<p>Warm greetings from Clemente, and many hugs, brother, now I am alone without more
+protection than yours because now I have no father but you, and if you forget me I will be
+lost because as you can see, I cannot work to support myself because I am very young and if
+you and my mom <unclear reason="torn"/> me, God knows what will become of me because you
+know that Teodosio doesn’t like me. Receive regards and a hug from your mom</p>
+
+<closer>    
+<signed>Rafaela Arroyo Vda. De Torres</signed></closer>
+</div1>
         </body>
         <back></back>
     </text>
