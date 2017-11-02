@@ -146,7 +146,7 @@
 <text>
 <body>
             
-<div1 type="letter">
+<div1 type="letter" xml:lang="es">
 
 <pb facs="shan_l.051"/>
 
@@ -168,6 +168,31 @@
 <p>Y tu hermana donde esta hora?</p>
 </postscript>
                 
+</div1>
+
+<div1 type="letter" xml:lang="es">
+
+<pb facs="shan_l.051"/>
+
+<p>Know that I’m going to write you. Faustine’s is getting married married on April 16 th .
+You will remember him, his name is Fermin. Tell me if you’ve married. I haven’t.
+Charley is still here in Albuquerque. He is so fat. I think that</p>
+
+<pb facs="shan_l.050"/>
+
+<closer>         
+<salute>Your friend</salute>
+<signed>Shone Villanueva</signed>
+<address><addrLine>812 West Slate Ave</addrLine></address>
+<address><addrLine>Albuquerque,</addrLine></address>
+<address><addrLine>N Mex.</addrLine></address>
+</closer>
+
+<postscript>
+<p>Receive greetngs from Lucy</p>
+
+<p>And your brother, where is he now?</p>
+</postscript>
 </div1>
 </body>
         
