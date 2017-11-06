@@ -147,7 +147,7 @@
 <text>
 <body>
             
-<div1 type="letter">
+<div1 type="letter" xml:lang="es">
                 
 <pb facs="shan_l.156.jpg"/>
                     
@@ -205,6 +205,37 @@
 </figure>
 
 </div1>
+
+<div1 type="letter" xml:lang="en">
+                
+<pb facs="shan_l.156.jpg"/>
+                    
+<opener>
+
+<address><addrLine>Mexicali, B.C.</addrLine></address><dateline>January 17, 1940.</dateline>
+
+<add>Mrs. Jesucita Baro.</add>
+
+<salute>Dear mom [mother, diminutive],</salute>
+</opener>
+
+<p>I write you this letter with all my love to greet you and everyone else [in the family], hoping you are well, as is my wish.</p>
+             
+<p>After greeting you I [will] tell you about what you mention regarding the clothing. If
+you want to send it to me or if you want to send me the money [instead], it’s all the same to
+me,</p>
+
+<p>but only if you [plural] are not in need and this is not burdensome.</p>
+
+<p>Here, I have not stoped working, and I am well, all things considered.</p>
+                
+<closer><salute>My regards to all and you, dear mom [mother, diminutive], receive a big hug and all my love,</salute>
+
+<signed>Jesus Zamaniego.</signed>
+</closer>
+                
+</div1>
+
 </body>
         
 <back></back>

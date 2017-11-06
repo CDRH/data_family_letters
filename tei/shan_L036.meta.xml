@@ -149,7 +149,7 @@
 <text>
 <body>
             
-<div1 type="letter">
+<div1 type="letter" xml:lang="es">
                 
 <pb facs="shan_l.033.jpg"/>
                 
@@ -195,7 +195,7 @@ Clemente Torres<lb/></addrLine></address>
                 
 </div1>
 
-<div1 type="envelope">
+<div1 type="envelope" xml:lang="es">
 
 <pb facs="shan_l.031.jpg"/>
 
@@ -272,6 +272,143 @@ OCT<lb/>
 </ab>
 
 </div1>
+
+<div1 type="letter" xml:lang="en">
+                
+<pb facs="shan_l.033.jpg"/>
+                
+<opener>
+<fw>1</fw>
+<address><addrLine>Longmont Colo,</addrLine></address>
+<dateline>19 June 1939</dateline>
+
+<address><addrLine>Mr.<lb/>
+Clemente Torres<lb/></addrLine></address>
+
+<salute>Very esteemed brother</salute>
+</opener>
+
+<p>this [letter] is to greet all of you, hoping that it finds you happy. We are well, thank God.</p>
+                
+<p>Well, brother, after greeting you and your family I proceed to tell you that I am living here with a family. The lady is a widow, and if God grants his permission I want to marry her. I will let you know as soon as it happens, later on</p>
+
+<pb facs="shan_l.034.jpg"/>
+
+<fw>2</fw>
+
+<p>You will know [I can tell you] that my former wife and I could not live happily
+together. Well, about Reynaldo, I will tell you that he already wrote me and I replied.
+I am now waiting for his answer. I don’t know if he will answer me or not. So,
+brother, you tell me that you are going to send me a photo of your family, it would
+please me very much to see you with all the members of your family, so don’t forget.
+I will also make an effort to send you [my photo/a picture of me] as soon as I can.
+Well, brother, tell me if there are automobiles or cars [there]. You know that when I</p>
+
+<pb facs="shan_l.035.jpg"/>
+
+<fw>3</fw>
+
+<p>came there weren’t any, and now I’ve heard it said that there are many, and tell me
+if you talk to your godfather Aurelio Sánchez, so that I can send you a document to
+give to him, and tell me if you were able to [fix/solve/find out] aunt Lola’s address,
+because you don’t say anything about her in this letter.</p>
+
+<closer><salute>Well brother, I think that this
+is all for now, give everyone my regards, to your wife and your family, and your in
+laws. And from me, receive the finest regards from your brother, I wish you a
+thousand happinesses [much happiness]</salute>
+
+<pb facs="shan_l.036.jpg"/>
+
+<fw>4</fw>
+
+<signed>Mr. Maxcimino Torres</signed>
+<address><addrLine>In care B Kenndy R.3.</addrLine></address> 
+<address><addrLine>Longmont Colo</addrLine></address>
+</closer>
+
+<postscript><p>Please write more clearly.</p></postscript>
+                
+</div1>
+
+<div1 type="envelope" xml:lang="es">
+
+<pb facs="shan_l.031.jpg"/>
+
+<ab type="return">
+<address>
+<addrLine>after 5 days return to</addrLine> 
+<addrLine>max torres in care B.</addrLine>
+<addrLine>Kenndy R.3. LongmontColo</addrLine>
+</address>
+</ab>
+
+<ab type="address">
+<address>
+<addrLine>Mr. Clemente Torres</addrLine> 
+<addrLine>General delivery</addrLine> 
+<addrLine>Churintzio Mich</addrLine>
+<addrLine>Mex</addrLine>
+</address>
+</ab>
+
+<ab type="postmark">
+Longmont<lb/>
+JUN19<lb/>
+1939<lb/>
+2PM<lb/>
+Colo.<lb/>
+</ab>
+
+<figure type="stamp">
+<p></p>
+</figure>
+
+<ab type="stamp">
+Devuelta al remitente<lb/>
+</ab>
+
+<ab type="stamp">
+RETURNED TO<lb/>
+WRITER<lb/>
+D.D.L.<lb/>
+</ab>
+
+<pb facs="shan_l.032.jpg"/>
+
+<ab type="stamp">
+Non réclamée. [Unclaimed, French]<lb/>
+No reclamada. [Unclaimed, Spanish]<lb/>
+</ab>
+
+<ab type="postmark">
+CHURINTZIO <lb/>
+24 JUN39 11-<lb/>
+MICH<lb/>
+</ab>
+
+<ab type="postmark">
+CHURITZIO<lb/>
+-1 JUL.3911-30<lb/>
+MICH<lb/>
+</ab>
+
+<ab type="postmark">
+LA PIEDAD<lb/>
+23-JUN39<lb/>
+MICH<lb/>
+</ab>
+
+<ab type="postmark">
+WASHINGTON D.C.<lb/>
+OCT<lb/> 
+11<lb/>
+1939<lb/>
+<unclear reason= "illegible"/><lb/>
+</ab>
+
+</div1>
+
 </body>
         
 <back></back>

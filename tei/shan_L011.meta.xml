@@ -5,7 +5,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from Unknown to Jesusita BarosTorres, August 29, 1937</title>
+<title type="main">Letter from Unknown to Jesusita Baros Torres, August 29, 1937</title>
 <title type="main">Carta de Desconocido a Jesusita Baros Torres, 29 de agosto, 1937</title>
 <author>Unknown</author>
 <principal xml:id="iv001">Velázquez, Isabel</principal>
@@ -149,7 +149,7 @@
 <text>
 <body>
             
-<div1 type="letter">
+<div1 type="letter" xml:lang="es">
                 
 <pb facs="shan_l.064.jpg"/>
                 
@@ -214,6 +214,46 @@ TRANS. <unclear reason="illegible"/><lb/>
 <p></p>
 </figure>
 
+</div1>
+
+<div1 type="letter" xml:lang="en">
+                
+<pb facs="shan_l.064.jpg"/>
+                
+<opener>
+<address><addrLine>Albuquerque N. Mex</addrLine></address>
+<dateline>Aug.29.1937.</dateline>
+<salute>Mrs. Jesusita Baros</salute>
+</opener>
+                
+<p>I received your letter dated 17 [???]</p>
+
+<pb facs="shan_l.065.jpg"/>
+
+<fw>2</fw>
+
+<p>And you left me [you told me???] alone [only?], or it might be</p>
+
+<p>[Illegible] whom I told you</p>
+
+<pb facs="shan_l.066.jpg"/>
+
+<p>that you are not alone. Now, I don’t know if you want to see hemus [???] at the dipo
+[depot?] or not. To tell [him/her] to go [thet he/she will go] to your house I don’t know for
+sure [???] they are thinking of going on the 3 rd . Well, the house is as it was, without news
+[???] to rent [???]</p>
+
+<pb facs="shan_l.067.jpg"/>
+
+<p>J and Santos may one day remember that they have an uncle in Albuquerque and you
+receive his heart [the heart of] him, black [dark] and skinny from Albuquerque who doesn’t
+forget you for a moment it’s been three 15 days since you left at 310 in the afternoon
+May.14.310 pm [Illegible]</p>
+
+<closer>                    
+<signed></signed>
+</closer>
+                
 </div1>
 </body>
         

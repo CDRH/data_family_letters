@@ -148,7 +148,7 @@
 <text>
 <body>
             
-<div1 type="letter">
+<div1 type="letter" xml:lang="es">
                 
 <pb facs="shan_l.136.jpg"/>
                    
@@ -171,7 +171,7 @@
                 
 </div1>
 
-<div1 type="envelope">
+<div1 type="envelope" xml:lang="es">
 
 <pb facs="shan_l.134.jpg"/>
 
@@ -214,6 +214,86 @@ Población………<lb/>
 </ab>
 
 </div1>
+
+<div1 type="letter" xml:lang="es">
+                
+<pb facs="shan_l.136.jpg"/>
+                   
+<opener>
+<dateline>Juchipila, Zacatecas</dateline>
+<add>November 22, 1939</add>
+
+<address><addrLine>Mrs. Elivoria Flemate.</addrLine></address>
+
+<salute>My dear sister,</salute></opener>
+
+<p>I hope that this letter finds you without news, as I am, and together with your loved
+[beloved] children, this is my wish [for you].</p>
+                
+<p>I now proceed to tell you that it’s quite
+expensive to send clothing from the border. It would be better, if you’d like, to send me the
+money so that I can buy my dress [here], it will be the same thing. Sister, [I think that] my
+brother is no longer at the place from which he was recently writing, because my letters are
+being returned. If he were to write to you I would really appreciate it if you give me his
+address right away so that I can communicate [get in touch] with him, because I am the
+guarantor of a loan he took out from mister Pascual Posos for the amount of four hundred
+and some pesos. This loan is now due, and mister Pascual has tried to collect, and I, hoping
+that Demetrio sends money, asked him to wait until next January. So I beg you, do me the
+favor of sending me his address as soon as you have it, because I really need to [it’s urgent
+that I] communicate with him.</p>
+                
+<closer><salute>Give my regards to your children and receive the regard and love of your sister, who truly
+appreciates [loves] and does not forget you.</salute>
+
+<signed>Guadalupe Flemate</signed>
+</closer>
+                
+</div1>
+
+<div1 type="envelope" xml:lang="en">
+
+<pb facs="shan_l.134.jpg"/>
+
+<ab type="return">
+<address>
+<addrLine>M/a Guadalupe Flemate.</addrLine>
+<addrLine>Hotel Zaragoza.</addrLine>
+<addrLine>Juchipila, Zac.</addrLine>
+</address>
+</ab>
+
+<ab type="address">
+<address>
+<addrLine>Mrs. María Jesús Barrios.</addrLine>
+<addrLine>P.O. Box #481.</addrLine>
+<addrLine>F.T. Lupton, Colorado.</addrLine>
+</address>
+</ab>
+
+<ab type="postmark">
+JUCHIPILA<lb/>
+<unclear reason="illegible"/><lb/>
+</ab>
+
+<figure type="stamp">
+<p></p>
+</figure>
+
+<pb facs="shan_l.135.jpg"/>
+
+<ab type="stamp">
+IMPORTANTE:<lb/>
+In order for your correspondence to be returned to you<lb/>
+in case that it cannot be delivered to the addressee, <lb/>
+always include your name and address like this:<lb/>
+
+Sender……<lb/>
+Street and number…..<lb/>
+Town………<lb/>
+</ab>
+
+</div1>
+
 </body>
         
 <back></back>

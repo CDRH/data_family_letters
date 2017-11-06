@@ -145,7 +145,7 @@
 <text>
 <body>
             
-<div1 type="letter">
+<div1 type="letter" xml:lang="es">
                 
 <pb facs="shan_l.760.jpg"/>
 
@@ -170,6 +170,45 @@
 </closer>
                 
 </div1>
+
+<div1 type="letter" xml:lang="en">
+                
+<pb facs="shan_l.760.jpg"/>
+
+<opener>
+<address><addrLine>María Guadalupe Flemate.</addrLine></address>
+<address><addrLine>Hotal Zaragoza.</addrLine></address>
+<address><addrLine>Juchipila,Zac; September 18, 1<unclear reason="torn">9</unclear></addrLine></address>
+
+<address><addrLine>Mrs. Jesusita Baros.</addrLine></address>
+<address><addrLine>P.O. Box# 681</addrLine></address>
+<address><addrLine>Lupton, Colorado.</addrLine></address>
+
+<salute>Dearest sister:</salute>
+</opener>
+
+<p>I’m hoping that when you receive this […]
+As I am thanks to God, even if[…]
+Sister; I found out from the letter you wrote my […]
+That you were a little mad at me because I […]
+ter what is happening is that I’ve been somewhat gravely ill, nothing […]
+days since I returned from Guadalajara, I went to have surgery […]
+co from a pain that I feel very often and without notice […]
+death, they told me in Guadalajara, that it would maybe cause […]
+the surgery, and that I had the surgery that I would get worse […]
+to bear the pain for the remainder of the time that God wants to have me […]
+ld.</p>
+
+<p>But you know that Im at your service in anything I can […]
+With out more to add, your sister who loves you and doesn’t forget you […]
+I’m sending you [I will send you?] the portrait.</p>
+
+<closer>                    
+<signed>Guadalupe Flemate</signed>
+</closer>
+                
+</div1>
+
 </body>
         
 <back></back>

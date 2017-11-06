@@ -149,7 +149,7 @@
 <text>
 <body>
             
-<div1 type="letter">
+<div1 type="letter" xml:lang="es">
                 
 <pb facs="shan_l.100.jpg"/>
                   
@@ -216,6 +216,38 @@ ZAC<lb/>
 </figure>
 
 </div1>
+
+<div1 type="letter" xml:lang="en">
+                
+<pb facs="shan_l.100.jpg"/>
+                  
+<opener>
+<address><addrLine>Juchipila, Zacatecas, Mexico</addrLine></address>
+<dateline>Febrero 16, -65</dateline>
+
+<salute>Dear daughter,</salute>
+</opener>
+                
+<p>This letter is to greet you, hoping that you are well, in the company of Bill and all the kids.</p>
+
+<p>We are well, thank God, who finally allowed me to come here. I am very happy to be here
+[around here/around these parts/on this land] I am now at the ranch with Nemecio
+Samaniego, and I also saw the [my] other son who is [lives] in [the state of] Baja California,
+Mexicali. He came here to Juchipila. Well, it’s a little cold here as well, but no snow. I’m
+thinking of going to Juchipila on Saturday and leaving Monday or Tuesday for El Paso,
+Texas. Well, daughter, I hope you write to me now that I leave for the house in [Fort]
+Lupton.</p> 
+
+<p>I hope you are all well. Give our regards to the kids, and to Bill from Max, and for
+you from me,</p>
+
+<closer><salute>your mom</salute>
+
+<signed>Jesusita Torres;</signed>
+</closer>
+                             
+</div1>
+
 </body>
         
 <back></back>
