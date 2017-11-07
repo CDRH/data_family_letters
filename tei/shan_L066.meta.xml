@@ -146,7 +146,7 @@
 <text>
 <body>
             
-<div1 type="letter">
+<div1 type="letter" xml:lang="es">
                 
 <pb facs="shan_l.152.jpg"/>
                 
@@ -163,6 +163,25 @@
 </closer>
                 
 </div1>
+
+<div1 type="letter" xml:lang="en">
+                
+<pb facs="shan_l.152.jpg"/>
+                
+<opener>
+<address><addrLine>Mr. Mauro Quezada</addrLine></address>
+<add>Please, for Nemecio Samaniego</add>
+<add>Juchipila, Zac.</add>
+</opener>
+
+<p></p>
+
+<closer>                    
+<signed>Nemecio <unclear reason="smudged">F</unclear> Samaniego</signed>
+</closer>
+                
+</div1>
+
 </body>
         
 <back></back>

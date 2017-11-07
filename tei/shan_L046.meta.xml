@@ -149,7 +149,7 @@
 <text>
 <body>
             
-<div1 type="letter">
+<div1 type="letter" xml:lang="es">
                 
 <pb facs="shan_l.196.jpg"/>
                 
@@ -215,6 +215,45 @@ LOS ANGELES CA<lb/>
 </figure>
 
 </div1>
+
+<div1 type="letter" xml:lang="en">
+                
+<pb facs="shan_l.196.jpg"/>
+                
+<opener>
+<address><addrLine>Demetrio Flemate</addrLine></address>
+<address><addrLine>3081 Oregon St.</addrLine></address>
+<address><addrLine>Los Angeles California</addrLine></address>
+<address><addrLine>900 23</addrLine></address>
+
+<salute>Dear sister</salute>
+</opener>
+
+<pb facs="shan_l.198.jpg"/>
+
+<p>with this letter I greet you and Max and Jesse and everyone in general.</p>
+                
+<p>Well I can’t find an exit [a solution to my problems], and here you have me in Los Angeles. I
+thought about going over there but I took your advice, because in one of your letters you
+told me to come to California and the government is helping me here but the problem is
+that I owe a huge amount of money in Mexico and for sure I’m going to send instructions to
+sell the house, because [with what I earn] here, there is no hope [to pay this debt]. For one,
+because they don’t hire old men and for another, because people who are receiving help
+form the government aren’t allowed to work. I mean the Department of Social Welfare.
+Because if I work, they deduct [from my payment], so I’m at a dead end, old, with a
+
+<pb facs="shan_l.200"/>
+
+big family and poor. For sure I’m leaving the proceeds of the sale of the house to my children,
+after paying what is owed, because I feel I don’t want to keep on living.</p>
+
+<closer>
+<salute>Without anything further to add, your brother says goodbye,</salute>          
+<signed>Demetrio Flemate</signed>
+</closer>
+                
+</div1>
+
 </body>
         
 <back></back>

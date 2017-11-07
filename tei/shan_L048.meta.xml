@@ -148,7 +148,7 @@
 <text>
 <body>
             
-<div1 type="letter">
+<div1 type="letter" xml:lang="es">
                 
 <pb facs="shan_l.208.jpg"/>
                 
@@ -213,6 +213,34 @@ USPO<lb/>
 </ab>
 
 </div1>
+
+<div1 type="letter" xml:lang="en">
+                
+<pb facs="shan_l.208.jpg"/>
+                
+<opener>
+<salute>Mr. Jesus Samaniego</salute>
+</opener>
+                
+<p>I write you this letter to let you know that your mom died recently. I haven’t written before because I’ve been
+very ill myself and I couldn’t find your address. I’ve also written to Demecio, who knows if he will come or
+not. Your mom asked me to write to all of her children. I need a little bit of your help to defend myself from
+your half brother Jesus. If you can’t come for some reason, please write to me. I’ll also tell you that Jesus
+thinks that he is [believes himself to be/acts like] the only son, and he is not. Your mom had more than 1000
+pesos and he took it all. My brother Clemente was going to come [is going to come]
+
+<pb facs="shan_l.210.jpg"/>
+
+And, with you all’s help, let’s see how we can fix [solve] this. I am very ill and can’t walk. I’m here with the
+man who takes care of me, because I can’t do anything by myself. </p>
+
+<closer>   
+<salute>Receive my regards and reply quickly</salute>                 
+<signed>Maximino Torres</signed>
+</closer>
+                
+</div1>
+
 </body>
         
 <back></back>
