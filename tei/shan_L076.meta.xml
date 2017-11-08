@@ -148,7 +148,7 @@
 <text>
 <body>
             
-<div1 type="letter">
+<div1 type="letter" xml:lang="es">
                 
 <pb facs="shan_l.234.jpg"/>
                 
@@ -174,6 +174,43 @@
 </closer>
                 
 </div1>
+
+<div1 type="letter" xml:lang="en">
+                
+<pb facs="shan_l.234.jpg"/>
+                
+<opener>
+
+<address><addrLine>ft, Lupton Colo</addrLine></address>
+<dateline>August 22,- 1956;</dateline>
+
+<salute>Dear daughter,</salute>
+</opener>
+
+<p>this letter is to greet you all: you, Bill, and the kids. Thank you very much for
+card that you all sent me. Do talk to them about us so they won’t forget us. It’s been several days
+since I received your letter. Was worried, wanting to know how you had arrived.</p>
+                
+<p>Thank God, daughter, that you arrived [got home] alright. We are well, thank God. I am making my tamales.
+There is going to be a bazaar on Sunday to help the church. They asked me to make 30 dozen, so
+now I’m very busy making the tamales.</p>
+
+<p>Well, nothing new [around here], everything is the same.
+Max is working, Jesus and Helen too. Me and Cathy here at home. It does feel a little lonely:
+First [the house] is a racket and now everything is so quiet. But what can we do? That’s the way
+things should be. First a lot of company and then, nothing. Well daughter, God will help you and
+us too.</p>
+
+<closer>             
+
+<salute>Many [warm] regards to Bill, I am truly happy that he is better. Greetings from Jess and
+Helen. Jerry is picking cucumbers. Max and me, your mom,</salute>     
+  
+<signed>Jesusita B Torres;</signed>
+</closer>
+                
+</div1>
+
 </body>
         
 <back></back>
