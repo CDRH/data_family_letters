@@ -141,7 +141,7 @@
     <text>
         <body>
             
-            <div1 type="front">
+            <div1 type="document" xml:lang="es">
                 <pb facs="shan_d.001.jpg"/>
                 <opener>The Jeffersonian Tablet. Bond paper</opener>
                 <p>1020 Wather</p>
@@ -491,8 +491,7 @@
                         <list rend="simple">                    
                             <item>1. Todos los hombres han nacido iguales. Dios les ha Concedido ciertos derechos que no pueden usurpárselos, entre los cuales los principales son la vida, la libertad y la Felicidad.</item>                    
                             <item>2. Para gozar de estos derechos, los hombres establecen goviernos, que derrivan sus poderes del consentimiento de quienes son establecieron.</item>                    
-                            <item>3. La Declaracion prosigue diciendo que el actual Rey de la Gran Bretaña, Jorge III, se ha negado á autorizar las leyes mas saludables y necesarias para el bien publico.</item>                    
-                            <item>4. Estas son algunas de las injusticias impuestas al pueblo de los E. U. que se mencionaron en la Declaracion de la Independencia. </item>                            
+                            <item>3. La Declaracion prosigue diciendo que el actual Rey de la Gran Bretaña, Jorge III, se ha negado á autorizar las leyes mas saludables y necesarias para el bien publico.</item>                                   
                 
                             <fw> Page 18 </fw>                                         
                             <item>4. Estas son algunas de las injusticias impuestas al pueblo de los E. U. que se mencionaron en la Declaracion de la Independencia. </item>                
@@ -991,9 +990,525 @@
                     <p>Reunio un grupo de personas de las mismas colonias isieron dinero, en seguida lebantar los articolos de la Constitu duraron dos años para aser los articolos de la Constitusion, se formo se establesio en el año 1775.</p>
              
                 </div2>   
-
            
             </div1>
+        
+       <!-- English translation starts here -->
+            <div1 type="document" xml:lang="en">
+            
+                <pb facs="shan_d.001.jpg"/>
+                <opener>The Jeffersonian Tablet. Bond paper</opener>
+                <p>1020 Wather</p>
+                
+                <div2 type="note">
+                    
+                    <pb facs="shan_d.002.jpg"/>
+                    
+                    <note type="unrelated">Joe Brancho Herrrera paid rent today, 20th</note>
+                    
+                    <table rows="9" cols="1">
+                        <row>
+                            <cell role="data">2.05</cell>
+                        </row>
+                        <row>
+                            <cell role="data">97</cell>
+                        </row>
+                        <row>
+                            <cell role="data">81</cell>
+                        </row>
+                        <row>
+                            <cell role="data">67</cell>
+                        </row>
+                        <row>
+                            <cell role="data">4.50</cell>
+                        </row>
+                        <row>
+                            <cell role="data">14 x</cell>
+                        </row>
+                        <row>
+                            <cell role="data">180</cell>
+                        </row>
+                        <row>
+                            <cell role="data">451</cell>
+                        </row>
+                        <row>
+                            <cell role="data">46.90</cell>
+                        </row>
+                    </table>
+                    
+                </div2>
+                
+                <div2 type="note">
+                    
+                    <list rend="simple">
+                        <item>101</item>
+                        <item>67</item>
+                        <item>168</item>
+                    </list>    
+                    
+                </div2>
+                
+                <pb facs="shan_d.003.jpg"/>
+                
+                <div2 type="note">
+                    
+                    <note type="unrelated">
+                        
+                        <table rows="5" cols="2">
+                            
+                            <row>
+                                <cell role="label">Monday</cell>
+                            </row>
+                            <row>
+                                <cell role="label">Tuesday</cell> 
+                                <cell role="data">101 tomato boxes</cell>
+                            </row>
+                            <row>
+                                <cell role="label">Wednesday</cell> 
+                                <cell role="data">67 tomate boxes, 11 onion bags</cell>
+                            </row>
+                            <row>
+                                <cell role="label">Thursday</cell> 
+                                <cell role="data"></cell>
+                            </row>
+                            
+                            <row>
+                                <cell role="label">Friday</cell> 
+                                <cell role="data"></cell>
+                            </row>
+                            
+                        </table>
+                        
+                        
+                        <table rows="8" cols="2">
+                            
+                            <head>Tomato Boxes</head>
+                            
+                            <row>
+                                <cell role="label">Monday</cell> 
+                                <cell role="data">100</cell>
+                            </row>
+                            <row>
+                                <cell role="label">Tuesday</cell> 
+                                <cell role="data">115</cell>
+                            </row>
+                            <row>
+                                <cell role="label">Wednesday</cell> 
+                                <cell role="data">93</cell>
+                            </row>
+                            <row>
+                                <cell role="label">Thursday</cell> 
+                                <cell role="data">95</cell>
+                            </row>
+                            <row>
+                                <cell role="label">Friday</cell> 
+                                <cell role="data">100</cell>
+                            </row>
+                            <row>
+                                <cell role="data">503</cell>
+                            </row>
+                            <row>
+                                <cell role="data">45</cell>
+                            </row>
+                            <row>
+                                <cell role="data">548</cell>
+                            </row>
+                        </table>   
+                    </note>
+                </div2>
+                
+                <pb facs="shan_d.004.jpg"/>
+                
+                <div2>
+                    <note type="unrelated">
+                        <table rows="8" cols="2">
+                            <head>morning</head>
+                            <row>
+                                <cell role="data">8 1/2</cell>
+                            </row>
+                            <row>
+                                <cell role="data">6 1/2</cell>
+                            </row>
+                            <row>
+                                <cell role="data">6</cell>
+                            </row>
+                            <row>
+                                <cell role="data">21</cell>
+                                <cell role="label">hours</cell>
+                            </row>
+                            <row>
+                                <cell role="data">x85</cell>
+                            </row>
+                            <row>
+                                <cell role="data">105</cell>
+                            </row>
+                            <row>
+                                <cell role="data">168</cell>
+                            </row>
+                            <row>
+                                <cell role="data">1785</cell>
+                            </row>
+                        </table>
+                    </note>
+                    
+                    <note type="unrelated">
+                        <table rows="3" cols="1">
+                            <row>
+                                <cell role="data">3</cell>
+                            </row>
+                            <row>
+                                <cell role="data">3 1-/</cell>
+                            </row>
+                            <row>
+                                <cell role="data">4</cell>
+                            </row>
+                        </table>    
+                    </note>
+                    
+                </div2>
+                <pb facs="shan_d.005.jpg"/>
+                
+                <div2>
+                    <note type="unrelated">
+                        <table rows="12" cols="9">
+                            <head>October 1953</head>
+                            <row>
+                                <cell role="label"></cell>
+                                <cell role="label"></cell>
+                                <cell role="label">morni</cell>
+                                <cell role="label"></cell>
+                                <cell role="label">labor</cell>
+                                <cell role="label">nun</cell>
+                                <cell role="label"></cell>
+                            </row>
+                            <row>
+                                <cell role="data">6</cell> 
+                                <cell role="label">Tue</cell>
+                                <cell role="data">8 1/2 hors</cell>
+                                <cell role="label">off</cell>
+                                <cell role="data">12</cell>
+                                <cell role="data">1</cell>
+                                <cell role="data">5 hors</cell>
+                            </row>
+                            <row>
+                                <cell role="data">7</cell>   
+                                <cell role="label">Wed</cell>
+                                <cell role="data">9 hors</cell>
+                                <cell role="label">off</cell>
+                                <cell role="data">12</cell>
+                                <cell role="data">1</cell>
+                                <cell role="data">4 1/2</cell>
+                            </row>
+                            <row>
+                                <cell role="data">8</cell> 
+                                <cell role="label">Thu</cell>
+                                <cell role="data">8 1/2 hors</cell>
+                                <cell role="label">off</cell>
+                                <cell role="data">12</cell>
+                                <cell role="data">1</cell>
+                                <cell role="data">5 hors</cell>
+                            </row>
+                            <row>
+                                <cell role="data">9</cell> 
+                                <cell role="label">no w.</cell>
+                                <cell role="data"></cell>
+                                <cell role="label"></cell>
+                                <cell role="data"></cell>
+                                <cell role="data"></cell>
+                                <cell role="data"></cell>
+                            </row>
+                            <row>
+                                <cell role="data">10</cell> 
+                                <cell role="label">no w.</cell>
+                                <cell role="data"></cell>
+                                <cell role="label"></cell>
+                                <cell role="data"></cell>
+                                <cell role="data"></cell>
+                                <cell role="data"></cell>
+                            </row>
+                            <row>
+                                <cell role="data">11</cell> 
+                                <cell role="label">no w.</cell>
+                                <cell role="data"></cell>
+                                <cell role="label"></cell>
+                                <cell role="data"></cell>
+                                <cell role="data"></cell>
+                                <cell role="data"></cell>
+                            </row>
+                            <row>
+                                <cell role="data">12</cell> 
+                                <cell role="label">- -</cell>
+                                <cell role="data"></cell>
+                                <cell role="label"></cell>
+                                <cell role="data"></cell>
+                                <cell role="data"></cell>
+                                <cell role="data"></cell>
+                            </row>
+                            <row>
+                                <cell role="data">13</cell> 
+                                <cell role="label">- -</cell>
+                                <cell role="data"></cell>
+                                <cell role="label"></cell>
+                                <cell role="data"></cell>
+                                <cell role="data"></cell>
+                                <cell role="data"></cell>
+                            </row>
+                            <row>
+                                <cell role="data">14</cell> 
+                                <cell role="label">Wed</cell>
+                                <cell role="data">8</cell>
+                                <cell role="label">off</cell>
+                                <cell role="data">12</cell>
+                                <cell role="data">1</cell>
+                                <cell role="data">5</cell>
+                            </row>
+                            <row>
+                                <cell role="data">15</cell> 
+                                <cell role="label">Thu</cell>
+                                <cell role="data">7 1/2</cell>
+                                <cell role="label">off</cell>
+                                <cell role="data">12</cell>
+                                <cell role="data"></cell>
+                                <cell role="data"></cell>
+                            </row>
+                        </table>
+                    </note>
+                    
+                </div2>
+                
+            </div1>  
+            
+            <div1 type="body">
+                
+                <pb facs="shan_d.006.jpg"/>
+                
+                <fw>Page 24</fw>
+                
+                <div2 type="section">
+                    
+                <p>I pledge allegiance to the flag of the United States of America and the republic for which it stands [,] an indivisible nation that guarantees liberty and justice for all. An oath is a solemn promise. This allegiance signifies an unchangeable faithfulness. In this pledge we promise that we will respect the flag and the country that it represents solely [solemnly] in thought, words, and deed. This republic is an indivisible nation that offers liberty and justice for all its people.</p>
+                <p>The flag is a symbol of our liberty and our faith, having our hearts filled with gratefulness. We swear to defend it and we should feel proud to live under its shadow.</p> 
+                    
+                    <pb facs="shan_d.007.jpg"/>                
+                    
+                    <p>injustice and of cruelty, but he/she will be ready to fight if necessary, to maintain this country, the U.S of America, which is also your home, strong and free.</p> 
+                
+                </div2>  
+                
+                <div2>  
+                    
+                    <fw>Page 13</fw>
+                    
+                    <p>The Birth of the U.S was by virtue of the discovery made by Christopher Columbus on October 12, 1942 [and] this country was later named the U.S.A. was populated. Other voyagers had disembarked in this continent but had never established a colony before. The money for Columbus’ trip was supplied by Queen Isabella [I] of Spain.</p>
+                    <p>More than one hundred years passed before the true settlers arrived and settled in these regions that they christened with the name of the colonies. These colonies later became the U.S.A.</p> 
+                    <p>The majority of the colonist came from England. The king continued to be their sovereign even after they had disembarked in this country, and [so] English came to be the national language. Some Dutch colonist settled in what is now New York, some Swedish colonist did so in Delaware, and many Germans [settled] in Pennsylvania. At the same time, there were Scottish and Irish citizens in all the colonies.</p>
+                    <p>The English established their first colony in Jamestown, in the state of Virginia, in 1607. They crossed the Atlantic Ocean in the winter, making the voyage in three small ships named the Sarah Constant, Godspeed, and the Discovery. A hundred and five settlers made the voyage in those ships, commanded by Captain Christopher Newport. Later, after disembarking, the colonist lived under the brave and famous Captain John Smith’s command. It took the settlers four months to cross the ocean. They were lashed by various storms and they suffered countless obstacles in the voyage. Finally, on April 26, they arrived in the beaches of Virginia and they continued navigating  from there, 
+                        
+                        <pb facs="shan_d.009.jpg"/>
+                        <fw>Page 14</fw> 
+                        
+                        navigating for a hundred and sixty kilometers across the Chesapeake Bay and upstream the James River in search of an adequate site in which they could establish a colony. On May 13th they found the desired site [and] named it Jamestown in honor of King James of England. They landed there, and immediately started to form their own government.</p>
+                    <p>This part of the country was only inhibited by Indians [Native Americans] and wild animals, and there were neither cities, nor villages or houses. All there was [here] were overgrown forest, swamps, and the wide river that flew stately in its vicinity. At dusk, in the middle of a great grove, the voyagers cut a giant tree and used its trunk to construct an altar on it, [and] from the branches of another tree they hung a sail to form a banner, and they celebrated a religious service. That is how <del type="overstrike">with the forming of a government and collaboration of a</del> the first permanent English colony was born in America.</p>
+                    <p>It was not very long before the settlers experienced setbacks and <del type="overstrike">suffered</del> sufferings again. Soon they learned that they would only survive if they worked hard, and that they had to cut trees, plow the land, cultivate the soil, and grow corn. They had not brought their wives or children to help them build houses, [and] soon they ran out of the supplies that they had brought from England. At first, they could not produce enough corn to provide for their survival. Then came a terrible period of hunger and devastation that they called “The Hunger Hour” and so in which many died, and many others were killed by Indians. Desperate with so many setbacks they resolved to return to their country, [and when they got] closer to the river mouth they found an English ship that was carrying supplies. This was their salvation.</p>
+                    
+                    <fw>Page 15</fw>
+                    
+                    <p>And from there on the colony of Jamestown started to flourish and prosper. In little time other colonies were set and the number of settlers  
+                        
+                        <pb facs="shan_d.011.jpg"/>
+                        
+                        <fw>Page 15</fw>
+                        
+                    arriving from England increased. The great colony of Virginia was definitely founded in 1619 [and] their people celebrated the first representative assembly in America. Every one of those colonies designated two of their members to represent them. The assembly took place in Jamestown and it issued the laws that should govern the destiny of the colony. Because the English firmly believed in the democratic government, they brought their laws and their free institutions with them.</p>
+                    <p>The “Pilgrim Fathers” founded the second permanent English colony in 1620 in Plymouth, state of Massachusetts. They came to the U.S to find a place where they could worship God according to their beliefs, as they could not do in England. They sailed from the English port of Plymouth in a small boat that they called the Mayflower. On an icy day in the month of December they disembarked on the rocky coast of New England. No white man came to greet them when they landed, and, from the very beginning, they had to start building houses to shelter themselves with their wives and children. </p>
+                    <p>Life was very difficult in the first years, but they were willing to face sufferings as long as they could worship God according to their beliefs. Because they were convinced that the Almighty's hand was guiding them, their faith gave them strength to bear the sufferings and the hardships. The U.S. always honored the memory of those pilgrims because they brought their love of freedom with them, and because they relentlessly suffered to spread this love in American soil. This love of freedom is what has made this prosperous country free and great. Let's now see what was this idea of liberty that the pilgrims adhere to. They believed that the People had the right and the ability to promulgate the laws. They believed 
+                            
+                            <pb facs="shan_d.013.jpg"/>
+                            too that these laws aim at the general good, this is, at the benefit of everyone, and so everyone had to obey them as they were dictated by the nation itself. True freedom respects the rights of others and that was the freedom that the pilgrims were looking for in the U.S., as they preferred to suffer great setbacks instead of losing it.</p>
+                    <p>In the span of 150, England's thirteen colonies along the coast of the Atlantic Ocean grew and flourished. Many of the laws in these colonies had no representation. They thought it was unfair that they had to obey laws dictated without their consent, and when King George III tried to govern England and the United States on a despotic fashion, they raised and started [a war] in April 1775. The colonist fought courageously during six terrible years under the command of distinguished general George Washington, who northern Americans today fairly call Father of the Nation. The famous French generals Lafayette and Rochambeau join them, [and] later France sent an army and a navy to help them. Other foreigners that helped our soldiers were the German Steuben, the Bavarian DeKalb, and the Polish Kosciusko. Independence from England was finally won, and the peace agreement was signed in 1783. The goal of this Independence War was to maintain the principles of colonial governments and to maintain the freedom that George III had tried to restrict.</p>
+                    <p>Northern Americans hated those revolutions that tend to destroy, to overthrow, to kill, to loot, or to burn down. This victory transformed the thirteen independent colonies on what today is the U.S.A., governed by the Constitution. That was the meaning of the Northern American Revolution or the Independence War.</p>
+                    
+                </div2>
+                
+                <pb facs="shan_d.015.jpg"/>
+                
+                <div2 type="section">
+                    
+                    <fw>Page 17</fw>
+                    
+                    <head>The Declaration of Independence</head>
+                    <p>This declaration was made by the thirteen original states of the U.S.A. [and] passed on July 4, 1776 by the Continental Congress that gathered in the city of Philadelphia, in the state of Pennsylvania. The Declaration begins by expressing the reasons why the United States, composed then by only thirteen states, were forced to separate from Great Britain, their Motherland [:]</p>
+                    <p>[“] We hold as an absolute truths that all men have been created equally by nature, that their Creator grants everyone certain inalienable rights, including life, liberty and the pursuit of happiness. In order to ensure these rights, men have established governments [and] a legitimate power of consent is derived from them. Whenever a form of government becomes an instrument for destruction, the people have the right to change or abolish it and create a new government on its place."
+                    
+                    <list rend="simple">  
+                        <item>1. All men are born the same. God granted them certain rights that cannot be removed; the main of these principles are life, freedom, and happiness.</item>
+                        <item>2. To enjoy these rights, men establish governments that derive the powers of the consent of those that established it.</item>
+                        <item>3. The Declaration goes on to say that the actual king of Great Britain, George III, has denied the authorization of the most beneficial and necessary laws for the greater public.</item>
+                        
+                        <fw>Page 18</fw>
+                        <item>4. These are some of the injustices imposed to the People of the E.U. that were mentioned in the Declaration of Independence.</item>
+                    </list></p>
+                    
+                    <p>The king made the judges responsible before him only for their time in office as well as for the total of their wages, so that the people of the states didn't have anything to say about their own
+                     
+                        <pb facs="shan_d.017.jpg"/>    
+                    
+                        <fw>Page 18 continued here</fw>
+                        
+                        Court, </p>
+                    
+                    <p>The native armies in the country started war without the consent of the States.</p> 
+                    <p>He suspended the trade with other countries of the world so that they could deal only with Great Britain. This caused great disruption to the country.</p> 
+                    <p>He declared that only he had the ability to make the state laws.</p>
+                    <p>He imposed taxes without the People’s consent.</p>
+                    <p>Many other committed abuses and injustices are cited in this famous declaration. The Declaration of Independence also states that the People of the U.S. has asked, with the greatest humility, to be exempt from these injustices, but the only answer that they have received is new affronts. For that reason, he had nothing else to do but to free the states from their ties to the English Crown. Here is the noble declaration that the representatives of the U.S made in the Continental Congress:</p>
+                    <p>“Therefore, we, the Representatives of the united States of America, in General Assembly, appealing to the Supreme Judge of the World for the rectitude of our intentions, do, in the Name, and by Authority of the good People of these united Colonies are and of Right ought to be Free and Independent States; that they are Absolved from all Allegiance to the British Crown, and that all political connection between them and the
+                    
+                    <fw>Page 19</fw>
+                    
+                    State of Great Britain is and ought to be totally dissolved; and that as Free and Independent States, they have full Power to levy War, conclude Peace, contract Alliances, establish Commerce, and to do all other Acts and Things which Independent States have the right to do. And for the support of this Declaration, with a firm reliance on the protection of divine Providence, we mutually pledge to each other our Lives, our Fortunes and our sacred Honor.[”]</p>
+                    <p>All the fifty-six members of Congress signed the Declaration of Independence</p>
+                    <p>All men are free as children of God, thus they are equal and are endowed with
+                        
+                        <pb facs="shan_d.018.jpg"/>
+                        
+                        <fw>Page 19</fw> 
+                    
+                    dignity and human rights that no government shall usurp from them.Since all are sons of the same Creator, they are also siblings and should care and respect one another.</p>
+                
+                </div2>
+                
+                <div2 type="section">
+                    
+                    <pb facs="shan_d.020.jpg"/>  
+                    
+                    <fw>Page 20</fw> 
+                    
+                    <head>Cradle of Independence</head> 
+                    
+                    <p> There is a simple, very old brick building, topped with a tower, on Chestnut Street of the city of Philadelphia, state of Pennsylvania. In there, George Washington was designated commander and chief of the military that fought in the War of Independence and that obtained the victory. The Declaration of Independence was signed in this same site. Its commandments were read on its stairs. [Our] ancestors created and also constituted the Charter of Rights that governs us, this is, the Constitution of the U.S.A. In that same building you can see the Liberty Bell that announced the commission of independence to the world. This historical house is a revered shrine by all North Americans.</p> 
+                
+                </div2>
+                
+                <div2 type="section">  
+                    
+                    <fw>Page 21</fw>
+                    
+                    <head>The Flag of the United States</head>
+                    
+                    <p>The U.S. flag, [which] is sometimes called The Stars and Stripes, [has] red and six white stripes that represent the thirteen original states. It has a blue background with forty-eight stars that represent forty-eight states that are part of the republic.</p>
+                    <p>[“]We have taken the stars and the blue from the sky, and the red we took from our homeland, separating it with white stripes to show that we separated from it. The white stripes will always represent freedom,” said George Washington talking about the flag that he himself helped design for the nation. Even before the Declaration of Independence was signed this flag had been already projected [and] it was accepted by the Congress of the U.S. on July 4th, 1777, by the following statement:</p>
+                    <p>A new constellation had been born and all its faith and hopes are symbolized in its flag. Because of this, everyone has to pay attention and salute the flag when it passes in procession or a revision.</p>
+                    <p>Men shall take off their hats, women shall put their right hand over their heart, and those wearing a uniform shall salute it raising their right hand towards their kepi. Just like there are courtesy and etiquette rules for people, there are also rules to honor our country and defend its ideals. Old, torn or dirty flags should be burnt and never be abandoned or use them in any other
+                     
+                        <pb facs="shan_d.022.jpg"/>  
+                        
+                        <fw>Page 22</fw>
+                        disrespectful manner. Never let the flag touch the ground and make sure that it is always flapping and free. And never use it as a pending or decoration. The flag should always be occupying the honorable position: on the right of the marching line or in front of any flags in a procession, to the right of a public speaker when it is displayed in a stand or when it faces the auditorium, to the right of the auditorium when raised at the same level. The flag should be flown at half-mast as a sign of mourning. For this purpose, first, the flag has to be raised to the top of the flagpole for a moment, and, then, lowered to the middle of it.</p>
+                    <p>The flag should never be unfolded except between sunrise and sunset. It flaps over the U.S. Capitol continuously and it is not lowered except when it has to be replaced with a new one. It also flaps over any of the chambers when the Congress is in session, and in the White House when the president is in. It can remain hoisted at all hours in time of war. This flag is the symbol of Liberty, Justice, and Equality opportunity for all men, women, and children. The flag is often and fondly called “Old Glory.”</p>
+                    <p>What authority adopted the flag as official symbol of our country? (National Congress)</p>
+                    <p>When was the flag adopted? (1777)</p>
+                    <p>Can you describe the flag?</p>
+                    <p>How do you salute the flag?</p>
+                    <p>What are the ideals defined by the flag? (symbols liberty and faith)</p>
+                    
+                    <fw>Page 23</fw>
+                    
+                    <div3 type="subsection">
+                    
+                        <head>Warnings</head>
+                        
+                        <list rend="simple">
+                            <item>1. Do not allow anyone disrespect the Flag of the U.S.A.</item>
+                            <item>2. Do not salute anyone or anything with the Flag of the U.S.A., the Flag of the regiments of the states, or of the institutions that have to perform those honors.</item>
+                            <item>3. The Flag should never be displayed with the union down, except in signal of dire disaster.</item>
+                            <item>4. No other flag should be placed above the Flag or at the same level to the right of the Flag of the U.S.A.</item>
+                            <item>5. Never let the Flag touch the ground or drag it in water.</item>
+                            
+                            <pb facs="shan_d.024.jpg"/> 
+                            
+                            <item>6. Do not place any object or emblem over the U.S.A Flag.</item>
+                            <item>7. Never use the Flag for decoration; instead, use the general colors blue, white, and red.</item>
+                            <item>8. Do not tie the Flag in a way that might tear it.</item>
+                            <item>9. Do not display the Flag over the hood nor over the sides or other parts of these vehicles nor over trains or boats. When the flag is displayed in an automobile, the shaft should be secured firmly in the radiator carp or on the windshield.</item>
+                            <item>10. Do not display the Flag in an allegorical carriage or unless hoisted on a pole.</item>
+                            <item>11. Do not use the Flag extended horizontally, but always aloft and free.</item>
+                            <item>12. Never use the Flag as part of a costume or sport uniform.</item>
+                            <item>13. Never engrave letters over the Flag.</item>
+                            <item>14. Never use the Flag for advertising or place any poster in posts where the Flag is hoisted.</item>
+                            <item>15. Never display or use a Flag in a way that could get dirty or get damaged easily. The Flag should be burned when the flag has been worn out or is dirty.</item>
+                            
+                        </list>             
+                    </div3>
+                    
+                </div2>
+                
+                <pb facs="shan_d.026.jpg"/>
+                
+                <div2 type="section">
+                    
+                    <fw>Page 25</fw>
+                    
+                    <head>The coat of arms of the U.S.A.</head>
+                    
+                    <p>On signing the Declaration of Independence on July 4, 1776, John Hancock, president of the Continental Congress, said: “Now that we are a nation, I would like to know your opinion over the following [issue]: Be it resolved, that Dr. Franklin, and Mr. Thomas Jefferson and Mr. John Adams set up a commission in charge of creating a model for the coat of arms of the U.S.A.[”] This great seal has the date in which it was authorized stamped, the 4th of July, 1776. It has thirteen stripes that represent the 13 states originally represented in Congress. The eagle with an olive branch in the right claw 
+                    
+                        <fw>Pass to page 26</fw> 
+                        and a bundle with thirteen arrows on the left symbolizes that the U.S. prefer peace but are still prepared for war. In the beak, [the eagle] clutches a scroll with the motto “E Pluribus Unum” that means “Strength through Unity,” this is, that the government is formed by many states. 
+                        This is the motto of the U.S.A. The thirteen-star declaration constellation that forms on the clouds at the top symbolizes the birth of a new nation. On the reverse, there is an incomplete pyramid with an eye that oversees everything, [and] with the words “Annuit Coeptis” – “He has favored our agreement”. The date of July 4, 1776 is on the base of the pyramid and the motto “Novus Ordo Seclorum”, [that means] “A new order of the ages,” is underneath. This is how a nation started under the protection of the divine providence. This seal is on all official documents. It symbolizes the nation's faith.</p>
+                </div2>
+                
+                <div2 type="section">
+                    
+                    <fw>page 27</fw>
+                    
+                    <head>The Government of the United States, The Constitution</head>
+                    <p>During the Independence War, the new nation formed an association controlled by the so-called Articles of Confederation. The states continued to be represented by an assembly of citizens called Continental Congress. Once the war was over, they realized that this form of government was too weak. The states were not truly united. Every one of them aspired to exercise a great power. Their efforts were not united: Each of them had their own coin and their own laws regarding their trade with other states,
+                    
+                    <pb facs="shan_d.028.jpg"/>
+                        
+                        <fw>Continues on page 27</fw> 
+                        which resulted in great confusion.</p>
+                    
+                    <p>The new nation needed money to cover the costs of the military and the army as well as to pay the debt contracted during the war. The Congress <del type="overstrike">did not have the authority to obligate states to pay their respective share of this debt</del>. Given that the nation did not have a government, this is, they didn't have a president in Congress did not have the authority to obligate states to pay their respective share of these debts, they could pass laws but they could not implement them. </p>
+                    <p>The leaders of the new country understood that they needed a constitution, this is, a basis for a government. In the summer of 1787, a convention that had George Washington as president met in the city of Philadelphia. Among some of the very well known people that were in the meeting we find Robert Morris, James Madison, and Alexander Hamilton.</p>
+                    <p>The convention was held in the same room in which the Continental Congress had adopted the Declaration of Independence in 1779. During that scalding summer, the representatives worked incessantly to form a supreme law for the nation. All of them made the case for unity. Though George Washington said little, his influence was very powerful. Once, when
+                    
+                        <fw>Continues on page 28</fw> 
+                        the delegates could not come to an agreement, General Washington entered the discussion. Very few speeches have been so significant [as his]:</p>
+                    <p>[“]If we were to offer the People what we ourselves censor in order to to please them, how could we later on defend our work? Let's set a norm that the experts and the honorable men can use to correct mistakes; the issue is in God's hands[.”] That is how the Constitution, the most notable document in the Government's history, was born.</p>
+                    <p>The document was completed on September 17, 1787, but nine of the thirteen states had to ratify it before it could become a national fundamental law. Finally, on March 4, 1789 we had our Constitution. The introductory paragraph is called the Preamble as it expresses the reasons why the Constitution was necessary.</p>
+                    
+                    <pb facs="shan_d.030.jpg"/>
+                    
+                    <fw>On the same page 28</fw>
+                    
+                    <div3 type="subsection">
+                        
+                        <head>The Preamble</head>
+                        
+                        <p>[“]We, the People of the U.S.A., in order to form a more perfect Union, to establish Justice, to insure domestic Tranquility, to provide for the common defence, to promote the general Welfare, and to secure the Blessings of Liberty to ourselves and our Posterity, do ordain and establish this Constitution for the U.S.A.[.”]</p>
+                        
+                    </div3>
+                    
+                </div2>
+                
+                <div2>
+                    
+                <p>Let's study now every one of the parts of the Preamble: “We the people of the U.S.” We formed our <del type="overstrike">country</del> own government, we hold the power, we sanctioned this Constitution as the national fundamental law in order to create a more perfect union. This is a union of forty-eight independent states today.</p>
+                
+                    <fw>Continues on page 29</fw>     
+                    
+                    <p>It has been in place for a span of 150 years and it holds authority of immense value for the people. The North American people were so determined to maintain this unity that they fought a war to stop its division. “To establish Justice” In our country everyone is equal before the law. Everyone has to respect it. We have the Court of Law to protect the innocent, to punish the guilty, and to help the people to address their differences through just and orderly laws. “To insure domestic Tranquility” This is to maintain peace in the country, and to ensure “the means to insure it, the Constitution guarantees domestic peace. To attend the common defense.” 
+                        According to the Constitution our government supports an army and a navy to defend the country. Congress is the only authority that has the ability to declare war. The president of the Republic is the Commander in Chief of the army and navy. Today we also have the Air Force, and with both weapons the U.S. now hold a powerful defense. 
+                        “To promote the general Welfare” The general welfare means the common happiness of the people of the U.S. without distinction of race, color, or religion. 
+                        [“] To secure the Blessings of Liberty to ourselves and our Posterity.” </p>
+                
+                </div2>
+                        
+                        
+                
+                
         
         </body>
         
