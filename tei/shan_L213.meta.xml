@@ -159,10 +159,10 @@
 
 <p>muchos saludes á todos;</p>
 
-<p>tambien te queria preguntar, tus muchachos ban á benir á besitarte ó no platícame algo de eyos. recibe saludes de Max y de Jess, y de mí tu mama,</p>
+<p>tambien te queria preguntar, tus muchachos ban á benir á besitarte ó no platícame algo de eyos. </p>
 
 <closer>
-<salute>tu Bedícíon;</salute>                    
+ <salute>recibe saludes de Max y de Jess, y de mí tu mama, tu Bedícíon;</salute>                    
 <signed>Jesusíta Torres</signed>
 </closer>
                 
@@ -202,6 +202,36 @@ AM<lb/>
 </figure>
 
 </div1>
+
+
+<div1 type="letter" xml:lang="en">
+ 
+ <pb facs="shan_l.742.jpg"/>
+ 
+ <opener>
+  <address><addrLine>Fort Lupton, Colorado</addrLine></address>
+  <dateline>December 8, 1971-</dateline>
+  
+  <salute>Dear daughter,</salute>
+ </opener>
+
+ <p>I am writing you these lines to greet both you and your husband and
+  family, and to tell you that we are well, thank God.</p>
+ <p>I will tell you that one of Helena’s brother died. It was about a month ago. I don’t
+  know if Jess wrote to you or not. Well, I’ll tell you that it’s very cold here.</p>
+ <p>I’m sending you these 20 dollars as your Christmas gift. Write to me or call me on
+  the phone, for Christmas. This will be all for now.</p>
+ <p>Many regards for everyone.</p>
+ <p>I also wanted to ask you, are your kids coming to visit you or not? Tell me something
+  about them.</p>
+ 
+ <closer>
+  <salute>Receive regards from Max and Jess, and from me, your mom, a blessing.</salute>                    
+  <signed>Jesusíta Torres</signed>
+ </closer>
+ 
+</div1> 
+ 
 </body>
         
 <back></back>
