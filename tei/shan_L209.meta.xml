@@ -151,15 +151,14 @@
 <salute>Querida hija mía,</salute>
 </opener>
                 
-<p>la precente es para Saludarte tanto á <add>ti</add> como á Bill, y á todos los demas muchachos. Siempre esperando que esten bíen especialmente á ti, que hoy 1 Novem es día de tu Santo; Happy Birthday te deceamos todos nosotros; pues te dire que yo estoy bíen Gracias á Diosito que es tan bueno; pues te platicare que sé me abía olvidado que oy es día de tu; Santo; y como estoy cuidando al Markl, pero aunque sea poquito tarde; pero nunca estarde para decírte que recibas muchas Felecidades de parte de Max y de Jess y family, y un fino recuerdo;</p>
+ <p>la precente es para Saludarte tanto á <add>ti</add> como á Bill, y á todos los demas muchachos. Siempre esperando que esten bíen especialmente á ti, que hoy 1 Novem es día de tu Santo; Happy Birthday te deceamos todos nosotros; pues te dire que yo estoy bíen Gracias á Diosito que es tan bueno; pues te platicare que sé me abía olvidado que oy es día de tu; Santo; y como estoy cuidando al Markl, pero aunque sea poquito tarde; pero nunca estarde para decírte que recibas muchas Felecidades de parte de Max y de Jess y family, y un fino recuerdo;de tu mamá;</p>
 
-<closer>
-<salute>de tu mamá;</salute>                    
+<closer>                  
 <signed>Jesusita Torres;</signed>
 </closer>
 
 <postscript>
-<p><label>P.S.</label> aque te mando estos $5,00</p>
+<p><label>P.S.</label>aque te mando estos $5,00</p>
 </postscript>
                 
 </div1>
@@ -197,6 +196,31 @@ AM<lb/>
 </figure>
 
 </div1>
+ 
+ <div1 type="letter" xml:lang="en">
+  
+  <pb facs="shan_l.723.jpg"/>
+  
+  <opener>
+   <address><addrLine>Ft. Lupton, Colorado</addrLine></address>
+   <dateline>November 1, 1966</dateline>
+   
+   <salute>Dear daughter of mine,</salute>
+  </opener>
+  
+  <p>the present is to greet both you and Bill, and all the kids. I am always hoping that you are doing well, in particular you, that today November 1 is your saint’s day [birthday] We all wish you a Happy Birthday. Well, I will tell you that I am doing well, thank God, who is so good. Well, I will tell you that I had forgotten that your Birthday was today. And since I’m looking after Markl, although it is a bit late, it’s never too late to send you many Birthday wishes from Max and Jess and family, and a fine regards from your mom.</p>
+ 
+  <closer>                 
+   <signed>Jesusita Torres;</signed>
+  </closer>
+  
+  <postscript>
+   <p><label>P.D.</label>I’m sending you $5,00 here.</p>
+  </postscript>
+  
+</div1>
+ 
+ 
 </body>
         
 <back></back>
