@@ -212,6 +212,14 @@
         <sex>male</sex>
     </person>
     
+    <!-- Mrs. Anderson -->
+    <person xml:id="a002">
+        <persName type="display">Mrs. Anderson</persName>
+        <persName type="facet">Anderson, Mrs.</persName>
+        <persName type="full"><surname xml:lang="es">Anderson</surname><roleName type="honorific">Mrs.</roleName></persName>
+        <sex>female</sex>
+    </person>
+    
     <!-- Camilo Arellano -->
     <person xml:id="ca002">
         <persName type="display">Camilo Arellano</persName>
@@ -231,6 +239,13 @@
         <nationality source="Shanahan Collection">Mexican</nationality>
         <residence source="Shanahan Collection">Juchipila</residence>
         <sex>male</sex>
+    </person>
+    
+    <!-- Arroyo -->
+    <person xml:id="a003">
+        <persName type="display">Arroyo</persName>
+        <persName type="facet">Arroyo</persName>
+        <persName type="full"><surname xml:lang="es">Arroyo</surname></persName>
     </person>
     
     <!-- S. S. Arroyo-->
@@ -429,6 +444,17 @@
     <!-- Jesusita Baros Torres -->
     <person xml:id="jbt001">
         <persName type="display">Jesusita Baros Torres</persName>
+        <note xml:lang="en">Born in Jalpa, Zacatecas, Mexico on July 15, 1896, Livoria Flemate spent her childhood and part of her adulthood in Juchipila. Shortly after the Mexican Revolution started, she married Fernando Samaniego in 1912 and had their first son, Nemecio, in 1913. They had their second son, José Jesús, in 1915. In the same town, years later, Jesusita had a third child, daughter Santos (1921), with José Lara and last son, Jess Jesús (1924), with Benjamin López. 
+            Between 1928 and 1929 Jesusita migrated from Juchipila to the United States. She took her two youngest children with her, without documents, and with no knowledge of English. In the following decades she went on to build a life for her family first in New Mexico and Wyoming, to finally settle in Colorado. Here, she lived with Maximino Torres. Together, renting rooms, they helped other immigrants that arrived in town during different picking seasons. 
+            During all this time, she kept in touch with her family through letters. In 1965, for the first time after she left her country, Jesusita was able to visit her two eldest sons and her brother Demetrio in Juchipila. She died in February 10, 1976 in Fort Lupton.
+            At some point, and at least by 1934, Livoria Flemate had changed her name to Jesusita and her and her childrens’ last name to Baros. In Albuquerque, New Mexico, she signed as Jesusita Rodrigues in school records. By 1943 she was also using her partner’s last name and was now Jesusita Baros Torres. She was only referred to as Livoria by her family back in Mexico, only in the privacy of the letters. 
+        </note>
+        <note xml:lang="es">
+            Nacida en Jalpa, Zacatecas, México el 15 de julio de 1896, Livoria Flemate vivió en Juchipila con su familia. En 1912, poco después del comienzo de la Revolución Mexicana, se casó con Fernando Samaniego y tuvieron a su primer hijo, Nemecio, en 1913. Tuvieron a su segundo hijo, José Jesús, en 1915. En el mismo pueblo, unos años más tarde, Jesusita tuvo a su hija Santos con José Lara en 1921 y a su hijo menor, Jess Jesús, con Benjamín López en 1924. 
+            Entre 1928 y 1929 o incluso antes, Jesusita migró de Juchipila a los Estados Unidos. Lo hizo con sus dos hijos menores, sin documentos y sin saber inglés. En las décadas que siguen construyó una vida para su familia primero en Albuquerque, Nuevo México y después en Fort Lupton, Colorado. Aquí vivió con Maximino Torres. Juntos, rentando habitaciones, ayudaron a otros inmigrantes que llegaban al pueblo durante las diferentes temporadas de cosecha. 
+            Durante todo este tiempo, Jesusita estuvo en contacto con su familia por carta. En 1965, por primera vez desde que dejó su país, Jesusita pudo visitar a sus dos hijos mayores y a su hermano Demetrio en Juchipila. Murió el 10 de febrero de 1976 en Fort Lupton. 
+            En algún momento, al menos para 1934, Livoria Flemate se había cambiado el nombre a Jesusita y su apellido y el de sus hijos a Baros. En Albuquerque, Nuevo México, firmó como Jesusita Rodrigues en los expedientes escolares. Para 1943 estaba usando también el apellido de su pareja, siendo ahora Jesusita Baros Torres. Sólo su familia en México se volvió a referir a ella como Livoria y únicamente en la privacidad de las cartas.
+        </note>
         <persName type="facet">Baros Torres, Jesusita</persName>
         <persName type="full"> <surname type="paternal " xml:lang="es">Flemate</surname>, <forename type="given" full="yes" xml:lang="es">Livoria</forename></persName>
         <persName type="full"> <surname type="paternal " xml:lang="es">Flemate</surname>, <forename type="variation" full="yes" xml:lang="es">Eliboria</forename></persName>
@@ -437,7 +463,7 @@
         <persName type="full"> <surname type="paternal" xml:lang="es">Flemate</surname> <surname type="unknown" xml:lang="es">Baros</surname>, <forename type="chosen" full="yes" xml:lang="es">Jesusita</forename></persName> <!-- D6 -->
         <persName type="full"> <surname type="unknown" xml:lang="es">Baros</surname> <surname type="marital" xml:lang="es">Torres</surname>, <forename type="chosen" full="yes" xml:lang="es">Jesusita</forename></persName>
         <persName type="full" when="1976-02-10"> <surname type="paternal " xml:lang="es">F.</surname> <surname type="marital" xml:lang="es">Torres</surname>, <forename type="chosen" full="yes" xml:lang="es"> Jesusita</forename></persName>
-        <persName type="full"> <surname type="unknown" xml:lang="es">Baros</surname> <surname type="marital" xml:lang="es">Torres</surname>, <roleName type="honorific">Mrs.</roleName> <forename type="marital">Max</forename> <forename type="chosen" xml:lang="es">Jesusita</forename> </persName>
+        <persName type="full"> <surname type="unknown" xml:lang="es">Baros</surname> <surname type="marital" xml:lang="es">Torres</surname>, <roleName type="honorific">Mrs.</roleName><forename type="marital">Max</forename> <forename type="chosen" xml:lang="es">Jesusita</forename> </persName>
         <persName type="full"> <surname type="marital">Torres</surname>, <roleName type="honorific">Mrs.</roleName></persName>
         <persName type="full" when="1928"> <surname type="unknown" xml:lang="es">Rodriguez</surname>, <forename type="chosen" full="yes" xml:lang="es">Jesusita</forename> </persName> <!-- D91 -->
         <birth when="1896-07-15" source="Shanahan Collection">July 15, 1896</birth> <!-- D142 -->
@@ -449,6 +475,22 @@
         <residence source="Shanahan Collection">Juchipila, Mexico</residence>
         <residence source="Shanahan Collection" >Albuquerque (NM)</residence> <!-- I could add a notBefore for a chronological order notBefore, from the letters and Documents -->
         <residence source="Shanahan Collection">Fort Lupton (CO)</residence>
+        <sex>female</sex>
+    </person>
+    
+    <!-- Ascensión Beltrán -->
+    <person xml:id="ab001">
+        <persName type="display">Ascensión Beltrán</persName>
+        <persName type="facet">Beltrán, Ascensión</persName>
+        <persName type="full"><surname type="paternal " xml:lang="es">Beltrán</surname>,<forename type="first" xml:lang="es">Ascensión</forename></persName>
+        <sex>female</sex>
+    </person>
+    
+    <!-- Gloria Botello -->
+    <person xml:id="gjb001">
+        <persName type="display">Gloria Botello</persName>
+        <persName type="facet">Botello, Gloria</persName>
+        <persName type="full"><surname type="paternal " xml:lang="es">Botello</surname>,<forename type="first" xml:lang="es">Gloria</forename></persName>
         <sex>female</sex>
     </person>
     
@@ -724,7 +766,7 @@
     <person xml:id="mjh001">
         <persName type="display">María Juana Hernández</persName>
         <persName type="facet">Hernández, María Juana</persName>
-        <persName type="full"><surname type="paternal " xml:lang="es">Hernández</surname>, <forename type="first" xml:lang="en">María Juana</forename></persName>
+        <persName type="full"><surname type="paternal " xml:lang="es">Hernández</surname>, <forename type="first" xml:lang="es">María Juana</forename></persName>
         <sex>female</sex>
     </person>
     
@@ -1424,6 +1466,14 @@
         <sex>male</sex>
     </person>
     
+    <!-- L. Villanueva -->
+    <person xml:id="lv001">
+        <persName type="display">L. Villanueva</persName>
+        <persName type="facet">Villanueva, L.</persName>
+        <persName type="full"><surname type="paternal " xml:lang="es">Villanueva</surname>, <forename type="first" xml:lang="es">L.</forename></persName>
+        <sex>male</sex>
+    </person>
+    
     <!-- Mercedes Villarreal -->
     <person xml:id="mv001">
         <persName type="display">Mercedes Villarreal</persName>
@@ -1466,6 +1516,10 @@
     <person xml:id="af"> 
         <persName type="display">Adoni A. Faxas</persName>
         <persName type="facet">Faxas, Adoni A.</persName>
+    </person>
+    <person xml:id="spg"> 
+        <persName type="display">Sarita Garcia</persName>
+        <persName type="facet">Garcia, Sarita</persName>
     </person>
     <person xml:id="bk"> 
         <persName type="display">Brenda López</persName>

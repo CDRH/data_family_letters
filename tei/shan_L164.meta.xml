@@ -159,7 +159,12 @@
 
 <salute>My Darling Sandra, Bill, Bobby, + Pamela</salute>
 </opener>
+<<<<<<< HEAD
 <p>Tonight I am working at a freight house was out most of the time until 1:30working around—am
+=======
+ 
+<p>Tonight I am working at a freight house was out most of the time until 1:30 working around—am
+>>>>>>> jennifer
 going out again in a few minutes as I am getting sleepy in here—It’s trying to rain but is above
 freezing so hope it doesn’t get cold and freeze like the other day.</p>
 
@@ -177,7 +182,11 @@ and stay up late watching the programs</p>
 
 <pb facs="shan_l.611.jpg"/>
 
+<<<<<<< HEAD
 <p>-2-</p>
+=======
+<fw>-2-</fw>
+>>>>>>> jennifer
 <p>Had a letter from Husfelt, my typist in Roswell, he got transferred in November to Topeka Kans.
 Likes it there a lot better than Walker. He said the <unclear reason="illegible"/> section sure went to pieces after I
 left.</p>
@@ -224,8 +233,49 @@ JAN 10<lb/>
 1953<lb/>
 </ab>
 
+<<<<<<< HEAD
 
 </div1>
+=======
+</div1>
+
+<div1 type="letter" xml:lang="es">
+  
+<pb facs="shan_l.610.jpg"/>
+  
+<opener>
+<address><addrLine>Berwyn, Illinois</addrLine></address>
+<dateline>January 10, 1953</dateline>
+<time>2:00AM</time>
+   
+<salute>Queridos Sandra, Bill, Bobby y Pamela:</salute>
+</opener>
+
+<p>Esta noche estoy trabajando en el almacén y estuve trabajando fuera casi todo el tiempo, hasta la 1:30 de la mañana – volveré a salir en algunos minutos porque aquí me estoy quedando dormido –parece que quiere llover, pero la temperatura está por encima del punto de congelación, así que espero que no haga tanto frío y no se congele como el otro día.</p>
+ 
+<p>Ojalá que puedas bautizar a Pamela este domingo aunque yo no pueda estar ahí. También tendremos que comprarle un seguro <add cert="high" resp="iv">de vida</add>. De una vez dberíamos comprarle cobertura por $1000 como tenemos para Billy y para Bobby. Nuestros cheques están en la oficina, pero yo voy a trabajar y me van a entregar el mío el domingo en la noche que trabaje donde está la oficina. Saldré de trabajar el lunes a las 7:30 de la mañana y te voy a traer acá porque me siento muy solo y te extraño mucho.</p>
+
+<p>Creo que mañana en la noche iré a ver la película “The Greatest Show On Earth.” La están dando en un cine de Berwyn. Solo la pasan el viernes, sábado y domingo. La televisión le está robando los clientes a los cines, supongo. La mayoría de la gente que tiene televisión dice que no sale de su casa y que se desvelan viendo los programas.</p>
+ 
+<p>Espero que todos estén bien – yo estoy bien, excepto por mi tos.</p> 
+
+<pb facs="shan_l.611.jpg"/>
+ 
+<fw>-2-</fw>
+
+<p>Recibí carta de Husfelt, mi mecanógrafo en Roswell. En noviembre lo transfirieron a Topeka, Kansas. Dice que le gusta mucho más que en Walker. Dice que la sección de <unclear reason="illegible"/> quedó hecha una desgracia después de que me fui.</p>
+
+ <p>Tengo que acostumbrarme a dormir durante el día porque no llego a casa antes de las 8:00. Hoy en la mañana voy a tomar un tren que salga temprano a Berwyn – Ayer en la mañana tuve que trabajar hasta tarde después de ir a trabajar 2 ½ <add cert="high" resp="iv">más</add> temprano para que el otro hombre pudiera enseñarme todo. Termino por ahora para reportarme a la oficina – Nos vemos</p>
+<p>Recuerda que te quiero mucho.</p>
+
+<closer>
+ <salute>Todo mi amor,</salute>                    
+<signed>Bill</signed>
+</closer> 
+ 
+</div1>
+
+>>>>>>> jennifer
 </body>
         
 <back></back>

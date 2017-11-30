@@ -162,11 +162,19 @@ Better take it easy for a while.</p>
 <p>We’re having nice weather. I went to town yesterday by myself. Did some shopping. I’m not
 thru yet.</p>
 <p>Yes, your Dad fixed the Xmas tree last night but I don’t like the shape of it. The branches aren’t
+<<<<<<< HEAD
 down. Anyway I’m going to wait till</p>
 
 <pb facs="shan_l.621.jpg"/>
 
 <p>You can come over. Then we can decorate it. No, don’t buy any kind of telephone. I’ve
+=======
+down. Anyway I’m going to wait till
+
+<pb facs="shan_l.621.jpg"/>
+
+You can come over. Then we can decorate it. No, don’t buy any kind of telephone. I’ve
+>>>>>>> jennifer
 something else for Dolores.</p>
 <p>Billy &amp; Dale are playing here. Making racket. They play ok.</p>
 <p>Helen &amp; Dale decorated their Christmas tree last night.</p>
@@ -185,6 +193,48 @@ month.</p>
 
 </div1>
 
+<<<<<<< HEAD
+=======
+<div1 type="letter" xml:lang="es">
+  
+<pb facs="shan_l.620.jpg"/>
+  
+<opener>
+<dateline>12 de diciembre de 1950</dateline>
+<salute>Querido Bill:</salute>
+</opener>
+
+<p>Ayer recibí dos cartas tuyas. Me preguntaba dónde estabas.</p>
+
+<p>Billy y yo estamos bien. Espero que ya te estés sintiendo mejor. Querido, si no puedes trabajar, regresa a casa. Es mejor que descanses un poco.</p>
+
+<p>Hemos tenido buen clima. Ayer fui al pueblo sola. Hice algunas compras. Todavía no termino.</p>
+
+<p>Sí, tu papá puso el árbol de navidad anoche, pero no me gustó. Las ramas no bajaron. De todas formas voy a esperar hasta que  
+ 
+<pb facs="shan_l.621.jpg"/>
+ 
+Tú puedas venir para decorarlo. No, no compres ningún teléfono. Tengo otra cosa para Dolores.</p>
+ 
+<p>Billy y Dale están jugando junto a mí y están haciendo un escándalo. Juegan bien juntos.</p> 
+
+<p>Helen y Dale decoraron su árbol de navidad anoche.</p>
+
+<p>Helen y yo fuimos al cine el domingo y llevamos a los niños. No me gustó nada la película. Por favor no le mandes dinero al sargento Ruth. Escríbele y dile que le enviarás algo el mes próximo. </p>
+
+<p>Estamos bien, así que no te preocupes por nosotros. Tengo que ir a hacer la cena.</p>
+
+<closer>
+<salute>Con cariño,</salute>                    
+<signed>Sandra.</signed>
+</closer>
+ 
+<postscript><p>Billy dice que ‘el árbol no está decorado y que Pa lo cortó”, y que anoche envolvimos regalos. </p>
+<p>Te amamos, Bill.</p></postscript>
+ 
+</div1>
+
+>>>>>>> jennifer
 </body>
         
 <back></back>
