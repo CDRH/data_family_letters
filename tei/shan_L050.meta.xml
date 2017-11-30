@@ -5,14 +5,15 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from Guadalupe Flemate Medrano to Sandra B. Schubert, July 26, 1957</title>
-<title type="main">Carta de Guadalupe Flemate Medrano a Sandra B. Schubert, 26 de julio, 1957</title>
-<author>Medrano, Guadalupe Flemate </author>
+<title type="main">Letter from Guadalupe Flemate Medrano to Santos Baros Schubert, July 26, 1957</title>
+<title type="main">Carta de Guadalupe Flemate Medrano a Santos Baros Schubert, 26 de julio, 1957</title>
+<author>Flemate Medrano, Guadalupe</author>
 <principal xml:id="iv001">Velázquez, Isabel</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name xml:id="jda">Avelar, Janette D.</name>
 <name xml:id="km">Mendell, Kate</name>
+<name xml:id="sbg">Garcia, Sarita B.</name>
 </respStmt>
 </titleStmt>
 <editionStmt>
@@ -48,8 +49,8 @@
             
 <sourceDesc>
 <bibl>
-<author>Guadalupe Flemate Medrano</author>
-<title level="m" type="main">Letter from Guadalupe Flemate Medrano to Sandra B. Schubert</title>
+<author>Flemate Medrano, Guadalupe</author>
+<title level="m" type="main">Letter from Guadalupe Flemate Medrano to Santos Baros Schubert</title>
 <date when="1957-07-26">July 26, 1957</date>
 <extent>2 pages and envelope</extent>
 </bibl>
@@ -120,14 +121,21 @@
 <term></term>
 </keywords>
 </textClass>
-<particDesc>
-<person role="sender" xml:id="gf001">
-<persName>Guadalupe Flemate Medrano</persName>
-</person>
-<person role="recipient" xml:id="sbs002">
-<persName>Sandra B. Schubert</persName>
-</person>
-</particDesc>
+<correspDesc>
+<correspAction type="sentBy">
+<persName xml:id="gf002">Flemate Medrano, Guadalupe</persName>
+<placeName></placeName>
+<date type="written" when="1957-07-26"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="sbs001">Baros Schubert, Santos</persName>
+<placeName></placeName>
+</correspAction>
+<correspContext>
+<ref type="prev" target="shan">Letter from x to y, date</ref>
+<ref type="next" target="shan">Letter from x to y, date</ref>
+</correspContext> 
+</correspDesc>
 </profileDesc>
         
 <revisionDesc>
@@ -140,7 +148,7 @@
 <text>
 <body>
             
-<div1 type="letter">
+<div1 type="letter" xml:lang="es">
                 
 <pb facs="shan_l.246.jpg"/>
                 
@@ -199,6 +207,48 @@ ZAC.<lb/>
 </ab>
 
 </div1>
+
+<div1 type="letter" xml:lang="en">
+                
+<pb facs="shan_l.246.jpg"/>
+                
+<opener>
+<address><addrLine>juchipila July 26 1957</addrLine></address>
+
+<salute>Mrs Sandra B. Schubert</salute>
+</opener>
+
+<p>My dear cousin, I send you this letter even though I haven’t had the honor of meeting you. I want to tell you that I beg God to heal me, because</p>
+
+<p>I’m ill in my development [There’s
+something wrong with my development?]. I think that that’s not it, I think there are other
+things wrong, because I feel a lot of things. The doctors say that I need a lot of care, and
+they have seen me [healed me?] but I don’t heal [haven’t received medical attention]
+because my dad can’t afford it. We are many and my dad spends a lot to feed us, because
+everything is very expensive. We barely have enough to eat and I sometimes feel sad
+because I don’t know what to do because I’m ill and now my dad is so far behind [in his
+financial obligations?] and has also been ill. I also tell you to please send me the portrait of
+the babies, so that I can see them [meet them?]. Don’t forget to send it so I can see them. I’m
+staring fourth grade and I don’t have money to buy my books or the school supplies I need
+
+<pb facs="shan_l.247.jpg"/>
+
+I would like, even though it’s embarrassing to tell you, but I set that embarrassment to the
+side, I would like to ask you to help me with something [some money] to have everything
+ready before I start [school]</p>
+
+<closer>                  
+<salute>Receive regards from all my siblings, from Candi and Lily, and from Chedez and Josecito, and from my mom</salute>  
+
+<add>and my dad, and from me receive the finest regards</add>
+
+<signed>from Guadalupe Flemate Medrano</signed>
+</closer>
+
+<postscript><p>Answer me soon, don’t forget</p></postscript>
+                
+</div1>
+
 </body>
         
 <back></back>

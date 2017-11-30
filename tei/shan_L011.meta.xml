@@ -5,14 +5,15 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from Unknown to Jesusita Baros, August 29, 1937</title>
-<title type="main">Carta de Desconocido a Jesusita Baros, 29 de agosto, 1937</title>
+<title type="main">Letter from Unknown to Jesusita Baros Torres, August 29, 1937</title>
+<title type="main">Carta de Desconocido a Jesusita Baros Torres, 29 de agosto, 1937</title>
 <author>Unknown</author>
 <principal xml:id="iv001">Velázquez, Isabel</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name xml:id="jda">Avelar, Janette D.</name>
 <name xml:id="iv002">Velázquez, Isabel</name>
+<name xml:id="sbg">Garcia, Sarita B.</name>
 </respStmt>
 </titleStmt>
 <editionStmt>
@@ -49,7 +50,7 @@
 <sourceDesc>
 <bibl>
 <author>Unknown</author>
-<title level="m" type="main">Letter from Unknown to Jesusita Baros</title>
+<title level="m" type="main">Letter from Unknown to Jesusita Baros Torres</title>
 <date when="1937-08-29">August 29, 1937</date>
 <extent>4 pages and envelope</extent>
 </bibl>
@@ -120,14 +121,22 @@
 <term></term>
 </keywords>
 </textClass>
-<particDesc>
-<person role="sender" xml:id="u001">
-<persName>Unknown</persName>
-</person>
-<person role="recipient" xml:id="jbt001">
-<persName>Jesusita Baros Torres</persName>
-</person>
-</particDesc>
+<correspDesc>
+<correspAction type="sentBy">
+<persName xml:id="u001">Unknown</persName>
+<placeName></placeName>
+<date type="written" when="1937-08-29"/>
+<date type="postmarked" when="1937-08-29"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="jbt001">Baros Torres, Jesusita</persName>
+<placeName></placeName>
+</correspAction>
+<correspContext>
+<ref type="prev" target="shan">Letter from x to y, date</ref>
+<ref type="next" target="shan">Letter from x to y, date</ref>
+</correspContext> 
+</correspDesc>
 </profileDesc>
         
 <revisionDesc>
@@ -140,7 +149,7 @@
 <text>
 <body>
             
-<div1 type="letter">
+<div1 type="letter" xml:lang="es">
                 
 <pb facs="shan_l.064.jpg"/>
                 
@@ -205,6 +214,43 @@ TRANS. <unclear reason="illegible"/><lb/>
 <p></p>
 </figure>
 
+</div1>
+
+<div1 type="letter" xml:lang="en">
+                
+<pb facs="shan_l.064.jpg"/>
+                
+<opener>
+<address><addrLine>Albuquerque N. Mex</addrLine></address>
+<dateline>Aug.29.1937.</dateline>
+<salute>Mrs. Jesusita Baros</salute>
+</opener>
+                
+<p>I received your letter dated 17 <unclear reason="torn"/></p>
+
+<pb facs="shan_l.065.jpg"/>
+
+<fw>2</fw>
+
+<p>And you left me <app loc="1"><rdg>you told me</rdg></app> <certainty locus="name" cert="low"/> alone <certainty locus="name" cert="high"><desc>only,</desc></certainty> or it might be</p>
+
+<p><unclear reason="illegible"/>whom I told you</p>
+
+<pb facs="shan_l.066.jpg"/>
+
+<p>that you are not alone. Now, I don’t know if you want to see <certainty locus="name" cert="low"><desc>hemus</desc></certainty>at the depot or not. To tell <add resp="iv001">him/her</add> to go <add resp="iv001">that he/she will go</add> to your house I don’t know for
+sure <certainty locus="name" cert="low"/> they are thinking of going on the 3rd . Well, the house is as it was, without news
+<certainty locus="name" cert="low"/> to rent <certainty locus="name" cert="low"/></p>
+
+<pb facs="shan_l.067.jpg"/>
+
+<p>J and Santos may one day remember that they have an uncle in Albuquerque and you receive his heart <add resp="iv001">the heart of</add> him, black and skinny from Albuquerque who doesn’t forget you for a moment it’s been three 15 days since you left at 310 in the afternoon
+May.14.310 pm </p>
+
+<closer>                    
+<signed></signed>
+</closer>
+                
 </div1>
 </body>
         

@@ -5,15 +5,16 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from Mrs. C. E. Parrish to Mr and Mrs. W.F. Schubert, January 6, 1958</title>
-<title type="main">Carta de la Sra. C. E. Parrish a Sr. y Sra. W.F. Schubert, 6 de enero, 1958</title>
-<author>Mrs. C. E. Parrish</author>
+<title type="main">Letter from Mrs. C. E. Parrish to William F. Schubert and Santos Baros Schubert, January 5, 1958</title>
+<title type="main">Carta de la Sra. C. E. Parrish a William F. Schubert y Santos Baros Schubert, 5 de enero, 1958</title>
+<author>Parrish, Mrs. C. E.</author>
 <principal xml:id="iv001">Velázquez, Isabel</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name xml:id="jda">Avelar, Janette D.</name>
 <name xml:id="af">Faxas, Adoni A.</name>
 <name xml:id="iv002">Velázquez, Isabel</name>
+<name xml:id="sbg">Garcia, Sarita B.</name>
 </respStmt>
 </titleStmt>
 <editionStmt>
@@ -49,9 +50,9 @@
             
 <sourceDesc>
 <bibl>
-<author>Mrs. C. E. Parrish</author>
-<title level="m" type="main">Letter from Mrs. C. E. Parrish to Mr. and Mrs. W.F. Schubert</title>
-<date when="1958-01-06">January 6, 1958</date>
+<author>Parrish, Mrs. C. E.</author>
+<title level="m" type="main">Letter from Mrs. C. E. Parrish to William F. Schubert and Santos Baros Schubert</title>
+<date when="1958-01-06">January 5, 1958</date>
 <extent>2 pages and envelope</extent>
 </bibl>
 <msDesc>
@@ -121,17 +122,23 @@
 <term></term>
 </keywords>
 </textClass>
-<particDesc>
-<person role="sender" xml:id="cep001">
-<persName>Mrs. C. E. Parrish</persName>
-</person>
-<person role="recipient" xml:id="sbs001">
-<persName>Mrs. W.B. Schubert</persName>
-</person>
-<person role="recipient" xml:id="wbs002">
-<persName>Mr. W.B. Schubert</persName>
-</person>
-</particDesc>
+<correspDesc>
+<correspAction type="sentBy">
+<persName xml:id="cep">Parrish, Mrs. C. E.</persName>
+<placeName></placeName>
+<date type="written" when="1958-01-05"/>
+<date type="postmarked" when="1958-01-06"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="sbs001">Baros Schubert, Santos</persName>
+<persName xml:id="wfs002">Schubert, William F.</persName>
+<placeName></placeName>
+</correspAction>
+<correspContext>
+<ref type="prev" target="shan">Letter from x to y, date</ref>
+<ref type="next" target="shan">Letter from x to y, date</ref>
+</correspContext> 
+</correspDesc>
 </profileDesc>
         
 <revisionDesc>
@@ -145,7 +152,7 @@
 <text>
 <body>
             
-<div1 type="letter">
+<div1 type="letter" xml:lang="en">
                 
 <pb facs="shan_l.216.jpg"/>
                 
@@ -201,6 +208,46 @@ NEBR.<lb/>
 <p></p>
 </figure>
 
+</div1>
+
+<div1 type="letter" xml:lang="es">
+                
+<pb facs="shan_l.216.jpg"/>
+                
+<opener>
+<dateline>Bradshaw nebr. 5 de enero de 1958.</dateline>
+
+<address><addrLine>Querida Sra. Schubert y familia:</addrLine></address>
+
+<salute>Nos dio mucha pena enterarnos que su señor tuvo que ir al hospital. De veras espero que se
+mejore. Muchas gracias por la linda tarjeta y por los negativos.</salute>
+</opener>
+                
+<p>¿Supo que operaron al Sr.
+Parrish?. Estuvo 12 días en el hospital general de Lincoln. Se rasgó [??]de alguna manera. Lo
+mandaron a la cama pero sufrió los primeros tres o cuatro días. Tiene poca diabetes. Se inyecta
+insulina una vez al día. También tiene un pequeño bloqueo en el corazón.
+Lo operaron el 7 de diciembre. Ahora se siente bien, solo que está a dieta. Imagino que
+renunciará al trabajo. El doctor le dijo que sería mejor. Nuestros hijos están bien. Solo el esposo
+de Violeta se mira mal. Tiene nefritis. Hoy estuve allá. Fuimos a casa de Velma. A su niñita le
+van a sacar las anginas el viernes si está bien de la tos. Por lo demás, todos estamos bien.
+
+<pb facs="shan_l.217.jpg"/>
+
+Ya tenemos nuestra casa arreglada en Seward. Nos mudaremos para allá cuando él obtenga su
+pensión. ¿Como están sus bebés? Tiene una linda familia. El hijo de Oleitta vive en College
+View. Ella es nuestra hija mayor y vive en Holdrege. La esposa de su hijo tendrá su primer bebé
+en cualquier momento. Cielos, seremos el bisabuelo y la bisabuela. Nos encantará. Bueno,
+espero que se mantenga el buen clima. Sí que hizo frío después de la nieve. Yo no he estado muy
+bien. La espalda me duele bastante y tengo artritis en los codos. Quedo tan adolorida cuando lavo
+la ropa. Tengo que cargar y papi no puede ayudarme porque no debe levantar cosas por lo menos
+tres semanas. Es mucho esfuerzo levantar una cubeta de agua y lanzarla.</p>
+
+<closer>  
+<salute>Bueno, dígale a su esposo que se recupere pronto y que descanse. Escriba y avísenos cómo sigue.</salute>                  
+<signed>Con cariño, El señor y la señora Parrish</signed>
+</closer>
+                
 </div1>
 
 </body>

@@ -7,12 +7,13 @@
 <titleStmt>
 <title type="main">Letter from Jesusita Baros Torres to Santos Baros Schubert, December 17, 1964</title>
 <title type="main">Carta de Jesusita Baros Torres a Santos Baros Schubert, 17 de diciembre, 1964</title>
-<author>Torres, Jesusita Baros</author>
+<author>Baros Torres, Jesusita</author>
 <principal xml:id="iv001">Velázquez, Isabel</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name xml:id="af">Faxas, Adoni A.</name>
 <name xml:id="km">Mendell, Kate</name>
+<name xml:id="sbg">Garcia, Sarita B.</name>
 </respStmt>
 </titleStmt>
 <editionStmt>
@@ -48,7 +49,7 @@
             
 <sourceDesc>
 <bibl>
-<author>Jesusita Baros Torres</author>
+<author>Baros Torres, Jesusita </author>
 <title level="m" type="main">Letter from Jesusita Baros Torres to Santos Baros Schubert</title>
 <date when="1964-12-17">December 17, 1964</date>
 <extent>3 pages</extent>
@@ -120,14 +121,21 @@
 <term></term>
 </keywords>
 </textClass>
-<particDesc>
-<person role="sender" xml:id="jbt001">
-<persName>Jesusita Baros Torres</persName>
-</person>
-<person role="recipient" xml:id="sbs001">
-<persName>Santos Baros Torres</persName>
-</person>
-</particDesc>
+<correspDesc>
+<correspAction type="sentBy">
+<persName xml:id="jbt001">Baros Torres, Jesusita</persName>
+<placeName></placeName>
+<date type="written" when="1964-12-17"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="sbs001">Baros Schubert, Santos</persName>
+<placeName></placeName>
+</correspAction>
+<correspContext>
+<ref type="prev" target="shan">Letter from x to y, date</ref>
+<ref type="next" target="shan">Letter from x to y, date</ref>
+</correspContext> 
+</correspDesc>
 </profileDesc>
         
 <revisionDesc>

@@ -13,6 +13,7 @@
 <resp>transcription and encoding</resp>
 <name xml:id="jda">Avelar, Janette D.</name>
 <name xml:id="km">Mendell, Kate</name>
+<name xml:id="sbg">Garcia, Sarita B.</name>
 </respStmt>
 </titleStmt>
 <editionStmt>
@@ -120,14 +121,21 @@
 <term></term>
 </keywords>
 </textClass>
-<particDesc>
-<person role="sender" xml:id="ct001">
-<persName>Clemente Torres</persName>
-</person>
-<person role="recipient" xml:id="mt001">
-<persName>Maximino Torres</persName>
-</person>
-</particDesc>
+<correspDesc>
+<correspAction type="sentBy">
+<persName xml:id="ct001">Torres, Clemente</persName>
+<placeName></placeName>
+<date type="written" when="1926-12-27"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="mt001">Torres, Maximino</persName>
+<placeName></placeName>
+</correspAction>
+<correspContext>
+<ref type="prev" target="shan">Letter from x to y, date</ref>
+<ref type="next" target="shan">Letter from x to y, date</ref>
+</correspContext> 
+</correspDesc>
 </profileDesc>
         
 <revisionDesc>
@@ -140,7 +148,7 @@
 <text>
 <body>
             
-<div1 type="letter">
+<div1 type="letter" xml:lang="es">
                 
 <pb facs="shan_l.003.jpg"/>
 <opener>
@@ -162,6 +170,33 @@ los mas finos recuerdos y escuanto <unclear reason="illegible">por a ora</unclea
 <p>y tambien te digo q no dejes des quribirme ysinos puedes azer fabor de benirte lo mas B <unclear reason="illegible"/> pronto que puedas</p>
 </postscript> 
  
+</div1>
+
+<div1 type="letter" xml:lang="en">
+
+<pb facs="shan_l.003.jpg"/>
+
+<opener>
+<dateline><unclear reason="illegible"/>December 27, 1926</dateline>
+
+<salute>Mr. Maximino Torrez,</salute>
+</opener>
+
+<p>my very dear brother of my greatest respect and affection, it will make me very happy if you are enjoying complete happiness with those around you when you have this letter in your very attentive hands. The one that is leaving us is says it’s very sad to tell you that my uncle Bictor passed away on the fifth of this month. And what you ask about my uncle Juan, he is very old and if you want to come to settle what I told you you know. And about what you ask about if I owe cents, I do owe money; I owe good money and if you can send me more money, send it to me send it to me so that I can pay all that I owe. </p>
+
+<closer>And receive greetings from my aunt Lola, from Santiago, from Ylarion, from Panfilo, from everyone, L… from my aunt Pachita, and from Blaz and from my aunt Erasia, from Sabina and all of her family, and from doña Maria, from Emilia, from Tomaza and from me, receive
+
+<pb facs="shan_l.004.jpg"/>
+
+the finest regards and this is all that for now I, <signed>Clemente Torrez</signed>
+</closer>
+ 
+<postscript>
+<p>also, tell you to not stop writing me and if you can do us the favor of coming back as
+soon as possible.</p>
+</postscript> 
+
+
 </div1>
 </body>
         

@@ -5,14 +5,15 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from Mrs. Baca to Jesusita Torres, March 17, 1939</title>
-<title type="main">Carta de Mrs. Baca a Jesusita Torres, 17 de marzo, 1939</title>
-<author>Mrs. Baca</author>
+<title type="main">Letter from Felipita N. Baca to Jesusita Baros Torres, March 18, 1939</title>
+<title type="main">Carta de Felipita N. Baca a Jesusita Baros Torres, 18 de marzo, 1939</title>
+<author>Felipita N. Baca</author>
 <principal xml:id="iv001">Velázquez, Isabel</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name xml:id="jda">Avelar, Janette D.</name>
 <name xml:id="iv002">Velázquez, Isabel</name>
+<name xml:id="sbg">Garcia, Sarita B.</name>
 </respStmt>
 </titleStmt>
 <editionStmt>
@@ -44,13 +45,13 @@
 </availability>
 </publicationStmt>
             
-<notesStmt><note></note></notesStmt>
+<notesStmt><note>The date this letter was written, March 19, came after its postmark date, March 18. Since this situation is impossible, we have chosen to use March 18 as the date this letter was composed.</note></notesStmt>
             
 <sourceDesc>
 <bibl>
-<author>Mrs. Baca</author>
-<title level="m" type="main">Letter from Mrs. Baca to Jesusita Barros</title>
-<date when="1939-03-17">March 17, 1939</date>
+<author>Baca, Felipita N.</author>
+<title level="m" type="main">Letter from Felipita N. Baca to Jesusita Barros Torres</title>
+<date when="1939-03-17">March 18, 1939</date>
 <extent>2 pages and envelope</extent>
 </bibl>
 <msDesc>
@@ -120,14 +121,21 @@
 <term></term>
 </keywords>
 </textClass>
-<particDesc>
-<person role="sender" xml:id="fnb001">
-<persName>Mrs. Baca</persName>
-</person>
-<person role="recipient" xml:id="jbt001">
-<persName>Jesusita Barros</persName>
-</person>
-</particDesc>
+<correspDesc>
+<correspAction type="sentBy">
+<persName xml:id="fnb001">Baca, Felipita N.</persName>
+<placeName></placeName>
+<date type="postmarked" when="1939-03-18"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="jbt001">Baros Torres, Jesusita</persName>
+<placeName></placeName>
+</correspAction>
+<correspContext>
+<ref type="prev" target="shan">Letter from x to y, date</ref>
+<ref type="next" target="shan">Letter from x to y, date</ref>
+</correspContext> 
+</correspDesc>
 </profileDesc>
         
 <revisionDesc>
@@ -140,7 +148,7 @@
 <text>
 <body>
             
-<div1 type="letter">
+<div1 type="letter" xml:lang="es">
                 
 <pb facs="shan_l.114.jpg"/>
                    
@@ -206,6 +214,46 @@ MAR 18<lb/>
 </figure>
 
 </div1>
+
+<div1 type="letter" xml:lang="en">
+                
+<pb facs="shan_l.114.jpg"/>
+                   
+<opener>
+<address><addrLine>Albuquerque, new Mexico</addrLine></address>
+<dateline>March 19, 1939</dateline>
+
+<salute>Mrs. Jesusita Barros</salute>
+</opener>
+         
+<p>Dear comadre, I hope that this letter finds you all well. We are in good health, thank God.</p>
+
+<p>I received your letter last week, but let me tell you that we had the Will Rogers and Highway
+66 celebrations. For three days we had a lot of people from out of town, and the parade was
+so nice, that one tends to fall behind on one’s household affairs with so much going out.
+They were dressed as cowboys and in styles from yesteryear.</p>
+
+<p>There is a lot of illness here. Everyone has been coming down with the flu. Thank God, we
+have not gotten sick, not a one.</p>
+
+<p>You tell me that don Faustín didn’t send you the receipts
+[proof of tax payment]. He will be embarrassed when he finds out that the taxes are paid.</p>
+
+<pb facs="shan_l.115.jpg"/>
+
+<p>We are going to try to see him some time when we go out, and I’m going to ask him, to tell
+him that I want to see the tax receipts he has. Let’s see what he tells me.</p>
+
+<p>He often walks by here.</p>
+
+<closer><salute>Well, this is all comadre, because Marion is going to school, so she takes the letter.
+Without further to add, your comadre who wishes you happiness,</salute>
+                
+<signed>Felipita N. Baca</signed>
+</closer>
+                
+</div1>
+
 </body>
         
 <back></back>

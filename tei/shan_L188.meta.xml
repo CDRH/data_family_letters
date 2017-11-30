@@ -5,13 +5,14 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Envelope from Demetrio Flemate to Ms. Jesusita Baros, June 16, 1952</title>
-<title type="main">Sobre de Demetrio Flemate a Ms. Jesusita Baros, 16 de junio, 1952</title>
+<title type="main">Envelope from Demetrio Flemate to Jesusita Baros Torres, June 16, 1952</title>
+<title type="main">Sobre de Demetrio Flemate a Jesusita Baros Torres, 16 de junio, 1952</title>
 <author>Flemate, Demetrio</author>
 <principal xml:id="iv001">Velázquez, Isabel</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name xml:id="af">Faxas, Adoni A.</name>
+<name xml:id="sbg">Garcia, Sarita B.</name>
 </respStmt>
 </titleStmt>
 <editionStmt>
@@ -48,7 +49,7 @@
 <sourceDesc>
 <bibl>
 <author>Flemate, Demetrio</author>
-<title level="m" type="main">Envelope from Demetrio Flemate to Ms. Jesusita Baros</title>
+<title level="m" type="main">Envelope from Demetrio Flemate to Jesusita Baros Torres</title>
 <date when="1952-06-16">June 16, 1952</date>
 <extent>envelope</extent>
 </bibl>
@@ -119,14 +120,21 @@
 <term></term>
 </keywords>
 </textClass>
-<particDesc>
-<person role="sender" xml:id="df001">
-<persName>Demetrio Flemate</persName>
-</person>
-<person role="recipient" xml:id="jbt001">
-<persName>Jesusita Baros Torres</persName>
-</person>
-</particDesc>
+<correspDesc>
+<correspAction type="sentBy">
+<persName xml:id="df001">Flemate, Demetrio</persName>
+<placeName></placeName>
+<date type="postmarked" when="1952-06-16"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="jbt001">Baros Torres, Jesusita</persName>
+<placeName></placeName>
+</correspAction>
+<correspContext>
+<ref type="prev" target="shan">Letter from x to y, date</ref>
+<ref type="next" target="shan">Letter from x to y, date</ref>
+</correspContext> 
+</correspDesc>
 </profileDesc>
         
 <revisionDesc>

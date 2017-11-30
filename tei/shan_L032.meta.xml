@@ -5,14 +5,15 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from Felipita N. Baca to Jesusita Baros, January 21, 1939</title>
-<title type="main">Carta de Felipita N. Baca a Jesusita Baros, 21 de enero, 1939</title>
+<title type="main">Letter from Felipita N. Baca to Jesusita Baros Torres, January 21, 1939</title>
+<title type="main">Carta de Felipita N. Baca a Jesusita Baros Torres, 21 de enero, 1939</title>
 <author>Baca, Felipita N.</author>
 <principal xml:id="iv001">Velázquez, Isabel</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name xml:id="jda">Avelar, Janette D.</name>
 <name xml:id="iv002">Velázquez, Isabel</name>
+<name xml:id="sbg">Garcia, Sarita B.</name>
 </respStmt>
 </titleStmt>
 <editionStmt>
@@ -49,7 +50,7 @@
 <sourceDesc>
 <bibl>
 <author>Felipita N. Baca</author>
-<title level="m" type="main">Letter from Felipita N. Baca to Jesusita Baros</title>
+<title level="m" type="main">Letter from Felipita N. Baca to Jesusita Baros Torres</title>
 <date when="1939-01-21">January 21, 1939</date>
 <extent>2 pages and envelope</extent>
 </bibl>
@@ -120,14 +121,22 @@
 <term></term>
 </keywords>
 </textClass>
-<particDesc>
-<person role="sender" xml:id="fnb001">
-<persName>Felipita N. Baca</persName>
-</person>
-<person role="recipient" xml:id="jbt001">
-<persName>Jesusita Baros</persName>
-</person>
-</particDesc>
+<correspDesc>
+<correspAction type="sentBy">
+<persName xml:id="fnb001">Baca, Felipita N.</persName>
+<placeName></placeName>
+<date type="written" when="1939-01-21"/>
+<date type="postmarked" when="1939-01-21"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="jbt001">Baros Torres, Jesusita</persName>
+<placeName></placeName>
+</correspAction>
+<correspContext>
+<ref type="prev" target="shan">Letter from x to y, date</ref>
+<ref type="next" target="shan">Letter from x to y, date</ref>
+</correspContext> 
+</correspDesc>
 </profileDesc>
         
 <revisionDesc>
@@ -140,7 +149,7 @@
 <text>
 <body>
             
-<div1 type="letter">
+<div1 type="letter" xml:lang="es">
                 
 <pb facs="shan_l.104.jpg"/>
                    
@@ -200,6 +209,62 @@ N MEX<lb/>
 </figure>
 
 </div1>
+
+<div1 type="letter" xml:lang="en">
+                
+<pb facs="shan_l.104.jpg"/>
+                   
+<opener>
+
+<address><addrLine>Albuquerque N. Mex.</addrLine></address>
+<dateline>Jan 21, 1939</dateline>
+<salute>Mrs. Jesusita Baros</salute>
+</opener>
+                
+<p>My very dear comadre, I hope that this letter finds you well. We are in good health, thank God.</p> 
+
+<p>After greeting you comadre, I will tell you that we did as you asked us and went to the
+courthouse to ask if your taxes were paid.</p>
+                    
+<p>But comadre, you didn’t tell us under which name it [the property] was. I told Eduardo to
+ask under the name Jesusita Rodrigues, because I think that’s the name under which you
+ran here [the name you used here]. He first went to where they assess them, because this is
+the last month to have them assessed. He asked under Jesusita Rodrigues and they didn’t
+find you, and he went to the Jasasinos [Tasasinos?] and they couldn’t find you either. He
+gave the number [address] of the house in which you lived, 8162 N. Arno, and it’s Faustin
+Villanueva where that house is at [and Faustin Villanueva is listed for that address].</p>
+                    
+<p>They told him there that he had to bring the return in order to know who you were, so they
+could find you. When they assess a property they give you a yellow piece of paper. Send us
+that paper. They call it a return. Or any document [that proves] that you have paid your
+taxes. Send it here [to us]</p>
+
+<pb facs="shan_l.105.jpg"/>
+
+<p>We did what we could, but for other people, without a piece of paper [document] they don’t
+[won’t/can’t] find you. Maybe it’s because they don’t want to bother. You know how bad
+the people at the courthouse are. But we are [here] to act on your behalf [to help you], comadre. Just send us word of the
+name under which it [your property] is registered, or any document that you have.
+Don’t neglect this, comadre, because they say that if you fall behind on your taxes for three
+years you lose your property.</p>
+                    
+<p>Don Faustin had to have sent you proof that he paid the taxes. Don’t believe him or lend
+him money. He is working and healthy, and has other people to whom he can ask for money
+other than you. He told us here that he was doing well with his family, and that he had
+stopped drinking. Nobody is living in the house in which you lived. We were very happy to
+find out through Chuy’s letter that you drive the car and keep chickens and rabbits.
+Well, I hope you are all happy [comfortable/well?].</p>  
+
+<closer><salute>With this I close my letter, waiting for your reply to complete your request. Without further to add, 
+your comadre who wishes you happiness.</salute>
+                
+<signed>Mrs. Felipita N. Baca</signed>
+<address><addrLine>1006 1/2 N. Arno st.</addrLine></address>
+<address><addrLine>Albuquerque, NM.</addrLine></address>
+</closer>
+            
+</div1>
+
 </body>
         
 <back></back>

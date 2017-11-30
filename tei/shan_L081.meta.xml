@@ -5,14 +5,15 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from Jesusita B Torres to Sandra B Schubert, May 17, 1957</title>
-<title type="main">Carta de Jesusita B Torres a Sandra B Schubert, 17 de mayo, 1957</title>
-<author>Torres, Jesusita B</author>
+<title type="main">Letter from Jesusita Baros Torres to Santos Baros Schubert, May 17, 1957</title>
+<title type="main">Carta de Jesusita Baros Torres a Santos Baros Schubert, 17 de mayo, 1957</title>
+<author>Baros Torres, Jesusita</author>
 <principal xml:id="iv001">Velázquez, Isabel</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name xml:id="af">Faxas, Adoni A.</name>
 <name xml:id="km">Mendell, Kate</name>
+<name xml:id="sbg">Garcia, Sarita B.</name>
 </respStmt>
 </titleStmt>
 <editionStmt>
@@ -48,8 +49,8 @@
             
 <sourceDesc>
 <bibl>
-<author>Torres, Jesusita B</author>
-<title level="m" type="main">Letter from Jesusita B Torres to Sandra B Schubert</title>
+<author>Baros Torres, Jesusita</author>
+<title level="m" type="main">Letter from Jesusita Baros Torres to Santos Baros Schubert</title>
 <date when="1957-05-17">May 17, 1957</date>
 <extent>2 pages</extent>
 </bibl>
@@ -120,14 +121,21 @@
 <term></term>
 </keywords>
 </textClass>
-<particDesc>
-<person role="sender" xml:id="jbt001">
-<persName>Jesusita B Torres</persName>
-</person>
-<person role="recipient" xml:id="sbs001">
-<persName>Sandra B Schubert</persName>
-</person>
-</particDesc>
+<correspDesc>
+<correspAction type="sentBy">
+<persName xml:id="jbt001">Baros Torres, Jesusita</persName>
+<placeName></placeName>
+<date type="written" when="1957-05-17"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="sbs001">Baros Schubert, Santos</persName>
+<placeName></placeName>
+</correspAction>
+<correspContext>
+<ref type="prev" target="shan">Letter from x to y, date</ref>
+<ref type="next" target="shan">Letter from x to y, date</ref>
+</correspContext> 
+</correspDesc>
 </profileDesc>
         
 <revisionDesc>
@@ -173,6 +181,45 @@
 </closer>
                 
 </div1>
+
+<div1 type="letter" xml:lang="en">
+                
+<pb facs="shan_l.256.jpg"/>
+                
+<opener>
+<address><addrLine>ft. Lupton Colo</addrLine></address>
+<dateline>May, 17, 1957</dateline>
+
+<salute>Dear daughter,</salute>
+</opener>
+
+<p>this letter is to greet you, Bill and the kids.</p>
+                
+<p>I got the mother’s day card that you sent me and the little package too. Thank you daughter, I truly appreciate it. And also, you
+guessed correctly: I needed nylons, because they are very expensive here in Ft. Lupton and I almost never go to Denver.</p> 
+
+<p>How is Nebraska? There’s so much rain here we can’t even use it, because it won’t let us work. They say the beets are ready for thinning,</p>
+
+<p>but there’s been a lot of rain. How are the kids? I hope they are over their colds</p>
+
+<pb facs="shan_l.258.jpg"/>
+
+<p>Helen gave me some very nice [pretty] pots [dishware, plates?]</p>
+
+<p>We will use them for the first time when you come. Jerry is becoming very haughty, he almost never comes to the house.</p>
+
+<p>Kathy does come, and is very chatty. Jess says that she’s like a parrot. Hey, did you end up
+writing to Demetrio, my brother? He hasn’t written to me again since that time. Tell me, when
+you write to me, if Demetrio wrote to you or not. Well, I think this will be all this time.</p>
+
+<closer>
+<salute>Give my regards to Bill and Billy boy, Robert and Linda, from Max and me. And for you, receive the
+finest regards [remembrance] from your mother [mom] who wishes you all much happiness,</salute>                   
+<signed>Jesusita Baros Torres</signed>
+</closer>
+                
+</div1>
+
 </body>
         
 <back></back>

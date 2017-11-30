@@ -13,6 +13,7 @@
 <resp>transcription and encoding</resp>
 <name xml:id="jda">Avelar, Janette D.</name>
 <name xml:id="iv002">Velázquez, Isabel</name>
+<name xml:id="sbg">Garcia, Sarita B.</name>
 </respStmt>
 </titleStmt>
 <editionStmt>
@@ -48,7 +49,7 @@
             
 <sourceDesc>
 <bibl>
-<author>Clemente Torres</author>
+<author>Torres, Clemente</author>
 <title level="m" type="main">Letter from Clemente Torres to Maximino Torres</title>
 <date when="1943-08-30">August 30, 1943</date>
 <extent>1 page and envelope</extent>
@@ -120,14 +121,22 @@
 <term></term>
 </keywords>
 </textClass>
-<particDesc>
-<person role="sender" xml:id="ct001">
-<persName>Clemente Torres</persName>
-</person>
-<person role="recipient" xml:id="mt001">
-<persName>Maximino Torres</persName>
-</person>
-</particDesc>
+<correspDesc>
+<correspAction type="sentBy">
+<persName xml:id="ct001">Torres, Clemente</persName>
+<placeName></placeName>
+<date type="written" when="1943-08-30"/>
+<date type="postmarked" when="1943-09-01"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="mt001">Torres, Maximino</persName>
+<placeName></placeName>
+</correspAction>
+<correspContext>
+<ref type="prev" target="shan">Letter from x to y, date</ref>
+<ref type="next" target="shan">Letter from x to y, date</ref>
+</correspContext> 
+</correspDesc>
 </profileDesc>
         
 <revisionDesc>
@@ -140,7 +149,7 @@
 <text>
 <body>
             
-<div1 type="letter">
+<div1 type="letter" xml:lang="es">
                 
 <pb facs="shan_l.765"/>
                 
@@ -196,6 +205,33 @@ MICH.<lb/>
 </figure>
 
 </div1>
+
+<div1 type="letter" xml:lang="en">
+                
+<pb facs="shan_l.765"/>
+                
+<opener>
+<dateline>Churintzio Mich. August 30 1943</dateline>
+<add>Mr. Maximino T</add>
+<add>Denver Colorado.</add>
+
+<address><addrLine>Dear brother,</addrLine></address>
+
+<salute>I greet you warmly, wishing you are well, as I am, thank God.</salute>
+</opener>
+                
+<p>Brother, I answered your last letter right away and I haven’t received a reply. I don’t know if you received it or not. I now
+write you to Denver and to Fort [Lupton] to find out which is your current address.</p>
+
+<closer><salute>Receive greetings from my family and from me, the finest regards from your brother who loves you.</salute>
+
+<signed>Clemente Torres</signed>
+</closer>
+
+<postscript><p>Answer me [write me] as soon as you get my letter.</p></postscript>
+                
+</div1>
+
 </body>
         
 <back></back>

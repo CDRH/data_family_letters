@@ -5,14 +5,15 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from Jesusita B Torres to Mrs W. F. Schubert, May 9, 1958</title>
-<title type="main">Carta de Jesusita B Torres a Mrs W. F. Schubert, 09 de mayo, 1958</title>
-<author>Torres, Jesusita B</author>
+<title type="main">Letter from Jesusita Baros Torres to Santos Baros Schubert, May 9, 1958</title>
+<title type="main">Carta de Jesusita Baros Torres a Santos Baros Schubert, 09 de mayo, 1958</title>
+<author>Baros Torres, Jesusita</author>
 <principal xml:id="iv001">Velázquez, Isabel</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name xml:id="af">Faxas, Adoni A.</name>
 <name xml:id="km">Mendell, Kate</name>
+<name xml:id="sbg">Garcia, Sarita B.</name>
 </respStmt>
 </titleStmt>
 <editionStmt>
@@ -48,8 +49,8 @@
             
 <sourceDesc>
 <bibl>
-<author>Torres, Jesusita B</author>
-<title level="m" type="main">Letter from Jesusita B Torres to Mrs WF Schubert</title>
+<author>Baros Torres, Jesusita</author>
+<title level="m" type="main">Letter from Jesusita Baros Torres to Santos Baros Schubert</title>
 <date when="1958-05-09">May 9, 1958</date>
 <extent>2 pages and envelope</extent>
 </bibl>
@@ -120,14 +121,22 @@
 <term></term>
 </keywords>
 </textClass>
-<particDesc>
-<person role="sender" xml:id="jbt001">
-<persName>Jesusita B Torres</persName>
-</person>
-<person role="recipient" xml:id="sbs001">
-<persName>Mrs WF Schubert</persName>
-</person>
-</particDesc>
+<correspDesc>
+<correspAction type="sentBy">
+<persName xml:id="jbt001">Baros Torres, Jesusita</persName>
+<placeName></placeName>
+<date type="written" when="1958-05-09"/>
+<date type="postmarked" when="1958-05-09"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="sbs001">Baros Schubert, Santos</persName>
+<placeName></placeName>
+</correspAction>
+<correspContext>
+<ref type="prev" target="shan">Letter from x to y, date</ref>
+<ref type="next" target="shan">Letter from x to y, date</ref>
+</correspContext> 
+</correspDesc>
 </profileDesc>
         
 <revisionDesc>
@@ -141,7 +150,7 @@
 <text>
 <body>
             
-<div1 type="letter">
+<div1 type="letter" xml:lang="es">
                 
 <pb facs="shan_l.302.jpg"/>
                 
@@ -200,6 +209,39 @@ MAY 9<lb/>
 COLO.<lb/>
 </ab>
 
+</div1>
+
+<div1 type="letter" xml:lang="en">
+                
+<pb facs="shan_l.302.jpg"/>
+                
+<opener>
+<address><addrLine>Ft Lupton Colo</addrLine></address>
+<dateline>9-May-1958</dateline>
+
+<salute>Dear daughter,</salute>
+</opener>
+
+<p>this letter is to greet you all; you, Bill, Billy boy, Robert and Linda, wishing
+you are all well, as we are too, thank God.</p>
+                
+<p>After greeting you all I will tell you that I’m sending you Kathy’s portrait; she was a queen at school [and there was] a party with music, but I didn’t go because it was on the 25 th of April and I stayed home cooking and preparing a party for Jess, who turned 33, with God’s favor. Helen took her picture, but I haven’t seen the photos.</p> 
+
+<p>Well, I will tell you that it has
+
+<pb facs="shan_l.303.jpg"/>
+
+rained a lot here. They say it has caused a lot of damage in Denver. Didn’t you take a picture of the kids at Easter this time? If you did, send me one.</p>
+
+<p>Well, this will be all for now.</p>
+
+<p>Many regards [much love?] for all of you. Specially for Linda and Robert and Billy boy. Remind them that they have their grandpa and grandma, and write to me soon if you can, ok?</p>
+
+<closer>
+<salute>Your mom</salute>                   
+<signed>Jesusita B. Torres</signed>
+</closer>
+                
 </div1>
 
 </body>

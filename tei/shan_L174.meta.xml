@@ -5,13 +5,14 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Envelope from Patricia Medrano to Sra. Jesusita Baros, June 27, 1957</title>
-<title type="main">Sobre de Patricia Medrano a Sra. Jesusita Baros, 27 de junio, 1957</title>
+<title type="main">Envelope from Patricia Medrano to Jesusita Baros Torres, June 27, 1957</title>
+<title type="main">Sobre de Patricia Medrano a Jesusita Baros Torres, 27 de junio, 1957</title>
 <author>Medrano, Patricia</author>
 <principal xml:id="iv001">Velázquez, Isabel</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name xml:id="af">Faxas, Adoni A.</name>
+<name xml:id="sbg">Garcia, Sarita B.</name>
 </respStmt>
 </titleStmt>
 <editionStmt>
@@ -48,7 +49,7 @@
 <sourceDesc>
 <bibl>
 <author>Medrano, Patricia</author>
-<title level="m" type="main">Envelope from Patricia Medrano to Sra. Jesusita Baros</title>
+<title level="m" type="main">Envelope from Patricia Medrano to Jesusita Baros Torres</title>
 <date when="1957-06-27">June 27, 1957</date>
 <extent>envelope</extent>
 </bibl>
@@ -119,14 +120,21 @@
 <term></term>
 </keywords>
 </textClass>
-<particDesc>
-<person role="sender" xml:id="pm001">
-<persName>Patricia Medrano</persName>
-</person>
-<person role="recipient" xml:id="jbt001">
-<persName>Jesusita Baros Torres</persName>
-</person>
-</particDesc>
+<correspDesc>
+<correspAction type="sentBy">
+<persName xml:id="pm001">Medrano, Patricia</persName>
+<placeName></placeName>
+<date type="postmarked" when="1957-01-27"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="jbt001">Baros Torres, Jesusita</persName>
+<placeName></placeName>
+</correspAction>
+<correspContext>
+<ref type="prev" target="shan">Letter from x to y, date</ref>
+<ref type="next" target="shan">Letter from x to y, date</ref>
+</correspContext> 
+</correspDesc>
 </profileDesc>
         
 <revisionDesc>

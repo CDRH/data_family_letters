@@ -5,14 +5,15 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from Mrs. W.  F. Schubert to Jesusita B Torres, July 26, 1962</title>
-<title type="main">Carta de Mrs. W.  F. Schubert a Jesusita B Torres, 26 de julio, 1962</title>
-<author>Torres, Jesusita B</author>
+<title type="main">Letter from Jesusita Baros Torres to Santos Baros Schubert, July 26, 1962</title>
+<title type="main">Carta de Jesusita Baros Torres a Santos Baros Schubert, 26 de julio, 1962</title>
+<author>Baros Torres, Jesusita</author>
 <principal xml:id="iv001">Velázquez, Isabel</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name xml:id="af">Faxas, Adoni A.</name>
 <name xml:id="km">Mendell, Kate</name>
+<name xml:id="sbg">Garcia, Sarita B.</name>
 </respStmt>
 </titleStmt>
 <editionStmt>
@@ -48,8 +49,8 @@
             
 <sourceDesc>
 <bibl>
-<author>Torres, Jesusita B</author>
-<title level="m" type="main">Letter from Mrs. W.  F. Schubert to Jesusita B Torres</title>
+<author>Baros Torres, Jesusita</author>
+<title level="m" type="main">Letter from Jesusita Baros Torres to Santos Baros Schubert</title>
 <date when="1962-07-26">July 26, 1962</date>
 <extent>3 pages and envelope</extent>
 </bibl>
@@ -120,16 +121,24 @@
 <term></term>
 </keywords>
 </textClass>
-<particDesc>
-<person role="sender" xml:id="jbt001">
-<persName>Mrs. W.  F. Schubert</persName>
-</person>
-<person role="recipient" xml:id="sbs001">
-<persName>Jesusita B Torres</persName>
-</person>
-</particDesc>
+<correspDesc>
+<correspAction type="sentBy">
+<persName xml:id="jbt001">Baros Torres, Jesusita</persName>
+<placeName></placeName>
+<date type="written" when="1962-07-26"/>
+<date type="postmarked" when="1962-07-26"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="sbs001">Baros Schubert, Santos</persName>
+<placeName></placeName>
+</correspAction>
+<correspContext>
+<ref type="prev" target="shan">Letter from x to y, date</ref>
+<ref type="next" target="shan">Letter from x to y, date</ref>
+</correspContext> 
+</correspDesc>
 </profileDesc>
-        
+
 <revisionDesc>
 <change when="2015" who="#af">Initial Encoding</change>
 <change when="2014" who="#km">Transcription</change>

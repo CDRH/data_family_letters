@@ -5,14 +5,15 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from Nemecio J Samaniego to Jesusita Torres, February 22, 1953</title>
-<title type="main">Carta de Nemecio J Samaniego a Jesusita Torres, 22 de febrero, 1953</title>
-<author>Samaniego, Nemecio J.</author>
+<title type="main">Letter from Nemecio Samaniego to Jesusita Baros Torres, February 22, 1953</title>
+<title type="main">Carta de Nemecio Samaniego a Jesusita Baros Torres, 22 de febrero, 1953</title>
+<author>Samaniego, Nemecio</author>
 <principal xml:id="iv001">Velázquez, Isabel</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name xml:id="jda">Avelar, Janette D.</name>
 <name xml:id="iv002">Velázquez, Isabel</name>
+<name xml:id="sbg">Garcia, Sarita B.</name>
 </respStmt>
 </titleStmt>
 <editionStmt>
@@ -48,8 +49,8 @@
             
 <sourceDesc>
 <bibl>
-<author>Nemecio J. Samaniego</author>
-<title level="m" type="main">Letter from Nemecio J. Samaniego to Jesusita Torres</title>
+<author>Samaniego, Nemecio</author>
+<title level="m" type="main">Letter from Nemecio Samaniego to Jesusita Baros Torres</title>
 <date when="1953-02-22">February 22, 1953</date>
 <extent>1 page and envelope</extent>
 </bibl>
@@ -120,14 +121,22 @@
 <term></term>
 </keywords>
 </textClass>
-<particDesc>
-<person role="sender" xml:id="js001">
-<persName>Nemecio J Samaniego</persName>
-</person>
-<person role="recipient" xml:id="jbt001">
-<persName>Jesusita Torres</persName>
-</person>
-</particDesc>
+<correspDesc>
+<correspAction type="sentBy">
+<persName xml:id="js001">Samaniego, Jesus</persName>
+<placeName></placeName>
+<date type="written" when="1953-02-22"/>
+<date type="postmarked" when="1953-02-23"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="jbt001">Baros Torres, Jesusita</persName>
+<placeName></placeName>
+</correspAction>
+<correspContext>
+<ref type="prev" target="shan">Letter from x to y, date</ref>
+<ref type="next" target="shan">Letter from x to y, date</ref>
+</correspContext> 
+</correspDesc>
 </profileDesc>
         
 <revisionDesc>
@@ -140,7 +149,7 @@
 <text>
 <body>
             
-<div1 type="letter">
+<div1 type="letter" xml:lang="es">
                 
 <pb facs="shan_l.170.jpg"/>
 
@@ -200,6 +209,50 @@ ZAC<lb/>
 </figure>
 
 </div1>
+
+<div1 type="letter" xml:lang="en">
+                
+<pb facs="shan_l.170.jpg"/>
+
+<opener>
+<address><addrLine>Nemecio Samaniego</addrLine></address>
+<address><addrLine>C/o Mr. Mauro Quezada.</addrLine></address>
+<address><addrLine>Juchipila, Zac;</addrLine></address><dateline>February 22, 1953</dateline>
+
+<address><addrLine>Mrs. Jesusita Baros.</addrLine></address>
+<address><addrLine>P.O. Box 681.</addrLine></address>
+<address><addrLine>F-t-Juptón Colo.</addrLine></address>
+
+<salute>Dear mother, [Formal]</salute>
+</opener>
+
+<p>I hope that when you receive this [letter] you may be enjoying good health as my family
+and I are doing, thank God.</p>
+                
+<p>I next wish to manifest [let you know] that it is very urgent that
+you grant me power of attorney. You can do this in Ciudad Juarez, Chihuahua or in any
+other of the borders. This power of attorney is not so that I can keep any of the properties
+that were my aunt Guadalupe’s and may now be rightfully yours, it is only to represent you
+in trial. I am told by people who are well-versed in these affairs that if you leave this to
+apathy the day may come when you lose your hereditary rights. Already my uncle is trying
+to sell the rustic property, by which I mean the four yuntas that are on the Vega’s pasture,
+and because there is no one to stop him, all the better for him.
+[In this context “yunta” can mean either a team of oxen for ploughing, or the a Biblical unit
+of measurement roughly equivalent to what a team of oxen can plough in a day],
+I wish I could travel with my breath and speak to you at length [metaphorical: talk to you
+personally], but it’s very difficult for me. Or would you tell me if you can come to one of the
+borders I would do everything possible to go. The only thing left would be for you to tell me
+the day and date so that I may be ready to talk with you.</p>
+
+<p>Do not leave this to apathy.</p>
+                
+<closer><salute>Without further to add, your son who asks for your blessing and does not forget you.</salute>
+
+<signed>Nemecio J. Samaniego</signed>
+</closer>
+                
+</div1>
+
 </body>
         
 <back></back>

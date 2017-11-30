@@ -5,13 +5,14 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Envelope from José Lara M. to Miss Santos Baros, October 13, 1942</title>
-<title type="main">Sobre de José Lara M. a Miss Santos Baros, 13 de octubre, 1942</title>
+<title type="main">Envelope from José Lara Miranda to Santos Baros Schubert, October 12, 1942</title>
+<title type="main">Sobre de José Lara Miranda a Santos Baros Schubert, 12 de octubre, 1942</title>
 <author>Lara Miranda, José</author>
 <principal xml:id="iv001">Velázquez, Isabel</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name xml:id="af">Faxas, Adoni A.</name>
+<name xml:id="sbg">Garcia, Sarita B.</name>
 </respStmt>
 </titleStmt>
 <editionStmt>
@@ -48,8 +49,8 @@
 <sourceDesc>
 <bibl>
 <author>Lara Miranda, José</author>
-<title level="m" type="main">Envelope from José Lara M. to Miss Santos Baros</title>
-<date when="1942-10-13">October 13, 1942</date>
+<title level="m" type="main">Envelope from José Lara Miranda to Santos Baros Schubert</title>
+<date when="1942-10-13">October 12, 1942</date>
 <extent>envelope</extent>
 </bibl>
 <msDesc>
@@ -119,14 +120,21 @@
 <term></term>
 </keywords>
 </textClass>
-<particDesc>
-<person role="sender" xml:id="jlm001">
-<persName>José Lara Miranda</persName>
-</person>
-<person role="recipient" xml:id="sbs001">
-<persName>Santos Baros Schubert</persName>
-</person>
-</particDesc>
+<correspDesc>
+<correspAction type="sentBy">
+<persName xml:id="jlm001">Lara Miranda, Jose</persName>
+<placeName></placeName>
+<date type="postmarked" when="1942-10-12"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="sbs001">Baros Schubert, Santos</persName>
+<placeName></placeName>
+</correspAction>
+<correspContext>
+<ref type="prev" target="shan">Letter from x to y, date</ref>
+<ref type="next" target="shan">Letter from x to y, date</ref>
+</correspContext> 
+</correspDesc>
 </profileDesc>
         
 <revisionDesc>

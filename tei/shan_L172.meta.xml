@@ -5,13 +5,14 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Envelope from Jess Baros to Miss Santoes Baros, February 09, 1944</title>
-<title type="main">Sobre de Jess Baros a Miss Santoes Baros, 09 de febrero, 1944</title>
-<author>Baros, Jess</author>
+<title type="main">Envelope from Jess Jesús Baros to Santos Baros Schubert, February 09, 1944</title>
+<title type="main">Sobre de Jess Jesús Baros a Santos Baros Schubert, 09 de febrero, 1944</title>
+<author>Baros, Jess Jesús</author>
 <principal xml:id="iv001">Velázquez, Isabel</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name xml:id="af">Faxas, Adoni A.</name>
+<name xml:id="sbg">Garcia, Sarita B.</name>
 </respStmt>
 </titleStmt>
 <editionStmt>
@@ -47,8 +48,8 @@
             
 <sourceDesc>
 <bibl>
-<author>Baros, Jess</author>
-<title level="m" type="main">Envelope from Jess Baros to Miss Santoes Baros</title>
+<author>Baros, Jess Jesús</author>
+<title level="m" type="main">Envelope from Jess Jesús Baros to Santos Baros Schubert</title>
 <date when="1944-02-09">February 09, 1944</date>
 <extent>envelope</extent>
 </bibl>
@@ -119,14 +120,21 @@
 <term></term>
 </keywords>
 </textClass>
-<particDesc>
-<person role="sender" xml:id="jjb001">
-<persName>Jess Baros</persName>
-</person>
-<person role="recipient" xml:id="sbs001">
-<persName>Santos Baros Schubert</persName>
-</person>
-</particDesc>
+<correspDesc>
+<correspAction type="sentBy">
+<persName xml:id="jjb001">Baros, Jess Jesus</persName>
+<placeName></placeName>
+<date type="postmarked" when="1944-02-09"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="sbs001">Baros Schubert, Santos</persName>
+<placeName></placeName>
+</correspAction>
+<correspContext>
+<ref type="prev" target="shan">Letter from x to y, date</ref>
+<ref type="next" target="shan">Letter from x to y, date</ref>
+</correspContext> 
+</correspDesc>
 </profileDesc>
         
 <revisionDesc>

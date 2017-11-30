@@ -5,14 +5,15 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from Jesús Samaniego to Jesucita B. Torres, March 21, 1965</title>
-<title type="main">Carta de Jesús Samaniego a Jesucita B. Torres, 21 de marzo, 1965</title>
-<author>Samaniego, Jesús</author>
+<title type="main">Letter from José Jesús Samaniego to Jesusita Baros Torres, March 21, 1965</title>
+<title type="main">Carta de José Jesús Samaniego a Jesusita Baros Torres, 21 de marzo, 1965</title>
+<author>Samaniego, José Jesús</author>
 <principal xml:id="iv001">Velázquez, Isabel</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name xml:id="af">Faxas, Adoni A.</name>
 <name xml:id="km">Mendell, Kate</name>
+<name xml:id="sbg">Garcia, Sarita B.</name>
 </respStmt>
 </titleStmt>
 <editionStmt>
@@ -48,8 +49,8 @@
             
 <sourceDesc>
 <bibl>
-<author>Jesús Samaniego</author>
-<title level="m" type="main">Letter from Jesús Samaniego to Jesucita B. Torres</title>
+<author>Samaniego, José Jesús</author>
+<title level="m" type="main">Letter from José Jesús Samaniego to Jesusita Baros Torres</title>
 <date when="1965-03-21">March 21, 1965</date>
 <extent>envelope</extent>
 </bibl>
@@ -120,14 +121,21 @@
 <term></term>
 </keywords>
 </textClass>
-<particDesc>
-<person role="sender" xml:id="jas001">
-<persName>Jesús Samaniego</persName>
-</person>
-<person role="recipient" xml:id="jbt001">
-<persName>Jesucita B. Torres</persName>
-</person>
-</particDesc>
+<correspDesc>
+<correspAction type="sentBy">
+<persName xml:id="js001">Samaniego, José Jesús</persName>
+<placeName></placeName>
+<date when="1965-03-21"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="jbt001">Baros Torres, Jesusita</persName>
+<placeName></placeName>
+</correspAction>
+<correspContext>
+<ref type="prev" target="shan">Letter from x to y, date</ref>
+<ref type="next" target="shan">Letter from x to y, date</ref>
+</correspContext> 
+</correspDesc>
 </profileDesc>
         
 <revisionDesc>

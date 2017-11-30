@@ -5,14 +5,15 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from Jesusita B Torres to Mrs. Sandra B Schubert, November 10, 1957</title>
-<title type="main">Carta de Jesusita B Torres a Mrs. Sandra B Schubert, 10 de noviembre, 1957</title>
-<author>Torres, Jesusita B</author>
+<title type="main">Letter from Jesusita Baros Torres to Santos Baros Schubert, November 10, 1957</title>
+<title type="main">Carta de Jesusita Baros Torres a Santos Baros Schubert, 10 de noviembre, 1957</title>
+<author>Baros Torres, Jesusita</author>
 <principal xml:id="iv001">Velázquez, Isabel</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name xml:id="af">Faxas, Adoni A.</name>
 <name xml:id="km">Mendell, Kate</name>
+<name xml:id="sbg">Garcia, Sarita B.</name>
 </respStmt>
 </titleStmt>
 <editionStmt>
@@ -48,8 +49,8 @@
             
 <sourceDesc>
 <bibl>
-<author>Torres, Jesusita B</author>
-<title level="m" type="main">Letter from Jesusita B Torres to Mrs. Sandra B Schubert</title>
+<author>Baros Torres, Jesusita</author>
+<title level="m" type="main">Letter from Jesusita Baros Torres to Santos Baros Schubert</title>
 <date when="1957-11-10">November 10, 1957</date>
 <extent>2 pages and envelope</extent>
 </bibl>
@@ -120,14 +121,22 @@
 <term></term>
 </keywords>
 </textClass>
-<particDesc>
-<person role="sender" xml:id="jbt001">
-<persName>Jesusita B Torres</persName>
-</person>
-<person role="recipient" xml:id="sbs001">
-<persName>Mrs. Sandra B Schubert</persName>
-</person>
-</particDesc>
+<correspDesc>
+<correspAction type="sentBy">
+<persName xml:id="jbt001">Baros Torres, Jesusita</persName>
+<placeName></placeName>
+<date type="written" when="1957-11-10"/>
+<date type="postmarked" when="1957-11-10"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="sbs001">Baros Schubert, Santos</persName>
+<placeName></placeName>
+</correspAction>
+<correspContext>
+<ref type="prev" target="shan">Letter from x to y, date</ref>
+<ref type="next" target="shan">Letter from x to y, date</ref>
+</correspContext> 
+</correspDesc>
 </profileDesc>
         
 <revisionDesc>
@@ -141,7 +150,7 @@
 <text>
 <body>
             
-<div1 type="letter">
+<div1 type="letter" xml:lang="es">
                 
 <pb facs="shan_l.290.jpg"/>
                 
@@ -204,6 +213,39 @@ COLO<lb/>
 <p><unclear reason= "torn"/></p>
 </figure>
 
+</div1>
+
+<div1 type="letter" xml:lang="en">
+                
+<pb facs="shan_l.290.jpg"/>
+                
+<opener>
+<address><addrLine>Ft. Lupton Colo</addrLine></address>
+<dateline>November 10, 1957</dateline>
+
+<salute>Dear daughter</salute>>
+</opener>
+
+<p>this letter is to greet you and Bill, and the kids.</p>
+                
+<p>We are well, thank God.</p>
+
+<p>Well, daughter, I’ve been waiting for you to write to me, or rather, for you to answer me. I wrote [sent]
+you a birthday card and a little present, but you don’t write me at all. It’s been 15 days and I am very worried about you. I don’t know if Pamela is still sick, or if you are sick, or if something else is happening to you. I’ve dreamt about you many times, that you are swimming in water and I’m pulling at you [pulling you] to [crossed out]
+
+<pb facs="shan_l.292.jpg"/>
+
+get you out, but I can’t, and I wake up in desperation,</p>
+
+<p>worried about all of you. As soon as you get this, reply to me so that I know how you all are. My leg and my arm have been hurting a little. Regards [love] for all [of you].</p>
+
+<p>I’m in a hurry because I want to go to mass.</p>
+
+<closer>
+<salute>Well, your mom</salute>                    
+<signed>Jesusita B. Torres</signed>
+</closer>
+                
 </div1>
 
 </body>

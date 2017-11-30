@@ -7,12 +7,13 @@
 <titleStmt>
 <title type="main">Letter from Santos Baros Schubert to Jesusita Baros Torres, February 24, 1960</title>
 <title type="main">Carta de Santos Baros Schubert a Jesusita Baros Torres, 24 de febrero, 1960</title>
-<author>Schubert, Santos Baros</author>
+<author>Baros Schubert, Santos</author>
 <principal xml:id="iv001">Velázquez, Isabel</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name xml:id="jda">Avelar, Janette D.</name>
 <name xml:id="iv002">Velázquez, Isabel</name>
+<name xml:id="sbg">Garcia, Sarita B.</name>
 </respStmt>
 </titleStmt>
 <editionStmt>
@@ -120,14 +121,22 @@
 <term></term>
 </keywords>
 </textClass>
-<particDesc>
-<person role="sender" xml:id="sbs001">
-<persName>Santos Baros Schubert</persName>
-</person>
-<person role="recipient" xml:id="jbt001">
-<persName>Jesusita Baros Torres</persName>
-</person>
-</particDesc>
+<correspDesc>
+<correspAction type="sentBy">
+<persName xml:id="sbs001">Baros Schubert, Santos</persName>
+<placeName></placeName>
+<date type="written" when="1960-02-24"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="jbt001">Baros Torres, Jesusita</persName>
+<placeName></placeName>
+</correspAction>
+<correspContext>
+<ref type="prev" target="shan">Letter from x to y, date</ref>
+<ref type="next" target="shan">Letter from x to y, date</ref>
+</correspContext> 
+</correspDesc>
+
 </profileDesc>
         
 <revisionDesc>
@@ -140,7 +149,7 @@
 <text>
 <body>
             
-<div1 type="letter">
+<div1 type="letter" xml:lang="es">
                 
 <pb facs="shan_L180.jpg"/>
                 
@@ -164,6 +173,37 @@
 </closer>
                 
 </div1>
+
+<div1 type="letter" xml:lang="en">
+                
+<pb facs="shan_L180.jpg"/>
+                
+<opener>
+
+<dateline>Feb 24,1960</dateline>
+<address><addrLine>><unclear reason="illegible">60</unclear> South 40th St.</addrLine></address>
+
+<salute>Dear mom,</salute>
+</opener>
+
+<p>this [letter] is to greet you and max. How are you both? We are well, thank God.</p>
+                
+<p>Pamela has been a little sick with a cough and a cold. She is well now. She is in school.</p>
+
+<p>Baby Elizabeth is very pretty and big, and she walks a little. She has 8 teeth and two molars. And
+she has “brown hair.” The baby’s birthday is March 20-- one year.
+[Unclear, preposition missing, two readings possible]
+Reading 1: Pamela likes the baby and the baby likes the kids a lot.
+Reading 2: The baby likes Pamela, and the kids like the baby a lot.</p>
+
+<closer>
+<salute>In other news –it’s the weather – it’s very cold and [we have] a lot, a lot of snow. It’s a good
+thing that I have a very good house—very warm—it’s not cold.</salute>                    
+<signed></signed>
+</closer>
+                
+</div1>
+
 </body>
         
 <back></back>

@@ -5,14 +5,15 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from Margarita Flemate to Jesusita Torres, October 5, 1967</title>
-<title type="main">Carta de Margarita Flemate a Jesusita Torres, 5 de octubre, 1967</title>
+<title type="main">Letter from Margarita Flemate to Jesusita Baros Torres, October 05, 1967</title>
+<title type="main">Carta de Margarita Flemate a Jesusita Baros Torres, 05 de octubre, 1967</title>
 <author>Flemate, Margarita</author>
 <principal xml:id="iv001">Velázquez, Isabel</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name xml:id="jda">Avelar, Janette D.</name>
 <name xml:id="iv002">Velázquez, Isabel</name>
+<name xml:id="sbg">Garcia, Sarita B.</name>
 </respStmt>
 </titleStmt>
 <editionStmt>
@@ -48,8 +49,8 @@
             
 <sourceDesc>
 <bibl>
-<author>Margarita Flemate</author>
-<title level="m" type="main">Letter from Margarita Flemate to Jesusita Torres</title>
+<author>Flemate, Margarita</author>
+<title level="m" type="main">Letter from Margarita Flemate to Jesusita Baros Torres</title>
 <date when="1967-10-05">October 5, 1967</date>
 <extent>2 pages and envelope</extent>
 </bibl>
@@ -120,14 +121,21 @@
 <term></term>
 </keywords>
 </textClass>
-<particDesc>
-<person role="sender" xml:id="mf001">
-<persName>Margarita Flemate</persName>
-</person>
-<person role="recipient" xml:id="jbt001">
-<persName>Jesusita Torres</persName>
-</person>
-</particDesc>
+<correspDesc>
+<correspAction type="sentBy">
+<persName xml:id="mf001">Flemate, Margarita</persName>
+<placeName></placeName>
+<date type="written" when="1967-10-05"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="jbt001">Baros Torres, Jesusita</persName>
+<placeName></placeName>
+</correspAction>
+<correspContext>
+<ref type="prev" target="shan">Letter from x to y, date</ref>
+<ref type="next" target="shan">Letter from x to y, date</ref>
+</correspContext> 
+</correspDesc>
 </profileDesc>
         
 <revisionDesc>
@@ -140,7 +148,7 @@
 <text>
 <body>
             
-<div1 type="letter">
+<div1 type="letter" xml:lang="es">
                 
 <pb facs="shan_l.184.jpg"/>
                    
@@ -165,7 +173,7 @@ y no te olvida adios</salute>
                 
 </div1>
 
-<div1 type="envelope">
+<div1 type="envelope" xml:lang="es">
 
 <pb facs="shan_l.182.jpg"/>
 
@@ -203,6 +211,79 @@ Tezoros de vída<lb/>
 </ab>
 
 </div1>
+
+<div1 type="letter" xml:lang="en">
+                
+<pb facs="shan_l.184.jpg"/>
+                   
+<opener>
+<dateline>Juchipila Zac.</dateline>
+<add>October 5, 1967</add>   
+<del>Mrs. Martina Flemate</del>   
+              
+<address><addrLine>Jesusita Torrez my dear cousin,</addrLine></address>
+</opener>
+                
+<p>I reply with some delay because I have been a little sick, but
+I am now a little better, thank God. I trust in God that you are enjoying good health. I next
+tell you that I was happy to receive your little stamps [chromes/pictures/images? See: NOT
+postal stamps], and I tell you that I saw my compadre Demetrio and he told me that he had
+written several letters to you and that you hadn’t replied, and I have not seen Gulia [Julia?]
+because she is in Guadalajara. I also tell you [ask you] not to confuse me, I am Margarita. My
+sister is Martina. She is in Mexicali, B.C. [Baja California] and I am planning [my intentions
+are to] visit her [go to her], and I may go this month. This is everything I’ll tell you for now.</p>
+
+<closer><salute> Give my regards to your husband. Receive kind regards for both of you from my son
+Eduardo, and [you] from me, receive the finest regards from your cousin who loves you
+
+<pb facs="shan_l.185.jpg"/>
+                
+and does not forget you</salute>
+                
+<signed>Margarita Flemate</signed>
+</closer>
+                
+</div1>
+
+<div1 type="envelope" xml:lang="en">
+
+<pb facs="shan_l.182.jpg"/>
+
+<ab type="return">
+<address>
+<addrLine>Margarita Flemate</addrLine>
+<addrLine>Gonzalez Ortega #37</addrLine>
+<addrLine>Juchipila, Zac.</addrLine>
+</address>
+</ab>
+
+<ab type="address">
+<address>
+<addrLine>Mrs.</addrLine>
+<addrLine>Jesusita Torrez</addrLine>
+<addrLine>814 Pacific ave 80621</addrLine>
+<addrLine>Ft. Lupton Colorado</addrLine>
+</address>
+</ab>
+
+<ab type="postmark">
+<unclear reason= "illegible"/><lb/>
+</ab>
+
+<figure type="stamp">
+<p></p>
+</figure>
+
+<pb facs="shan_l.183.jpg"/>
+
+<ab type="note">
+The Voce of Hope<lb/>
+Box 55, Los Angeles, California<lb/>
+Treasures of Life [Life Treasures/Life-giving Treasures]<lb/>
+</ab>
+
+</div1>
+
 </body>
         
 <back></back>

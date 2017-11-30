@@ -5,13 +5,14 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Envelope from Mr Mrs Schubert</title>
-<title type="main">Sobre de Mr Mrs Schubert</title>
-<author>Mr Mrs Schubert</author>
+<title type="main">Envelope from William F. Schubert and Santos Baros Schubert</title>
+<title type="main">Sobre de William F. Schubert y Santos Baros Schubert</title>
+<author>Schubert, William F. and Santos Baros Schubert</author>
 <principal xml:id="iv001">Velázquez, Isabel</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name xml:id="af">Faxas, Adoni A.</name>
+<name xml:id="sbg">Garcia, Sarita B.</name>
 </respStmt>
 </titleStmt>
 <editionStmt>
@@ -47,8 +48,8 @@
             
 <sourceDesc>
 <bibl>
-<author>Mr Mrs Schubert</author>
-<title level="m" type="main">Envelope from Mr Mrs Schubert</title>
+<author>Schubert, William F. and Santos Baros Schubert</author>
+<title level="m" type="main">Envelope from William F. Schubert and Santos Baros Schubert</title>
 <extent>envelope</extent>
 </bibl>
 <msDesc>
@@ -118,14 +119,16 @@
 <term></term>
 </keywords>
 </textClass>
-<particDesc>
-<person role="sender" xml:id="wfs001">
-<persName>Mr. Schubert</persName>
-</person>
-<person role="sender" xml:id="sbs001">
-<persName>Mrs. Schubert</persName>
-</person>
-</particDesc>
+<correspDesc>
+<correspAction type="sentBy">
+<persName xml:id="wfs001">Schubert, William F.</persName>
+<placeName></placeName>
+</correspAction>
+<correspAction type="sentBy">
+<persName xml:id="sbs001">Baros Schubert, Santos</persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
 </profileDesc>
         
 <revisionDesc>

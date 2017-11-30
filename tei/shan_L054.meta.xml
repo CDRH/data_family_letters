@@ -5,14 +5,15 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from Maximino Torres to Victoria Aviña, October 28, 1952</title>
-<title type="main">Carta de Maximino Torres a Victoria Aviña, 28 de octubre, 1952</title>
+<title type="main">Letter from Maximino Torres to Victoria Aviña Torres, October 28, 1952</title>
+<title type="main">Carta de Maximino Torres a Victoria Aviña Torres, 28 de octubre, 1952</title>
 <author>Torres, Maximino</author>
 <principal xml:id="iv001">Velázquez, Isabel</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name xml:id="af">Faxas, Adoni A.</name>
 <name xml:id="km">Mendell, Kate</name>
+<name xml:id="sbg">Garcia, Sarita B.</name>
 </respStmt>
 </titleStmt>
 <editionStmt>
@@ -48,8 +49,8 @@
             
 <sourceDesc>
 <bibl>
-<author>Maximino Torres</author>
-<title level="m" type="main">Letter from Maximino Torres to Victoria Aviña</title>
+<author>Torres, Maximino</author>
+<title level="m" type="main">Letter from Maximino Torres to Victoria Aviña Torres</title>
 <date when="1952-10-28">October 28, 1952</date>
 <extent>envelope</extent>
 </bibl>
@@ -120,14 +121,21 @@
 <term></term>
 </keywords>
 </textClass>
-<particDesc>
-<person role="sender" xml:id="vat001">
-<persName>Victoria Aviña</persName>
-</person>
-<person role="recipient" xml:id="mt001">
-<persName>Maximino Torres</persName>
-</person>
-</particDesc>
+<correspDesc>
+<correspAction type="sentBy">
+<persName xml:id="vat001">Aviña Torres, Victoria</persName>
+<placeName></placeName>
+<date type="postmarked" when="1952-10-28"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="mt001">Torres, Maximino</persName>
+<placeName></placeName>
+</correspAction>
+<correspContext>
+<ref type="prev" target="shan">Letter from x to y, date</ref>
+<ref type="next" target="shan">Letter from x to y, date</ref>
+</correspContext> 
+</correspDesc>
 </profileDesc>
         
 <revisionDesc>

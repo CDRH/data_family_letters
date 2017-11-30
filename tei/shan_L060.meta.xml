@@ -5,13 +5,14 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from R. Hurtado to Sr. Maxsimino Torrez, March 26, 1939</title>
-<title type="main">Carta de R. Hurtado to Sr. Maxsimino Torrez, 26 de marzo, 1939</title>
+<title type="main">Letter from Reynaldo Hurtado to Maximino Torres, March 26, 1939</title>
+<title type="main">Carta de Reynaldo Hurtado to Maximino Torres, 26 de marzo, 1939</title>
 <author>Hurtado, Reynaldo</author>
 <principal xml:id="iv001">Velázquez, Isabel</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name xml:id="af">Faxas, Adoni A.</name>
+<name xml:id="sbg">Garcia, Sarita B.</name>
 </respStmt>
 </titleStmt>
 <editionStmt>
@@ -48,7 +49,7 @@
 <sourceDesc>
 <bibl>
 <author>Hurtado, Reynaldo</author>
-<title level="m" type="main">Letter from R. Hurtado to Sr. Maxsimino Torrez</title>
+<title level="m" type="main">Letter from Reynaldo Hurtado to Maximino Torres</title>
 <date when="1939-03-26">March 26, 1939</date>
 <extent>envelope</extent>
 </bibl>
@@ -119,14 +120,21 @@
 <term></term>
 </keywords>
 </textClass>
-<particDesc>
-<person role="sender" xml:id="rh001">
-<persName>Reynaldo Hurtado</persName>
-</person>
-<person role="recipient" xml:id="mt001">
-<persName>Maximino Torres</persName>
-</person>
-</particDesc>
+<correspDesc>
+<correspAction type="sentBy">
+<persName xml:id="rh001">Hurtado, Reynaldo</persName>
+<placeName></placeName>
+<date type="postmarked" when="1939-03-26"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="mt001">Torres, Maximino</persName>
+<placeName></placeName>
+</correspAction>
+<correspContext>
+<ref type="prev" target="shan">Letter from x to y, date</ref>
+<ref type="next" target="shan">Letter from x to y, date</ref>
+</correspContext> 
+</correspDesc>
 </profileDesc>
         
 <revisionDesc>

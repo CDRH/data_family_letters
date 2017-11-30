@@ -5,14 +5,15 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from Jesusita Torres to Santos Baros Schubert, July 10, 1964</title>
-<title type="main">Carta de Jesusita Torres a Santos Baros Schubert, 10 de julio, 1964</title>
-<author>Torres, Jesusita</author>
+<title type="main">Letter from Jesusita Baros Torres to Santos Baros Schubert, July 10, 1964</title>
+<title type="main">Carta de Jesusita Baros Torres a Santos Baros Schubert, 10 de julio, 1964</title>
+<author>Baros Torres, Jesusita</author>
 <principal xml:id="iv001">Velázquez, Isabel</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name xml:id="jda">Avelar, Janette D.</name>
 <name xml:id="iv002">Velázquez, Isabel</name>
+<name xml:id="sbg">Garcia, Sarita B.</name>
 </respStmt>
 </titleStmt>
 <editionStmt>
@@ -48,8 +49,8 @@
             
 <sourceDesc>
 <bibl>
-<author>Jesusita Torres</author>
-<title level="m" type="main">Letter from Jesusita Torres to Santos Baros Schubert</title>
+<author>Baros Torres, Jesusita</author>
+<title level="m" type="main">Letter from Jesusita Baros Torres to Santos Baros Schubert</title>
 <date when="1964-07-10">July 10, 1964</date>
 <extent>3 pages</extent>
 </bibl>
@@ -120,14 +121,21 @@
 <term></term>
 </keywords>
 </textClass>
-<particDesc>
-<person role="sender" xml:id="jbt001">
-<persName>Jesusita Torres</persName>
-</person>
-<person role="recipient" xml:id="sbs001">
-<persName>Santos Baros Schubert</persName>
-</person>
-</particDesc>
+<correspDesc>
+<correspAction type="sentBy">
+<persName xml:id="jbt001">Baros Torres, Jesusita</persName>
+<placeName></placeName>
+<date type="written" when="1964-07-10"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="sbs001">Baros Schubert, Santos</persName>
+<placeName></placeName>
+</correspAction>
+<correspContext>
+<ref type="prev" target="shan">Letter from x to y, date</ref>
+<ref type="next" target="shan">Letter from x to y, date</ref>
+</correspContext> 
+</correspDesc>
 </profileDesc>
         
 <revisionDesc>
@@ -140,7 +148,7 @@
 <text>
 <body>
             
-<div1 type="letter">
+<div1 type="letter" xml:lang="es">
                 
 <pb facs="shan_l.096"/>
    
@@ -169,6 +177,48 @@ siga escribiendo; lla que tu no me escribes; bueno te platicare que vino la Sra 
 </closer>
                 
 </div1>
+
+<div1 type="letter" xml:lang="en">
+                
+<pb facs="shan_l.096"/>
+   
+<opener>
+
+<dateline>Ft, Lupton Colo</dateline>                    
+<add>July 10, -64</add>
+
+<salute>Dear daughter,</salute>
+</opener>
+                
+<p>This letter is to greet you all, hoping that you are well, like we are.</p>
+
+<p>I will tell you that I haven’t replied to Pamela because Kathy writes the letters in English for me and she is
+working, so she doesn’t have time. She doesn’t work on Sunday, but she gets up very late
+and I don’t see her. Jess is the one who takes me to mass and he tells me that she is
+sleeping, and well, in the afternoon I think she goes out with her boyfriend, and that is why
+I haven’t answered Pamela, but tell her to
+<pb facs="shan_l.098"/>
+
+keep writing, since you don’t write to me. Well, I will tell you that Mrs. Bossor came to visit
+Helen. She [Helen/Mrs. Bossor?] says that she is very ill. And yes, she is very, very thin;
+Helen says that she has an illness in the blood, she has anemia blood. After she left here she
+entered the hospital. I’ve been well. I don’t have to go to the hospital until October, on the
+12th. They suspended the shots, I’m only taking the tablets; and the diet, but I feel very
+well, thank God, who has been so good to us. I hope he is also good to you, because I ask his
+help for you and your husband and your family every day.</p>
+
+<pb facs="shan_l.099"/>
+
+<p>well daugther, I think this will be all for now. As always, I tell you not to forget us. Many
+regards to Pamela, especially to her. I trully appreciate that she writes to us, I understand
+[her letters] very well. Well, as always, receive my blessing, that I always [?]</p>
+
+<closer><salute>Your mom,</salute>        
+<signed>Jesusita Torres</signed>
+</closer>
+                
+</div1>
+
 </body>
         
 <back></back>

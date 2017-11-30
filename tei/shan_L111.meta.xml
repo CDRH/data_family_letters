@@ -5,14 +5,15 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from Jesusita B Torres to Mrs. W. F. Schubert, June, 24, 1963</title>
-<title type="main">Carta de Jesusita B Torres a Mrs. W. F. Schubert, 24 de junio, 1963</title>
-<author>Torres, Jesusita B</author>
+<title type="main">Letter from Jesusita Baros Torres to Santos Baros Schubert, June 23, 1963</title>
+<title type="main">Carta de Jesusita Baros Torres a Santos Baros Schubert, 23 de junio, 1963</title>
+<author>Baros Torres, Jesusita</author>
 <principal xml:id="iv001">Velázquez, Isabel</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name xml:id="af">Faxas, Adoni A.</name>
 <name xml:id="km">Mendell, Kate</name>
+<name xml:id="sbg">Garcia, Sarita B.</name>
 </respStmt>
 </titleStmt>
 <editionStmt>
@@ -48,9 +49,9 @@
             
 <sourceDesc>
 <bibl>
-<author>Torres, Jesusita B</author>
-<title level="m" type="main">Letter from Jesusita B Torres to Mrs. W. F. Schubert</title>
-<date when="1963-06-24">June 24, 1963</date>
+<author>Baros Torres, Jesusita</author>
+<title level="m" type="main">Letter from Jesusita Baros Torres to Santos Baros Schubert</title>
+<date when="1963-06-23">June 23, 1963</date>
 <extent>2 pages and envelope</extent>
 </bibl>
 <msDesc>
@@ -120,14 +121,22 @@
 <term></term>
 </keywords>
 </textClass>
-<particDesc>
-<person role="sender" xml:id="jbt001">
-<persName>Jesusita B Torres</persName>
-</person>
-<person role="recipient" xml:id="sbs001">
-<persName>Mrs. W. F. Schubert</persName>
-</person>
-</particDesc>
+<correspDesc>
+<correspAction type="sentBy">
+<persName xml:id="jbt001">Baros Torres, Jesusita</persName>
+<placeName></placeName>
+<date type="written" when="1963-06-23"/>
+<date type="postmarked" when="1963-06-24"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="sbs001">Baros Schubert, Santos</persName>
+<placeName></placeName>
+</correspAction>
+<correspContext>
+<ref type="prev" target="shan">Letter from x to y, date</ref>
+<ref type="next" target="shan">Letter from x to y, date</ref>
+</correspContext> 
+</correspDesc>
 </profileDesc>
         
 <revisionDesc>

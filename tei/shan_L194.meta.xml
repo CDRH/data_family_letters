@@ -5,13 +5,14 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from Mrs. F. N. Baca to Mrs. Bill Schubert, August 14, 1962</title>
-<title type="main">Carta de Mrs. F. N. Baca a Mrs. Bill Schubert, 14 de agosto, 1962</title>
-<author>Baca, Felipita</author>
+<title type="main">Letter from Felipita N. Baca to William F. Schubert and Santos Baros Schubert, August 14, 1962</title>
+<title type="main">Carta de Felipita N. Baca a William F. Schubert y Santos Baros Schubert, 14 de agosto, 1962</title>
+<author>Baca, Felipita N.</author>
 <principal xml:id="iv001">Velázquez, Isabel</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name xml:id="af">Faxas, Adoni A.</name>
+<name xml:id="sbg">Garcia, Sarita B. </name>
 </respStmt>
 </titleStmt>
 <editionStmt>
@@ -47,8 +48,8 @@
             
 <sourceDesc>
 <bibl>
-<author>Baca, Felipita</author>
-<title level="m" type="main">Letter from Mrs. F. N. Baca to Mrs. Bill Schubert</title>
+<author>Baca, Felipita N.</author>
+<title level="m" type="main">Letter from Felipita N. Baca to William F. Schubert y Santos Baros Schubert</title>
 <date when="1962-08-14">August 14, 1962</date>
 <extent>2 pages and envelope</extent>
 </bibl>
@@ -119,14 +120,26 @@
 <term></term>
 </keywords>
 </textClass>
-<particDesc>
-<person role="sender" xml:id="fnb001">
-<persName>Felipita Baca</persName>
-</person>
-<person role="recipient" xml:id="sbs001">
-<persName>Santos Baros Schubert</persName>
-</person>
-</particDesc>
+<correspDesc>
+<correspAction type="sentBy">
+<persName xml:id="fnb001">Baca, Felipita N.</persName>
+<placeName></placeName>
+<date type="written" when="1962-08-14"/>
+<date type="postmarked" when="1962-08-16"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="wfs001">Schubert, William F.</persName>
+<placeName></placeName>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="sbs001">Baros Schubert, Santos</persName>
+<placeName></placeName>
+</correspAction>
+<correspContext>
+<ref type="prev" target="shan">Letter from x to y, date</ref>
+<ref type="next" target="shan">Letter from x to y, date</ref>
+</correspContext> 
+</correspDesc>
 </profileDesc>
         
 <revisionDesc>

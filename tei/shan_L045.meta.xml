@@ -5,14 +5,15 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from Nemesio Samaniego to Jesusita B Torres, February 20, 1969</title>
-<title type="main">Carta de Nemesio Samaniego a Jesusita B Torres, 20 de febrero, 1969</title>
-<author>Samaniego, Nemesio</author>
+<title type="main">Letter from Nemecio Samaniego to Jesusita Baros Torres, February 20, 1969</title>
+<title type="main">Carta de Nemecio Samaniego a Jesusita Baros Torres, 20 de febrero, 1969</title>
+<author>Samaniego, Nemecio</author>
 <principal xml:id="iv001">Velázquez, Isabel</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name xml:id="jda">Avelar, Janette D.</name>
 <name xml:id="iv002">Velázquez, Isabel</name>
+<name xml:id="sbg">Garcia, Sarita B.</name>
 </respStmt>
 </titleStmt>
 <editionStmt>
@@ -48,8 +49,8 @@
             
 <sourceDesc>
 <bibl>
-<author>Nemesio Samaniego</author>
-<title level="m" type="main">Letter from Nemesio Samaniego to Jesusita B Torres</title>
+<author>Samaniego, Nemecio</author>
+<title level="m" type="main">Letter from Nemecio Samaniego to Jesusita Baros Torres</title>
 <date when="1969-02-20">February 20, 1969</date>
 <extent>1 page and envelope</extent>
 </bibl>
@@ -120,14 +121,22 @@
 <term></term>
 </keywords>
 </textClass>
-<particDesc>
-<person role="sender" xml:id="ns001">
-<persName>Nemesio Samaniego</persName>
-</person>
-<person role="recipient" xml:id="jbt001">
-<persName>Jesusita B Torres</persName>
-</person>
-</particDesc>
+<correspDesc>
+<correspAction type="sentBy">
+<persName xml:id="ns001">Samaniego, Nemecio</persName>
+<placeName></placeName>
+<date type="written" when="1969-02-20"/>
+<date type="postmarked" when="1969-02"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="jbt001">Baros Torres, Jesusita</persName>
+<placeName></placeName>
+</correspAction>
+<correspContext>
+<ref type="prev" target="shan">Letter from x to y, date</ref>
+<ref type="next" target="shan">Letter from x to y, date</ref>
+</correspContext> 
+</correspDesc>
 </profileDesc>
         
 <revisionDesc>
@@ -140,7 +149,7 @@
 <text>
 <body>
             
-<div1 type="letter">
+<div1 type="letter" xml:lang="es">
                 
 <pb facs="shan_l.188.jpg"/>
                 
@@ -193,6 +202,36 @@ ZAC<lb/>
 </figure>
 
 </div1>
+
+<div1 type="letter" xml:lang="en">
+                
+<pb facs="shan_l.188.jpg"/>
+                
+<opener>
+<address><addrLine>Juchipila. Zac.</addrLine></address>
+<dateline>February 20, 1969</dateline>
+
+<salute>Mrs. E Jesusita B T</salute>
+</opener>
+
+<p>my dear mom, I answer your letter where you tell me that you
+are well. I’m happy that you are well, because I am ill [I’ve been ill]. I’ve been taking
+some medicines to see if I get better. Well, I will also tell you that a check for 20
+dollars came with your letter. Thank you for remembering me and [crossed out] I
+will also tell you that my granddaughter Rosario says that you should come over
+here with me again, because I can’t go there with you. I will also tell you that
+Asención says that [illegible] on the 15 th of March.</p>
+
+<closer>
+<salute>Well mom, this will be all for now.
+Send my regards to [crossed out] to Mr. Maximino and Jesús Baros and his family,
+and receive the love of your son</salute> 
+                  
+<signed>Nemesio F Samaniego</signed>
+</closer>
+                
+</div1>
+
 </body>
         
 <back></back>

@@ -5,13 +5,14 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from WF Schubert to Mrs. Santos B. Schubert, December 16, 1947</title>
-<title type="main">Carta de WF Schubert a Mrs. Santos B. Schubert, 16 de diciembre, 1947</title>
-<author>Schubert, WF</author>
+<title type="main">Letter from William F. Schubert to Santos Baros Schubert, December 16, 1947</title>
+<title type="main">Carta de William F. Schubert a Santos Baros Schubert, 16 de diciembre, 1947</title>
+<author>Schubert, William F.</author>
 <principal xml:id="iv001">Velázquez, Isabel</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name xml:id="af">Faxas, Adoni A.</name>
+<name xml:id="sbg">Garcia, Sarita B.</name>
 </respStmt>
 </titleStmt>
 <editionStmt>
@@ -47,8 +48,8 @@
             
 <sourceDesc>
 <bibl>
-<author>Schubert, WF</author>
-<title level="m" type="main">Letter from WF Schubert to Mrs. Santos B. Schubert</title>
+<author>Schubert, William F.</author>
+<title level="m" type="main">Letter from William F. Schubert to Santos Baros Schubert</title>
 <date when="1947-12-16">December 16, 1947</date>
 <extent>4 pages and envelope</extent>
 </bibl>
@@ -119,14 +120,22 @@
 <term></term>
 </keywords>
 </textClass>
-<particDesc>
-<person role="sender" xml:id="wfs001">
-<persName>WF Schubert</persName>
-</person>
-<person role="recipient" xml:id="sbs001">
-<persName>Mrs. Santos B. Schubert</persName>
-</person>
-</particDesc>
+<correspDesc>
+<correspAction type="sentBy">
+<persName xml:id="wfs001">Schubert, William F.</persName>
+<placeName></placeName>
+<date type="written" when="1947-12-16"/>
+<date type="postmarked" when="1947-12-18"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="sbs001">Baros Schubert, Santos</persName>
+<placeName></placeName>
+</correspAction>
+<correspContext>
+<ref type="prev" target="shan">Letter from x to y, date</ref>
+<ref type="next" target="shan">Letter from x to y, date</ref>
+</correspContext> 
+</correspDesc>
 </profileDesc>
         
 <revisionDesc>

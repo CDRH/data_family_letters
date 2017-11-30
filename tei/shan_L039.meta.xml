@@ -5,14 +5,15 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from Reynaldo Hurtado to Maximino Torrez, September 10, 1939</title>
-<title type="main">Carta de Reynaldo Hurtado a Maximino Torrez, 10 de septiembre, 1939</title>
+<title type="main">Letter from Reynaldo Hurtado to Maximino Torres, September 10, 1939</title>
+<title type="main">Carta de Reynaldo Hurtado a Maximino Torres, 10 de septiembre, 1939</title>
 <author>Hurtado, Reynaldo</author>
 <principal xml:id="iv001">Velázquez, Isabel</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name xml:id="af">Faxas, Adoni</name>
 <name xml:id="km">Mendell, Kate</name>
+<name xml:id="sbg">Garcia, Sarita B</name>
 </respStmt>
 </titleStmt>
 <editionStmt>
@@ -49,7 +50,7 @@
 <sourceDesc>
 <bibl>
 <author>Hurtado, Reynaldo</author>
-<title level="m" type="main">Letter from Reynaldo Hurtado to Maximino Torrez</title>
+<title level="m" type="main">Letter from Reynaldo Hurtado to Maximino Torres</title>
 <date when="1939-09-10">September 10, 1939</date>
 <extent>2 pages and envelope</extent>
 </bibl>
@@ -120,14 +121,22 @@
 <term></term>
 </keywords>
 </textClass>
-<particDesc>
-<person role="sender" xml:id="rh001">
-<persName>Reynaldo Hurtado</persName>
-</person>
-<person role="recipient" xml:id="mt001">
-<persName>Maximino Torres</persName>
-</person>
-</particDesc>
+<correspDesc>
+<correspAction type="sentBy">
+<persName xml:id="rh001">Hurtado, Reynaldo</persName>
+<placeName></placeName>
+<date type="written" when="1939-09-10"/>
+<date type="postmarked" when="1939-09-10"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="mt001">Torres, Maximino</persName>
+<placeName></placeName>
+</correspAction>
+<correspContext>
+<ref type="prev" target="shan">Letter from x to y, date</ref>
+<ref type="next" target="shan">Letter from x to y, date</ref>
+</correspContext> 
+</correspDesc>
 </profileDesc>
         
 <revisionDesc>
@@ -140,7 +149,7 @@
 <text>
 <body>
             
-<div1 type="letter">
+<div1 type="letter" xml:lang="es">
                 
 <pb facs="shan_l.128.jpg"/>
                 
@@ -200,6 +209,44 @@ SEP 10<lb/>
 </figure>
 
 </div1>
+
+<div1 type="letter" xml:lang="en">
+                
+<pb facs="shan_l.128.jpg"/>
+                
+<opener>
+<dateline>9/10/39</dateline>
+<add>Chicago Ill.</add>
+
+<salute>Sr. Maxsimino Torrez my dear sir and esteemed friend,</salute>
+</opener>
+                
+<p>I write this letter to greet you and your loved ones, wishing that when this letter reaches your hands you are in good health as
+my family and I are doing,</p>
+
+<p>thank God, and after greeting you I inform you that I have with me your kind letter of recent date, which I
+now proceed to answer with pleasure. And about your money, I want you to do me the
+favor of waiting for me a few months because I have begun to have some injections applied
+and they cost me 300 pesos each, and I’m being given four per month, and that is why what
+I earn is not enough. Look Maxsimino, if you can’t get a job here, go over there. You can get
+a job, they are hiring people in the factories and the foundries now, and once you are there
+I can begin to send you payments of 5 or 10 pesos each month. But if you can’t</p>
+
+<pb facs="shan_l.129.jpg"/>
+
+<p>go because you might be married, my plan is to do like I tell you, to send you five pesos
+each month or two. Next, receive regards from my family and from me, receive sincerest
+and cordial regards</p>
+
+ <closer><salute>Your loving friend and obedient servant.</salute>                    
+<signed>Reynaldo Hurtado</signed>
+</closer>
+
+<postscript><p>a[I augment/I add/Addition/PS] maxsimino if you wish to go to Chicago my house is at your
+disposal, and don’t forget to let me know about Eliodoro Abiña</p></postscript>
+                
+</div1>
+
 </body>
         
 <back></back>

@@ -5,13 +5,14 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from Unknown to Mrs. W.F. Schubert, June 4, 1959</title>
-<title type="main">Carta de Desconocido a Mrs. W.F. Schubert, 04 de junio, 1959</title>
+<title type="main">Letter from Unknown to Santos Baros Schubert, June 4, 1959</title>
+<title type="main">Carta de Desconocido a Santos Baros Schubert, 04 de junio, 1959</title>
 <author>Unknown</author>
 <principal xml:id="iv001">Velázquez, Isabel</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name xml:id="af">Faxas, Adoni A.</name>
+<name xml:id="sbg">Garcia, Sarita B.</name>
 </respStmt>
 </titleStmt>
 <editionStmt>
@@ -48,7 +49,7 @@
 <sourceDesc>
 <bibl>
 <author>Unknown</author>
-<title level="m" type="main">Letter from Unknown to Mrs. W.F. Schubert</title>
+<title level="m" type="main">Letter from Unknown to Santos Baros Schubert</title>
 <date when="1959-06-04">June 4, 1959</date>
 <extent>envelope</extent>
 </bibl>
@@ -119,14 +120,21 @@
 <term></term>
 </keywords>
 </textClass>
-<particDesc>
-<person role="sender" xml:id="u001">
-<persName>Unknown</persName>
-</person>
-<person role="recipient" xml:id="sbs001">
-<persName>Mrs. W.F. Schubert</persName>
-</person>
-</particDesc>
+<correspDesc>
+<correspAction type="sentBy">
+<persName xml:id="u001">Unknown</persName>
+<placeName></placeName>
+<date type="postmarked" when="1959-06-04"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="sbs001">Baros Schubert, Santos</persName>
+<placeName></placeName>
+</correspAction>
+<correspContext>
+<ref type="prev" target="shan">Letter from x to y, date</ref>
+<ref type="next" target="shan">Letter from x to y, date</ref>
+</correspContext> 
+</correspDesc>
 </profileDesc>
         
 <revisionDesc>

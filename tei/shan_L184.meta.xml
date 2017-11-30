@@ -5,13 +5,14 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Envelope from Nemesio Samaniego to Jesusita B. Torres, October 19, 1959</title>
-<title type="main">Sobre de Nemesio Samaniego a Jesusita B. Torres, 19 de octubre, 1959</title>
-<author>Samaniego, Nemesio</author>
+<title type="main">Envelope from Nemecio Samaniego to Jesusita Baros Torres, October 19, 1959</title>
+<title type="main">Sobre de Nemecio Samaniego a Jesusita Baros Torres, 19 de octubre, 1959</title>
+<author>Samaniego, Nemecio</author>
 <principal xml:id="iv001">Velázquez, Isabel</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name xml:id="af">Faxas, Adoni A.</name>
+<name xml:id="sbg">Garcia, Sarita B.</name>
 </respStmt>
 </titleStmt>
 <editionStmt>
@@ -47,8 +48,8 @@
             
 <sourceDesc>
 <bibl>
-<author>Samaniego, Nemesio</author>
-<title level="m" type="main">Envelope from Nemesio Samaniego to Jesusita B. Torres</title>
+<author>Samaniego, Nemecio</author>
+<title level="m" type="main">Envelope from Nemecio Samaniego to Jesusita Baros Torres</title>
 <date when="1959-10-19">October 19, 1959</date>
 <extent>envelope</extent>
 </bibl>
@@ -119,14 +120,21 @@
 <term></term>
 </keywords>
 </textClass>
-<particDesc>
-<person role="sender" xml:id="ns001">
-<persName>Nemecio Samaniego</persName>
-</person>
-<person role="recipient" xml:id="jbt001">
-<persName>Jesusita Baros Torres</persName>
-</person>
-</particDesc>
+<correspDesc>
+<correspAction type="sentBy">
+<persName xml:id="ns001">Samaniego, Nemecio</persName>
+<placeName></placeName>
+<date type="postmarked" when="1959-10-19"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="jbt001">Baros Torres, Jesusita</persName>
+<placeName></placeName>
+</correspAction>
+<correspContext>
+<ref type="prev" target="shan">Letter from x to y, date</ref>
+<ref type="next" target="shan">Letter from x to y, date</ref>
+</correspContext> 
+</correspDesc>
 </profileDesc>
         
 <revisionDesc>

@@ -5,13 +5,14 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from Ascensión Beltrán to Sr. Ricardo Núñez, February 04, 1976</title>
-<title type="main">Carta de Ascensión Beltrán a Sr. Ricardo Núñez, 04 de febrero, 1976</title>
+<title type="main">Letter from Ascensión Beltrán to Ricardo Núñez, February 04, 1976</title>
+<title type="main">Carta de Ascensión Beltrán a Ricardo Núñez, 04 de febrero, 1976</title>
 <author>Beltrán, Ascensión</author>
 <principal xml:id="iv001">Velázquez, Isabel</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name xml:id="af">Faxas, Adoni A.</name>
+<name xml:id="sbg">Garcia, Sarita B.</name>
 </respStmt>
 </titleStmt>
 <editionStmt>
@@ -48,7 +49,7 @@
 <sourceDesc>
 <bibl>
 <author>Beltrán, Ascensión</author>
-<title level="m" type="main">Letter from Ascensión Beltrán to Sr. Ricardo Núñez</title>
+<title level="m" type="main">Letter from Ascensión Beltrán to Ricardo Núñez</title>
 <date when="1976-02-04">February 04, 1976</date>
 <extent>envelope</extent>
 </bibl>
@@ -119,14 +120,21 @@
 <term></term>
 </keywords>
 </textClass>
-<particDesc>
-<person role="sender" xml:id="ab001">
-<persName>Ascensión Beltrán</persName>
-</person>
-<person role="recipient" xml:id="rn001">
-<persName>Ricardo Núñez</persName>
-</person>
-</particDesc>
+<correspDesc>
+<correspAction type="sentBy">
+<persName xml:id="ab001">Beltrán, Ascensión</persName>
+<placeName></placeName>
+<date type="postmarked" when="1976-02-04"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="rn001">Núñez, Ricardo</persName>
+<placeName></placeName>
+</correspAction>
+<correspContext>
+<ref type="prev" target="shan">Letter from x to y, date</ref>
+<ref type="next" target="shan">Letter from x to y, date</ref>
+</correspContext> 
+</correspDesc>
 </profileDesc>
         
 <revisionDesc>

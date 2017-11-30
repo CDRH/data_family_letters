@@ -5,14 +5,15 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from Jesusita B Torres to Sandra B Schubert</title>
-<title type="main">Carta de Jesusita B Torres a Sandra B Schubert</title>
-<author>Torres, Jesusita B</author>
+<title type="main">Letter from Jesusita Baros Torres to Santos Baros Schubert</title>
+<title type="main">Carta de Jesusita Baros Torres a Santos Baros Schubert</title>
+<author>Baros Torres, Jesusita</author>
 <principal xml:id="iv001">Velázquez, Isabel</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name xml:id="jda">Avelar, Janette D.</name>
 <name xml:id="km">Mendell, Kate</name>
+<name xml:id="sbg">Garcia, Sarita B.</name>
 </respStmt>
 </titleStmt>
 <editionStmt>
@@ -48,8 +49,8 @@
             
 <sourceDesc>
 <bibl>
-<author>Jesusita B Torres</author>
-<title level="m" type="main">Letter from Jesusita B Torres to Sandra B Schubert</title>
+<author>Baros Torres, Jesusita</author>
+<title level="m" type="main">Letter from Jesusita Baros Torres to Santos Baros Schubert</title>
 <extent>3 pages</extent>
 </bibl>
 <msDesc>
@@ -119,14 +120,20 @@
 <term></term>
 </keywords>
 </textClass>
-<particDesc>
-<person role="sender" xml:id="jbt001">
-<persName>Jesusita B Torres</persName>
-</person>
-<person role="recipient" xml:id="sbs002">
-<persName>Sandra B Schubert</persName>
-</person>
-</particDesc>
+<correspDesc>
+<correspAction type="sentBy">
+<persName xml:id="jbt001">Baros Torres, Jesusita</persName>
+<placeName></placeName>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="sbs001">Baros Schubert, Santos</persName>
+<placeName></placeName>
+</correspAction>
+<correspContext>
+<ref type="prev" target="shan">Letter from x to y, date</ref>
+<ref type="next" target="shan">Letter from x to y, date</ref>
+</correspContext> 
+</correspDesc>
 </profileDesc>
         
 <revisionDesc>
@@ -139,7 +146,7 @@
 <text>
 <body>
             
-<div1 type="letter">
+<div1 type="letter" xml:lang="es">
                 
 <pb facs="shan_l.236"/>
                 
@@ -176,6 +183,63 @@
 <postscript><p>recive tu Bendición</p></postscript>
                 
 </div1>
+
+<div1 type="letter" xml:lang="en">
+                
+<pb facs="shan_l.236"/>
+                
+<opener>
+
+<address><addrLine>ft, Lupton colo</addrLine></address>
+<fw>1</fw>
+
+<salute>Dear daughter</salute>
+</opener>
+
+<p>this letter is to greet you you, your husband and the kids. I received your
+Grandmother Card that Billy boy sent me. I hope you are well and feeling better.</p>
+                
+<p>Well, Max is working here now, and there is always work around the house. But Helen told me that she is very
+pleased because she will have a new goddaughter, and Kathy says it’s a sister, how nice. It seems
+like she likes babies a lot. And she also told me that you are coming here to Fort Lupton, well
+now I know, so I won’t rent out the rooms. You know, it took me a little while to respond to you
+because I have been very sick; I was truly sick. You know that I have to take pills every day and
+I ran out, and I</p>
+
+<pb facs="shan_l.238.jpg"/>
+
+<fw>2</fw>
+
+<p>thought I was alright, and I didn’t take them for a day and that night I woke up gasping and I
+couldn’t even breathe, and I almost couldn’t speak. I woke up about 11:30 that night, and I was
+like that until three in the morning when Max went to tell Jess that I was very sick. So then Jess
+called the doctor, Federico, because he is taking care of me. He came around about 4:30 in the
+morning and gave me a shot and pills, and now I’m very well, thanks to my loving God, but yes I
+almost died. But don’t worry, because now I’m well. The doctor told them to take me to the
+hospital for an examination to find out what’s wrong with me, so now they’re taking me on
+Saturday, June 6, and if they find me really ill they will leave me there only one or two weeks</p>
+
+<pb facs="shan_l.239.jpg"/>
+
+<fw>3</fw>
+
+<p>I think, because now I feel really well, so I tell you, don’t trouble yourself. Max is working and I
+think this will be all for now. Many regards [warm regards/love] for all, from Max, Jesse and
+family, and from me, your mother [mom] who wishes you much happiness. Kathy says that she
+does want to visit you but that her mom wont let her, and [add]Jerry[/add] is working. I wish Billy boy
+would like to come here with us. There is a lot of beet now. Max is [working] here with the
+Japanese; he has 20 acres that are very close to the house.</p>
+
+<closer>  
+<salute>Well daughter, I wish you always blessings in everything, your mom who wishes she could be closer to you all,</salute>  
+                
+<signed>Jesusita B. Torres</signed>
+</closer>
+
+<postscript><p>Receive my blessing.</p></postscript>
+                
+</div1>
+
 </body>
         
 <back></back>

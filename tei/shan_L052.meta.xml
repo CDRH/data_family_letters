@@ -5,14 +5,15 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Note by Jesusita Baros</title>
-<title type="main">Nota de Jesusita Baros</title>
-<author>Baros, Jesusita</author>
+<title type="main">Note by Jesusita Baros Torres</title>
+<title type="main">Nota de Jesusita Baros Torres</title>
+<author>Baros Torres, Jesusita</author>
 <principal xml:id="iv001">Velázquez, Isabel</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name xml:id="jda">Avelar, Janette D.</name>
 <name xml:id="km">Mendell, Kate</name>
+<name xml:id="sbg">Garcia, Sarita B.</name>
 </respStmt>
 </titleStmt>
 <editionStmt>
@@ -48,8 +49,8 @@
             
 <sourceDesc>
 <bibl>
-<author>Jesusita Baros</author>
-<title level="m" type="main">Note by Jesusita Baros</title>
+<author>Baros Torres, Jesusita</author>
+<title level="m" type="main">Note by Jesusita Baros Torres</title>
 <extent>1 page</extent>
 </bibl>
 <msDesc>
@@ -121,7 +122,7 @@
 </textClass>
 <particDesc>
 <person role="author" xml:id="jbt001">
-<persName>Jesusita Baros</persName>
+<persName>Baros Torres, Jesusita</persName>
 </person>
 </particDesc>
 </profileDesc>

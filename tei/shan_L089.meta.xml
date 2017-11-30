@@ -5,14 +5,15 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from Jesusita B Torres to Santos B Schubert, July 5, 1958</title>
-<title type="main">Carta de Jesusita B Torres a Santos B Schubert, 05 de julio, 1958</title>
-<author>Torres, Jesusita B</author>
+<title type="main">Letter from Jesusita Baros Torres to Santos Baros Schubert, July 5, 1958</title>
+<title type="main">Carta de Jesusita Baros Torres a Santos Baros Schubert, 05 de julio, 1958</title>
+<author>Baros Torres, Jesusita</author>
 <principal xml:id="iv001">Velázquez, Isabel</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name xml:id="af">Faxas, Adoni A.</name>
 <name xml:id="iv">Velázquez, Isabel</name>
+<name xml:id="sbg">Garcia, Sarita B.</name>
 </respStmt>
 </titleStmt>
 <editionStmt>
@@ -48,8 +49,8 @@
             
 <sourceDesc>
 <bibl>
-<author>Torres, Jesusita B</author>
-<title level="m" type="main">Jesusita B Torres to Santos B Schubert</title>
+<author>Baros Torres, Jesusita</author>
+<title level="m" type="main">Jesusita Baros Torres to Santos Baros Schubert</title>
 <date when="1958-07-05">July 5, 1958</date>
 <extent>3 pages and envelope</extent>
 </bibl>
@@ -120,14 +121,22 @@
 <term></term>
 </keywords>
 </textClass>
-<particDesc>
-<person role="sender" xml:id="jbt001">
-<persName>Jesusita B Torres</persName>
-</person>
-<person role="recipient" xml:id="sbs001">
-<persName>Santos B Schubert</persName>
-</person>
-</particDesc>
+<correspDesc>
+<correspAction type="sentBy">
+<persName xml:id="jbt001">Baros Torres, Jesusita</persName>
+<placeName></placeName>
+<date type="written" when="1958-07-04"/>
+<date type="postmarked" when="1958-07-05"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="sbs001">Baros Schubert, Santos</persName>
+<placeName></placeName>
+</correspAction>
+<correspContext>
+<ref type="prev" target="shan">Letter from x to y, date</ref>
+<ref type="next" target="shan">Letter from x to y, date</ref>
+</correspContext> 
+</correspDesc>
 </profileDesc>
         
 <revisionDesc>
@@ -141,7 +150,7 @@
 <text>
 <body>
             
-<div1 type="letter">
+<div1 type="letter" xml:lang="es">
                 
 <pb facs="shan_l.306.jpg"/>
                 
@@ -210,6 +219,44 @@ COLO.<lb/>
 <p><unclear reason= "torn"/></p>
 </figure>
 
+</div1>
+
+<div1 type="letter" xml:lang="en">
+                
+<pb facs="shan_l.306.jpg"/>
+                
+<opener>
+<address><addrLine>Ft. Lupton Colo</addrLine></address>
+<dateline>July 4-1958</dateline>
+
+<salute>Dear daughter,</salute>
+</opener>
+
+<p>this is to greet you all, wishing as always that you are all well, as we are too, thank God.</p>
+                
+<p>Well, I got your letter and was happy to see you sent photos. How pretty, they all came out quite well. Thank you for writing daughter it had been a while since you last wrote.</p>
+
+<p>Well, today is the fourth of July and I didn’t go anywhere because my leg is hurting a little. I’m going to the doctor; he’s giving me shots, I feel quite well with the shots.</p>
+
+<pb facs="shan_l.308.jpg"/>
+
+<p>I thank God that Billy boy is well now;</p>
+
+<p>you tell me that he has to go swimming [to swimming classes?];</p>
+
+<p>how is Bill doing? You write so little. How is your mother in law [Literal: “your mama mother in law”] doing? I hope she is better.</p>
+
+<p>Well daughter, you tell me you are coming, do write me three or four days ahead of time, you know, at least so I can have the house clean. You also ask me what I need for my birthday;</p>
+
+<p>you know, what I would like is a winter nightgown that I’m needing. If you can, if you cannot, I am happy with you all coming for a visit, hopefully for a month;</p>
+
+<pb facs="shan_l.309.jpg"/>
+
+<closer>
+<salute>Well, receive my regards for all of you. I hope you come soon, before the flowers are gone. Your mom [mother?]</salute>  
+<signed>Jesusita B. Torres</signed>
+</closer>
+                
 </div1>
 
 </body>

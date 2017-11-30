@@ -5,15 +5,16 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from Jesusita Baros Torres to Santos Baros Schubert, January 1, 1964</title>
-<title type="main">Carta de Jesusita Baros Torres a Santos Baros Schubert, 1 de enero, 1964</title>
-<author>Torres, Jesusita</author>
+<title type="main">Letter from Jesusita Baros Torres to Santos Baros Schubert, January 01, 1964</title>
+<title type="main">Carta de Jesusita Baros Torres a Santos Baros Schubert, 01 de enero, 1964</title>
+<author>Baros Torres, Jesusita</author>
 <principal xml:id="iv001">Velázquez, Isabel</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name xml:id="af">Faxas, Adoni</name>
 <name xml:id="jda">Avelar, Janette D.</name>
 <name xml:id="km">Mendell, Kate</name>
+<name xml:id="sbg">Garcia, Sarita B.</name>
 </respStmt>
 </titleStmt>
 <editionStmt>
@@ -49,9 +50,9 @@
             
 <sourceDesc>
 <bibl>
-<author>Jesusita Baros Torres</author>
+<author>Baros Torres, Jesusita</author>
 <title level="m" type="main">Letter from Jesusita Baros Torres to Santos Baros Schubert</title>
-<date when="1964-01-01">January 1, 1964</date>
+<date when="1964-01-02">January 2, 1964</date>
 <extent>3 pages and envelope</extent>
 </bibl>
 <msDesc>
@@ -121,14 +122,22 @@
 <term></term>
 </keywords>
 </textClass>
-<particDesc>
-<person role="sender" xml:id="jbt001">
-<persName>Jesusita Baros Torres</persName>
-</person>
-<person role="recipient" xml:id="sbs001">
-<persName>Santos Baros Schubert</persName>
-</person>
-</particDesc>
+<correspDesc>
+<correspAction type="sentBy">
+<persName xml:id="jbt001">Baros Torres, Jesusita</persName>
+<placeName></placeName>
+<date type="written" when="1964-01-01"/>
+<date type="postmarked" when="1964-01-02"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="sbs001">Baros Schubert, Santos</persName>
+<placeName></placeName>
+</correspAction>
+<correspContext>
+<ref type="prev" target="shan">Letter from x to y, date</ref>
+<ref type="next" target="shan">Letter from x to y, date</ref>
+</correspContext> 
+</correspDesc>
 </profileDesc>
         
 <revisionDesc>
@@ -142,7 +151,7 @@
 <text>
 <body>
             
-<div1 type="letter">
+<div1 type="letter" xml:lang="es">
                 
 <pb facs="shan_l.681.jpg"/>
                   
@@ -212,6 +221,42 @@ COLO.<lb/>
 
 </div1>
 
+<div1 type="letter" xml:lang="es">
+                
+<pb facs="shan_l.681.jpg"/>
+                  
+<opener>
+<address><addrLine>Ft Lupton Colo</addrLine></address>
+<dateline>Jan 1. -64.</dateline>
+<salute>My dear daughter</salute>
+</opener>
+
+<p>this letter is to greet everyone;</p>
+
+<p>wishing that you all spent a very good Christmas; well we were very happy, we spent the evening with my comadre, Naty.</p>
+
+<p>We made a very good supper, and afterwards we went to midnight mass. I
+received <add resp="km">a</add> Christmas <add resp="km">present</add>from Jesse and from Helen they the gave me a pair
+of shoes and an apron, and also from Betty Baca, who sent me a Christmas card and $5.00 and also the things that you all sent me. Well Max liked the long johns that you</p>
+
+<pb facs="shan_l.682.jpg"/>
+
+<p>sent him. I did too. Thank you so much for everything. I will tell you that today is New Years and it’s a pretty day with a lot of sun,</p>
+
+<p>but for Christmas there was a lot of snow. Frances really liked what you sent her. She said thank you very much;</p>
+
+<p>Well, I don’t have much news. I think that’s all now. And also want to tell you why do you
+take care of other people’s babies, I think that you have enough work at home and you don’t have much need to struggle with other people’s families; I think this is why you are so thin. Take care of yourself, because if you don’t, who do you expect will. What’s more, I think this is why you don’t have time to write to me.</p>
+
+<pb facs="shan_l.683.jpg"/>
+
+<p>Well, God will help you. Many regards to all. Tell Roberto to write me, and Pamela too, and <add resp="km">tell</add> Billy Boy to write me because I feel bad when I hear nothing from you all. Well, receive the most sincere regards from us. I wish for you a happy new year and prosperity, your mom <add resp="km">who</add> wishes you God’s blessings.</p>
+
+<closer>
+<signed>Jesusita B. Torres</signed>
+</closer>
+
+</div1>
 </body>
         
 <back></back>

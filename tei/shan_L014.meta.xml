@@ -5,14 +5,15 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from Jesús Samaniego to Jesusita Baros, December 02, 1934</title>
-<title type="main">Carta de Jesús Samaniego a Jesusita Baros, 02 de diciembre, 1934</title>
-<author>Samaniego, Jesús</author>
+<title type="main">Letter from José Jesús Samaniego to Jesusita BarosTorres, December 02, 1934</title>
+<title type="main">Carta de José Jesús Samaniego a Jesusita Baros Torres, 02 de diciembre, 1934</title>
+<author>Samaniego, José Jesús</author>
 <principal xml:id="iv001">Velázquez, Isabel</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name xml:id="jda">Avelar, Janette D.</name>
 <name xml:id="iv002">Velázquez, Isabel</name>
+<name xml:id="sbg">Garcia, Sarita B.</name>
 </respStmt>
 </titleStmt>
 <editionStmt>
@@ -48,9 +49,9 @@
             
 <sourceDesc>
 <bibl>
-<author>Samaniego, Jesús</author>
-<title level="m" type="main">Letter from Jesús Samaniego to Jesusita Baros</title>
-<date when="1926-03-18">March 18, 1926</date>
+<author>Samaniego, José Jesús</author>
+<title level="m" type="main">Letter from Jesús Samaniego to Jesusita Baros Torres</title>
+<date when="1934-12-02">December 02, 1934</date>
 <extent>2 pages and envelope</extent>
 </bibl>
 <msDesc>
@@ -120,14 +121,22 @@
 <term></term>
 </keywords>
 </textClass>
-<particDesc>
-<person role="sender" xml:id="js001">
-<persName>Jesús Samaniego</persName>
-</person>
-<person role="recipient" xml:id="jbt001">
-<persName>Jesusita Baros Torres</persName>
-</person>
-</particDesc>
+<correspDesc>
+<correspAction type="sentBy">
+<persName xml:id="js001">Samaniego, José Jesús</persName>
+<placeName></placeName>
+<date type="written" when="1934-12-02"/>
+<date type="postmarked" when="1934-12-05"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="jbt001">Baros Torres, Jesusita</persName>
+<placeName></placeName>
+</correspAction>
+<correspContext>
+<ref type="prev" target="shan">Letter from x to y, date</ref>
+<ref type="next" target="shan">Letter from x to y, date</ref>
+</correspContext> 
+</correspDesc>
 </profileDesc>
         
 <revisionDesc>
@@ -140,7 +149,7 @@
 <text>
 <body>
             
-<div1 type="letter">
+<div1 type="letter" xml:lang="es">
                 
 <pb facs="shan_l.054.jpg"/>
    
@@ -209,6 +218,40 @@ AGUASCALIENTES<lb/>
 -5 DIC.33. 2:45<lb/>
 <unclear reason="illegible"/><lb/>
 </ab>
+
+</div1>
+
+<div1 type="letter" xml:lang="en">
+                
+<pb facs="shan_l.054.jpg"/>
+   
+<opener>
+<address><addrLine>juchipila za.</addrLine></address>
+<dateline>December 2 1934</dateline>
+<salute>Mrs eliboria Flemate</salute>
+</opener>
+
+<p>my kind and loving mother this <add resp="iv001">letter</add> serves me to greet you wishing you are well and <add resp="iv001">the letter</add> that is leaving me with
+today’s date leaves me without news thank God</p> 
+
+<p>well mom after greeting you with the same love as always I tell you the following mom I am ashamed because I took so long to answer you. 
+You will think that it is because of lack of will but it’s not so. The truth is this in the first place I was harvesting my <certainty locus="name" cert="medium"><desc>mo loncos</desc></certainty> and one day maybe I was irritated on the <certainty locus="name" cert="medium"><desc>by the</desc></certainty> and I put the basket down and I felt a <add resp="iv001">small</add> pain on my back and I was ill for 15 days but it seems that I am better. Well mom about what I had mentioned about my departure and you told me right away that I should wait for my uncle Demetrio I spoke with him and he tells me this, that he is afraid but that if suddenly the door closes for him that he would then start the journey
+
+<pb facs="shan_l.055.jpg"/>
+
+well mom I do and obey what you say and I’m going to wait for him until April and if he doesn’t move by then I, it’s easy that I go. I always want to tell you that I have
+taken the step anyway and you will know what to do from there. I will leave alone I am leaving my wife with her parents and it’s all <add resp="iv001"> that I want to tell you</add> for now.</p>
+                
+<closer>
+<salute>Give my regards to Chuy and Santos. Receive my wife’s greetings and from me receive the finest
+regards from your son who wishes you happiness <app loc="1"><rdg>joys</rdg></app></salute>
+<signed>J. Jesus Samaniego</signed>
+</closer>
+
+<postscript>
+<p>This is my address<lb/>
+63 Rosales Street</p>
+</postscript>
 
 </div1>
 </body>

@@ -7,12 +7,13 @@
 <titleStmt>
 <title type="main">Letter from Jesusita Baros Torres to Unknown</title>
 <title type="main">Carta de Jesusita Baros Torres a Desconocido</title>
-<author>Jesusita Baros Torres</author>
+<author>Baros Torres, Jesusita</author>
 <principal xml:id="iv001">Velázquez, Isabel</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name xml:id="jda">Avelar, Janette D.</name>
 <name xml:id="iv">Velázquez, Isabel</name>
+<name xml:id="sbg">Garcia, Sarita B.</name>
 </respStmt>
 </titleStmt>
 <editionStmt>
@@ -48,7 +49,7 @@
             
 <sourceDesc>
 <bibl>
-<author>Jesusita Baros Torres</author>
+<author>Baros Torres, Jesusita</author>
 <title level="m" type="main">Letter from Jesusita Baros Torres to Unknown</title>
 <extent>2 pages</extent>
 </bibl>
@@ -119,14 +120,12 @@
 <term></term>
 </keywords>
 </textClass>
-<particDesc>
-<person role="sender" xml:id="jbt001">
-<persName>Jesusita Baros Torres</persName>
-</person>
-<person role="recipient" xml:id="u001">
-<persName>Unknown</persName>
-</person>
-</particDesc>
+<correspDesc>
+<correspAction type="author">
+<persName xml:id="jbt001">Baros Torres, Jesusita</persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
 </profileDesc>
         
 <revisionDesc>

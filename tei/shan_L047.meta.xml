@@ -5,14 +5,15 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from Demetrio Flemate to Jesusita Torrez, October 18, 1975</title>
-<title type="main">Carta de Demetrio Flemate a Jesusita Torrez, 18 de octubre, 1975</title>
+<title type="main">Letter from Demetrio Flemate to Jesusita Baros Torres, October 18, 1975</title>
+<title type="main">Carta de Demetrio Flemate a Jesusita Baros Torres, 18 de octubre, 1975</title>
 <author>Flemate, Demetrio</author>
 <principal xml:id="iv001">Velázquez, Isabel</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name xml:id="jda">Avelar, Janette D.</name>
 <name xml:id="iv002">Velázquez, Isabel</name>
+<name xml:id="sbg">Garcia, Sarita B.</name>
 </respStmt>
 </titleStmt>
 <editionStmt>
@@ -48,8 +49,8 @@
             
 <sourceDesc>
 <bibl>
-<author>Demetrio Flemate</author>
-<title level="m" type="main">Letter from Demetrio Flemate to Jesusita Torrez</title>
+<author>Flemate, Demetrio</author>
+<title level="m" type="main">Letter from Demetrio Flemate to Jesusita Baros Torres</title>
 <date when="1970-10-18">October 18, 1970</date>
 <extent>2 pages and envelope</extent>
 </bibl>
@@ -120,14 +121,22 @@
 <term></term>
 </keywords>
 </textClass>
-<particDesc>
-<person role="sender" xml:id="df001">
-<persName>Demetrio Flemate</persName>
-</person>
-<person role="recipient" xml:id="jbt001">
-<persName>Jesusita Torrez</persName>
-</person>
-</particDesc>
+<correspDesc>
+<correspAction type="sentBy">
+<persName xml:id="df001">Flemate, Demetrio</persName>
+<placeName></placeName>
+<date type="written" when="1975-10-18"/>
+<date type="postmarked" when="1975-10-18"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="jbt001">Baros Torres, Jesusita</persName>
+<placeName></placeName>
+</correspAction>
+<correspContext>
+<ref type="prev" target="shan">Letter from x to y, date</ref>
+<ref type="next" target="shan">Letter from x to y, date</ref>
+</correspContext> 
+</correspDesc>
 </profileDesc>
         
 <revisionDesc>
@@ -140,7 +149,7 @@
 <text>
 <body>
             
-<div1 type="letter">
+<div1 type="letter" xml:lang="es">
                 
 <pb facs="shan_l.204"/>
                 
@@ -210,6 +219,56 @@ PM<lb/>
 </figure>
 
 </div1>
+
+<div1 type="letter" xml:lang="en">
+                
+<pb facs="shan_l.204"/>
+                
+<opener>
+
+<dateline>10-18-75</dateline>
+
+<salute>Dear sister:</salute>
+</opener>
+                
+<p>Today I received your letter with the cruel news that you have lost your foot, which gave
+me great sadness. But at least I heard from you, because I wrote a letter to you and another
+to Jesus about three years ago and received no reply, so I thought for sure that you had
+died. Because since you went to Mexico, you already said that you were ill.
+I think that 100 Dollars isn’t a lot of money between Jesus, Santos, Katy and the male nurse,
+I can’t remember his name, because everyone is in a better economic situation than I, but if
+it can’t be done, never mind.</p>
+
+<p>I am old and have arthritis, as you will understand, and I live on my O.A.S, which is the state pension. Lately I made my quarters [?], which means that I –
+
+<pb facs="shan_l.205.jpg"/>
+
+have a right to a federal pension, but I’ve yet to receive anything. Regarding Julia Flemate,
+forget about it, because she is very old and very ill, because she is older than us. Also, she
+would have to cross legally, and this costs a lot of money. I do not know what you all think
+about this, but in my case, when the time comes that I cannot even move, they will take me
+[I plan for them to take me] to the General Hospital, where it won’t cost me anything.
+If you can and wish to write to Patricia Medrano</p>
+
+<p>zaragosa 8 juchipila</p>
+
+<p>zacatecas mexico</p>
+
+<p>she will gladly reply.</p>
+
+<p>For now, even if it’s by begging [on the streets], I ask God to help me
+to go to see you, because I know that it will be the last time that we shall see each other in
+this world. Thus, have faith in God, we will soon see each other.</p>
+
+<closer> 
+    
+<salute>Give warm regards to Max, and you, receive the most sicere regards</salute>   
+            
+<signed>D. Flemate</signed>
+</closer>
+                
+</div1>
+
 </body>
         
 <back></back>

@@ -5,14 +5,15 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from Jesusita Baros to Sandra Schubert, September 13, 1957</title>
-<title type="main">Carta de Jesusita Baros a Sandra Schubert, 13 de septiembre, 1957</title>
-<author>Baros, Jesusita</author>
+<title type="main">Letter from Jesusita Baros Torres to Santos Baros Schubert, September 13, 1957</title>
+<title type="main">Carta de Jesusita Baros Torres a Santos Baros Schubert, 13 de septiembre, 1957</title>
+<author>BarosTorres, Jesusita</author>
 <principal xml:id="iv001">Velázquez, Isabel</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name xml:id="af">Faxas, Adoni A.</name>
 <name xml:id="km">Mendell, Kate</name>
+<name xml:id="sbg">Garcia, Sarita B.</name>
 </respStmt>
 </titleStmt>
 <editionStmt>
@@ -48,8 +49,8 @@
             
 <sourceDesc>
 <bibl>
-<author>Baros, Jesusita</author>
-<title level="m" type="main">Letter from Jesusita Baros to Sandra Schubert</title>
+<author>Baros Torres, Jesusita</author>
+<title level="m" type="main">Letter from Jesusita Baros Torres to Santos Baros Schubert</title>
 <date when="1957-09-13">September 13, 1957</date>
 <extent>3 pages and envelope</extent>
 </bibl>
@@ -120,14 +121,22 @@
 <term></term>
 </keywords>
 </textClass>
-<particDesc>
-<person role="sender" xml:id="jbt001">
-<persName>Jesusita Baros</persName>
-</person>
-<person role="recipient" xml:id="sbs001">
-<persName>Sandra Schubert</persName>
-</person>
-</particDesc>
+<correspDesc>
+<correspAction type="sentBy">
+<persName xml:id="jbt001">Baros Torres, Jesusita</persName>
+<placeName></placeName>
+<date type="written" when="1957-09-13"/>
+<date type="postmarked" when="1957-09-13"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="sbs001">Baros Schubert, Santos</persName>
+<placeName></placeName>
+</correspAction>
+<correspContext>
+<ref type="prev" target="shan">Letter from x to y, date</ref>
+<ref type="next" target="shan">Letter from x to y, date</ref>
+</correspContext> 
+</correspDesc>
 </profileDesc>
         
 <revisionDesc>
@@ -141,7 +150,7 @@
 <text>
 <body>
             
-<div1 type="letter">
+<div1 type="letter" xml:lang="es">
                 
 <pb facs="shan_l.268.jpg"/>
                 
@@ -216,6 +225,56 @@ SEP 13<lb/>
 COLO.<lb/>
 </ab>
 
+</div1>
+
+<div1 type="letter" xml:lang="en">
+                
+<pb facs="shan_l.268.jpg"/>
+                
+<opener>
+<address><addrLine>Ft. Lupton Colo</addrLine></address>
+<dateline>Septem 13, --1957</dateline>
+
+<salute>Dear daughter,</salute>
+</opener>
+
+<p>this letter is to greet you as well as Bill, and the kids. We are well,</p>
+                
+<p>thank God.</p>
+
+<p>I received another letter from you. I got one a few days ago and I wanted to answer you,</p>
+
+<p>but truly, the flies by and I don’t get anything done. I get up early, and I fix breakfast and lunch, and I keep
+peeling chilies and canning tomatoes too, and the day goes by like nothing. And Clemente, brother, wrote me. He tells me that his wife died and he was left with 12 children, and that they are poor, that it hasn’t
+
+<pb facs="shan_l.269.jpg"/>
+
+rained at all over there in Mexico [?]; that the harvest was lost. That 100 pounds of corn are worth 100, and that they only eat once a day because they can’t afford more.</p>
+
+<p>[He wants me to/He asks] That I tell you and Jesús to send him some money. I would like to send them something but
+[even if only] for Christmas.</p>
+
+<p>Well, how good that Billy boy is doing well in school, i’m going to send him a present for his birthday, but I can’t think of what. Why don’t you tell me what should I buy for him.</p>
+
+<p>How nice that you have flowers, even if they are few. I thought they had died when you [plural] came here.
+
+<pb facs="shan_l.270.jpg"/>
+
+Well it’s a little chilly here already,</p>
+
+<p>it seems like Winter is coming. I don’t like the cold [I feel the cold acutely], because my legs start to ache right away, they hurt a lot.</p>
+
+<p>Well daughter, I think this will be all for now.</p>
+
+<p>Take care of yourself, daughter. I think [I feel] that you are ill, or that you are suffering because of something. Why won’t you tell me?</p>
+
+<p>Even if I can’t solve anything, at least I would know. I always ask God’s help for you.</p>
+
+<closer>  
+<salute>Well, regards [love] from Jesús and family, and from us, Max and your mom, who wishes you well in everything.</salute>                  
+<signed>Jesusita Baros Torres</signed>
+</closer>
+                
 </div1>
 
 </body>

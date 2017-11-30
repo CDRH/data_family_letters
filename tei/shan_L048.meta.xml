@@ -13,6 +13,7 @@
 <resp>transcription and encoding</resp>
 <name xml:id="jda">Avelar, Janette D.</name>
 <name xml:id="km">Mendell, Kate</name>
+<name xml:id="sbg">Garcia, Sarita B.</name>
 </respStmt>
 </titleStmt>
 <editionStmt>
@@ -48,7 +49,7 @@
             
 <sourceDesc>
 <bibl>
-<author>Maximino Torres</author>
+<author>Torres, Maximino</author>
 <title level="m" type="main">Letter from Maximino Torres to Jesus Samaniego</title>
 <date when="1977-06-08">June 8, 1977</date>
 <extent>2 pages and envelope</extent>
@@ -120,14 +121,21 @@
 <term></term>
 </keywords>
 </textClass>
-<particDesc>
-<person role="sender" xml:id="mt001">
-<persName>Maximino Torres</persName>
-</person>
-<person role="recipient" xml:id="js001">
-<persName>Jesus Samaniego</persName>
-</person>
-</particDesc>
+<correspDesc>
+<correspAction type="sentBy">
+<persName xml:id="mt001">Torres, Maximino</persName>
+<placeName></placeName>
+<date type="postmarked" when="1977-06-08"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="js001">Samaniego, Jesus</persName>
+<placeName></placeName>
+</correspAction>
+<correspContext>
+<ref type="prev" target="shan">Letter from x to y, date</ref>
+<ref type="next" target="shan">Letter from x to y, date</ref>
+</correspContext> 
+</correspDesc>
 </profileDesc>
         
 <revisionDesc>
@@ -140,7 +148,7 @@
 <text>
 <body>
             
-<div1 type="letter">
+<div1 type="letter" xml:lang="es">
                 
 <pb facs="shan_l.208.jpg"/>
                 
@@ -182,13 +190,6 @@ y quiero con la ayuda de Uds. aber que arelamos yo me encuentro muy enfermo y no
 </address>
 </ab>
 
-<ab type="postmark">
-ALBUQUERQUE N. MEX.<lb/>
-FEB 23<lb/>
-330 PM<lb/>
-1939<lb/>
-</ab>
-
 <figure type="stamp">
 <p></p>
 </figure>
@@ -212,6 +213,34 @@ USPO<lb/>
 </ab>
 
 </div1>
+
+<div1 type="letter" xml:lang="en">
+                
+<pb facs="shan_l.208.jpg"/>
+                
+<opener>
+<salute>Mr. Jesus Samaniego</salute>
+</opener>
+                
+<p>I write you this letter to let you know that your mom died recently. I haven’t written before because I’ve been
+very ill myself and I couldn’t find your address. I’ve also written to Demecio, who knows if he will come or
+not. Your mom asked me to write to all of her children. I need a little bit of your help to defend myself from
+your half brother Jesus. If you can’t come for some reason, please write to me. I’ll also tell you that Jesus
+thinks that he is [believes himself to be/acts like] the only son, and he is not. Your mom had more than 1000
+pesos and he took it all. My brother Clemente was going to come [is going to come]
+
+<pb facs="shan_l.210.jpg"/>
+
+And, with you all’s help, let’s see how we can fix [solve] this. I am very ill and can’t walk. I’m here with the
+man who takes care of me, because I can’t do anything by myself. </p>
+
+<closer>   
+<salute>Receive my regards and reply quickly</salute>                 
+<signed>Maximino Torres</signed>
+</closer>
+                
+</div1>
+
 </body>
         
 <back></back>

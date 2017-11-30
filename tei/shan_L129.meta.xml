@@ -5,14 +5,15 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from Mrs. A. B. Sanchez to Mrs. Santos Schubert, December 17, 1976</title>
-<title type="main">Carta de Mrs. A. B. Sanchez a Mrs. Santos Schubert, 17 de diciembre, 1976</title>
-<author>Sanchez, A. B.</author>
+<title type="main">Letter from Aurelia Baca Sanchez to Santos Baros Schubert, December 17, 1976</title>
+<title type="main">Carta de Aurelia Baca Sanchez a Santos Baros Schubert, 17 de diciembre, 1976</title>
+<author>Baca Sanchez, Aurelia.</author>
 <principal xml:id="iv001">Velázquez, Isabel</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name xml:id="af">Faxas, Adoni A.</name>
 <name xml:id="km">Mendell, Kate</name>
+<name xml:id="sbg">Garcia, Sarita B.</name>
 </respStmt>
 </titleStmt>
 <editionStmt>
@@ -48,8 +49,8 @@
             
 <sourceDesc>
 <bibl>
-<author>Sanchez, A. B.</author>
-<title level="m" type="main">Letter from Mrs. A. B. Sanchez to Mrs. Santos Schubert</title>
+<author>Baca Sanchez, Aurelia</author>
+<title level="m" type="main">Letter from Aurelia Baca Sanchez to Santos Baros Schubert</title>
 <date when="1976-12-17">December 17, 1976</date>
 <extent>1 page and envelope</extent>
 </bibl>
@@ -120,14 +121,21 @@
 <term></term>
 </keywords>
 </textClass>
-<particDesc>
-<person role="sender" xml:id="abs001">
-<persName>Mrs. A. B. Sanchez</persName>
-</person>
-<person role="recipient" xml:id="sbs001">
-<persName>Mrs. Santos Schubert</persName>
-</person>
-</particDesc>
+<correspDesc>
+<correspAction type="sentBy">
+<persName xml:id="abs001">Baca Sanchez, Aurelia</persName>
+<placeName></placeName>
+<date type="postmarked" when="1976-12-17"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="sbs001">Baros Schubert, Santos</persName>
+<placeName></placeName>
+</correspAction>
+<correspContext>
+<ref type="prev" target="shan">Letter from x to y, date</ref>
+<ref type="next" target="shan">Letter from x to y, date</ref>
+</correspContext> 
+</correspDesc>
 </profileDesc>
         
 <revisionDesc>

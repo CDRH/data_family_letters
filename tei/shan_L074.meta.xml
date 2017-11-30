@@ -5,15 +5,16 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from Lillian Wilhelm to Mr. and Mrs. Wm. Schubert and Family, January 30, 1958</title>
-<title type="main">Carta de Lillian Wilhelm a Sr. y Sra. Wm. Schubert y Familia, 30 de enero, 1958</title>
-<author>Lillian Wilhelm</author>
+<title type="main">Letter from Lillian Wilhelm to William F. Schubert and Santos Baros Schubert, January 30, 1958</title>
+<title type="main">Carta de Lillian Wilhelm a William F. Schubert y Santos Baros Schubert, 30 de enero, 1958</title>
+<author>Wilhelm, Lillian</author>
 <principal xml:id="iv001">Velázquez, Isabel</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name xml:id="jda">Avelar, Janette D.</name>
 <name xml:id="af">Faxas, Adoni A.</name>
 <name xml:id="iv002">Velázquez, Isabel</name>
+<name xml:id="sbg">Garcia, Sarita B.</name>
 </respStmt>
 </titleStmt>
 <editionStmt>
@@ -49,9 +50,9 @@
             
 <sourceDesc>
 <bibl>
-<author>Lillian Wilhelm</author>
-<title level="m" type="main">Letter from Lillian Wilhelm to Mr. and Mrs. Wm. Schubert and Family</title>
-<date when="1958-01-30">January 01, 1958</date>
+<author>Wilhelm, Lillian</author>
+<title level="m" type="main">Letter from Lillian Wilhelm to William F. Schubert y Santos Baros Schubert and Family</title>
+<date when="1958-01-28">January 28, 1958</date>
 <extent>4 pages and envelope</extent>
 </bibl>
 <msDesc>
@@ -121,17 +122,23 @@
 <term></term>
 </keywords>
 </textClass>
-<particDesc>
-<person role="sender" xml:id="lw001">
-<persName>Lillian Wilhelm</persName>
-</person>
-<person role="recipient" xml:id="sbs001">
-<persName>Mrs. Wm. Schubert</persName>
-</person>
-<person role="recipient" xml:id="wfs002">
-<persName>Mr. Wm. Schubert</persName>
-</person>
-</particDesc>
+<correspDesc>
+<correspAction type="sentBy">
+<persName xml:id="lw001">Wilhelm, Lillian</persName>
+<placeName></placeName>
+<date type="written" when="1958-01-28"/>
+<date type="postmarked" when="1958-01-30"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="sbs001">Baros Schubert, Santos</persName>
+<persName xml:id="wfs001">Schubert, William F.</persName>
+<placeName></placeName>
+</correspAction>
+<correspContext>
+<ref type="prev" target="shan">Letter from x to y, date</ref>
+<ref type="next" target="shan">Letter from x to y, date</ref>
+</correspContext> 
+</correspDesc>
 </profileDesc>
         
 <revisionDesc>
@@ -145,7 +152,7 @@
 <text>
 <body>
             
-<div1 type="letter">
+<div1 type="letter" xml:lang="en">
                 
 <pb facs="shan_l.220.jpg"/>
                 
@@ -228,6 +235,98 @@ JAN30<lb/>
 </figure>
 
 </div1>
+
+<div1 type="letter" xml:lang="en">
+                
+<pb facs="shan_l.220.jpg"/>
+                
+<opener>
+<note>díganle hola a John, los Givens, Jack y Marjie de parte de nosotros –ojalá que no se hayan enfermado de catarros, influenza.</note>
+<dateline>28 de enero de 1958</dateline>
+<add>Martes en la noche</add>
+
+<address><addrLine>Queridos Bill, Sandra y familia:</addrLine></address>
+
+<salute>Feliz año Nuevo para todos. De versa deseamos que [el año] les traiga mucha felicidad, salud y prosperidad.</salute>
+</opener>
+                
+<p>Nos dio mucho gusto recibir su tarjeta de navidad y una buena carta. Bill, sentimos
+mucho enterarnos de que estuviste [estuvo? tú/usted] en el hospital con influenza y problemas
+del corazón. Buena noticia saber que pudiste levantarte y que regresaste al trabajo. Pero trata de
+descansar. No puedo evitar pensar que si lo haces, con los diferentes tratamientos y medicinas
+que tienen para todo tipo de enfermedades estarás bien. Hazle caso al doctor, de seguro quizá un
+buen jefe [???] [Illegible mark, looks like “¿”] Espero que el resto de la familia esté bien.</p>
+
+<p>Supe que pasaron una buena navidad yendo a casa de John y los Givens. Me hubiera gustado que
+hubiéramos podido pulsed [???] a todos ustedes. Nosotros pasamos una buena navidad –como
+habíamos planeado, vino todo el clan a cenar [Illegible work inserted above line. Could be “free”
+dinner or “fall” dinner] el domingo antes de navidad. Santy [Santa Clos] fue bueno con todos.</p>
+
+<pb facs="shan_l.222.jpg"/>
+
+<fw>2/</fw>
+
+<p>¡Me dio gusto oír que a Billy le dieron el premio por ser el mejor de su grado! Es un gran honor.
+Qué bueno que Bobby no tenga que caminar mucho para ir a la escuela. Creo que a Pamela le
+gustará mucho la escuela. Están ustedes haciendo un gran esfuerzo para arreglar su casa. Con la
+habitación para los niños en el sótano y la sala de juegos que quieren poner allá abajo también.
+Solo que no intenten hacerlo todo de la noche a la mañana. [Illegible word inserted above line]
+Qué bueno que Billy esté en los Cub Scouts y que Sandra sea den mother. Del está en los Cub
+Scouts y le ha hecho mucho bien. Ayer, 27 de enero, fue su cumpleaños. Entre todos sus
+parientes, Mande Shirley, Patty y su esposo, le regalaron una bicicleta, así que fue un niño muy
+feliz. Nosotros le regalamos un paquete con diferentes tipos de dulces.</p>
+
+<p>Gente, por favor disculpen mis garabatos, estoy un poco somnolienta. He estado tratando de
+ponerme al día con nuestra correspondencia –¡ya no intento estar al día, solo hago de poco en
+poco, de vez en cuando! Con tantos parientes</p>
+
+<pb facs="shan_l.224.jpg"/>
+
+<fw>3/</fw>
+
+<p>uno de sus programas jr [???] favoritos, Bruce le está escribiendo a Lou [???]. Ayer llevó a Lou
+[Lee? Lev?] de regreso a Flagstaff para el [su] segundo semestre de la universidad. Ella se había
+registrado la semana pasada para el segundo semestre. B. Se registró hoy para su segundo
+semestre. Las [los] Tres C’s. El fin de semana pasado el grupo de jóvenes mayores de nuestra
+iglesia fue a nuestro campamento de la iglesia en la montaña Mingus, al noroeste, como a 100
+millas [de aquí], porque iban a celebrar la fiesta en la nieve que hacen cada año. Bueno, ¡no
+encontraron nieve ni para hacer un buen mono de nieve! ¡Mucho menos para andar en trineo! Se
+divirtieron mucho. Principalmente comiendo y caminando por la montaña. La altura y el clima
+frío les abrieron el apetito. El campamento está una altura como de como a 1 1⁄2 mi. Es un
+campamento bonito, que se usa mucho en el verano. El año pasado las [los] Tres C’s se quedaron
+atrapados [atrapadas] allá arriba por poco tiempo.</p>
+
+<p>Gente, por favor disculpen también mi lápiz y [este/mi] papel. B. Está usando mi pluma buena.
+Siempre compro papel y sobres bonitos para tener papel bonito</p>
+
+<pb facs="shan_l.226.jpg"/>
+
+<fw>4/</fw>
+
+<p>para escribir mis cartas, pero siempre lo doy como regalo.</p>
+
+<p>No
+ha hecho viento, a diferencia de otros días. Este mes hemos tenido más viento de lo usual. Llovió
+un poco el domingo en la tarde [noche]; por lo menos suficiente para aplacar el polvo. Ayer
+recibimos carta de Lillie Minick desde Syracuse yesterday. Nos contaba que para variar les nevó
+algo la semana pasada.</p>
+
+<p>Mis látiros [sweet peas: chícharos de olor/guisantes de olor] están
+empezando a florecer. Sembré algunas plantas para poner en los dos cajetes del patio de enfrente,
+pero voy a esperar un poco para plantarlos afuera porque muy en la mañana nos cae una helada
+fuera de temporada. Tengo pensamientos, alisos de mar y alhelíes para poner en los cajetes. Los
+muchahcos están planeando pintar la casa más o menos en una semana. La pintura que tiene
+ahora se está empezando a descascarar muy fei, así que [dicen] que si le ponen una buena capa
+de pintura base y otra capa encima duraría unos cinco años. Termino por ahora. Escriban cuando puedan,
+siempre nos da gusto saber de ustedes.</p>
+
+<closer>  
+<salute>Con cariño</salute>                  
+<signed>Lillian y familia.</signed>
+</closer>
+                
+</div1>
+
 
 </body>
         

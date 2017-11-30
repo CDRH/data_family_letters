@@ -5,13 +5,14 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from Jesse Baros to Mrs. Jesusita Baros, November 25, 1943</title>
-<title type="main">Carta de Jesse Baros a Mrs. Jesusita Baros, 25 de noviembre, 1943</title>
-<author>Baros, Jesse</author>
+<title type="main">Letter from Jess Jesús Baros to Jesusita Baros Torres, November 25, 1943</title>
+<title type="main">Carta de Jess Jesús a Jesusita Baros Torres, 25 de noviembre, 1943</title>
+<author>Baros, Jess Jesús</author>
 <principal xml:id="iv001">Velázquez, Isabel</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name xml:id="af">Faxas, Adoni A.</name>
+<name xml:id="sbg">Garcia, Sarita B.</name>
 </respStmt>
 </titleStmt>
 <editionStmt>
@@ -47,8 +48,8 @@
             
 <sourceDesc>
 <bibl>
-<author>Baros, Jesse</author>
-<title level="m" type="main">Letter from Jesse Baros to Mrs. Jesusita Baros</title>
+<author>Baros, Jess Jesús</author>
+<title level="m" type="main">Letter from Jess Jesús Baros to Mrs. Jesusita Baros</title>
 <date when="1943-11-25">November 25, 1943</date>
 <extent>envelope</extent>
 </bibl>
@@ -119,14 +120,21 @@
 <term></term>
 </keywords>
 </textClass>
-<particDesc>
-<person role="sender" xml:id="jjb001">
-<persName>Jesse Baros</persName>
-</person>
-<person role="recipient" xml:id="jbt001">
-<persName>Jesusita Baros Torres</persName>
-</person>
-</particDesc>
+<correspDesc>
+<correspAction type="sentBy">
+<persName xml:id="jjb001">Baros, Jess Jesús</persName>
+<placeName></placeName>
+<date type="postmarked" when="1943-11-25"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="jbt001">Baros Torres, Jesusita</persName>
+<placeName></placeName>
+</correspAction>
+<correspContext>
+<ref type="prev" target="shan">Letter from x to y, date</ref>
+<ref type="next" target="shan">Letter from x to y, date</ref>
+</correspContext> 
+</correspDesc>
 </profileDesc>
         
 <revisionDesc>

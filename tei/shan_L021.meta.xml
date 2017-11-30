@@ -5,14 +5,15 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from Jesús Samaniego to Mrs. Jesusita Baros, October 15, 1938</title>
-<title type="main">Carta de Jesús Samaniego a Mrs. Jesusita Baros, 15 de octubre, 1938</title>
-<author>Samaniego, Jesús</author>
+<title type="main">Letter from José Jesús Samaniego to Jesusita Baros Torres, October 15, 1938</title>
+<title type="main">Carta de José Jesús Samaniego a Jesusita Baros Torres, 15 de octubre, 1938</title>
+<author>Samaniego, José Jesús</author>
 <principal xml:id="iv001">Velázquez, Isabel</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name xml:id="jda">Avelar, Janette D.</name>
 <name xml:id="iv002">Velázquez, Isabel</name>
+<name xml:id="sbg">Garcia, Sarita B.</name>
 </respStmt>
 </titleStmt>
 <editionStmt>
@@ -48,8 +49,8 @@
             
 <sourceDesc>
 <bibl>
-<author>Samaniego, Jesús</author>
-<title level="m" type="main">Jesús Samaniego to Mrs. Jesusita Baros</title>
+<author>Samaniego, José Jesús</author>
+<title level="m" type="main">José Jesús Samaniego to Jesusita Baros Torres</title>
 <date when="1938-10-15">October 15, 1938</date>
 <extent>4 pages and envelope</extent>
 </bibl>
@@ -120,14 +121,21 @@
 <term></term>
 </keywords>
 </textClass>
-<particDesc>
-<person role="sender" xml:id="js001">
-<persName>Jesús Samaniego</persName>
-</person>
-<person role="recipient" xml:id="jbt001">
-<persName>Jesusita Baros Torres</persName>
-</person>
-</particDesc>
+<correspDesc>
+<correspAction type="sentBy">
+<persName xml:id="js001">Samaniego, José Jesús</persName>
+<placeName></placeName>
+<date type="written" when="1938-10-15"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="jbt001">Baros Torres, Jesusita</persName>
+<placeName></placeName>
+</correspAction>
+<correspContext>
+<ref type="prev" target="shan">Letter from x to y, date</ref>
+<ref type="next" target="shan">Letter from x to y, date</ref>
+</correspContext> 
+</correspDesc>
 </profileDesc>
         
 <revisionDesc>
@@ -141,7 +149,7 @@
 <text>
 <body>
             
-<div1 type="letter">
+<div1 type="letter" xml:lang="es">
                 
 <pb facs="shan_l.090.jpg"/>
                   
@@ -208,6 +216,51 @@ AGS<lb/>
 </ab>
 
 </div1>
+
+<div1 type="letter" xml:lang="en">
+                
+<pb facs="shan_l.090.jpg"/>
+                  
+<opener>
+<address><addrLine>1 Juchipila Zacatecas</addrLine></address>
+<dateline>October 15 1938</dateline>
+<salute>Mrs. Eliboria Flemate</salute>
+</opener>
+
+<p>my very gracious and loving mother, mom I will be happy if these three <add resp="iv001">few</add> lines find you without news <add resp="iv001">well</add>, this <add resp="iv001">letter</add> leaves me well, thank God.</p>
+
+<p>Well mother, after greeting you with the same love as always I tell you the following, but before telling you about what is happening to me, I’ll tell you that I’m sad
+because you haven’t written to me. I may have offended you in some way. If this is the case, please forgive me mom <add resp="iv001">mommy, mother</add>, because it wasn’t on purpose. 
+<add resp="iv001">Now</add> pay attention to what is happening to me mom, you can’t imagine the confusion in which I find myself. I’m going to</p>
+
+<pb facs="shan_l.091.jpg"/>
+
+<fw>2</fw>
+<p>tell you how and in which manner I find myself. I feel ashamed <add resp="iv001">embarrassed</add> to ask you to
+do me the favor of lending me 15 pesos to leave Juchipila. They acuse me of courting a married woman. It’s not true, but it’s been repeated so much that word got to the husband
+and he almost killed her <add resp="iv001">by hitting her</add> with a log. And from there, the husband and one brother of his arrived around midnight saying they wanted to kill me. They didn’t kill me because they didn’t want to, because what could I do against two? But it’s being said that he is saying that if God allows it I will not escape. He wants no more</p>
+
+<pb facs="shan_l.091.jpg"/>
+
+<fw>3</fw>
+<p>than to get the opportunity to find me alone in a place where no one finds out, this is what a trusted friend of his told me. Well, mom, I don’t believe it, but I don’t doubt it either,
+considering the cases <app loc="1"><rdg>that these are the type of cases</rdg></app><certainty locus="name" cert="medium"/> <add resp="iv001">sometimes</add> involve pulling someone’s hair <add resp="iv001">fighting</add>. I’m told to leave my town so that I don’t get into a fight with him or he with me <certainty locus="name" cert="medium"/>. Mom, seeing all this I <add resp="iv001">may have</add> given him some motive <app loc="1"><rdg>Gives me motive to leave</rdg></app><certainty locus="name" cert="low"/> And I want to leave. My departure is towards
+here <app loc="1"><rdg>to be here</rdg></app>with you <add resp="iv001">here in Colorado, with you</add>. Whether I can remain here with you, or whether I’m returned <certainty locus="name" cert="medium"><desc>deported</desc></certainty></p>
+
+<pb facs="shan_l.092.jpg"/>
+
+<fw>4</fw>
+
+<p>Because I know it’s very difficult for me <certainty locus="name" cert="medium"/>. My desire <app loc="1"><rdg>my wish</rdg></app> is to get to know you, and for you to get to know me. Whether it lasts a day or two, and whether it takes me a month or two to arrive, depending on my luck. What I do ask of you, mom, is not to abandon me. <add resp="iv001">I ask you to</add> help me with what you can and in any way you can, and if I cannot repay you in this lifetime, maybe I will be able to in the next. The delay in my departure is <add resp="iv001">I'm waiting for</add> your response.</p>
+                
+<closer>Give my regards to Chuy <add resp="iv001">nickname for Jesus</add> and Santitos <add resp="iv001">diminutive: Baby Santos</add>. Receive regards from my wife for everybody.
+<add resp="iv001">Please</add>write to me at this address: Rosales street 63. This is all that 
+
+<signed>Jesus Samaniego</signed>
+</closer>
+                
+</div1>
+
 </body>
         
 <back></back>

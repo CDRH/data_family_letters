@@ -5,14 +5,17 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from Helen and Jess and Mark to Mr. and Mrs. Bill Schubert, March 16, 1977</title>
-<title type="main">Carta de Helen y Jess y Mark a Mr. y Mrs. Bill Schubert, 16 de marzo, 1977</title>
-<author>Torres, Jesusita B.</author>
+<title type="main">Letter from Helen Baros, Jess Jesús Baros, and Mark Baros to William F. Schubert and Santos Baros Schubert, March 16, 1977</title>
+<title type="main">Carta de Helen Baros, Jess Jesús Baros y Mark Baros a William F. Schubert y Santos Baros Schubert,16 de marzo, 1977</title>
+<author>Baros, Helen</author>
+<author>Baros, Jess Jesús</author>
+<author>Baros, Mark</author>
 <principal xml:id="iv001">Velázquez, Isabel</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name xml:id="af">Faxas, Adoni A.</name>
 <name xml:id="km">Mendell, Kate</name>
+<name xml:id="sbg">Garcia, Sarita B.</name>
 </respStmt>
 </titleStmt>
 <editionStmt>
@@ -48,8 +51,10 @@
             
 <sourceDesc>
 <bibl>
-<author>[Multiple authors]</author>
-<title level="m" type="main">Letter from Helen and Jess and Mark to Mrs. and Mrs. Bill Schubert</title>
+<author>Baros, Helen</author>
+<author>Baros, Jess Jesús</author>
+<author>Baros, Mark</author>
+<title level="m" type="main">Letter from Helen Baros, Jess Jesús Baros, and Mark Baros to William F. Schubert and Santos Baros Schubert </title>
 <date when="1977-03-16">March 16, 1977</date>
 <extent>1 page and envelope</extent>
 </bibl>
@@ -120,23 +125,34 @@
 <term></term>
 </keywords>
 </textClass>
-<particDesc>
-<person role="sender" xml:id="hb001">
-<persName>Helen Baros</persName>
-</person>
- <person role="sender" xml:id="jjb001">
-  <persName>Jess Baros</persName>
- </person>
- <person role="sender" xml:id="mb001">
-  <persName>Mark Baros</persName>
- </person>
-<person role="recipient" xml:id="wfs001">
-<persName>Mr. Bill Schubert</persName>
-</person>
- <person role="recipient" xml:id="sbs001">
- <persName>Mrs. Bill Schubert</persName>
- </person>
-</particDesc>
+<correspDesc>
+<correspAction type="sentBy">
+<persName xml:id="hb001">Baros, Helen</persName>
+<placeName></placeName>
+<date type="written" when="1977-03-16"/>
+<date type="postmarked" when="1977-03-17"/>
+</correspAction>
+<correspAction type="sentBy">
+<persName xml:id="jjb001">Baros, Jess Jesús</persName>
+<placeName></placeName>
+</correspAction>
+<correspAction type="sentBy">
+<persName xml:id="mb001">Baros, Mark</persName>
+<placeName></placeName>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="wfs001">Schubert, William F.</persName>
+<placeName></placeName>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="sbs001">Baros Schubert, Santos</persName>
+<placeName></placeName>
+</correspAction>
+<correspContext>
+<ref type="prev" target="shan">Letter from x to y, date</ref>
+<ref type="next" target="shan">Letter from x to y, date</ref>
+</correspContext> 
+</correspDesc>
 </profileDesc>
         
 <revisionDesc>
