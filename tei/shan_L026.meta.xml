@@ -213,22 +213,11 @@ ZAC<lb/>
 
 <address><addrLine>Mrs. Gesus Varos</addrLine></address>
 
-<salute>My dear mom [little mother] of my highest regard and love, this letter allows me to send
-you my regards and wish that you [plural] are well, as are my wishes. This letter leaves us
-well, thank God</salute>
+<salute>My dear mom <add resp="iv001">little mother</add> of my highest regard and love, this letter allows me to send you my regards and wish that you are well, as are my wishes. This letter leaves us well, thank God</salute>
 </opener>
                 
-<p>After greeting you with the same love as always, well mom [mother] you tell me that you
-want us to help you to get your birth certificate. One [problem] is that we don’t know the
-year you [formal] were born. Another [problem] is that here your name is Jeliboria
-[Seliboria?] Flemate and in the United States your name is Gesusita Varos. Anyway, with
-money this can be fixed here in Guchipila, in Galpa [Most likely Jalpa, Zacatecas] no one
-knows us. But let me know in what year you were born and who were your godparents, so
-we can try to get it [the birth certificate] in Guchipila. Let me know under which name,
-Elivoria Flemate, Gesusita Varos. I think that it will be difficult [to obtain] under the name
-Gesusita Varos. Look mom [mother], the handwriting [on this letter] will not be familiar to
-you because I had someone write it for me because I didn’t sleep well [I’m very tired from
-lack of sleep]</p>
+<p>After greeting you with the same love as always, well mom you tell me that you want us to help you to get your birth certificate. One <add resp="iv001">problem</add> is that we don’t know the
+year you were born. Another <add resp="iv001">problem</add> is that here your name is Jeliboria <certainty locus="name" cert="high"></certainty><desc>Selibora</desc> Flemate and in the United States your name is Gesusita Varos. Anyway, with money this can be fixed here in Guchipila, in Galpa <app loc="1"><rdg>Jalpa, Zacatecas</rdg></app>no one knows us. But let me know in what year you were born and who were your godparents, so we can try to get it <add resp="iv001">the birth certificate</add> in Guchipila. Let me know under which name, Elivoria Flemate, Gesusita Varos. I think that it will be difficult <add resp="iv001">to obtain</add>under the name Gesusita Varos. Look mom, the handwriting <add resp="iv001">on this letter</add> will not be familiar to you because I had someone write it for me because I didn’t sleep well <add resp="iv001">I’m very tired from lack of sleep</add></p>
                     
 <closer><salute>This will be all for now. Receive regards from the whole family and from</salute>
 
