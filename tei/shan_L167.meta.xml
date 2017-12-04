@@ -13,6 +13,7 @@
 <resp>transcription and encoding</resp>
 <name xml:id="iv">Velázquez, Isabel</name>
 <name xml:id="sbg">Garcia, Sarita B.</name>
+ <name xml:id="ji">Isasi, Jennifer</name>
 </respStmt>
 </titleStmt>
 <editionStmt>
@@ -161,21 +162,11 @@
 Better take it easy for a while.</p>
 <p>We’re having nice weather. I went to town yesterday by myself. Did some shopping. I’m not
 thru yet.</p>
-<p>Yes, your Dad fixed the Xmas tree last night but I don’t like the shape of it. The branches aren’t
-<<<<<<< HEAD
-down. Anyway I’m going to wait till</p>
+<p>Yes, your Dad fixed the Xmas tree last night but I don’t like the shape of it. The branches aren’t down. Anyway I’m going to wait till
 
 <pb facs="shan_l.621.jpg"/>
 
-<p>You can come over. Then we can decorate it. No, don’t buy any kind of telephone. I’ve
-=======
-down. Anyway I’m going to wait till
-
-<pb facs="shan_l.621.jpg"/>
-
-You can come over. Then we can decorate it. No, don’t buy any kind of telephone. I’ve
->>>>>>> jennifer
-something else for Dolores.</p>
+You can come over. Then we can decorate it. No, don’t buy any kind of telephone. I’ve something else for Dolores.</p>
 <p>Billy &amp; Dale are playing here. Making racket. They play ok.</p>
 <p>Helen &amp; Dale decorated their Christmas tree last night.</p>
 <p>Helen &amp; I went to the show Sunday. Took the kids with us. I didn’t like the movie at all. You be
@@ -193,8 +184,6 @@ month.</p>
 
 </div1>
 
-<<<<<<< HEAD
-=======
 <div1 type="letter" xml:lang="es">
   
 <pb facs="shan_l.620.jpg"/>
@@ -234,7 +223,7 @@ Tú puedas venir para decorarlo. No, no compres ningún teléfono. Tengo otra co
  
 </div1>
 
->>>>>>> jennifer
+
 </body>
         
 <back></back>
