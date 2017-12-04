@@ -13,6 +13,7 @@
 <resp>transcription and encoding</resp>
 <name xml:id="af">Faxas, Adoni A.</name>
 <name xml:id="sbg">Garcia, Sarita B.</name>
+<name xml:id="ji">Isasi, Jennifer</name> 
 </respStmt>
 </titleStmt>
 <editionStmt>
@@ -178,6 +179,34 @@
 </postscript>
  
 </div1>
+
+ <div1 type="letter" xml:lang="es">
+  
+  <pb facs="shan_l.534.jpg"/>
+  
+  <opener>
+   <address><addrLine>Campamento 67</addrLine></address>
+   <dateline>18 de Octubre de 1950</dateline>
+   
+   <salute>Mis queridos esposa e hijo:</salute>
+  </opener>
+  
+  <p>Recibí tu maravillosa carta hoy en la tarde justo antes de salir a Lincoln para sacar tus certificados de ahorro y mandártelos, así que no iré a Lincoln. Estaré en Lincoln el domingo en la noche para recibirte cuando llegues a casa. De verdad que me alegra no tener que manejar hasta Lincoln para tener que volver mañana. Creo que tendremos que esperar a ver si el ejército me llama antes de comprar ningún lote o nada más. Creo que le escribiré a Jack para ver si le interesa comprar nuestro tráiler.</p>
+  <p>Todavía tengo solamente como 55 hombres, porque han estado corriendo a los borrachos. Tuve que descansar a mi segundo cocinero hoy en la noche porque se emborrachó después de haber estado trabajando solo cuatro días.</p>
+  <p>Ha hecho mucho calor. Más que el mes pasado.</p>
+  <p>Hoy conseguí un cable nuevo para la batería y por fin hice que me limpiaran el radiador y le puse el Prestone.</p>
+  <p>Querida, te extraño mucho y me alegrará verte domingo. Planeo quedarme el lunes en Lincoln, al menos parte del día. Volveré a escribirte mañana.</p>
+  
+  <closer>
+   <salute>Siempre tuyo</salute>                    
+   <signed>Bill</signed>
+  </closer>
+  
+  <postscript>
+   <p>Te quiero mucho</p>
+  </postscript>
+ </div1>
+
 </body>
         
 <back></back>
