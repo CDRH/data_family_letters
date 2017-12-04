@@ -13,6 +13,7 @@
 <resp>transcription and encoding</resp>
 <name xml:id="af">Faxas, Adoni A.</name>
 <name xml:id="sbg">Garcia, Sarita B.</name>
+<name xml:id="ji">Isasi, Jennifer</name> 
 </respStmt>
 </titleStmt>
 <editionStmt>
@@ -183,8 +184,27 @@
 </postscript>
 
 </div1>
+ 
+ <div1 type="letter" xml:lang="es">
+  
+  <pb facs="shan_l.528.jpg"/>
+  
+  <opener>
+   <address><addrLine>Campamento 67</addrLine></address>
+   <dateline>16 de October de 1950</dateline>
+   
+   <salute>Mis queridos esposa y Billy:</salute>
+  </opener> 
+ 
+  <p>Acabo de recibir la carta que tu mandaste el día 13. Debería haberla recibido el sábado, no sé por qué no llegó. En todo caso, si lo hubiera sabido podría haber sacado tus ahorros de la oficina de correos ayer que estuve en Lincoln. Creo que estaría bien comprar los lotes si todavía están <add resp="iv">disponibles</add> para cuando llegue a Lincoln y saque tus certificados de ahorro. 1 Están en la caja de depósito del banco, así que tendré que ir durante el día para poderlos sacar. Probablemente podría ir en el carro alguna mañana y regresarme en el tren.</p>
+  
+  <p>Quizá me llamen del ejército. A Jack le volvió a llegar un sobre registrado el sábado y me imagino que era para mí y que alguien más recibió el sobre equivocado, porque no creo que le mandaran nada si ya lleva un mes en servicio activo. Así que si fuera ese el caso, me imagino que volverían a mandarlo en algunos días. Si me llaman te llamo o te mando un telegrama. Supongo que no estaría mal que sacaras algunos de tus ahorros aunque no compremos los lotes, así que te mando <add resp="iv">los certificados</add> de todas maneras.</p>
+ 
+ </div1>
 </body>
-        
+       
+
+       
 <back></back>
 </text>
 </TEI>
