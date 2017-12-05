@@ -13,6 +13,7 @@
 <resp>transcription and encoding</resp>
 <name xml:id="af">Faxas, Adoni A.</name>
 <name xml:id="sbg">Garcia, Sarita B.</name>
+<name xml:id="ji">Isasi, Jennifer</name>
 </respStmt>
 </titleStmt>
 <editionStmt>
@@ -183,6 +184,43 @@ Santos&amp;Billy<lb/></p>
 </postscript>
  
 </div1>
+ 
+ <div1 type="letter" xml:lang="es">
+  
+  <pb facs="shan_l.524.jpg"/>
+  
+  <opener>
+   <address><addrLine>Campamento 67</addrLine></address>
+   <dateline>13 de Octubre de 1950</dateline>
+   
+   <salute>Mis queridos Sandra y Billy:</salute>
+  </opener>
+
+  <p>Quiero decirles que lo amo y los extraño más y más. Estaré feliz cuando regresen a casa. Espero que estén bien.</p>
+ 
+  <p>Voy a llevar a mi segundo cocinero y a un mesero a Falls City para que tomen el tren a Omaha. Sus remplazos no llegaron, pero me las arreglaré sin ellos durante el fin de semana. Anoche, el segundo cocinero me llevó a cenar al campamento de Rulo. Es un lugar bonito y sirvieron una cena abundante con carne.</p>
+  
+  <p>Hoy ha estado muy bonito y templado. Espero ir a pizcar algunas nueces para que tengas algo que te mantenga ocupada.</p>
+
+  <p>Vi un anuncio en el periódico que dice una empresa en Humboldt quiere 50 tráileres, así que les escribí para ver quieren el mío. Humboldt no está lejos de aquí.</p>
+  
+  <p>Creo que Jack encontró una casa para él y su esposa en Tennessee. Tuvo suerte, porque está amueblada. Me escribió que quizá va a comprar un tráiler este invierno, así que quizá querrá el nuestro.</p>
+  
+  <p>Traje las instrucciones del calentón y del termostato para el tráiler, así que tendré que aprender como operarlo. Además quiero tratar de instalar el tren de Billy, aunque quizá no lo voy a alcanzar a terminar antes de que lleguen a casa. Hoy me dijo el capataz que todavía no vamos a terminar aquí la próxima semana.</p>
+
+  <p>Tengo que ir a limpiar las cenizas de las estufas, así que me despido y espero recibir noticias tuyas dentro de poco.</p>
+  
+  <closer>
+   <salute>Siempre tuyo</salute>                    
+   <signed>Bill</signed>
+  </closer>
+  
+  <postscript>
+   <p>Los amo Santos y Billy</p>
+  </postscript>
+  
+ </div1>  
+  
 </body>
         
 <back></back>
