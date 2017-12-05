@@ -13,6 +13,7 @@
 <resp>transcription and encoding</resp>
 <name xml:id="af">Faxas, Adoni A.</name>
 <name xml:id="sbg">Garcia, Sarita B.</name>
+<name xml:id="ji">Isasi, Jennifer</name> 
 </respStmt>
 </titleStmt>
 <editionStmt>
@@ -168,6 +169,29 @@
 </closer>
                 
 </div1>
+
+<div1 type="letter" xml:lang="es">
+  
+  <pb facs="shan_l.516.jpg"/>
+  
+  <opener>
+   <address><addrLine>Adams, Nebraska</addrLine></address>
+   <dateline>23 de Septiembre de 1950</dateline>
+   
+   <salute>Queridos Sandra y Billy:</salute>
+  </opener>
+ 
+ <p>Es sábado en la mañana y estoy esperando que la cuadrilla termine de desayunar para que podamos comer y después venderé en el economato, así que mientras estoy de humor te diré que estoy pensando en ti y que te amo. Espero que te estés divirtiendo. ¿Viste a Terry y a Johnny? ¿Cómo está Jess? Díles “hola” a todos de parte mía. Anoche unos compañeros me pagaron un tanque de gasolina y me pagaron un dólar para llevarlos a Sterling. Iré a Lincoln hoy en la tarde para ver si conseguimos el tráiler. Quería ir hoy en la mañana pero tengo que esperar porque el hielo supuestamente llega hoy. Parece que el campamento todavía va a estar aquí toda la próxima semana. Quizá para cuando terminemos aquí ya van a estar listo para recibirnos en Grand Island, eso espero.</p>
+
+ <p>Escríbeme en cuanto tengas tiempo. Dime si quieres algo y te lo mandaré. Te escribiré hoy en la noche. Recuerda que te amo mucho.</p>
+
+ <closer>
+  <salute>Siempre tuyo,</salute>                    
+  <signed>Bill</signed>
+ </closer>
+ 
+</div1>
+
 </body>
         
 <back></back>
