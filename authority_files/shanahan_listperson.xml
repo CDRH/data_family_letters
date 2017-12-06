@@ -120,7 +120,7 @@
         
         <revisionDesc>
             <change when="2016" who="ji"> Initial Encoding</change>
-            <change when="2016" who="ji"> Proofreading</change>
+            <change when="2017" who="ji"> Proofreading</change>
             
         </revisionDesc>
     </teiHeader>
@@ -1533,7 +1533,7 @@
         <persName type="display">Sara Reyes</persName>
         <persName type="facet">Reyes, Sara</persName>        
     </person>
-    <person xml:id="iv"> 
+    <person xml:id="iv001"> 
         <persName type="display">Isabel Velázquez</persName>
         <persName type="facet">Velázquez, Isabel</persName>
     </person>
