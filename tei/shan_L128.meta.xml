@@ -14,6 +14,7 @@
 <name xml:id="af">Faxas, Adoni A.</name>
 <name xml:id="km">Mendell, Kate</name>
 <name xml:id="sbg">Garcia, Sarita B.</name>
+<name xml:id="ji">Isasi, Jennifer</name>
 </respStmt>
 </titleStmt>
 <editionStmt>
@@ -164,11 +165,13 @@
 <dateline>Sept 23, 1974</dateline>
 <address><addrLine>Ft Lupton, Colo</addrLine></address>
 
-<address><addrLine>Dear Sandra&amp;Family</addrLine></address>
-<salute>I write a few lines to let you know that we are all fine, thanks be to God.</salute>
+ <salute>Dear Sandra&amp;Family</salute>
+
 </opener>
 
-<p>Hope that you and your family are all in good health.</p>
+ <p>I write a few lines to let you know that we are all fine, thanks be to God.</p>
+
+ <p>Hope that you and your family are all in good health.</p>
 
 <p>Well Sandra, I understand that you called Max yesterday and that he mention that mother was in the hospital. Well she is in the hospital but it is not serious. at least not at this time. It was serious when she went into the hospital; you see, the blood was not circulating in one leg, or rather in the right foot. and it was getting sort of serious. you know as a diabetic any infection could easily turn into something serious.</p>
 
@@ -238,6 +241,54 @@ AM<lb/>
 </figure>
 
 </div1>
+
+ <div1 type="letter" xml:lang="es">
+  
+  <pb facs="shan_l.476.jpg"/>
+  
+  <fw>1</fw>
+  
+  <opener>
+   <dateline>23 de septiembre de 1974</dateline>
+   <address><addrLine>Fort Lupton, Colorado</addrLine></address>
+   
+   <salute>Querida Sandra y familia:</salute>
+  </opener>
+  
+  <p>Te escribo estas pocas líneas para decirte que estamos bien, gracias a Dios.</p>
+  
+  <p>Deseo que toda tu familia disfrute de buena salud.</p>
+  
+  <p>Bueno Sandra, entiendo que ayer le llamaste a Max y que te mencionó que mamá está en el hospital. Bueno, sí está en el hospital, pero no es algo serio, por lo menos por el momento. Era serio cuando entró al hospital. Verás: La sangre no le estaba circulando en una pierna, o mejor dicho, en el pie derecho, y la cosa se estaba volviendo seria.</p>
+  
+  <p>Pero ahora, después de siete días, está respondiendo muy bien al tratamiento. La inflamación
+   
+   <pb facs="shan_l.478.jpg"/>
+   
+   <fw>2</fw>
+   
+   ya le bajó, y a fecha de hoy ya despareción la infección. Fui con Max a verla hoy en la noche y está mucho mejor. Le sigue doliendo, pero no mucho.</p>
+  
+  <p>Yo no te iba a decir que estaba en el hospital a menos de que fuera algo serio, entonces sí te hubiera llamado, pero hasta el momento no es algo muy serio.</p>
+  
+  <p>¿Bueno, y cómo va tu ojo? Se te ha ido aliviando o te sigue molestando? Estoy seguro de que te estarás cuidando la vista, porque es algo muy importante. En nuestra familia no tenemos de qué quejarnos, Dios ha sido muy bueno con nosotros.</p>
+  
+  <p>A Max le han estabo molestando un poco sus piernas, pero la medicina le ha ayudado mucho. Además, el clima cálido el sienta muy bien, y hemos tenido buen clima hasta ahora.</p>
+
+  <pb facs="shan_l.480.jpg"/>
+  
+  <fw>3</fw>
+  
+  <p>Ah, antes de que se me olvide decirte, la violeta africana que nos regalaste es ahora una planta verdaderamente hermosa. Mientras estoy aquí sentado escribiéndote puedo contarle 14 flores abiertas en pleno, y otras 15 o 16 a punto de florecer.</p>
+  
+  <p>La otra violeta africana que tenía está ahí nada más, sin florecer ni hacer nada.</p>
+  
+  <closer>
+   <salute>Bueno, creo que esto es todo por ahora. Reciban el cariño de</salute>                    
+   <signed>Jess, Helen y Mark.</signed>
+  </closer>
+  
+ </div1>
 </body>
         
 <back></back>
