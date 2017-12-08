@@ -13,6 +13,7 @@
 <resp>transcription and encoding</resp>
 <name xml:id="af">Faxas, Adoni A.</name>
 <name xml:id="sbg">Garcia, Sarita B.</name>
+<name xml:id="ji">Isasi, Jennifer</name>
 </respStmt>
 </titleStmt>
 <editionStmt>
@@ -177,6 +178,36 @@ to you both<lb/></p>
 </postscript>          
           
 </div1>
+ 
+ <div1 type="letter" xml:lang="es">
+  
+  <pb facs="shan_l.526.jpg"/>
+  
+  <opener>
+   <address><addrLine>Campamento 67</addrLine></address>
+   <dateline>14 de Octubre de 1950</dateline>
+   
+   <salute>Mis queridos Santos y Billy:</salute>
+  </opener>
+  
+  <p>Acabo de terminar la lista para las Reservas para poder llevarla conmigo a Lincoln mañana. Quiero irme a dormir temprano porque tengo que levantarme temprano y sacar algunas provisiones para lunes y después salir a Lincoln. De veras que mañana tengo mucha ropa que lavar también.</p>
+  
+  <p>Hoy llegó algo de ayuda, así que no tendré mucho que hacer y no tendré que preocuparme mientras esté en Lincoln. Un mesero que despedí hoy estaba tan borracho que el conductor no lo dejaba subir al tren. Anoche, los gandies estuvieron tomando mucho, creo que lo peor que he visto. Se pelearon y un par de tipos se acuchillaron. Tenemos dos hombres en la cárcel de Falls City y tres o cuatro en la cárcel de Rulo.</p>
+
+  <p>Hoy le cambie el aceite al carro porque que estaba demasiado bajo y sucio. Se me metió una piedra en la llanta y hoy en la mañana estaba ponchada, así que la arreglé y también lavé el carro.</p>
+  <p>Querida, los amo a ti y a Billy. Espero verte el próximo domingo. Escribe pronto.</p>
+  
+  <closer>
+   <salute>Siempre tuyo,</salute>                    
+   <signed>Bill</signed>
+  </closer>
+  
+  <postscript>
+   <p>Todo mi amor para ustedes dos.</p>
+  </postscript>          
+  
+ </div1>
+  
 </body>
         
 <back></back>

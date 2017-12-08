@@ -16,6 +16,7 @@
 <name xml:id="af">Faxas, Adoni A.</name>
 <name xml:id="km">Mendell, Kate</name>
 <name xml:id="sbg">Garcia, Sarita B.</name>
+<name xml:id="ji">Isasi, Jennifer</name> 
 </respStmt>
 </titleStmt>
 <editionStmt>
@@ -240,6 +241,41 @@ or direct distance Dialing Save 35% over day rate 5 P.M. to 11:PM<lb/>
 </ab>
 
 </div1>
+
+ <div1 type="letter" xml:lang="es">
+  
+  <pb facs="shan_l.472.jpg"/>
+  
+  <opener>
+   <dateline>16 de marzo de 1977</dateline>
+   <address><addrLine>Fort Lupton, Colorado</addrLine></address>
+   
+   <salute>Queridos Sandra y Bill:</salute>
+  </opener>
+  
+  <p>Solo unas líneas esperando que esta carta los encuentre bien a ustedes y a su familia. Todos estamos bien en Fort Lupton.</p>
+  
+  <p>Max está muy bien y las cosas están funcionando sin problemas.</p>
+  
+  <p>Les escribo para contarles de Tony Falcón. Estoy incluyendo aquí un rccorte de periódico acerca del incidente. También pensé que quizá querrían mandarle una tarjeta a Elizabeth.</p>
+  
+  <p>Yo fui al rosario el lunes pasado.</p>
+  
+  <p>El incidente ocurrió cuando tuvimos una tormenta muy fuerte. El viento y la nieve entraron muy rápido. Yo no fui a trabajar en dos días. Las carreteras estuvieron cerradas de Brighton a Denver.</p>
+  
+  <closer>
+   <salute>Bueno, ahora me despido. Les deseo buena salud y que Dios los bendiga.</salute>
+   <signed>Helen, Jess y Mark.</signed>
+  </closer>
+  
+  <postscript>
+   <p>P.D. La dirección de Elizabeth está en el recorte.</p>
+  </postscript>
+  
+ </div1>
+ 
+
+
 </body>
         
 <back></back>

@@ -14,6 +14,7 @@
 <name xml:id="af">Faxas, Adoni A.</name>
 <name xml:id="km">Mendell, Kate</name>
 <name xml:id="sbg">Garcia, Sarita B.</name>
+<name xml:id="ji">Isasi, Jennifer</name>  
 </respStmt>
 </titleStmt>
 <editionStmt>
@@ -184,6 +185,44 @@ pero si es la tienda grande; que ay aquí en Denver; y Max tambien medías;</p>
 </closer>
                 
 </div1>
+
+ <div1 type="letter" xml:lang="en">
+  
+  <pb facs="shan_l.428.jpg"/>
+  
+  <opener>
+   <address><addrLine>Fort Lupton, Colorado</addrLine></address>
+   <dateline>December 17,-- 1964</dateline>
+   
+   <salute>Dear daughter,</salute>
+  </opener>
+  
+  <p>this letter is to greet you, Bill, and Pamela, and everyone, hoping that you are all well, as is our wish. I write you these few lines to tell you that I received the letter that Pamela sent me. But from you, not a word. At least sign your name by hand, so that I may know that you’re still alive.</p>
+
+  <p>Well, I’m somewhat well, thank God, who still has me here on earth.</p>
+  
+  <p>All right, as every year, I’m sending you $20 so you can buy the kids something for Christmas. And if you can, send me some stockings that are warm. I don’t know if you remember the ones that you bought me from mangamar Wrd. <app loc="1"><rdg>Montgomery Ward</rdg></app> Well, I don’t know how to spell that word,
+  
+   <pb facs="shan_l.430.jpg"/>
+   
+   but it’s the big store, they have one here in Denver.And for Max socks, too.</p>
+  
+  <p>Okay I think that will be all for now. And I also wanted to ask you about Jane. Is she going to school this year or not? She writes to me sometimes, but hasn’t written lately, nor have you or the baby. Don’t forget, I beg of you. Write to me, please.</p>
+  
+  <closer>
+   <salute>Okay, many regards to all the kids from us; Max and from me, your mom who wishes you a very good Christmas and feliz Navidad.</salute>                    
+   <signed>Jesusita B, Torres;</signed>
+   
+   <pb facs="shan_l.431.jpg"/>
+   
+   <address><addrLine>Mrs. Felipita Baca</addrLine></address>
+   <address><addrLine>11043 Arbuckle </addrLine></address>
+   <address><addrLine>San Fernando, Califr</addrLine></address>
+   
+  </closer>
+  
+ </div1>
+  
 </body>
         
 <back></back>

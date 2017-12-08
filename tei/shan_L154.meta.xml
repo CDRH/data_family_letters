@@ -14,6 +14,7 @@
 <name xml:id="af">Faxas, Adoni A.</name>
 <name xml:id="iv">Velázquez, Isabel</name>
 <name xml:id="sbg">Garcia, Sarita B.</name>
+ <name xml:id="ji">Isasi, Jennifer</name>
 </respStmt>
 </titleStmt>
 <editionStmt>
@@ -175,6 +176,34 @@ y la mía despues te alcanse<lb/></salute>
 </closer>
                 
 </div1>
+ 
+ <div1 type="letter" xml:lang="en">
+  
+  <pb facs="shan_l.560.jpg"/>
+  
+  <opener>
+   <dateline>July 18, 1971</dateline>
+   
+   <salute>Dear daughter,</salute>
+  </opener>
+  
+  <p>This letter is to greet you, Bill, and the whole family.</p>
+  <p>I will ask you what’s going on with you, because I haven’t heard from all of you in a long time. I haven’t heard from you Since April, when you phoned me, until today, July 18. If you can’t come, at least write to me. You didn’t even write for Mother’s day, and I’m worried about all of you. Tell me if the boys have written to you from the <add resp="iv" cert="high">military</add> service. I’m still ill. I can’t write a lot, but at least these few words. Don’t leave me worried. Even if we are far away, I think about you all often. Reply and let me know if you are sick or no.</p>
+
+  <p>Well daughter, <add resp="iv">receive</add> your mother’s blessing</p>
+  
+  <pb facs="shan_l.561.jpg"/>
+  
+  <closer>
+   <salute>The blessing of God the Father<lb/>
+    The blessing of God the Son<lb/>
+    The blessing of God the Holy Spirit<lb/>
+    And after theirs, may mine reach you,<lb/></salute>                    
+   <signed>Jesususita Torres</signed>
+  </closer>
+  
+ </div1>
+ 
 </body>
         
 <back></back>

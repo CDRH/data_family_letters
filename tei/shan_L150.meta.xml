@@ -13,6 +13,7 @@
 <resp>transcription and encoding</resp>
 <name xml:id="af">Faxas, Adoni A.</name>
 <name xml:id="sbg">Garcia, Sarita B.</name>
+ <name xml:id="ji">Isasi, Jennifer</name>
 </respStmt>
 </titleStmt>
 <editionStmt>
@@ -177,6 +178,33 @@
 </closer>
                 
 </div1>
+ 
+ <div1 type="letter" xml:lang="es">
+  
+  <pb facs="shan_l.546.jpg"/>
+  
+  <opener>
+   <address><addrLine>Lincoln, 16 de agosto de 1962</addrLine></address>
+   
+   <salute>Queridos Sandra y niños:</salute>
+  </opener> 
+  
+  <p>No estoy haciendo mucho hoy en la noche, así que les escribiré una nota. Son como las 9:45 PM y todavía tengo que ducharme e irme a dormir. Estoy regando el patio de atrás porque está muy seco. Anoche regué algunos de los rosales. Jack llamó hoy como a las 4:30 hoy y me invitó a cenar. Fui al centro comercial, pero no compré nada. Supuestamente iba a haber una venta en <add resp="iv">Montgomery</add> Wards. Lo que sí hice fue ir a su centro de servicio y compré una nueva cuchilla para la podadora.</p>  
+  
+  <p>Anoche puse la primera capa de pintura en el pasillo y en dos de las paredes y luego descongelé el refrigerador. Mañana en la noche voy a pintar o voy a lavar la ropa, por eso estoy descansando hoy en la noche.</p>
+  
+  <p>Le di algunos de los tomates a Jack y a la señora Meyers. Los Frappia han salido todas las noches, así que no los he visto.</p>
+
+  <p>Carroll me dijo que ella y Janet recibieron carta de las niñas hoy y estaban muy contentas. Estoy ocupado en el trabajo, pero nada serio, y espero que las cosas se queden así. Las cortes dictaminaron que no va a haber huelga en los ferrocarriles, por lo menos por ahora, así que no tendrás que preocuparte por cómo volver a casa.</p>
+  <p>Avísame si necesitas dinero o alguna otra cosa.</p>
+  <p>Escríbeme para saber cómo estás.</p>
+<closer>
+<salute>Con amor,</salute>                    
+<signed>Bill</signed>
+</closer>
+  
+ </div1>  
+  
 </body>
         
 <back></back>

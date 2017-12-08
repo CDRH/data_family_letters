@@ -13,6 +13,7 @@
 <resp>transcription and encoding</resp>
 <name xml:id="af">Faxas, Adoni A.</name>
 <name xml:id="sbg">Garcia, Sarita B.</name>
+<name xml:id="ji">Isasi, Jennifer</name> 
 </respStmt>
 </titleStmt>
 <editionStmt>
@@ -175,8 +176,35 @@
 <p>I love you both very very much</p>
 </postscript>
  
-                
 </div1>
+
+ <div1 type="letter" xml:lang="es">
+  
+  <pb facs="shan_l.532.jpg"/>
+  
+  <opener>
+   <address><addrLine>Campamento 67</addrLine></address>
+   <dateline>17 de Octubre de 1950</dateline>
+   
+   <salute>Mis queridos esposa e hijo:</salute>
+  </opener>
+
+  <p>Terminé la lista de la Reserva para la próxima semana, así que te escribiré unas líneas y después llevaré las cartas al tren de mediodía, y espero que las recibas el miércoles. Decidí ir en carro a Lincoln el miércoles por la tarde e ir al banco el jueves por la mañana y regresar en el tren de mediodía. ¿Por qué no me llamas el miércoles alrededor de las 9:00 P.M. (como las 8:00 P.M. de tu hora) o el jueves en la mañana? El número de mis papás es el 2-1676. Sería que pudiéramos comprar unos lotes en algún lugar que pudiéramos arreglar para poder estacionar otros cuatro o cinco tráileres junto al nuestro. Quizá en Brighton o alguno de los otros pueblitos cercanos a Denver. Por supuesto que si quieres los lotes en Ft. Lupton para mí está bien, porque de todas formas estacionamos ahí nuestros dos tráilers.</p>
+  <p>Anoche el agente especial y el aguacil recogieron a 11 o 12 de los gandies y se los llevaron a la cárcel de Falls City, así que hoy solamente tengo unos 50 hombres. Estoy revisando todos los coches litera y recogiendo las cobijas. Se supone que voy a recibir la carne hoy en la tarde, así que voy a estar ocupado porque también tengo que ponerle el Prestone al carro.</p>
+  <p>El clima esta bien. Espero que se mantenga así por un rato. Todavía no sé qué va a pasar con este campamento cuando terminemos aquí.</p>
+  <p>Querida, te amo y te extraño mucho. Me siento verdaderamente solo y estoy feliz de poder verte este domingo por la noche.</p>
+
+  <closer>
+   <salute>Siempre tuyo</salute>                    
+   <signed>Bill</signed>
+  </closer>
+  
+  <postscript>
+   <p>Los quiero mucho mucho</p>
+  </postscript>
+  
+ </div1>
+
 </body>
         
 <back></back>

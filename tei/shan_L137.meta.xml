@@ -13,6 +13,7 @@
 <resp>transcription and encoding</resp>
 <name xml:id="af">Faxas, Adoni A.</name>
 <name xml:id="sbg">Garcia, Sarita B.</name>
+<name xml:id="ji">Isasi, Jennifer</name> 
 </respStmt>
 </titleStmt>
 <editionStmt>
@@ -177,6 +178,39 @@
 </closer>
                 
 </div1>
+
+ <div1 type="letter" xml:lang="es">
+  
+  <pb facs="shan_l.518.jpg"/>
+  
+  <opener>
+   <address><addrLine>Campamento 67</addrLine></address>
+   <dateline>27 de Septiembre de 1950</dateline>
+   <address><addrLine>Adams, Nebraska</addrLine></address>
+   
+   <salute>Queridos Santos y Billy:</salute>
+  </opener>
+ 
+  <p> Tampoco recibí carta tuya hoy, pero te escribiré una pocas líneas para decirte que estoy pensando en ti y que te extraño mucho. YO TAMBIÉN TE AMO.</p>
+  
+  <p>Hoy he estado muy ocupado porque recibí la carne, luego la harina, el hielo, y acabo de regresar del pueblo con tres cajas de huevos. Tomaré una ducha y me arreglaré en cuanto termine ésta para poder llevarla al correo. Planeo ir a Lincoln el jueves en la noche para ver el precio del sofá cama, para poder decirle al Sargento Ruth si se puede llevar el que está en el tráiler.</p>
+
+  <p>El capataz me dijo anoche que estaremos aquí hasta por lo menos lunes, y después quizá nos moveremos a Grand Island en vez de Rulo. Eso sería mejor.</p>
+  
+  <p>¿Te conté que el otro día que estuve en casa de mis papás vi las fotos que nos tomó Helen el día que se fue Jack? Algunas no salieron muy claras, pero algunas de Billy salieron bien, así que mamá va a ordenar unas impresiones. ¿Revelaste el rollo de las que tú tomaste?</p>
+  
+  <p>Anoche me fui a la cama a las 7:45 y no me levante hasta hoy a las 7:00. Tener un horario tan largo me hace perezoso.</p>
+  
+  <p>¿Cómo está Billy? ¿Se está divirtiendo? Espero que estén bien los dos. Yo estoy bien, excepto que te extraño mucho. Necesito tus noches de amor. Mándame una carta pronto porque me siento solo.</p>
+  
+  <closer>
+   <salute>Siempre tuyo</salute>                    
+   <signed>Bill</signed>
+  </closer>
+  
+ </div1>
+  
+  
 </body>
         
 <back></back>

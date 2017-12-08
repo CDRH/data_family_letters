@@ -13,6 +13,7 @@
 <resp>transcription and encoding</resp>
 <name xml:id="km">Mendell, Kate</name>
 <name xml:id="sbg">Garcia, Sarita B.</name>
+<name xml:id="ji">Isasi, Jennifer</name>
 </respStmt>
 </titleStmt>
 <editionStmt>
@@ -161,15 +162,20 @@
 <salute>Dear Bill &amp; Santos</salute>
 </opener>
 
-<p>Sorry it takes me so long to write. I am very happy here in Albuquerque. I had surgery on my
-right eye. I guess Bethy has told you. I had Catoract &amp; glowcoma but I am doing fine, so far.
-And I will be having the same thing on my left eye. Bethy says that you would like to have
-information about you. All I can tell you, is that I know you since 1928 Then is when your
-mother moved to the room, next to</p>
+<p>Sorry it takes me so long to write.</p>
+<p>I am very happy here in Albuquerque.</p> 
+<p>I had surgery on my right eye. I guess Bethy has told you. </p>
+<p>I had Catoract &amp; glowcoma but I am doing fine, so far. And I will be having the same thing on my left eye.</p> 
+<p>Bethy says that you would like to have information about you.</p>
+<p>All I can tell you, is that I know you since 1928</p> 
+<p>Then is when your mother moved to the room, next to
 
 <pb facs="shan_l.576.jpg"/>
 
-<p>our house. You must have been about 7 years old. If there is something else that, I can help you let me know. You went to Longfellow school. My address is</p>
+our house.</p> 
+<p>You must have been about 7 years old.</p> 
+<p>If there is something else that, I can help you let me know.</p> 
+<p>You went to Longfellow school. My address is</p>
 <p>3000 Aztec N.E.</p>
 <p>space 49</p>
 <p>Phone</p>
@@ -181,6 +187,7 @@ mother moved to the room, next to</p>
 </closer>
 
 </div1>
+    
 <div1 type="envelope">
 
 <pb facs="shan_l.572.jpg"/>
@@ -214,6 +221,45 @@ NEBR.<lb/>
 </figure>
 
 </div1>
+
+<div1 type="letter" xml:lang="es">
+        
+<pb facs="shan_l.574..jpg"/>
+        
+<opener>
+<dateline>14 de agosto de 1982<add place="below">62</add></dateline>
+<salute>Queridos Bill y Santos></salute>
+</opener>
+
+    <p>Disculpen que tarde tanto en escribir.</p>
+    <p>Estoy muy contenta aquí en Albuquerque.</p>
+    <p>Me operaron el ojo derecho. Creo que Bethy les contó.</p>
+    <p>Tuve una catarata y glaucoma, pero estoy bien hasta hoy. Me van a hacer lo mismo en el ojo izquierdo.</p>
+    <p>Bethy dice que quieres información sobre ti misma.</p>
+    <p>Lo único que puedo decirte es que te conozco desde 1928.</p>
+    <p>Fue cuando tu mamá se mudó al cuarto que estaba al lado
+        
+<pb facs="shan_l.576.jpg"/>        
+
+de nuestra casa.</p>
+    <p>Debes haber tenido unos siete años.</p>  
+    <p>Si hay algo más en lo que te pueda ayudar, avísame.</p>
+    <p>Asististe a la escuela Longfellow.</p>
+    <p>Mi dirección es</p>
+    <p>3000 Aztec N.E.</p>
+        <p>space 49</p>
+        <p>Phone</p>
+        <p>505 884-0407</p>
+<p>Vivo en una casa móvil con 2 recámaras y 2 baños. Tú y Bill son bienvenidos siempre que vengan a Albuquerque.</p> 
+    
+    <closer>
+        <salute>Con cariño,</salute>                    
+        <signed>Sra. Baca.</signed>
+    </closer>
+    
+</div1>        
+
+
 </body>
 </text>
 

@@ -13,6 +13,7 @@
 <resp>transcription and encoding</resp>
 <name xml:id="af">Faxas, Adoni A.</name>
 <name xml:id="sbg">Garcia, Sarita B.</name>
+ <name xml:id="ji">Isasi, Jennifer</name>
 </respStmt>
 </titleStmt>
 <editionStmt>
@@ -167,11 +168,46 @@
 
 <closer>
 <salute>Yours always<lb/>
-Love<lb/></salute>
+Love<lb/>
+</salute>
 <signed>Bill</signed>
 </closer>
                 
 </div1>
+
+ <div1 type="letter" xml:lang="es">
+  
+  <pb facs="shan_l.542.jpg"/>
+  
+  <opener>
+   <address><addrLine>La Grange, Illinois</addrLine></address>
+   <dateline>25 de agosto de 1954</dateline>
+   
+   <salute>Queridos Sandra, Billy, Bobby y Pamela:</salute>
+  </opener>
+ 
+  <p>Los estoy extrañando mucho, pero me mantengo ocupado. El tren llegó a Chicago el lunes en la noche alrededor, de las 9:15 P.M., así que cuando llegué a la casa ya era las diez y luego tuve que arreglar un poco y me fui a dormir alrededor de las once. Anoche planté algunas semillas de grama y quité el linóleo del porche porque pensaba pintarlo hoy en la noche, volvió a llover casi todo el día y apenas paró hace como 15 minutos, mientras estaba en la ducha. Ahora son las 7:30 P.M. y estoy viendo el programa de Red Sketlon. Cuando me estaba duchando se me olvidó ver la primera parte. Quería poner la primera capa de pintura y <app cert="medium"><rdg>en la ducha</rdg></app> hoy en la noche, pero afuera está muy húmedo y no creo que se seque bien. La lluvia se llevó algo de la semilla en  montones. Ayer llovió mucho alrededor de las 11:30 A.M. y causó mucho daño.</p>
+
+<p>El tren venía lleno de Denver, pero como fui casi el primero en subir me tocó un asiento reclinable, así que pude dormir casi toda la noche. En Omaha se subió uno de los hombres de nuestro departamento, así que viajó conmigo hasta Chicago y pasamos el tiempo muy bien, platicando y leyendo periódicos y revistas. Pero no hice nada de mi curso por correspondencia.</p>
+ 
+  <p>Creo que mañana es día de pago, así que iré por mi cheque y veré si puedo salir temprano el sábado, pero lo dudo, porque el sábado pasado salí temprano, así que probablemente tendré que esperar hasta domingo para salir a Denver y llegar el lunes.</p> 
+ 
+<p>Llamé a la tía Ema el domingo en la noche antes de salir de Denver, y hablé con Laura y luego con Ema. Laura me dijo que ella y su mamá van a mudarse muy pronto a su nueva casa. Quieren que vayamos antes de que regresemos. Creo que la tía Kyle está muy mal. Están ansiosos por ver a los niños. A nosotros también, por supuesto, pero creo que a los niños primero.</p>
+
+  <p>Me parece que esperaré a lavar el viernes en la noche para tener casi todo limpio cuando me vaya.</p>
+ 
+  <p>Querida Sandra, no tengo muchas nuevas pero si quiero decirte que estoy pensando en ti y en los niños, y que los quiero y los extraño mucho. De veras espero que estés bien, y que los niños no te estén dando muchos problemas. Diles “Hola” y que los veré pronto.</p>
+  
+  <closer>
+   <salute>Siempre tuyo.<lb/>
+    Con amor<lb/>
+   </salute>
+   <signed>Bill</signed>
+  </closer>
+  
+ </div1>
+ 
+
 </body>
         
 <back></back>

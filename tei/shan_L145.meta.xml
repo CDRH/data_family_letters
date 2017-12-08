@@ -14,6 +14,7 @@
 <name xml:id="af">Faxas, Adoni A.</name>
 <name xml:id="iv">Velázquez, Isabel</name>
 <name xml:id="sbg">Garcia, Sarita B.</name>
+<name xml:id="ji">Isasi, Jennifer</name>
 </respStmt>
 </titleStmt>
 <editionStmt>
@@ -169,7 +170,8 @@
 <p>I have to get busy with my reports so will sign off and hope to see you Sunday.</p>
 
 <closer>
-<salute>Always yours</salute>                    
+ 
+<salute> Always yours.</salute>                    
 <signed>Bill</signed>
 </closer>
 
@@ -179,6 +181,37 @@
 </postscript>
 
 </div1>
+
+ <div1 type="letter" xml:lang="es">
+  
+  <pb facs="shan_l.536.jpg"/>
+  
+  <opener>
+   <address><addrLine>Campamento 67</addrLine></address>
+   <dateline>19 de Octubre de 1950</dateline>
+   
+   <salute>Mis queridos esposa e hijo:</salute>
+  </opener>
+  
+  <p>Hoy les escribiré unas líneas más, porque alcanzarán a recibirlas antes del sábado. Quiero que sepan que los amo mucho y que los extraño. Estaré en Lincoln el domingo para encontrarlos.</p>
+  <p>Anoche el capataz y yo fuimos a Falls City a mandar correo y algunos telegramas de la compañía, y luego jugamos tres partidas de bolos. No sacamos muy buena puntuación; hace mucho tiempo desde la última vez que jugué boliche. Falls City tiene una población como de 6190 personas. Es un pueblito muy bonito.</p>
+  <p>Hoy en la mañana que fuimos por el correo el cronometrador [“timekeeper” need better translation, need context] llevó su carro [auto] y se le ponchó una llanta. No tiene gato, así que tuvimos que caminar de regreso al campamento y voy a llevar mi carro para que podamos llevar su llanta a arreglar. Hoy en la tarde, a menos de que surja algún otro problema, vamos a ir por las nueces, si las encontramos.</p>
+  <p>Tengo que ocuparme con mis reportes, así que me despido y espero verlos el domingo.</p>
+  
+  <closer>
+   <salute>Siempre tuyo</salute>                    
+   <signed>Bill</signed>
+  </closer>
+  
+  <postscript>
+   <p>Te amo</p>
+   <p>Ayer recibí el periódico–</p>
+  </postscript>
+  
+  
+
+ </div1>
+
 </body>
         
 <back></back>

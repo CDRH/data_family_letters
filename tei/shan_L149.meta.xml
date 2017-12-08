@@ -13,6 +13,7 @@
 <resp>transcription and encoding</resp>
 <name xml:id="af">Faxas, Adoni A.</name>
 <name xml:id="sbg">Garcia, Sarita B.</name>
+ <name xml:id="ji">Isasi, Jennifer</name>
 </respStmt>
 </titleStmt>
 <editionStmt>
@@ -177,6 +178,33 @@
 </closer>
                 
 </div1>
+
+ <div1 type="letter" xml:lang="es">
+  
+  <pb facs="shan_l.544.jpg"/>
+  
+  <opener>
+   <address><addrLine>Lincoln, Nebraska 14 de agosto de 1962</addrLine></address>
+   
+   <salute>Queridos Sandra y niños:</salute>
+  </opener>
+  
+<p>Sus cartas me llegaron hoy en la mañana, así que fue muy buen servicio. Me alegró mucho que me escribieran tú, Pamela y Elizabeth. Me alegra que no tuvieran problemas durante el viaje. Espero que Bill ya esté trabajando en el campo de forma regular. Hoy a mediodía corté el césped. Voy a tener que conseguir una nueva cuchilla para la podadora.</p>  
+ 
+  <p>No conseguí nada en la subasta del sábado en la noche. Me fui a dormir a las 10:30 y no me levanté hasta pasadas las 9:30 A.M. del domingo. El domingo trabajé tres horas lavando las paredes y después enyesé un poco mas y pinté en algunas partes con la brocha, pero todavía no empiezo con el rodillo porque el lunes fui a la reunión de la Reserva y hoy en la noche fui a Pleasant Dale. Fui a que me ajustaran los frenos, a que me cambiaran el aceite y otras cositas pendientes. De regreso pasé por el <app loc="1" cert="high"><rdg>depósito</rdg></app> <app loc="2" cert="low"><rdg>estación.</rdg></app> para escribirte una nota y revisar mi trabajo.</p> 
+ 
+  <p>Bob descansó el lunes y el martes. Las cosas han estado en paz y espero que así sigan. El clima no ha estado mal, excepto hoy, que hizo un poco más de calor. Hemos tenido noches bonitas y frescas. No tengo noticias. Hoy en la noche llené una sartén con tomates y voy a ver si los Meyer o los Frappia quieren algunos.</p> 
+  
+ <p>Te escribo mas tarde. Una noche estuve trabajando en un curso por correspondencia y mandé el examen. Recibí el resultado del último <add resp="iv">examen</add>. No estaba seguro <add resp="iv">del resultado</add>pero lo pasé con un 82.</p>
+  
+  <p>Dime cómo estás y salúdame a todos por allá.</p>
+  
+  <closer>
+   <salute>Con amor,</salute>                    
+   <signed>Bill</signed>
+  </closer>
+  
+ </div1>
 </body>
         
 <back></back>

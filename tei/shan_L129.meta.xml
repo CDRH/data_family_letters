@@ -14,6 +14,7 @@
 <name xml:id="af">Faxas, Adoni A.</name>
 <name xml:id="km">Mendell, Kate</name>
 <name xml:id="sbg">Garcia, Sarita B.</name>
+ <name xml:id="ji">Isasi, Jennifer</name>
 </respStmt>
 </titleStmt>
 <editionStmt>
@@ -199,6 +200,25 @@ PM<lb/>
 </ab>
 
 </div1>
+
+ <div1 type="letter" xml:lang="es">
+  
+  <pb facs="shan_l.484.jpg"/>
+  
+  <opener>
+   <salute>Querida Santos:</salute>
+  </opener>
+  
+  <p>Siempre me acuerdo de ti y de tu mamá.</p>
+  
+  <p>Era muy buena vecina y siempre me cayó bien, pero ahora todo mundo parece estar enfermo. Yo estuve muy mal porque me rompí las dos piernas. Me caí y no sé por qué. There wasn’t anything to trip me, and I wasn’t dizzy, but maybe that was my luck, and now noo puedo caminar. Estuve tres meses en el hospital y me vieron dos doctores, así que imagínate lo que me va a costar, porque todo está muy caro. Así que Pancha me trajo a su casa para cuidarme. Tengo muy buenos yernos, por lo que doy gracias a Dios, porque me tratan muy bien. Las cartas se están tardando mucho. Dicen que es porque hay muchas cartas y muchos paquetes. Aquí ha hecho mucho frío. Antes el clima era muy bonito y templado, pero ya no. Y dicen que en casa el clima está peor. Aquí en Tucson, hace algunos años no se sabía si era invierno, pero ahora el clima ha cambiado y parece invierno; ha cambiado y es como en cualquier otro lugar. No sé cuándo podré caminar. Mi nieta Teas, la niña más chica tuvieron que temían de ambos ojos se estaba quedando ciega me pregunto por qué. Esto está pasando en todas partes y solo a las muchachas jóvenes.</p>
+  
+  <closer>
+   <salute>Bueno, creo que será todo por hoy. Saludos de Pancha y espero que te alivies. Escribe cuando puedas. Tu amiga de siempre, con cariño. Buena suerte y Dios te bentida a ti y a tu familia,</salute>                    
+   <signed>La Sra. de A.B. Sánchez.</signed>
+  </closer>
+  
+ </div1>
 </body>
         
 <back></back>
