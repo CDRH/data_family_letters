@@ -148,7 +148,7 @@
 <text>
 <body>
             
-<div1 type="letter">
+<div1 type="letter" xml:lang="es">
                 
 <pb facs="shan_l.312.jpg"/>
                 
@@ -159,7 +159,7 @@
 <salute>Querida hija,</salute>
 </opener>
 
-<p>Querida hija, la presente es para saludarlos tanto á ti como al Bill y a todos los muchachos. nosotros estamos bien Gracias á Dios;</p>
+<p>la presente es para saludarlos tanto á ti como al Bill y a todos los muchachos. nosotros estamos bien Gracias á Dios;</p>
                 
 <p>no mas te escrivo estas linias para desirte mande sacar un retrato de uds en donde estan el Bill y tu y los kids, de color y ban á benir unas 2 weeks moro, y yo quisiera que tu me mandaras;</p> 
 
@@ -167,12 +167,38 @@
 
 <pb facs="shan_l.313.jpg"/>
 
-escuela hora para el Lunes y tiene mucho gusto porque no le gusta piscar pepino lo mismo la <del>K</del> <del>Kachty</del> Kathy tambien tiene gusto porque ya se ba empesar la Escuela,</p>
-
-<p>bueno yo creo que esto sera todo por esta bes recuerdos para los . Kids y para Bill y tu recíve el mas fino recuerdos de todos nosotros y me contestas pronto porque ba á benir el hombre y quiero los colores para aser los retratos;</p>
+escuela hora para el Lunes y tiene mucho gusto porque no le gusta piscar pepino lo mismo la <del>K</del> <del>Kachty</del> Kathy tambien tiene gusto porque ya se ba empesar la Escuela, bueno yo creo que esto sera todo por esta bes recuerdos para los . Kids y para Bill y tu recíve el mas fino recuerdos de todos nosotros y me contestas pronto porque ba á benir el hombre y quiero los colores para aser los retratos;</p>
 
 <closer>
 <salute>tu mamá</salute>                    
+<signed>Jesusita B. Torres</signed>
+</closer>
+                
+</div1>
+
+<div1 type="letter" xml:lang="en">
+                
+<pb facs="shan_l.312.jpg"/>
+                
+<opener>
+<address><addrLine>Fort Lupton, Colorado</addrLine></address>
+<dateline>28, August - 1958</dateline>
+
+<salute>Dear daughter</salute>
+</opener>
+
+<p>This letter is to greet you all, Bill the kids and you. We are well, thank God.</p>
+                
+<p>I’m only writing to tell you that I’m having a <add resp="iv001">colored-in</add> portrait of you made <add resp="iv001">from a photo</add> of Bill, you and the kids, in color. They’re coming in about two weeks, and I would like you to send me the colors.</p> 
+
+<p>From Bill, the color of his eyes and of the clothes he was wearing, and from you, the color of your face and your eyes, and the color of the hat and your dress. And also from Billy boy, the color of his eyes, and the color of his face, and his clothes, and also <del>Boby</del> Bobby and Pamela too. Jerry and Kathy are starting school
+
+<pb facs="shan_l.313.jpg"/>
+
+on Monday and he is very happy because he doesn’t like to pick cucumbers. The same with <del>Kachty</del> <add place="above">Kathy</add> she is very happy because school is starting. Well, I think this will be all for now. Regards <app loc="1"><rdg>love</rdg></app> for the kids and for Bill. And for you, receive the finest regards <app loc="1"><rdg>love</rdg></app> from all of us. And answer soon, because the man is coming and I want the colors to have the portraits made.</p>
+
+<closer>
+<salute>Your mother</salute>                    
 <signed>Jesusita B. Torres</signed>
 </closer>
                 

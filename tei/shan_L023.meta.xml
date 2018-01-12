@@ -216,18 +216,18 @@
 
 <add>Mrs. Jesucita Baro.</add>
 
-<salute>Dear mom,</salute>
+<salute>Dear <term type="diminutive">mom</term> <app loc="1"><rdg>mother</rdg></app>,</salute>
 </opener>
 
 <p>I write you this letter with all my love to greet you and everyone else <add resp="iv001">in the family</add>, hoping you are well, as is my wish.</p>
              
 <p>After greeting you I <add resp="iv001">will</add>tell you about what you mention regarding the clothing. If you want to send it to me or if you want to send me the money <add resp="iv001">instead</add>, it’s all the same to me,</p>
 
-<p>but only if you are not in need and this is not burdensome.</p>
+<p>but only if <term type="plural">you</term> are not in need and this is not burdensome.</p>
 
 <p>Here, I have not stopped working, and I am well, all things considered.</p>
                 
-<closer><salute>My regards to all and you, dear mom, receive a big hug and all my love,</salute>
+<closer><salute>My regards to all and you, dear <term type="diminutive">mom</term> <app loc="1"><rdg>mother</rdg></app>, receive a big hug and all my love,</salute>
 
 <signed>Jesus Zamaniego.</signed>
 </closer>
