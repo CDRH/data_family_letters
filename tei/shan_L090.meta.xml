@@ -202,7 +202,7 @@ es la escuela pueda que sea para hotro año</p>
 time to start school it may be until next year.</p>
 
 <closer>
-<salute>Well, this will be all for now. Write to me once in a while. Many regards <add resp="iv001">warm regards</add> to all from Max and from your mom, who wishes you well in everything</salute>                    
+<salute>Well, this will be all for now. Write to me once in a while. Many regards <app loc="1"><rdg>warm regards</rdg></app> to all from Max and from your mom, who wishes you well in everything</salute>                    
 <signed>Jesusita B. Torres</signed>
 </closer>
 

@@ -148,7 +148,7 @@
 <text>
 <body>
             
-<div1 type="letter">
+<div1 type="letter" xml:lang="es">
                 
 <pb facs="shan_l.326.jpg"/>
                 
@@ -177,6 +177,37 @@ usa el, de mangas largas; y muchas Gracias por el retrato del Billy ya esta muy 
 </closer>
                 
 </div1>
+
+<div1 type="letter" xml:lang="en">
+                
+<pb facs="shan_l.326.jpg"/>
+                
+<opener>
+<address><addrLine>Fort Lupton, Colorado;</addrLine></address>
+<dateline>December 9, 1958</dateline>
+
+<salute>Dear daughter</salute>
+</opener>
+
+<p>This letters is to greet you all. You, your husband and the kids. We are well, thank God.</p>
+                
+<p>I’m very happy that you received the phonograph, I hope the kids like it. I’m also sending you the Safeway books <app loc="1"><rdg>booklets</rdg></app> today, so you can order something for the kids.</p>
+ 
+<p>Well, you ask me what I want for Christmas. I need almost nothing. Whatever you want, something little. And Max, he needs a union <app loc="1"><rdg>long johns</rdg></app>, size 40. You know, that kind
+
+<pb facs="shan_l.328.jpg"/>
+
+he uses, with long sleeves. And thank you for Billy’s picture. He’s very big, and he’s becoming very cute. I’m very hapy that he’s now in school, and Pamela too. She’s very bright. She’ll soon learn.</p>
+
+<p>I’m happy that you are well. The Virgin will help you. I ask God every day for all of you, for you especially. God is very good and helps us  in everything. Ask and you shall receive.</p>
+
+<closer>
+<salute>I hope you spend a good Christmas and a happy new year. Regards <app loc="1"><rdg>love</rdg></app> for the kids, and for Bill, and for you. With love from your mother</salute>                    
+<signed>Jesusita B. Torres</signed>
+</closer>
+                
+</div1>
+
 </body>
         
 <back></back>
