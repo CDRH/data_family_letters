@@ -148,7 +148,7 @@
 <text>
 <body>
             
-<div1 type="letter">
+<div1 type="letter" xml:lang="es">
                 
 <pb facs="shan_l.400.jpg"/>
 
@@ -193,6 +193,55 @@ porque yo no podía mandarles nada, pues ya ban 2, años que yo no les mando; pe
 </closer>
                 
 </div1>
+
+<div1 type="letter" xml:lang="en">
+                
+<pb facs="shan_l.400.jpg"/>
+
+<fw>1.</fw>
+                
+<opener>
+<address><addrLine>Fort Lupton, Colorado</addrLine></address>
+<dateline>January 7, 1963.</dateline>
+
+<salute>Dear daughter,</salute>
+</opener>
+
+<p>this letter is to greet you all, wishing that you spent a good Christmas and a happy new year. Well, we had a good <add resp="iv001">Christmas</add> thanks to my loving God, who is
+good.</p>
+                
+<p>For Christmas, Salomé, a neighbor, invited us over the night before. She put up a nativity scene and we prayed, and we sang. We liked it a lot. It was very cold that night and there was a lot of snow, but they picked us up and brought us back by car.</p>
+
+<p>I thought that I was going to –
+
+<pb facs="shan_l.402.jpg"/>
+
+<fw>2.</fw>
+
+get be sick, because we didn’t sleep a wink the whole night, but God helped me and nothing made me ill.</p>
+
+<p>Well, we also got presents. Helena gave Max a pair of pants, and you also sent him a shirt and socks. Oh, he liked them a lot and says thank you. I also
+liked the panties you sent me. They were perfect <app loc="1"><rdg>They were just what I needed</rdg></app>, because I didn’t have any. I don’t know why, but they shrink after you wash them.</p>
+
+<p>And also, my comadre Felipita sent me $5.00. and Betty gave me another $5.00 as well. I’d written them beforehand to tell them not to send me anything
+<pb facs="shan_l.404.jpg"/>
+
+<fw>3.</fw>
+
+because I couldn’t send them anything. It’s been 2 years in which I haven’t sent them anything, but they send me something anyway. Helen gave me some very pretty towels with
+flowers on them, and Jerry sent us a Christmas Card. My poor Jerry, I pray for him and for the whole family every night. God has to help us.</p>
+
+<p>Well, also, Helen’s baby has started to walk. He’s starting to look like Jess and he is very big. He’s already wearing a size 3.</p>
+
+<p>Well, <add resp="iv001">you and I</add> have been talking <app loc="1"><rdg>having this conversation</rdg></app>, and I think this will be all. Many regards <app loc="1"><rdg>love</rdg></app> to Bill; to Billy boy, who hopefully, is a good boy, to Pamela and Elizabeth. Tell them about us <app loc="1"><rdg>talk to them about us</rdg></app> so they won’t forget <add resp="iv001">us</add>. And for you, finest regards <app loc="1"><rdg>warmest regards></rdg></app> from Max, and from your mother,</p>
+
+<closer>
+<salute>who blesses you everynight.</salute>
+<signed>J.B.T.</signed>
+</closer>
+                
+</div1>
+
 </body>
         
 <back></back>

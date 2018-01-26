@@ -148,8 +148,9 @@
     
 <text>
 <body>
-            
-<div1 type="letter">
+           
+
+<div1 type="letter" xml:lang="es">
                 
 <pb facs="shan_l.388.jpg"/>
                 
@@ -157,7 +158,8 @@
 <address><addrLine>ft. Lupton Colo</addrLine></address>
 <dateline>july 26,- 1962</dateline>
 
-<salute>Querida hija</salute>
+
+<salute>Querida hija,</salute>
 </opener>
 
 <p>la precente es para Saludarte, á tí, á todos los muchachos, y al Bill; esperando que esten bien con Salud asi lo Deceo; pues nosotros estamos bien es por lo que le doy Gracía á Díosito Lindo;</p>
@@ -185,6 +187,49 @@ de Albuquerque n. mex. pues haora vive <del>en Albuquer</del> en Denver, la Panc
 <closer>                    
 <salute>Dios te Bendía higa son los deceos de tu mamá</salute>
 <signed>jesusita B. Torres;</signed>
+</closer>
+                
+</div1>
+
+<div1 type="letter" xml:lang="en">
+                
+<pb facs="shan_l.388.jpg"/>
+                
+<opener>
+<address><addrLine>Fort Lupton, Colorado</addrLine></address>
+<dateline>July 26, 1962</dateline>
+
+<salute>Dear daughter,</salute>
+</opener>
+
+<p>this letter is to greet you, and all the kids and Bill, hoping that you are well, as are my wishes. Well, we are well, for which I thank my <term type="informal">loving God</term>.</p>
+                
+<p>Well, I got your letter in which I read that you sent me a check for two dollars. Thank you, I truly appreciate it. It arrived on July 15th , right on my birthday. Well, Jesús gave me a chair, so that I can sit on the lawn, or so he says.</p>
+
+<p>Well, I will also tell you that Aurelia Sánchez came <add resp="iv001">to visit</add>. You will remember Aurelia
+
+<pb facs="shan_l.390.jpg"/>
+
+<fw>2</fw>
+
+from Albuquerque, New Mexico. Well now she lives in Denver. Pancha, you will remember, that little girl that was about two when we came here is now very big and very
+pretty. She says that she works as a nurse for the government. She’s here in Denver and came for a visit on a Sunday. She’s quite old, the poor woman, just like me. We are both very old. Well, it made me very happy. She hugged me and we cried. Well, she told me that she’s eager to see you, to meet your kids and your husband.</p>
+
+<p><add resp="iv001">She told me that</add>now that you’re coming <app loc="1"><rdg>when you come</rdg></app> we should go for a visit to her home, she may be
+renting</p>
+
+<pb facs="shan_l.392.jpg"/>
+
+<fw>3</fw>
+
+<p>Well, I will also tell you that the bean harvest has started, now on the 26th. In the end, when are you thinking of coming? Let me know at least a week before. You, know, to get
+things ready.</p>
+
+<p>Well, I think this will be all for now. Many regards <app loc="1"><rdg>much love</rdg></app> for Bill and the kids from Jesse and his family, and from Max and from me, your mother, who would much rather see you than write to you</p> 
+
+<closer>                    
+<salute>God bless you, daughter, these are the wishes of your mom,</salute>
+<signed>Jesusita B. Torres</signed>
 </closer>
                 
 </div1>
