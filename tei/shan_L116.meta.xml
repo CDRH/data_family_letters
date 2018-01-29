@@ -148,7 +148,7 @@
 <text>
 <body>
             
-<div1 type="letter">
+<div1 type="letter" xml:lang="es">
                 
 <pb facs="shan_l.436.jpg"/>
                 
@@ -177,6 +177,37 @@ niña ojala y á ella no se le aga tríste porque las 2, solitas la Kathy todab�
 </closer>
                 
 </div1>
+
+<div1 type="letter" xml:lang="en">
+                
+<pb facs="shan_l.436.jpg"/>
+                
+<opener>
+<address><addrLine>Fort Lupton, Colorado</addrLine></address>
+<dateline>June 1, 1965</dateline>
+
+<salute>Dear daughter,</salute>
+</opener>
+
+<p>this letter is to greet you all, hoping that you are well.</p>
+                
+<p>I will tell you that I am very happy because Pamela is here. But at the same time, let me tell you, why didn’t you let me know beforehand? You know, because I wasn’t expecting them. Jesse told me Sunday morning, when he took me to mass. So what could I do for Monday? The house was all dusty. I do my work, but all of a sudden, like that, well, no <app loc="1"><rdg>I can't clean the house.</rdg></app>. Let me know at least a week in advance <add resp="iv001">when you are coming for a visit</add>. And let me know if you liked the rebozo <app loc="1"><rdg>Mexican shawl</rdg></app> that I brought Jane, because Pamela did like very much the Mexican Jacket I brought for her. And also the <certainty locus="name" cert="high"/> I think.</p>
+
+<p>Well, thank you for sending me this
+
+<pb facs="shan_l.437.jpg"/>
+
+girl. I hope this <add resp="iv001">place</add> will not seem too sad for her, just the two of us alone here, because Kathy says she’s still not done <certainty locus="name" cert="high"><desc>with school</desc></certainty>.</p>
+
+<p>Well daughter, many regards  for Jane, and also, tell her you thank you very much for sending me her letters. Jane can write her name, now.</p>
+
+<closer>
+<salute>Well, receive many regards <app loc="1"><rdg>much love</rdg></app> from all, and from me, the finest regards,</salute>                    
+<signed>Max and me, Jesusita</signed>
+</closer>
+                
+</div1>
+
 </body>
         
 <back></back>

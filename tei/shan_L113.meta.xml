@@ -150,7 +150,7 @@
 <text>
 <body>
             
-<div1 type="letter">
+<div1 type="letter" xml:lang="es">
                 
 <pb facs="shan_l.422.jpg"/>
                 
@@ -186,6 +186,45 @@ mandaste; bueno también á mí; muchas Gracías, por todo</p>
 </closer>
                 
 </div1>
+
+<div1 type="letter" xml:lang="en">
+                
+<pb facs="shan_l.422.jpg"/>
+                
+<opener>
+<address><addrLine>Fort Lupton, Colorado</addrLine></address>
+<dateline>January 1, 1964.</dateline>
+
+<address><addrLine>My dear daughter,</addrLine></address>
+<salute>this letter is to greet you all;</salute>
+</opener>
+                
+<p>hoping that you all had a very good Christmas. Well, we enjoyed ourselves that night; we went to my comadre Naty’s. We
+cooked a very good dinner and went to midnight mass afterwards.</p>
+
+<p>I received Christmas <add resp="iv001">presents</add> from Jesse and from Helen, who gave me a pair of shoes and an apron, and also from Betty Baca, who sent me a Christmas card and $5.00. And also from all of you, who sent me <add resp="iv001">a present</add>. Max likes the union suit <app loc="1"><rdg>thermal underwear</rdg></app> that you
+
+<pb facs="shan_l.424.jpg"/>
+
+sent him; I do too. Thank you very much for everything.</p>
+
+<p>I will tell you that today is New Year’s day, and it’s lovely, very sunny. For Christmas Day we had a lot of snow.</p>
+
+<p>Frances was very happy with what you sent her, and says thank you.</p>
+
+<p>Well, I don’t have a lot of news. I think that this will be all for now, and I also want to ask you, why do you take
+care of other people’s babies? I think that you have enough work at home, and don’t need to struggle with other people’s families. I think that this must be you are so thin. Take care of yourself, because if you don’t, who do you expect will? This must be why you don’t even have time to write to me.</p>
+
+<pb facs="shan_l.425.jpg"/>
+
+<p>Well, God will help you. Many regards <app loc="1"><rdg>much love</rdg></app> to everybody. Tell Roberto to write to me, and Pamela too. Or Billy boy, <add resp="iv001">tell him</add> to write to me, because I feel bad when I don’t hear from all of you. Ok, receive the most sincere regards from us. I wish you a happy New Year and prosperity. Your mom who wishes that God grants you his</p>
+<closer>
+<salute>blessings,</salute>                    
+<signed>Jesusita B. Torres.</signed>
+</closer>
+                
+</div1>
+
 
 <div1 type="envelope">
 
