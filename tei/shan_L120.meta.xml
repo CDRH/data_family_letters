@@ -149,7 +149,7 @@
 <text>
 <body>
             
-<div1 type="letter">
+<div1 type="letter" xml:lang="es">
                 
 <pb facs="shan_l.452.jpg"/>
                 
@@ -180,6 +180,39 @@
 </closer>
                 
 </div1>
+
+<div1 type="letter" xml:lang="en">
+                
+<pb facs="shan_l.452.jpg"/>
+                
+<opener>
+<address><addrLine>Fort Lupton, Colorado</addrLine></address>
+<dateline>September 11, 1970</dateline>
+
+<salute>Mrs. Santos B. Schubert</salute>
+</opener>
+
+<p>This letter is to greet you, darling daughter.</p>
+                
+<p>I started writing this letter to tell you thank you very much for the check.</p>
+
+<p>It seems that I’m doing better. Helen is still working. It seems I’m feeling better <app loc="1"><rdg>healthier</rdg></app>.</p>
+
+<p>Well, it’s already started to get a little cold here. I think <certainty locus="name" cert="high"><desc>the girls</desc></certainty> <app loc="1"><rdg>the kids</rdg></app> should be in school by now. There are no news here, everything is the same.</p>
+
+<p>Say hello to Pam</p>
+
+<p>and also to Isabel Jane,</p>
+
+<p>and Alberto, and to Billy boy when he writes to you, and to big Bill <app loc="1"><rdg>Bill senior</rdg></app>,</p>
+
+<closer>
+<salute>and for you, receive our affection <app loc="1"><rdg>our love</rdg></app> from Max and Jesusita,</salute>                    
+<signed>your mom</signed>
+</closer>
+                
+</div1>
+
 
 <div1 type="envelope">
 

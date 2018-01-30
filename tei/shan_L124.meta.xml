@@ -154,7 +154,7 @@
 <text>
 <body>
             
-<div1 type="letter">
+<div1 type="letter" xml:lang="en">
                 
 <pb facs="shan_l.462.jpg"/>
                 
@@ -185,7 +185,7 @@ at the Tourist Tower cabins, so we stay there until Sunday morning then we came 
 
 <p>Last night we worked until 11:30—not very hard though.</p>
 
-<p>You see I am working with the C.B.&amp;Q [Chicago, Burlington&amp;Quincy Railroad]. but with John J. Grier Co. with has these camps. We board and room the C.B.&amp;Q. employees for $8.75 a week.</p>
+<p>You see I am working with the C.B.&amp;Q. but with John J. Grier Co. with has these camps. We board and room the C.B.&amp;Q. employees for $8.75 a week.</p>
 
 <pb facs="shan_l.464.jpg"/>
 
@@ -205,7 +205,8 @@ at the Tourist Tower cabins, so we stay there until Sunday morning then we came 
 
 <closer>
 <salute>Tell everybody Hello!</salute>                    
-<signed>Your son&amp;brother.,</signed>
+<salute>Your son&amp;brother.,</salute>
+<signed>William F. Schubert</signed>
 </closer>
 
 <postscript>
@@ -214,6 +215,73 @@ at the Tourist Tower cabins, so we stay there until Sunday morning then we came 
 </postscript>     
  
 </div1>
+
+<div1 type="letter" xml:lang="es">
+                
+<pb facs="shan_l.462.jpg"/>
+                
+<opener>
+<address><addrLine>Lincoln, Nebraska</addrLine></address>
+<dateline>17 de marzo de 1942.</dateline>
+
+<salute>Queridos papás,</salute>
+</opener>
+
+<p>Recibí su tarjeta y hoy recibí su carta. Me alegró recibir noticias suyas.</p>
+                
+<p>Acabo de escribirle a esos señores para decirles que ya había aceptado un trabajo de oficina.</p>
+
+<p>Jim estuvo aquí esta noche y fuimos al pueblo por un rato. Acabo de regresar y ya escribí esas otras cartas, así que les escribo para alcanzar a ponerlas en el correo esta misma noche. Las envío desde la estación </p>
+
+<p>El Sr. Lollis se fue a Chicago hoy en la noche y regresa el jueves en la mañana.</p>
+
+<p>El sábado pasado Sr. Lollis y yo fuimos a Omaha. Vio a algunas personas en la tarde, luego
+cenamos ‘un pollo salvaje’ (medio pollo), y después de eso fuimos al cine y vimos tres <certainty locus="name" cert="high"><desc>películas</desc></certainty> <app loc="1"><rdg>programas </rdg></app> y estaba ahí la escuela de KMA. Quizá hayan escuchado el programa de KMA, porque lo transmitieron. El Sr. Mr. pagó la cena y las películas. Cuando íbamos a volver a casa el clima se puso muy mal , así que nos alquiló una habitación.
+
+<pb facs="shan_l.463.jpg"/>
+
+en las cabañas Tourist Tower, así que nos quedamos hasta el domingo en la mañana y luego regresamos. Me dejó conducir camino a Omaha y también allá.</p>
+
+<p>Estoy bien. Creo que este trabajo tiene futuro. Ahora estamos limpiando y preparando todo antes de que se vaya el campamento. La próxima semana llegan nuestras provisiones y suministros. ¡Caramba! Deberían ver la orden que hicimos anoche —4000 libras de
+azúcar —300 libras de azúcar para repostería —300libras de pasas, y grandes cantidades de todo. Les contaré todo sobre el campamento cuando vuelva a casa, solo que no sé cuándo será.</p>
+
+<p>Debo ayudar con las provisiones y suministros —mantengo y escribo informes — y ayudo en el economato (es el lugar donde vendemos todo lo que puede ofrecérsele a alguien que trabaje aquí —ropa-dulces, etc).</p>
+
+<p>Anoche trabajamos hasta 11:30—pero no fue muy pesado.</p>
+
+<p>Es que estoy trabajando con <app loc="1"><rdg>en</rdg></app>el ferrocarril C.B. &amp; Q pero para la compañía John J. Grier, que tiene estos campamentos. Nosotros alojamos y les damos de comer a los trabadores del C.B. &amp; Q. por $8.75 a la semana. semana.</p>
+
+<pb facs="shan_l.464.jpg"/>
+
+ <p>Ahora somos solamente cinco, pero va a haber más de 200 [hombres] el 6 de abril que abra el campamento. Vamos a estar en Crete casi una semana y después nos vamos a St. Joe y después a Colorado, luego a Wisconsin y no sé a dónde más después de eso, porque nosotros trabajamos en todas las líneas del C.B. &amp; Q.</p>
+
+<p>Creo que les conté que me dijo que a veces podía conducir su carro. Es un Studebaker Commander 1941. Lo tiene asegurado por $50,000, y va a poner mi nombre en póliza junto con el suyo.</p>
+
+<p>Me dejan usar una máquina de escribir portátil marca Royal.</p>
+
+<p>Es posible que Jim y yo vayamos a casa alguna noche o algún domingo. Estoy planeando ir con Jim a la obra esa misma noche.</p>
+
+<p>De veras que nos dan de comer muy bien. El Sr. Lollis va al pueblo y compra todo de lo mejor. Nos sirven carne en cada comida, papas, pan, mantequilla, y casi siempre una o dos verduras para acompañar. Compra bollos, pasteles, etc.</p>
+
+<pb facs="shan_l.465.jpg"/>
+
+<p>Creo que terminaré por esta noche y me iré a enviar esta carta. La estación está a solo una cuadra.</p>
+
+<closer>
+<salute>Salúdenme a todos.</salute>                    
+<salute>Su hijo y hermano</salute>
+<signed>William F. Schubert</signed>
+</closer>
+
+<postscript>
+<p>P.D. Tenemos nuestra propia planta de luz de 110 voltios, un vagón para la cocina,
+vagones comedor, vagones litera y todo, incluyendo regaderas.</p>
+<p>Recibí una carta del Servicio Civil. Saqué un promedio de 93.67, pero creo que me voy a
+quedar con este trabajo incluso si dentro de poco me dan mi cambio al S.C.</p>
+</postscript>     
+ 
+</div1>
+
 
 <div1 type="envelope">
 

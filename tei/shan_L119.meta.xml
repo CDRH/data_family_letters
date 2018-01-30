@@ -148,7 +148,7 @@
 <text>
 <body>
             
-<div1 type="letter">
+<div1 type="letter" xml:lang="es">
                 
 <pb facs="shan_l.448.jpg"/>
                 
@@ -177,6 +177,37 @@
 </closer>
                 
 </div1>
+
+<div1 type="letter" xml:lang="en">
+                
+<pb facs="shan_l.448.jpg"/>
+                
+<opener>
+<address><addrLine>Fort Lupton, Colorado</addrLine></address>
+<dateline>December 14, 1967.</dateline>
+
+<salute>My dear daughter,</salute>
+</opener>
+
+<p>This letter is to greet you, hoping that you are well, God willing, and that you are feeling better.</p>
+                
+<p>Bill told me that your lower back has been hurting. Go see the doctor so he can give you something. Well, it looks like I’m better, for which I thank God, who is good.</p>
+
+<p>I will tell you that the weather here is very cold, below zero. Since the 12th until today it’s been below zero during the day. But I’m sending you your Christmas here. Twenty dollars, like every year, $20, so that you can buy something for the kids. Now that the kids were here I asked Pam what she wanted for Christmas, but I don’t know <add resp="iv001">what to buy</add>, the money is better. Jerry sent me a Christmas card.</p>
+
+<p>Well daughter, I hope that you write me once in a while. Many regards <app loc="1"><rdg>much love</rdg></app> from Jess and family, and from Max and me—over</p>
+
+<pb facs="shan_l.449.jpg"/>
+
+<closer>
+<salute>Receive the finest regards from your mom who wishes you <term type="literal">one thousand happinesses</term> </salute>
+<signed>Jesusíta Torres.<lb/>
+<address><addrLine>814. Pacifc ave 80621.</addrLine></address>
+<address><addrLine>ft. Lupton Colo;</addrLine></address></signed>
+</closer>
+                
+</div1>
+
 </body>
         
 <back></back>

@@ -149,7 +149,7 @@
 <text>
 <body>
             
-<div1 type="letter">
+<div1 type="letter" xml:lang="en">
                 
 <pb facs="shan_l.488.jpg"/>
                 
@@ -192,6 +192,52 @@ Always<lb/></salute>
 </postscript>            
             
 </div1>
+
+<div1 type="letter" xml:lang="en">
+                
+<pb facs="shan_l.488.jpg"/>
+                
+<opener>
+<address><addrLine>Havelock Nebr</addrLine></address>
+<dateline>10 de diciembre de 1947</dateline>
+<dateline>8:00 P.M.</dateline>
+
+<salute>Mi queridos esposa y bebé – –</salute>
+</opener>
+
+<p>¿Cómo están mis queridos esta noche? Les envío estas pocas líneas para decirles que los amo y los extraño mucho. De veras me siento solo y triste; pero el día, dentro de poco, en que estaremos juntos. No recibí correo, y como recibí dos ayer, mañana buscaré carta nueva–</p>
+
+<p>Ya apagué el fuego de la caldera, así que me voy a la cama al terminar tu carta. Estoy bien, excepto que varios de los hombres están causando algunos problemas en el comedor, así que a dos de ellos les di la cuenta para que pudieran irse, porque ya no les voy a dar de comer. Pero el ferrocarril quiere que trabajen y coman aquí – Uno sacó carne para afuera y la tiró a la basura, y otro le echó café a las papas, y cosas así – No me preocupo por eso, pero el jefe del ferrocarril en las tiendas <app loc="1"><rdg>los talleres</rdg></app> en Havelock podría tratar de correrme <app loc="1"><rdg>sacarme de aquí</rdg></app> pero
+
+<pb facs="shan_l.490.jpg"/>
+
+<fw>-2-</fw>
+
+creo que no lo hará.</p>
+
+<p>El inspector del campamento estuvo aquí hoy en la tarde e hizo inventario del economato, así que no pude averiguar acerca de un cuarto – quizá tenga tiempo mañana. Mi economato salió bien – Conseguí un buen par cubre calzados de hule y tuve que comprar unos guantes, así que me estoy cuidando bien.</p>
+
+<p>Conseguí un poco de horehound mezclado con miel para mi tos. Esto debería ayudarme – el cocinero también tiene una tos muy fuerte, así
+que hizo que se lo mezclaran.</p>
+
+<p>Querida, cómo me gustaría tenerte <add resp="iv001">aquí</add> para que me calentaras la cama y para mantenerme caliente en las noches. Querida, de veras te necesito. Recuerda que te amo mucho –</p>
+
+<p>Hoy está haciendo más frio y la noche está clara– Hay unas tres pulgadas de nieve.</p>
+
+<p>Bueno, deseo y rezo porque estén bien – Cuídate mucho.</p>
+
+<closer>
+<salute>Siempre<lb/>
+tu esposo<lb/></salute>                    
+<signed>Bill</signed>
+</closer>
+
+<postscript>
+<p>-Con todo mi amor y mis besos-</p>
+</postscript>            
+            
+</div1>
+
 
 <div1 type="envelope">
 

@@ -166,7 +166,7 @@
 <text>
 <body>
             
-<div1 type="letter">
+<div1 type="letter" xml:lang="en">
                 
 <pb facs="shan_l.472.jpg"/>
                 
@@ -193,6 +193,37 @@
 
 <postscript>
 <p>P.S. Elizabeth address 5 on the new clipping</p>
+</postscript>
+ 
+</div1>
+
+<div1 type="letter" xml:lang="es">
+                
+<pb facs="shan_l.472.jpg"/>
+                
+<opener>
+<dateline>16 de marzo de 1977</dateline>
+<address><addrLine>Ft. Lupton Colorado.</addrLine></address>
+
+<address><addrLine>Queridos Sandra y Bill:</addrLine></address>
+<salute>Solo unas líneas esperando que esta carta los encuentre bien a ustedes y a su familia. Todos estamos bien en Fort Lupton.</salute>
+</opener>
+
+<p>Max está muy bien y las cosas están funcionando sin problemas.</p>
+
+<p>Les escribo para contarles de Tony Falcón. Estoy incluyendo aquí un rccorte de periódico acerca del incidente. También pensé que quizá querrían mandarle una tarjeta a Elizabeth.</p>
+
+<p>Yo fui al rosario el lunes pasado.</p>
+
+<p>El incidente ocurrió cuando tuvimos una tormenta muy fuerte. El viento y la nieve entraron muy rápido. Yo no fui a trabajar en dos días. Las carreteras estuvieron cerradas de Brighton a Denver.</p>
+
+<closer>
+<salute>Bueno, ahora me despido. <add resp="iv001">Les deseo</add> buena salud y que Dios los bendiga.</salute>
+<signed>Helen&amp;Jess&amp;Mark.</signed>
+</closer>
+
+<postscript>
+<p>P.D. La dirección de Elizabeth está en el recorte.</p>
 </postscript>
  
 </div1>
