@@ -148,7 +148,7 @@
 <text>
 <body>
             
-<div1 type="letter">
+<div1 type="letter" xml:lang="en">
                 
 <pb facs="shan_l.500.jpg"/>
                 
@@ -183,6 +183,46 @@ Your husband<lb/></salute>
 
 <postscript>
 <p>Yo te amo mucho mucho</p>
+</postscript>
+ 
+</div1>
+
+<div1 type="letter" xml:lang="es">
+                
+<pb facs="shan_l.500.jpg"/>
+                
+<opener>
+<address><addrLine>Base Aérea Bergstrom</addrLine></address>
+<dateline>9 de mayo de 1948</dateline>
+
+<salute>Mis queridos Santos y Billy –</salute>
+</opener>
+
+<p>Acabo de terminar mi desayuno dominical, así que voy a ponerme a escribir esta carta para poder enviarla hoy desde el pueblo.</p>
+                
+<p>Mi amor, te extraño mucho. Recuerda que te amo mucho. Espero que estén bien – ¿Mejoró la tos de Billy? – Yo estoy bien –</p>
+
+<p>Ayer, yo y dos compañeros fuimos a Austin. Entramos al capitolio, vimos la universidad de Texas, curioseamos por las tiendas y fuimos a ver la piscina del manantial. Los compañeros con los que iba no querían caminar mucho, así que voy a volver para ver la roca y las flores del jardín. La piscina del manantial está muy bonita y muy limpia – es posible que hoy vaya a nadar. Comimos y cenamos en una cafetería del pueblo muy buena y a precio muy razonable. Anoche
+había un <certainty locus="name" cert="medium"><desc>juego</desc></certainty>en el club <add resp="iv001">Service Club</add> así que fuimos, pero solamente había algunas chicas y la mayoría habían ido porque ya tenían cita con los fiesteros de siempre, así que no teníamos nada que hacer allá.</p>
+
+<p>Esta semana que viene tengo cuatro días de entrenamiento y el viernes me pagan y salgo, así que estaré en Denver el domingo en la mañana, como a las 8:15 – Puedes pedirle a Jess que te lleve en el auto para recibirme, o puedo tomar un autobús directamente hasta Lupton. Quizá sea lo mejor. De cualquier forma estaré contigo y con Billy el próximo domingo.</p>
+
+<pb facs="shan_l.502.jpg"/>
+
+<fw>-2-</fw>
+
+<p>A la fecha no he recibido carta tuya, asíque espero una mañana – ¿Te conté que me van a dar $1.25 por día por tus <certainty locus="name" cert="medium"><desc>Quarters</desc></certainty>, así que serán $18.75 más de lo que había pensado recibir. Como tengo que esperar parte del día para tomar el tren, cuando me vaya voy a comprar algunas cosas para ti y para Billy – Las iba a comprar ayer, pero pensé que se me podían perder o quebrar o algo –</p>
+
+<p>Cariño, te amo mucho mucho, recuérdalo – Cuídate mucho.</p>
+
+<closer>
+<salute>Siempre tuyo<lb/>
+Tu esposo<lb/></salute>                    
+<signed>Bill</signed>
+</closer>
+
+<postscript>
+<p>I love you very very much</p>
 </postscript>
  
 </div1>

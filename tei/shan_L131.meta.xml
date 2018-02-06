@@ -148,12 +148,12 @@
 <text>
 <body>
             
-<div1 type="letter">
+<div1 type="letter" xml:lang="en">
                 
 <pb facs="shan_l.494.jpg"/>
                 
 <opener>
-<address><addrLine>Havelock, Nebr</addrLine></address>
+<address><addrLine>Havelock, Nebraska</addrLine></address>
 <dateline>16 Dec 1947</dateline>
 <dateline>7:45 P.M.</dateline>
 
@@ -169,6 +169,7 @@
 <p>Last night I had to close my books for the first half so was busy and didn’t write – Today, I have been busy too as I finally got to carry all the mattresses and extra blankets out of the gang bunk house – Have 24 men now after receiving some last night and again tonight – Most of the old ones are gone now so it should be better around here – Suppose most of them will quit about Christmas –</p>
 
 <pb facs="shan_l.496.jpg"/>
+<fw>-2-</fw>
 
 <p>I’m getting along ok. My cough is improved so am feeling well – Will you be able to get another baptism certificate? Sure hope so; but wouldn’t know how you lost the other one.</p>
 
@@ -179,6 +180,7 @@
 <p>The closet I have been working on is almost finished anyway I put a cloth over the front of it and have my clothes in it now – Mopped and really cleaned the commissary, and
 
 <pb facs="shan_l.495.jpg"/>
+<fw>-3-</fw>
 
 my sleeping room – Want to paint some – also have some ply wood to make a little cabinet.</p>
 
@@ -196,7 +198,10 @@ my sleeping room – Want to paint some – also have some ply wood to make a li
 <pb facs="shan_l.497.jpg"/>
 
 <postscript>
-<p>Loads of Love and Kisses to you and Baby</p>
+<p>Loads </p> 
+<p>of Love</p>
+<p>and Kisses to</p>
+<p>You and Baby</p>
 </postscript>
  
 <closer>
@@ -209,6 +214,74 @@ my sleeping room – Want to paint some – also have some ply wood to make a li
 </postscript>               
 
 </div1>
+
+<div1 type="letter" xml:lang="es">
+                
+<pb facs="shan_l.494.jpg"/>
+                
+<opener>
+<address><addrLine>Havelock, Nebr</addrLine></address>
+<dateline>16 de diciembre 1947</dateline>
+<dateline>7:45 P.M.</dateline>
+
+<salute>Mis queridos esposa y bebe –</salute>
+</opener>
+
+<p>Hoy en la tarde recibí su carta del domingo y me alegró recibir noticias suyas porque ya habían pasado varios días y me estaba sintiendo más solo y más triste.</p>
+                
+<p>Me sentiré muy feliz cuando estén aquí, porque realmente los extraño y me siento infeliz estando solo. No me mencionas si ya tienes tus reservaciones, pero espero que sí, porque los quiero aquí a ti y al bebé para Navidad –</p>
+
+<p>Voy a mandar mañana la <add resp="iv001">tarjeta de seguro médico</add> Blue Cross; y mi seguro también, para no tener ese pendiente. El bebé está en la Blue Cross, y ahora cuesta siete dólares –</p>
+
+<p>Anoche tuve que cerrar la contabilidad para la primera mitad, así que estuve ocupado y no te escribí – Yo también he estado ocupado, porque finalmente pude sacar los colchones y las cobijas extra del barracón. Ahora tengo 24 hombres después de recibir a algunos anoche y otros pocos esta misma noche – La mayoría de los que habían estado aquí por mucho tiempo ya se fueron, así que se las aquí cosas deberán mejorar– Supongo que la mayoría dejará el trabajo cerca de Navidad –</p>
+
+<pb facs="shan_l.496.jpg"/>
+<fw>-2-</fw>
+
+<p>Yo estoy bien. Mi tos ha mejorado y que me siento bien – ¿Vas a poder sacar otro certificado de bautismo? Así lo espero, auqnue no sé cómo perdiste el
+otro.</p>
+
+<p>Querida, quiero que vengas, pero no digas que tengo que conseguir un lugar donde vivir antes de que vengas, porque <add resp="iv001">encontrar</add> dónde vivir no es fácil y yo los quiero conmigo, porque no es divertido para mí estar aquí preocupándome por ustedes. Después de todo, te necesito y quiero ver al bebé para poder disfrutarlo ahora que es bebé.</p>
+
+<p>Mañana debo recibir mi carne, provisiones y algo del economato, así que espero ir al pueblo este jueves para hacer mis compras y conseguir algunas tarjetas para poderlas mandar –</p>
+
+<p>El armario en el que he estado trabajando casi esta terminado. De todos modos, le pongo un trapo que cubra el frente y ahí tengo mi ropa. Lavé el piso y limpié muy bien el economato, y
+
+<pb facs="shan_l.495.jpg"/>
+<fw>-3-</fw>
+
+mi cuarto – Quería pintar un poco – también tengo algo de madera aglomerada para hacer un pequeño gabinete.</p>
+
+<p>Desde que he estado aquí he depositado 175 dólares en el banco– Este mes me llegará un buen cheque– Avísame si necesitas algo de dinero porque no se cuánto tienes, ni si tienes alguno de tus cheques –</p>
+
+<p>Querida, recuerda que los quiero a ti y al bebé para Navidad – Seré muy infeliz si me decepcionas. Si tengo que dormir solo por más tiempo voy a volverme loco – De veras te extraño mucho mucho. Ha sido mucho tiempo. Ya hace más de un mes que he estado lejos de ustedes y sido mucho. Vengan tú y el bebé y nos las arreglaremos de algún modo y tendremos un lugar dónde vivir.</p>
+
+<p>Corazón, por ahora les deseo dulces sueños y que Dios los bendiga a los dos.</p>
+
+<closer>
+<salute>Tu esposo</salute>                    
+<signed>Bill</signed>
+</closer>
+
+<pb facs="shan_l.497.jpg"/>
+
+<postscript>
+<p>Mucho amor</p>
+<p>y besos para</p>
+<p>ti y para el bebé</p>
+</postscript>
+ 
+<closer>
+<salute>Su esposo y papito</salute>                    
+<signed>Bill</signed>
+</closer>
+
+<postscript>
+<p>-Siempre tuyo-</p>
+</postscript>               
+
+</div1>
+
 
 <div1 type="envelope">
 

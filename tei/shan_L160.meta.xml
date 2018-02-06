@@ -151,7 +151,7 @@
 <text>
 <body>
             
-<div1 type="letter">
+<div1 type="letter" xml:lang="es">
                 
 <pb facs="shan_l.590.jpg"/>
                 
@@ -165,7 +165,8 @@
                 
 <p>sabes que me rísfríe ya aquí en ariz.  no esta el tiempo como dos años pasados. no se sabía sí era invierno, de bonito y caliente que estaba, pero ahora desde el año pasado  ha cambíado mucho, you know that they snow for xmas eve.&amp;it has been raining&amp;very cold. even the flowers are dead with the cold days&amp;nites,</p>
 
-<p>Santos I always write to your mom. to see how she’s getting alone. I never forget her even if we are far away, you know that when Pancha was station in Denver we use to go over&amp;see her. I was the one who sign some papers so she could get the <add>soicil</add> <del/> sucirety because they didn’t want to give it to her, but I sign the papers&amp;send them&amp;then she got her check, we use to go most every week when Pancha had a day off.&amp;now that I’m home, I always write to her to see how she ís, I send her a xmas card&amp;then it is when I found out that she couldn’t walk, so I sure feel sorry for her, ella era muy Buena vícina, y no se me olvida.</p>
+
+<p><lang xml:id="en">Santos I always write to your mom. to see how she’s getting alone. I never forget her even if we are far away, you know that when Pancha was station in Denver we use to go over&amp;see her. I was the one who sign some papers so she could get the <add>soicil</add> <del/> sucirety because they didn’t want to give it to her, but I sign the papers&amp;send them&amp;then she got her check, we use to go most every week when Pancha had a day off.&amp;now that I’m home, I always write to her to see how she ís, I send her a xmas card&amp;then it is when I found out that she couldn’t walk, so I sure feel sorry for her, ella era muy Buena vícina, y no se me olvida.</lang></p>
 
 <p>pues espero que pasen un año Nuevo muy Felíz, que yo a pasado todo esto muy tríste con la muerte de Oloyía, que murio el día 5 de Agosto y no se me olvída, ní se me olbídara Santos míentras viva,</p>
 
@@ -178,6 +179,38 @@
 
 <postscript>
 <p>y Dios te ha de prestar a tu mama mas que este enferma.</p>
+</postscript>
+ 
+</div1>
+
+<div1 type="letter" xml:lang="en">
+                
+<pb facs="shan_l.590.jpg"/>
+                
+<opener>
+<dateline>December 29, 1974</dateline>
+
+<salute>Dear friend,</salute>
+</opener>
+
+<p>I hope that you and your family are well. I am not so well.</p>
+                
+<p>I have a cold, you know. The weather here in Arizona is not like in years past. You couldn’t tell if it was winter, it was so nice and warm. But now, since last year, the weather has changed a lot. Sabes que nevó para Noche Buena y ha estado lloviendo y hacienda mucho frío. Hasta las flores se murieron con los días y las noches frías.</p>
+
+
+<p><lang xml:id="es">Santos, siempre le escribo a tu mamá para saber cómo está. Nunca me olvido de ella aunque estemos lejos. Sabes que cuando Pancha estaba destacamentada [asignada] a Denver íbamos a verla. Yo fui la que firmó los papeles para que pudiera recibir el seguro social, porque no se lo querían dar, pero yo firmé los papeles y los mandé y le mandarin su cheque. Íbamos casi todas las semanas cuando Pancha tenía día libre. Y ahora que ya estoy en casa siempre le escribo para saber cómo está. Le mando tarjeta de navidad y cuando me enteré de que no puede caminar de veras que lo sentí mucho por ella. She was a very good neighbor and I don’t forget her.</lang></p>
+
+<p>Well, I hope you have a very happy new year, because the one I’ve been through has been very sad with <certainty locus="name" cert="low"><desc>Oloyía’s</desc></certainty>  death, she <app loc="1" cert="low"><rdg>he</rdg></app> died on August 5 th and I haven’t forgotten, I will not forget, Santos, as long as I live.</p>
+
+<closer>
+<salute>I think this is all. God bless you and your family. With much love, your friend who wishes you happiness.</salute>                    
+<signed>Greetings from Pancha.</signed>
+</closer>
+
+<pb facs="shan_l.591.jpg"/>
+
+<postscript>
+<p>and God shall lend you <app loc="1"><rdg>let you enjoy</rdg></app> your mother <add resp="iv001">for a long time</add>even if she is ill.</p>
 </postscript>
  
 </div1>
