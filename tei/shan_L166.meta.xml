@@ -149,7 +149,7 @@
 <text>
 <body>
             
-<div1 type="letter">
+<div1 type="letter" xml:lang="en">
                 
 <pb facs="shan_l.618.jpg"/>
                 
@@ -183,7 +183,40 @@ came Sunday and Monday</p>
 
 <postscript><p>P.S. Loads of love and kisses from your wife and son. Am keeping one copy of orders.</p></postscript>
 
+</div1>
 
+
+
+<div1 type="letter" xml:lang="es">
+  
+<pb facs="shan_l.618.jpg"/>
+  
+<opener>
+<dateline>1 de noviembre de 1950</dateline>
+   
+<salute>Querido Bill:</salute>
+</opener>
+
+<p>Acabo de recibir una carta especial. Parece que son tus órdenes. Es lo que querías. Entonces no voy a llamar al tráiler park</p>
+
+<p>El tráiler viejo está rentado solo por un mes. El hombre <app loc="1"><rdg>el tipo</rdg></app><app loc="2"><rdg>el señor</rdg></app><app loc="3"><rdg>la persona</rdg></app> quiere hablar contigo porque está interesado en comprarlo. Quiere hacer algún tipo de trato. Trabaja para una compañía constructora y tiene esposa y un bebé. Dijeron que el nuestro es el tráiler más limpio que jamás hayan visto. Le dije que costaba $1,600. Creo que quiere comprarlo, porque el domingo regresó tres veces. Es el único que vino el domingo y el lunes
+
+<pb facs="shan_l.619.jpg"/>
+
+vino otro señor <app loc="1"><rdg>hombre</rdg></app> <app loc="2"><rdg>persona</rdg></app> <app loc="3"><rdg>individuo</rdg></app> <app loc="4"><rdg>tipo</rdg></app> a preguntar por él. Quiere verlo y está interesado en comprar un tráiler. Ha estado buscando uno.</p>
+
+<p>Espero que vendas ese tráiler viejo.</p>
+
+<p>Parece que el tren de Billy se descompuso. Ya no quiere funcionar. Dale no lo alcanzó a ver. Los parientes se fueron el domingo temprano. Te vas a enojar conmigo y con Billy porque se trepó encima de tu carro. Te extraño y Billy también. Apuesto a que no extrañas que te esté regañando, pero te amo, Bill, y voy a tratar de no ser tan gruñona. </p>
+
+<closer>
+<salute>Fielmente tuya, </salute>                    
+<signed>Sandra</signed>
+</closer>
+ 
+ <postscript><p>Mucho amor y besos de tu esposa y tu hijo. Me quedo con una copia de tus órdenes.</p></postscript>
+ 
+ 
 </div1>
 
 <div1 type="envelope">
@@ -227,38 +260,6 @@ DEC<lb/>
 <p></p>
 </figure>
 
-</div1>
-
-<div1 type="letter" xml:lang="es">
-  
-<pb facs="shan_l.618.jpg"/>
-  
-<opener>
-<dateline>1 de noviembre de 1950</dateline>
-   
-<salute>Amadísimo Bill:</salute>
-</opener>
-
-<p>Acabo de recibir una carta especial. Parece que son tus órdenes. Es lo que querías. Entonces no voy a llamar al tráiler park</p>
-
-<p>El tráiler viejo está rentado solo por un mes. El hombre [el tipo, el señor, la persona] quiere hablar contigo porque está interesado en comprarlo. Quiere hacer algún tipo de trato. Trabaja para una compañía constructora y tiene esposa y un bebé. Dijeron que el nuestro es el tráiler más limpio que jamás hayan visto. Le dije que costaba $1,600. Creo que quiere comprarlo, porque el domingo regresó tres veces. Es el único que vino el domingo y el lunes
-
-<pb facs="shan_l.619.jpg"/>
-
-vino otro señor [hombre, persona, individuo, tipo] a preguntar por él. Quiere verlo y está interesado en comprar un tráiler. Ha estado buscando uno.</p>
-
-<p>Espero que vendas ese tráiler viejo.</p>
-
-<p>Parece que el tren de Billy se descompuso. Ya no quiere funcionar. Dale no lo alcanzó a ver. Los parientes se fueron el domingo temprano. Te vas a enojar conmigo y con Billy porque se trepó encima de tu carro. Te extraño y Billy también. Apuesto a que no extrañas que te esté regañando, pero te amo, Bill, y voy a tratar de no ser tan gruñona. </p>
-
-<closer>
-<salute>Fielmente tuya, </salute>                    
-<signed>Sandra</signed>
-</closer>
- 
- <postscript><p>Mucho amor y besos de tu esposa y tu hijo. Me quedo con una copia de tus órdenes.</p></postscript>
- 
- 
 </div1>
 
 </body>
