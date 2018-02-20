@@ -150,7 +150,7 @@
 <text>
 <body>
             
-<div1 type="letter">
+<div1 type="letter" xml:lang="es">
                 
 <pb facs="shan_l.707.jpg"/>
                 
@@ -179,6 +179,38 @@ y el baby marky ba á cumplír un año el 24, de Febru, esta parecído á jesus.
 </closer>
                 
 </div1>
+
+
+<div1 type="letter" xml:lang="en">
+                
+<pb facs="shan_l.707.jpg"/>
+                
+<opener>
+<address><addrLine>Ft. Lupton, Colorado</addrLine></address>
+<dateline>February 12, – 1963.</dateline>
+
+<salute>Dear daughter, </salute>
+</opener>
+                
+<p>this letter is to greet you, your husband, and the kids, and after greeting you all tell you the following:</p>
+
+<p>that we’ve been well, thank God. Well <app loc="1" cert="high"><rdg>So</rdg></app> I received your letter on January 28, and that same day, before I got your letter I sent you mine. Well, no matter, I’m hearing from you and finding out that you are well. I will also tell you that today, this day, February 12, is a lovely day. But the cold lasted <app loc="1" cert="high"><rdg>but the cold has been hard</rdg></app> January was the coldest month, below 25 degrees. Well, today is Helen’s birthday. She was born in 1922. She is 41 years old. Well, we were talking one day and she showed me her birth certificate.
+
+<pb facs="shan_l.708.jpg"/>
+
+and baby Marky will be one year old on February 24. He is starting to look like Jesús. But this boy <app loc="1" cert="high"><rdg>this child</rdg></app>will be a little darker, it seems to me. He’s very chubby and is walking already.</p>
+
+<p>Well, Aurelia writes to me [wrote to me] inviting me to go to Albuquerque N. Mex. Frances says that she’s going. I don’t know. If by chance I do go, I’ll write to you.</p>
+
+<p>Well daughter, I think that this will be all for now, but do write to me, so I’m not worried about <term type="plural">you</term>. Many regards <app loc="1"><rdg>much love</rdg></app> for everyone in general, and tell Elizabeth hello for me,</p>
+
+<closer>
+<salute>your mom who wishes you all happiness.</salute>                    
+<signed>For Max <app loc="1"><rdg>In Max’s name</rdg></app> and Jesusita B. Torres</signed>
+</closer>
+                
+</div1>
+
 
 <div1 type="envelope">
 
