@@ -149,7 +149,7 @@
 <text>
 <body>
             
-<div1 type="letter">
+<div1 type="letter" xml:lang="es">
                 
 <pb facs="shan_l.738.jpg"/>
                 
@@ -180,6 +180,40 @@
 </closer>
                 
 </div1>
+
+
+<div1 type="letter" xml:lang="en">
+                
+<pb facs="shan_l.738.jpg"/>
+                
+<opener>
+<address><addrLine>Ft. Lupton, Colorado</addrLine></address>
+<dateline>May 13.– 1969</dateline>
+
+<salute>Dear daughter,</salute>
+</opener>
+                
+<p>This letter is to greet you, together with your husband and the rest of the kids. I was very happy to receive the Mother’s Day card that you sent, and also the card that Pam sent. Well, you can’t imagine how happy they made me. Tell her thank you very much. God keep her always, those are my wishes for all of you.</p>
+
+<p>Well, I’ve been a little sick because of the surgery I had. I went into the hospital on October 22, 1968, and I left on November 17, 1969, so it’s been about six months, and every once in a while it still bothers me. When I start to do something I feel ill, so Max is not going to work because he is the one who helps me with the housework. I feel fine if I’m lying down and not doing anything, but if I do something I feel ill.</p>
+
+<p>Also, I want to thank you for the $5 check.</p>
+
+<pb facs="shan_l.739.jpg"/>
+
+<p>Well, I <app loc="1" cert="high"><rdg>that</rdg></app> was better.</p>
+
+<p>Well, I will tell you that Helen <add resp="iv001">told me</add> that Kathy is coming around June for her vacation, to Ft. Lupton. I will also tell you that she told me that Jerry is getting married on September 20. Well, who knows. Let’s see if he doesn’t get cold feet like last time that he said he was going to get married in New York and in the end he came back and didn’t get married.</p>
+
+<p>So, how are things <app loc="1"><rdg>how have you fared with</rdg></app> Billy Jr.? You don’t tell us anything. Well, write to me when you can. I think this will be all for now. Many regards <app loc="1"><rdg>much love</rdg></app> for Bill and for everyone else. Tell Elizabeth to write to me and receive regards from Jess and his family, and from Max and me. Receive the finest love <app loc="1"><rdg>finest affection</rdg></app> from your mother, who wishes that God help and keep you wand your husband and family.</p>
+
+<closer>
+<salute><add resp="iv001">These are</add>Your mother’s wishes.</salute>                    
+<signed>Jesusita Torres.</signed>
+</closer>
+                
+</div1>
+
 </body>
         
 <back></back>

@@ -149,7 +149,7 @@
 <text>
 <body>
             
-<div1 type="letter">
+<div1 type="letter" xml:lang="es">
                 
 <pb facs="shan_l.711.jpg"/>
                 
@@ -174,11 +174,51 @@ muy frío, mucha níeve;</p>
 
 <p>y la Kathy en la escuela en Greely, el Jerry no á escrito, tambíen se ase como tu; que vamos á ser sí no quíeren ní modo;</p>
 
-<p>pues yo creo que esto sera todo por esta ves, muchos recuerdos para el Bill y para todos los muchachos y la <del>jenee</del> Ysabel que pasa otras veses me escríve; que ya esta en la escuela? Bueno pues que Díosito nos ayude tanto á Uds, como á nosotros,</p>
+<p>pues yo creo que esto sera todo por esta ves, muchos recuerdos para el Bill y para todos los muchachos y la <del>jenee</del> Ysabel que pasa otras veses me escríve; que ya esta en la escuela?</p>
+
+<p> Bueno pues que Díosito nos ayude tanto á Uds, como á nosotros,</p>
 
 <closer>
 <salute>Diosíto que te Bendíga; higa, son los deceos de tu mamá</salute>                    
 <signed>jesusita B. Torres;</signed>
+</closer>
+                
+</div1>
+
+
+<div1 type="letter" xml:lang="en">
+                
+<pb facs="shan_l.711.jpg"/>
+                
+<opener>
+<address><addrLine>Ft. Lupton, Colorado</addrLine></address>
+<dateline>November 20.– 64.</dateline>
+
+<salute>Dear daughter,</salute>
+</opener>
+                
+<p>this letter is to greet you all, hoping that you are well, as we are.</p>
+
+<p>Well, I received Pamela’s letter on the 17th , and I read that you are all well, and she also tells me that her birthday is on November 17. Well, I was thinking of buying her something but I thought better of it, that she should buy whatever she needs now that she is in school. Well, we are sending her, from Max and me, these $5 for her birthday.</p>
+
+<p>Well, I will also tell you that Frances Nolasco is very sad because Tone is in jail. They arrested him because he <term type="literal">forced</term> <app loc="1"><rdg>assaulted</rdg></app> a girl and he beat her on October 31. And he is in the Greely jail awaiting trial.</p>
+
+<p>Well, I will also tell you that it’s
+
+<pb facs="shan_l.712.jpg"/>
+
+very cold, a lot of snow.</p>
+
+<p>And Kathy is school in Greely. Jerry hasn’t written, he is like you. What are we to do? If you <add resp="iv001">both</add> don’t want to <add resp="iv001">write</add>, oh well.</p>
+
+<p>Well, I think this will be all for today. Many regards <app loc="1"><rdg>much love</rdg></app> for Bill and for all the kids.
+And <del>jenee</del> Ysabel, what’s going on with her? On other times she writes to me, is she in school already?</p>
+
+<p>Well, may God help you and and us.</p>
+
+<closer>
+<salute>God bless you, daughter, as are the wishes of your mother</salute>                    
+<signed>Jesusita B. Torres;</signed>
 </closer>
                 
 </div1>

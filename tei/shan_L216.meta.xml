@@ -147,7 +147,7 @@
 <text>
 <body>
             
-<div1 type="letter">
+<div1 type="letter" xml:lang="es">
                 
 <pb facs="shan_l.772.jpg"/>
                 
@@ -192,6 +192,44 @@ nosotros este es el unico Conzuelo.</p>
 
 <closer>
 <salute>de tu mamá</salute>                    
+<signed>Jesusíta B. Torres,</signed>
+</closer>
+</div1>
+
+
+<div1 type="letter" xml:lang="en">
+                
+<pb facs="shan_l.772.jpg"/>
+                
+<opener>
+<fw>page 1.</fw>
+<address><addrLine>Ft. Lupton Colorado</addrLine></address>
+<dateline>Jan 12, - 1962</dateline>
+</opener>
+
+<p>Dear daughter, this letter is to greet all of you in general, wishing you are well, thank God.</p>
+<p>Well daughter, I am fine, thank God. I was a bit sick after Christmas but I’m feeling well
+now.</p>
+<p>And everyday, when I wake up in the morning, I think about writing to you,</p>
+<p>but it has been so cold, it’s been 25 below 0,</p>
+<p>so our day goes by in defrosting the pipes, here inside the kitchen, and, well, in cooking. And how is it in Nebraska?</p>
+<p>Oh, and I was very</p>
+
+<pb facs="shan_l.773.jpg"/>
+<fw>2</fw>
+
+<p>happy for my dress, the one you sent me, this one did fit me and it’s a very nice color, it’s beautiful. And the slips also fit me. Well, Helen gave me some slippers, and yes they are also nice, they are blue, and Betty Baca sent me a Christmas card written in Spanish and
+$5. Poor Betty, last year she also sent me $5, and, well, I didn’t send her anything <add resp="iv001">because</add> first of all, there’s nothing here in Lupton. Helen told me that she was not going anywhere because she had no money to buy anything, and my comadre Felipita
+Baca sent me a basket with dates, and I didn’t send her anything either. I only write to them</p>
+
+<pb facs="shan_l.774.jpg"/>
+<fw>3</fw>
+
+<p>and <add resp="iv001">I tell them</add> thank you. If they write to you tell them, tell them that I’m very thankful for everything, even if I wouldn't want them to send me anything because I have nothing to give to them. Well, Max is very happy with the shirt that you sent him, he put it on straight away and it fits really well. Daughter, I hope that you are always Helen liked the handbag and the clothes you sent her. Well, receive regards from everyone and write to me, daughter, whenever you can.</p>
+<p>Receive the blessings that I send you every night. I ask God to help you all and us, this is the <app loc="1" cert="high"><rdg>our</rdg></app> only solace.</p>
+
+<closer>
+<salute>Your mother,</salute>                    
 <signed>Jesusíta B. Torres,</signed>
 </closer>
 </div1>

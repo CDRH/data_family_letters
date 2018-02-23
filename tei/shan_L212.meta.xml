@@ -149,7 +149,7 @@
 <text>
 <body>
             
-<div1 type="letter">
+<div1 type="letter" xml:lang="es">
                 
 <pb facs="shan_l.735.jpg"/>
                 
@@ -182,6 +182,46 @@ Há! Ha! Ha! la Helen estubo en el Hosptal como una semana de po<add>r</add>si q
 <signed>Jesusita Torres
 814 Pacific Ave
 ft. Lupton Colo, 80621.</signed>
+</closer>
+
+</div1>
+
+
+<div1 type="letter" xml:lang="es">
+                
+<pb facs="shan_l.735.jpg"/>
+                
+<opener>
+<address><addrLine>Ft. Lupton Colorado</addrLine></address>
+<dateline>April 20, - 1969</dateline>
+
+<salute>Dear daughter,</salute>
+</opener>
+                
+<p>My dear daughter, this letter is to greet you, both you and Bill, your husband, and all the children, wishing that you are all doing well. Well, I’m well, but my rheumatism is acting up. But I always thank God because I am already old, and I think that is why I sometimes
+feel ill.</p>
+
+<p>Helen is not working, she says that she feels nervous. Jerry is very <certainty locus="name" cert="low"><desc>restless</desc></certainty> Well, so, he works Monday through Friday, and on Saturday who knows where he sleeps, she says that he doesn’t come home all day long, not even at night, till midday. She says that she doesn’t feel well, that she doesn’t sleep thinking <app loc="1"><rdg>worrying</rdg></app> about him.</p>
+
+<p>Kathy says that she’s coming in September and Jerry says that by that time <app loc="1"><rdg>at that time</rdg></app> he’s going to rent an apartment in Denver, he works in Denver. Well, with him, all she <add resp="iv001">Helen</add> has is worries. They tell him to get married and he doesn’t say anything, he only laughs
+
+<pb facs="shan_l.736.jpg"/>
+
+Ha! Ha! Ha! Helen was in the hospital like for a week. She’s so very thin already, and she’s even thinner now. Markl, is growing up fast. The boy is already big, for his age. And how are you doing with Billy Jr.?</p>
+
+<p>Look, don’t you work too much either. You are also getting old. You are already 47. Let him pay what is owed <app loc="1" cert="low"><rdg>what you all owe</rdg></app> <app loc="2" cert="low"><rdg>what you both owe</rdg></app> . In the end, when you can work it’s ok, but when the body gets tired, that’s it. Max says that he also gets very tired. I tell him that his strength is running out. He doesn’t work in the fields anymore, just here at home in the garden.</p>
+
+<p>Well, daughter, I think this will be all for now. Regards for everyone and a finest regard <app loc="1"><rdg>love</rdg></app> for you
+from all of us, and from your mom too. Write to me when you can. I feel sad when you <add resp="iv001">all</add> don’t write to me.</p>
+
+<closer>
+<salute>The Lord bless you, daughter.</salute>
+
+<pb facs="shan_l.737.jpg"/>
+
+<signed>Jesusita Torres
+814 Pacific Ave
+Ft. Lupton Colo, 80621.</signed>
 </closer>
 
 </div1>

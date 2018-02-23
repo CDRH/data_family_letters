@@ -148,7 +148,7 @@
 <text>
 <body>
             
-<div1 type="letter">
+<div1 type="letter" xml:lang="es">
                 
 <pb facs="shan_l.731.jpg"/>
                 
@@ -163,9 +163,7 @@
                 
 <p>la precente es saludarlos á todos esperando que esten bien, pues asi lo deceo yo; que esten todos buenos;</p>
 
-<p>nosotros aqui an estado bíen yo tambíen ya estoy mucho ma que bien, pero tu te acuerdas que Cuando Uds vinieron, yo te decía que sentía poco mal, pues al fin tube que venír aquí al Hopital Braithon, me opraron otra ves; tengo aquí 2 semanas entre el 22, de Octuber pero ya me siento muy bíen pues dise el Dr que asta que sierre la operacíon;</p>
-
-<p>bueno no te apures ya estoy muy aliviada; y tu como as estado yo te escribi 2, cartas y con esta son 3; ojala y si haora me contestes
+<p>nosotros aqui an estado bíen yo tambíen ya estoy mucho ma que bien, pero tu te acuerdas que Cuando Uds vinieron, yo te decía que sentía poco mal, pues al fin tube que venír aquí al Hopital Braithon, me opraron otra ves; tengo aquí 2 semanas entre el 22, de Octuber pero ya me siento muy bíen pues dise el Dr que asta que sierre la operacíon; bueno no te apures ya estoy muy aliviada; y tu como as estado yo te escribi 2, cartas y con esta son 3; ojala y si haora me contestes
 
 <pb facs="shan_l.732.jpg"/>
 
@@ -177,6 +175,39 @@ para saver tan siquiera si me contestas á la direcsion <add>de la casa</add></p
 
 <closer>
 <salute>El SEÑR te Bendíga,</salute>                    
+<signed>Jesusita Torres.</signed>
+</closer>
+
+</div1>
+
+
+<div1 type="letter" xml:lang="en">
+                
+<pb facs="shan_l.731.jpg"/>
+                
+<opener>
+<address><addrLine>Ft. Lupton, Colorado</addrLine></address>
+<dateline>November 7,- 1968
+</dateline>
+
+<address><addrLine>Mrs. Santos B. Schubert</addrLine></address>
+<salute>Dear daughter,</salute>
+</opener>
+                
+<p>this letter is to greet all of you, hoping that you are all well, as are my wishes, that you are all healthy.</p>
+
+<p>Here, we have been well, me too, I’m better than well. You will remember that when you came, I told you that I was feeling a little under the weather. Well, I finally had to come here to Brighton Hospital. I had surgery again. I’ve been here for two weeks. I was admitted on October 22, but I’m already feeling better. Well, the Doctor says that <add resp="iv001">I’ll have to stay here</add> till the wound closes. Well, don’t worry, I feeling much better. And how have you been? I wrote you two letters, this one makes three. I hope you will now answer me
+
+<pb facs="shan_l.732.jpg"/>
+
+so that I can know at least, if you wrote to me at home.</p>
+
+<p>Well, I think this will be all for now. Regards <app loc="1"><rdg>love</rdg></app> for everyone, also from Jess and family. Oh, I had forgotten to tell you that Jerry is here <add resp="iv001">and</add> says he’s going to stay here <add resp="iv001">in</add> Ft. Lupton.</p>
+
+<p>Regards <add resp="iv001">from</add> Max and me. May God help both you and us.</p>
+
+<closer>
+<salute>The Lord bless you,</salute>                    
 <signed>Jesusita Torres.</signed>
 </closer>
 

@@ -149,7 +149,7 @@
 <text>
 <body>
             
-<div1 type="letter">
+<div1 type="letter" xml:lang="es">
                 
 <pb facs="shan_l.742.jpg"/>
                 
@@ -172,6 +172,36 @@
 
 <closer>
 <salute>tu Bedícíon;</salute>                    
+<signed>Jesusíta Torres</signed>
+</closer>
+                
+</div1>
+
+
+<div1 type="letter" xml:lang="en">
+                
+<pb facs="shan_l.742.jpg"/>
+                
+<opener>
+<address><addrLine>Fort Lupton, Colorado</addrLine></address>
+<dateline>December 8, 1971-</dateline>
+
+<salute>Dear daughter,</salute>
+</opener>
+                
+<p>I am writing you these lines to greet both you and your husband and family, and to tell you that we are well, thank God.</p>
+
+<p>I will tell you that one of Helena’s brother died. It was about a month ago. I don’t know if Jess wrote to you or not. Well, I’ll tell you that it’s very cold here.</p>
+
+<p>I’m sending you these 20 dollars as your Christmas <add resp="iv001">gift</add>. Write to me or call me on the phone, for Christmas. This will be all for now.</p>
+
+<p>Many regards <app loc="1"><rdg>much love</rdg></app> for everyone.</p>
+
+<p>I also wanted to ask you, are your kids coming to visit you or not? Tell me something
+about them. Receive regards from Max and Jess, and from me, your mom, </p>
+
+<closer>
+<salute>a blessing;</salute>                    
 <signed>Jesusíta Torres</signed>
 </closer>
                 

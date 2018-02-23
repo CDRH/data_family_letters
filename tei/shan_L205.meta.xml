@@ -149,7 +149,7 @@
 <text>
 <body>
             
-<div1 type="letter">
+<div1 type="letter" xml:lang="es">
                 
 <pb facs="shan_x.xxx.jpg"/>
                 
@@ -170,6 +170,30 @@
 </closer>
                 
 </div1>
+
+
+<div1 type="letter" xml:lang="en">
+                
+<pb facs="shan_x.xxx.jpg"/>
+                
+<opener>
+<address><addrLine>Ft. Lupton, Colorado</addrLine></address>
+<dateline>December 20.–1968</dateline>
+
+<salute>Dear daughter,</salute>
+</opener>
+                
+<p>this letter is to greet you all hoping that you have a good Christmas. These are a few lines to tell you that yesterday, December 19, I received the package you sent, but not even a letter . I understand that you are very busy, but Pam or Jene <add resp="iv001">can write to me</add> and at least they can let me know if you got the money I sent you. No, nothing, you tell me nothing. Go to the trouble of writing to me. Answer. If you don’t answer me I will not write to you again either. If that is how you are,</p>
+
+<closer>
+<salute>that is how we will be.</salute>                    
+<signed>Jesusita Torres<lb/>
+<address><addrLine>814. Pacífic ave</addrLine></address>
+<address><addrLine>ft, Lupton Colo</addrLine></address></signed>
+</closer>
+                
+</div1>
+
 </body>
         
 <back></back>
