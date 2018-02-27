@@ -147,7 +147,7 @@
 <text>
 <body>
             
-<div1 type="letter">
+<div1 type="letter" xml:lang="es">
                 
 <pb facs="shan_l.788.jpg"/>
                 
@@ -156,25 +156,39 @@
 <address><addrLine>ft Lupton Colo</addrLine></address>
 </opener>
 
-<p>Querída híga, la presente es para Saludarte, tanto á tí como á tu Espozo, y á toda la
-familia esperando que esten bíen todos; pues así lo deceo pues la que de mí se Ausenta
-nos dega bien Gracías á Díosíto; que ya estoy á quí en la casa; salí del Hospital el 20 de
-Noveim y me siento bien. lo que si no puedo salir á la plaza; porque en primer lugar esta
-poco frío, y siempre de duelen mis piernas no puedo muy bien andar; siempr<add place="above">e</add> espero á alguien que me lleben. como hoy me dijo Helen me iba á llebar á la
-plaza. y hora que me lleben logro la oportunida de mandarte de una ves. los Cristhmas la
-los muchachos con tiempo tu Sabras que les compras; pues á quí te mando,-</p>
+<p>Querída híga, la presente es para Saludarte, tanto á tí como á tu Espozo, y á toda la familia esperando que esten bíen todos; pues así lo deceo pues la que de mí se Ausenta nos dega bien Gracías á Díosíto; que ya estoy á quí en la casa; salí del Hospital el 20 de Noveim y me siento bien. lo que si no puedo salir á la plaza; porque en primer lugar esta poco frío, y siempre de duelen mis piernas no puedo muy bien andar; siempr<add place="above">e</add> espero á alguien que me lleben. como hoy me dijo Helen me iba á llebar á la plaza. y hora que me lleben logro la oportunida de mandarte de una ves. los Cristhmas la los muchachos con tiempo tu Sabras que les compras; pues á quí te mando,-</p>
 
 <pb facs="shan_l.789.jpg"/>
 
-<p>estos <add place="above">$</add> 20 dollars, pues yo creo que sera todo por esta escríbeme
-cuando tengas tiempo saludes de Jess y famílía aquí esta el Jerry, pero todabía no haya
-trabago pero ya saco carro new el traiba dínero; bueno pues aquí no aya el trabo asi como
-de ayudente de Doctor; díse que tíene muchas – aplícasíones; pero todabía asta orita; no
-tiene bueno; pues saludez para todos en general;</p>
+<p>estos <add place="above">$</add> 20 dollars, pues yo creo que sera todo por esta escríbeme cuando tengas tiempo saludes de Jess y famílía aquí esta el Jerry, pero todabía no haya trabago pero ya saco carro new el traiba dínero; bueno pues aquí no aya el trabo asi como
+de ayudente de Doctor; díse que tíene muchas – aplícasíones; pero todabía asta orita; no tiene bueno; pues saludez para todos en general;</p>
 <p>y tu de nosotros recive el mas fíno caríño; de tu mama <add place="above">y Max</add>, que Dísito te ayude. y los Bendiga á todos; esos son mís deceos.</p>
 <closer>
 <salute>de tu mamá </salute>
 <signed>jesusita Torres;</signed>                  
+</closer>
+</div1>
+
+<div1 type="letter" xml:lang="en">
+                
+<pb facs="shan_l.788.jpg"/>
+                
+<opener>
+<dateline>December 3, - 1968</dateline>
+<address><addrLine>Ft. Lupton, Colorado</addrLine></address>
+</opener>
+
+<p>This letter is to greet you and your husband, and all the family, hoping you all are doing well. Well, that is my wish, because this letter that now leaves me, leaves all of us well. Thank God that I’m already home. I left the hospital on November 20th and I feel fine. But I cannot go to the store. First, because it’s a little cold and my legs always hurt and I can&#39;t walk very well. <add resp="iv001">Secondly</add> I am always waiting for someone to take me, like today; Helen said she is taking me to the store. And now that they are taking me I’ll have a
+chance to send you the Christmas gift <app loc="1"><rdg>gifts</rdg></app> for the kids with enough time. You will now what to get them. Well, I’m sending you here</p>
+
+<pb facs="shan_l.789.jpg"/>
+
+<p>these $20 dollars. I think this will be all for now. Write to me when you have some time. Love from Jess and family. Jerry is here. He hasn’t found a job yet, but he already bought a new car, he brought money with him. Well, he can&#39;t find a job here as a doctor’s assistant. He says he has sent in many applications, but he hasn’t gotten anything until now. Well, greetings for everyone, in general.</p>
+<p>And receive from us the finest of regards, from your mom and Max. May God help you
+and bless all of you. Those are my wishes.</p>
+<closer>
+<salute>Your mom, </salute>
+<signed>Jesusita Torres;</signed>                  
 </closer>
 </div1>
 

@@ -147,7 +147,7 @@
 <text>
 <body>
             
-<div1 type="letter">
+<div1 type="letter" xml:lang="en">
                 
 <pb facs="shan_l.803.jpg"/>
                 
@@ -201,6 +201,53 @@ Billy is here with me. Have to go to Safeway’s.</p>
 <p>Be sure &amp; answer soon &amp; let me know what you think.</p>
 <closer>
 <salute>Lovingly yours,</salute>
+<signed>Sandra</signed>
+</closer>
+
+</div1>
+
+
+<div1 type="letter" xml:lang="es">
+                
+<pb facs="shan_l.803.jpg"/>
+                
+<opener>
+<dateline>12 de octubre de 1950</dateline>
+<dateline>Jueves.</dateline>
+
+<salute>Queridísimo Bill,</salute>
+</opener>
+
+<p>Fui al correo y no encontré carta.</p>
+<p>Te escribo con la poca información que tengo sobre los lotes. Bueno, anoche mamá y yo fuimos a ver los lotes en lugares distintos. Vi cuatro lotes que me gustaron. Están en una esquina. Mamá quiere dos y pensé que nosotros podíamos comprar los otros dos. Creo que por lo menos dos sería lo mejor para nosotros, porque tenemos dos trailers. En fin, fuimos a ver al hombre que está a cargo de los lotes. Dice que cuestan $125.00 cada uno –al contado. Y $150.00 a plazos. Me mandó al ayuntamiento <app loc="1"><rdg>gobierno de la ciudad</rdg></app>a preguntar por ellos, porque oí que
+venían con mucho trámite burocrático, y que tendría que</p>
+
+<pb facs="shan_l.804.jpg"/>
+
+<p>ir a Greeley para pedir el título de propiedad de los lotes. Y no sé si esos lotes están dentro o fuera de los límites de la ciudad. No sé mucho acerca del drenaje –solo que cuesta $12.50 para conectarse. Creo que se le paga a la ciudad. Iba a averiguar todo eso hoy en la tarde, pero llegué tarde al ayunatamiento <app loc="1"><rdg>gobierno de la ciudad</rdg></app>, cierra a las 3:00 pm. Iré ora vez mañana en la mañana. Ah sí, todo mudo dice que la luz no sería muy cara.</p>
+<p>Mira, si estás pensando que pasemos el invierno aquí mejor no vendas el tráiler viejo. Podríamos rentarlo. Y si compramos estos lotes puedes mandarme mis notas postales del banco. Podemos comprarlos con mi dinero.</p>
+
+<pb/>
+
+<p>Billy se resfrió. Le está ayudando a mamá a meter la leña. También le ayudó a corretear a las gallinas para meterlas al gallinero. Le cae mejor Max que mamá.</p>
+<p>Esto es todo por hoy.</p>
+<p>Volveré a escribirte.</p>
+<p>No te olvides de que te queremos y te extrañamos mucho.</p>
+<p>Fielmente tuya <app loc="1"><rdg>tu fiel esposa</rdg></app></p>
+<p>Sandra</p>
+<lb/>
+<p>Viernes por la mañana</p>
+<p>Vine al ayuntamiento <app loc="1"><rdg>gobierno de la ciudad</rdg></app>. El señor Carlson me dijo que no se deben impuestos por esos lotes. Están dentro de los límites de la ciudad. Hay drenaje y cuesta $12.50
+conectarse y $20.00 al año por el agua. Se paga extra por conectar la tubería hasta los trailers. Dice que eventualmente se tendría que construir ahí</p>
+
+<pb facs="shan_l.805.jpg"/>
+
+<p>una casa. Y que no se permiten trailers a menos de que estén conectados al drenaje. Necesito ir a la corte de Greeley para preguntar por el título. Creo que no hay problemasburocráticos con esos lotes. Bueno, ¿los compramos o no?</p>
+<p>Si los vamos a comprar es mejor que me mandes mi dinero que está en la oficina de correos de Denver. Billy está aquí conmigo. Tengo que ir al Safeway</p>
+<p>Responde pronto y dime qué opinas.</p>
+
+<closer>
+<salute>Amorosamente tuya,</salute>
 <signed>Sandra</signed>
 </closer>
 

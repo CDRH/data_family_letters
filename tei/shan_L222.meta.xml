@@ -147,7 +147,7 @@
 <text>
 <body>
             
-<div1 type="letter">
+<div1 type="letter" xml:lang="en">
                 
 <pb facs="shan_l.794.jpg"/>
                 
@@ -156,29 +156,38 @@
 <salute>Dear Sandra</salute>
 </opener>
 
-<p>Tonight is another one of those nights that I can&#39;t find nothing to do so thought I would
-answer your most wellcome letter that I received two days ago so heres hoping this finds
-you in good health</p>
-<p>As for myself I am O.K. and am still some where in old suny France from the looks of
-things I will be here for the duration don&#39;t look like I will ever get to the front I sure
-would like to take a pot shot at some of these nazis to get even with them. From the looks
-of things they are all most done for. I sure hope it wont be long till they give up.</p>
-<p>Whats this I hear about drafting women in the army, is there any thing to it? I read about
-it some time ago I dont know whether it went thru or not you better be carefull or you
-will find yourself in the army.</p>
-<p>Have you seen Theresa latly? All of the letters I wrote to her are being returnd Ive had
-four come back to me in the last week she must not have left her new address when she
-left.</p>
-<p>You ask me if the Red Cross has done any thing for us well to tell you the truth I dont
-know too much about it But from what I hear they are doing a wonderful job especially
-up front thats where they are needed the most Ive read a lot about it in the stars and
+<p>Tonight is another one of those nights that I can&#39;t find nothing to do so thought I would answer your most wellcome letter that I received two days ago so heres hoping this finds you in good health</p>
+<p>As for myself I am O.K. and am still some where in old suny France from the looks of things I will be here for the duration don&#39;t look like I will ever get to the front I sure would like to take a pot shot at some of these nazis to get even with them. From the looks of things they are all most done for. I sure hope it wont be long till they give up.</p>
+<p>Whats this I hear about drafting women in the army, is there any thing to it? I read about it some time ago I dont know whether it went thru or not you better be carefull or you will find yourself in the army.</p>
+<p>Have you seen Theresa latly? All of the letters I wrote to her are being returnd Ive had four come back to me in the last week she must not have left her new address when she left.</p>
+<p>You ask me if the Red Cross has done any thing for us well to tell you the truth I dont know too much about it But from what I hear they are doing a wonderful job especially up front thats where they are needed the most Ive read a lot about it in the stars and
 stripes news paper where they are doing a big job.</p>
-<p>You say you are getting a vacation this year and dont know where to go? Why theres lots
-of places to go like California or Florida or dont you like to travel? What kind of work
-are you doing for this company? You have been working for it quite a while.</p>
-<p>Well Sandy I am about out of any thing to say so I guess I will hang up for the time being
-nothing ever happens here that I could talk about so its so long for now hoping to hear
-from you soon.</p> 
+<p>You say you are getting a vacation this year and dont know where to go? Why theres lots of places to go like California or Florida or dont you like to travel? What kind of work are you doing for this company? You have been working for it quite a while.</p>
+<p>Well Sandy I am about out of any thing to say so I guess I will hang up for the time being nothing ever happens here that I could talk about so its so long for now hoping to hear from you soon.</p> 
+<closer>
+<signed>Fred Rodriguez</signed>
+</closer>
+
+</div1>
+
+
+<div1 type="letter" xml:lang="es">
+                
+<pb facs="shan_l.794.jpg"/>
+                
+<opener>
+<dateline>31 de marzo de 1945</dateline>
+<salute>Querido Sandra:</salute>
+</opener>
+
+<p>Esta es una de esas noches en las que no encuentro qué hacer, así que pensé en responder tu muy bienvenida carta, que recibí hace dos días, así que espero que ésta te encuentre en buena salud.</p>
+<p>Yo estoy bien. Todavía en algún lugar de la vieja y soleada Francia. Por lo que parece estaré aquí el resto <add resp="iv001">de la guerra</add>. Parece que no llegaré a ver el frente. Me encantaría dispararle a uno de esos nazis para ajustar cuentas <app loc="1" cert="high"><rdg>vengarme</rdg></app>. Por lo que parece casi están vencidos. De veras espero que no falte mucho para que se rindan.</p>
+<p>¿De qué se trata eso que he oído de que quieren reclutar a las mujeres para el ejército? ¿Es verdad? Leí algo sobre eso hace ya un tiempo y no sé si se aprobó o no. Más vale que tengas cuidado o te hallarás en el ejército.</p>
+<p>¿Has visto a Theresa? Me han devuelto todas las cartas que le he escrito. En esta última semana me devolvieron cuatro. No debe haber dejado su nueva dirección cuando se fue.</p>
+<p>Me preguntas si la Cruz Roja ha hecho algo por nosotros. A decir verdad, no sé mucho, pero he oído decir que están haciendo un magnífico trabajo, sobre todo en el frente, que es donde se necesita más. Leí en el periódico Stars and Stripes que están haciendo un gran trabajo.</p>
+<p>¿Dices que vas a tener vacaciones este año y que no sabes a dónde ir? Bueno, pues hay muchos lugares a dónde ir, como California o Florida, o qué, ¿no te gusta viajar? ¿Qué tipo de trabajo haces para esa compañía? Ya has estado trabajando ahí un buen rato.</p>
+<p>Bueno Sandy, ya se me acabó qué contarte, así que voy a colgar por ahora. Aquí no pasa nada que pueda platicarte, así que hasta pronto por ahora. Espero recibir noticias tuyas muy pronto.</p> 
+
 <closer>
 <signed>Fred Rodriguez</signed>
 </closer>
