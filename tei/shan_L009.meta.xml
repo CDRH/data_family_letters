@@ -171,6 +171,7 @@ abiña<lb/></signed>
 
 </div1>
 
+
 <div1 type="letter" xml:lang="en">
                 
 <pb facs="shan_l.023.jpg"/>
@@ -189,8 +190,7 @@ abiña<lb/></signed>
 <p>And I won’t tell you more because I’m a little sick.</p>
 
 <closer>
-<salute>Receive many hugs from each of your children and from your comadre Selerina and send our regards to my uncle Magsimino and
-my aunt Jesusita and receive the warmest regards from me. I would much rather see you than write to you. This is all from the last <certainty locus="name" cert="low"><desc>the least, the youngest</desc></certainty> of your children, I</salute>
+<salute>Receive many hugs from each of your children and from your comadre Selerina and send our regards to my uncle Magsimino and my aunt Jesusita and receive the warmest regards from me. I would much rather see you than write to you. This is all from the last <app loc="1" cert="low"><rdg>the least</rdg></app> <app loc="2" cert="low"><rdg>the youngest</rdg></app> of your children, I</salute>
 <signed>Rodolfo Torres<lb/>
 abiña<lb/></signed>
 </closer>
