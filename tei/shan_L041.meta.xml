@@ -184,40 +184,6 @@
             
 </div1>
 
-<div1 type="envelope">
-
-<pb facs="shan_l.762.jpg"/>
-
-<ab type="return">
-<address>
-<addrLine>Return to Tomasita Autobus</addrLine>
-<addrLine><unclear reason= "illegible">Box  154 R. # I</unclear></addrLine>
-<addrLine>Erie Colorado</addrLine>
-</address>
-</ab>
-
-<ab type="address">
-<address>
-<addrLine>Miss Santos Barros</addrLine>
-<addrLine>Fort Lupton</addrLine> 
-<addrLine>Colorado</addrLine>
-</address>
-</ab>
-
-<ab type="postmark">
-ERIE.<lb/>
-JAN 6<lb/>
-2 –PM<lb/>
-1942<lb/>
-COLO.<lb/>
-</ab>
-
-<figure type="stamp">
-<p></p>
-</figure>
-
-</div1>
-
 <div1 type="letter" xml:lang="es">
                 
 <pb facs="shan_l.764"/>
@@ -251,6 +217,40 @@ COLO.<lb/>
 <p>Hmmmm</p>
 </postscript>
             
+</div1>
+
+<div1 type="envelope">
+
+<pb facs="shan_l.762.jpg"/>
+
+<ab type="return">
+<address>
+<addrLine>Return to Tomasita Autobus</addrLine>
+<addrLine><unclear reason= "illegible">Box  154 R. # I</unclear></addrLine>
+<addrLine>Erie Colorado</addrLine>
+</address>
+</ab>
+
+<ab type="address">
+<address>
+<addrLine>Miss Santos Barros</addrLine>
+<addrLine>Fort Lupton</addrLine> 
+<addrLine>Colorado</addrLine>
+</address>
+</ab>
+
+<ab type="postmark">
+ERIE.<lb/>
+JAN 6<lb/>
+2 –PM<lb/>
+1942<lb/>
+COLO.<lb/>
+</ab>
+
+<figure type="stamp">
+<p></p>
+</figure>
+
 </div1>
 
 </body>
