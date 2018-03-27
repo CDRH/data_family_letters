@@ -173,31 +173,6 @@
                              
 </div1>
 
-<div1 type="letter" xml:lang="en">
-                
-<pb facs="shan_l.100.jpg"/>
-                  
-<opener>
-<address><addrLine>Juchipila, Zacatecas, Mexico</addrLine></address>
-<dateline>February 16, -65</dateline>
-
-<salute>Dear daughter,</salute>
-</opener>
-                
-<p>This letter is to greet you, hoping that you are well, in the company of Bill and all the kids.</p>
-
-<p>We are well, thank God, who finally allowed me to come here. I am very happy to be here <app loc="1"><rdg>around here</rdg></app> <app loc="2"><rdg>around these parts</rdg></app> <app loc="1"><rdg>on this land</rdg></app> I am now at the ranch with Nemecio Samaniego, and I also saw the <app loc="1"><rdg>my</rdg></app> other son who is <app loc="1"><rdg>lives</rdg></app> in <add resp="iv001">the state of</add> Baja California, Mexicali. He came here to Juchipila. Well, it’s a little cold here as well, but no snow. I’m thinking of going to Juchipila on Saturday and leaving Monday or Tuesday for El Paso, Texas. Well, daughter, I hope you write to me now that I leave for the house in <add resp="iv001">Fort</add> Lupton.</p> 
-
-<p>I hope you are all well. Give our regards to the kids, and to Bill from Max, and for
-you from me,</p>
-
-<closer><salute>your mom</salute>
-
-<signed>Jesusita Torres;</signed>
-</closer>
-                             
-</div1>
-
 <div1 type="envelope">
 
 <pb facs="shan_l.094.jpg"/>
@@ -242,6 +217,30 @@ ZAC<lb/>
 
 </div1>
 
+<div1 type="letter" xml:lang="en">
+                
+<pb facs="shan_l.100.jpg"/>
+                  
+<opener>
+<address><addrLine>Juchipila, Zacatecas, Mexico</addrLine></address>
+<dateline>February 16, -65</dateline>
+
+<salute>Dear daughter,</salute>
+</opener>
+                
+<p>This letter is to greet you, hoping that you are well, in the company of Bill and all the kids.</p>
+
+<p>We are well, thank God, who finally allowed me to come here. I am very happy to be <app loc="1"><rdg>here</rdg></app> <app loc="2"><rdg>around here</rdg></app> <app loc="3"><rdg>around these parts</rdg></app> <app loc="4"><rdg>on this land</rdg></app> I am now at the ranch with Nemecio Samaniego, and I also saw <app loc="1"><rdg>the</rdg></app> <app loc="2"><rdg>my</rdg></app> other son who <app loc="1"><rdg>is</rdg></app> <app loc="2"><rdg>lives</rdg></app> in <add resp="iv001">the state of</add> Baja California, Mexicali. He came here to Juchipila. Well, it’s a little cold here as well, but no snow. I’m thinking of going to Juchipila on Saturday and leaving Monday or Tuesday for El Paso, Texas. Well, daughter, I hope you write to me now that I leave for the house in <add resp="iv001">Fort</add> Lupton.</p> 
+
+<p>I hope you are all well. Give our regards to the kids, and to Bill from Max, and for
+you from me,</p>
+
+<closer><salute>your mom</salute>
+
+<signed>Jesusita Torres;</signed>
+</closer>
+                             
+</div1>
 
 </body>
         

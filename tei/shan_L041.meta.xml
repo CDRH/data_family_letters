@@ -184,41 +184,6 @@
             
 </div1>
 
-<div1 type="letter" xml:lang="es">
-                
-<pb facs="shan_l.764"/>
-                
-<opener>
-<address><addrLine>Erie Colorado</addrLine></address>
-<dateline>6 de enero de 1942</dateline>
-
-<salute>Querida Santos</salute>
-</opener>
-
-<p>Sólo unas líneas para saludarte y espero que cuando ésta llegue a tus manos te encuentre con buena salud, que ésta me deja bien, excepto por un resfriado sin importancia.</p>
-                
-<p>Bueno chica, te prometí que te iba a escribir y aquí está, aunque no sé exactamente qué escribir</p>
-
-<p>Oye chica, si vas a trabajar a alguna parte no te olvides de escribirme y de darme tu nueva dirección, igual no te olvides de responder mis cartas. Cielos, como me gustaría que pudieras venir a visitarme alguna vez?</p>
-
-<p>¿Al fin fuiste al espectáculo <app loc="1"><rdg>función</rdg></app> <app loc="2"><rdg>película</rdg></app> el domingo? No te vi, pero creí haber visto a Lupe, pero no estuve segura, y el sábado también estuve en Lupton y vi a tu hermano y a otros muchachos cuando iba entrando a la casa y lo vi pasar por la casa de Amedy y quedarse.</p>
-
-<p>Por cierto, salúdame a tu mamá y a Lupe y a Jennie si las ves, y a tu máma ya sé que la vas a ver, jaja.</p>
-
-<closer><salute>Bueno, más vale que termine porque estoy escribiendo un periódico más que una carta. Hasta luego y responde pronto. Con cariño</salute>    
-                
-<signed>Tammy Autobus</signed>
-<address><addrLine>Erie Colorado</addrLine></address>
-<address><addrLine>Box 174 R #1</addrLine></address>
-</closer>
-
-<postscript>
-<p>P.D. y de veras, responde pronto.</p>
-<p>Hmmmm</p>
-</postscript>
-            
-</div1>
-
 <div1 type="envelope">
 
 <pb facs="shan_l.762.jpg"/>
@@ -251,6 +216,41 @@ COLO.<lb/>
 <p></p>
 </figure>
 
+</div1>
+
+<div1 type="letter" xml:lang="es">
+                
+<pb facs="shan_l.764"/>
+                
+<opener>
+<address><addrLine>Erie Colorado</addrLine></address>
+<dateline>6 de enero de 1942</dateline>
+
+<salute>Querida Santos</salute>
+</opener>
+
+<p>Sólo unas líneas para saludarte y espero que cuando ésta llegue a tus manos te encuentre con buena salud, que ésta me deja bien, excepto por un resfriado sin importancia.</p>
+                
+<p>Bueno chica, te prometí que te iba a escribir y aquí está, aunque no sé exactamente qué escribir</p>
+
+<p>Oye chica, si vas a trabajar a alguna parte no te olvides de escribirme y de darme tu nueva dirección, igual no te olvides de responder mis cartas. Cielos, como me gustaría que pudieras venir a visitarme alguna vez?</p>
+
+<p>¿Al fin fuiste al <app loc="1"><rdg>espectáculo</rdg></app> <app loc="2"><rdg>función</rdg></app> <app loc="3"><rdg>película</rdg></app> el domingo? No te vi, pero creí haber visto a Lupe, pero no estuve segura, y el sábado también estuve en Lupton y vi a tu hermano y a otros muchachos cuando iba entrando a la casa y lo vi pasar por la casa de Amedy y quedarse.</p>
+
+<p>Por cierto, salúdame a tu mamá y a Lupe y a Jennie si las ves, y a tu máma ya sé que la vas a ver, jaja.</p>
+
+<closer><salute>Bueno, más vale que termine porque estoy escribiendo un periódico más que una carta. Hasta luego y responde pronto. Con cariño</salute>    
+                
+<signed>Tammy Autobus</signed>
+<address><addrLine>Erie Colorado</addrLine></address>
+<address><addrLine>Box 174 R #1</addrLine></address>
+</closer>
+
+<postscript>
+<p>P.D. y de veras, responde pronto.</p>
+<p>Hmmmm</p>
+</postscript>
+            
 </div1>
 
 </body>

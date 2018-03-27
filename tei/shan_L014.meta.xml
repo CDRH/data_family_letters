@@ -176,37 +176,6 @@ calle rosales numero 63</p>
 
 </div1>
 
-<div1 type="letter" xml:lang="en">
-                
-<pb facs="shan_l.054.jpg"/>
-   
-<opener>
-<address><addrLine>Juchipila Zacatecas</addrLine></address>
-<dateline>December 2 1934</dateline>
-<salute>Mrs. Eiboria Flemate</salute>
-</opener>
-
-<p>my kind and loving mother this letter serves me to greet <term type="plural">you</term> wishing <term type="plural">you</term> are well and <add resp="iv001">the letter</add> that is leaving me with today’s date leaves me without news thank God</p> 
-
-<p>well mom after greeting <term type="plural">you</term> with the same love as always I tell you the following mom I am ashamed because I took so long to answer <term type="formal">you</term>.<term type="formal">You</term> will think that it is because of lack of will but it’s not so. The truth is this in the first place I was harvesting my <certainty locus="name" cert="medium"><desc>mo loncos</desc></certainty> and one day maybe I was irritated on the <certainty locus="name" cert="medium"><desc>by the</desc></certainty> and I put the basket down and I felt a <add resp="iv001">small</add> pain on my back and I was ill for 15 days but it seems that I am better. Well mom about what I had mentioned about my departure and you told me right away that I should wait for my uncle Demetrio I spoke with him and he tells me this, that he is afraid but that if suddenly the door closes for him that he would then start the journey
-
-<pb facs="shan_l.055.jpg"/>
-
-well mom I do and obey what you say and I’m going to wait for him until April and if he doesn’t move by then I, it’s easy that I go. I always want to tell you that I have taken the step anyway and you will know what to do from there. I will leave alone I am leaving my wife with her parents and it’s all <add resp="iv001"> that I want to tell you</add> for now.</p>
-                
-<closer>
-<salute>Give my regards to Chuy and Santos. Receive my wife’s greetings and from me receive the finest
-regards from your son who wishes <term type="plural">you</term> happiness <app loc="1" cert="high"><rdg>joys</rdg></app></salute>
-<signed>J. Jesus Samaniego</signed>
-</closer>
-
-<postscript>
-<p>This is my address<lb/>
-63 Rosales Street</p>
-</postscript>
-
-</div1>
-
 <div1 type="envelope">
 
 <pb facs="shan_l.052.jpg"/>
@@ -260,18 +229,17 @@ AGUASCALIENTES<lb/>
 <salute>Mrs. Eiboria Flemate</salute>
 </opener>
 
-<p>my kind and loving mother this <add resp="iv001">letter</add> serves me to greet <term type="plural">you</term> wishing <term type="plural">you</term> are well and <add resp="iv001">the letter</add> that is leaving me with today’s date leaves me without news thank God</p> 
+<p>my kind and loving mother this letter serves me to greet <term type="plural">you</term> wishing <term type="plural">you</term> are well and <add resp="iv001">the letter</add> that is leaving me with today’s date leaves me without news thank God</p> 
 
-<p>well mom after greeting <term type="plural">you</term> with the same love as always I tell you the following mom I am ashamed because I took so long to answer <term type="formal">you</term>.<term type="formal">You</term> will think that it is because of lack of will but it’s not so. The truth is this in the first place I was harvesting my <certainty locus="name" cert="medium"><desc>mo loncos</desc></certainty> and one day maybe I was irritated on the <certainty locus="name" cert="medium"><desc>by the</desc></certainty> and I put the basket down and I felt a <add resp="iv001">small</add> pain on my back and I was ill for 15 days but it seems that I am better. Well mom about what I had mentioned about my departure and you told me right away that I should wait for my uncle Demetrio I spoke with him and he tells me this, that he is afraid but that if suddenly the door closes for him that he would then start the journey
+<p>well mom after greeting <term type="plural">you</term> with the same love as always I tell you the following mom I am ashamed because I took so long to answer <term type="formal">you</term>.<term type="formal">You</term> will think that it is because of lack of will but it’s not so. The truth is this in the first place I was harvesting my <certainty locus="name" cert="medium"><desc>mo loncos</desc></certainty> and one day maybe I was irritated <app loc="1" cert="medium"><rdg>on the</rdg></app> <app loc="2" cert="medium"><rdg>by the</rdg></app> and I put the basket down and I felt a <add resp="iv001">small</add> pain on my back and I was ill for 15 days but it seems that I am better. Well mom about what I had mentioned about my departure and you told me right away that I should wait for my uncle Demetrio I spoke with him and he tells me this, that he is afraid but that if suddenly the door closes for him that he would then start the journey
 
 <pb facs="shan_l.055.jpg"/>
 
-well mom I do and obey what you say and I’m going to wait for him until April and if he doesn’t move by then I, it’s easy that I go. I always want to tell you that I have
-taken the step anyway and you will know what to do from there. I will leave alone I am leaving my wife with her parents and it’s all <add resp="iv001"> that I want to tell you</add> for now.</p>
+well mom I do and obey what you say and I’m going to wait for him until April and if he doesn’t move by then I, it’s easy that I go. I always want to tell you that I have taken the step anyway and you will know what to do from there. I will leave alone I am leaving my wife with her parents and it’s all <add resp="iv001"> that I want to tell you</add> for now.</p>
                 
 <closer>
 <salute>Give my regards to Chuy and Santos. Receive my wife’s greetings and from me receive the finest
-regards from your son who wishes <term type="plural">you</term> happiness <app loc="1"><rdg>joys</rdg></app></salute>
+regards from your son who wishes <term type="plural">you</term> <app loc="1" cert="high"><rdg>happiness</rdg></app> <app loc="2" cert="high"><rdg>joys</rdg></app></salute>
 <signed>J. Jesus Samaniego</signed>
 </closer>
 
@@ -281,6 +249,7 @@ regards from your son who wishes <term type="plural">you</term> happiness <app l
 </postscript>
 
 </div1>
+
 </body>
         
 <back></back>

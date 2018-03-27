@@ -176,35 +176,6 @@
         
 </div1>
 
-
-<div1 type="letter" xml:lang="en">
-                
-<pb facs="shan_l.170.jpg"/>
-
-<opener>
-<address><addrLine>Nemecio Samaniego</addrLine></address>
-<address><addrLine>C/o Mr. Mauro Quezada.</addrLine></address>
-<address><addrLine>Juchipila, Zacatecas</addrLine></address><dateline>February 22, 1953</dateline>
-
-<address><addrLine>Mrs. Jesusita Baros.</addrLine></address>
-<address><addrLine>P.O. Box 681.</addrLine></address>
-<address><addrLine>Ft. Lupton, Colorado</addrLine></address>
-
-<salute>Dear <term type="formal">mother</term>,</salute>
-</opener>
-
-<p>I hope that when you receive this <add resp="iv001">letter</add> you may be enjoying good health as my family and I are doing, thank God. I next wish to manifest <app loc="1"><rdg>let you know</rdg></app> that it is very urgent that you grant me power of attorney. You can do this in Ciudad Juarez, Chihuahua or in any other of the borders. This power of attorney is not so that I can keep any of the properties that were my aunt Guadalupe’s and may now be rightfully yours, it is only to represent you in trial. I am told by people who are well-versed in these affairs that if you leave this to apathy the day may come when you lose your hereditary rights. Already my uncle is trying to sell the rustic property, by which I mean the four yuntas <app loc="1"><rdg>team of oxen for ploughing</rdg></app> <app loc="2"><rdg>Biblical unit of measurement roughly equivalent to what a team of oxen can plow in a day</rdg></app> that are on the Vega’s pasture, and because there is no one to stop him, all the better for him. I wish I could <term type="metaphorical">travel with my breath</term> and speak to you at length <app loc="1"><rdg>talk to you personally</rdg></app>but it’s very difficult for me. Or would you tell me if you can come to one of the borders I would do everything possible to go. The only thing left would be for you to tell me the day and date so that I may be ready to talk with you.</p>
-
-<p>Do not leave this to apathy.</p>
-                
-<closer><salute>Without further to add, your son who asks for your blessing and does not forget you.</salute>
-
-<signed>Nemecio J. Samaniego</signed>
-</closer>
-                
-</div1>
-
-
 <div1 type="envelope">
 
 <pb facs="shan_l.168.jpg"/>
@@ -235,6 +206,33 @@ ZAC<lb/>
 <p></p>
 </figure>
 
+</div1>
+
+<div1 type="letter" xml:lang="en">
+                
+<pb facs="shan_l.170.jpg"/>
+
+<opener>
+<address><addrLine>Nemecio Samaniego</addrLine></address>
+<address><addrLine>C/o Mr. Mauro Quezada.</addrLine></address>
+<address><addrLine>Juchipila, Zacatecas</addrLine></address><dateline>February 22, 1953</dateline>
+
+<address><addrLine>Mrs. Jesusita Baros.</addrLine></address>
+<address><addrLine>P.O. Box 681.</addrLine></address>
+<address><addrLine>Ft. Lupton, Colorado</addrLine></address>
+
+<salute>Dear <term type="formal">mother</term>,</salute>
+</opener>
+
+<p>I hope that when you receive this <add resp="iv001">letter</add> you may be enjoying good health as my family and I are doing, thank God. I next wish to <app loc="1"><rdg>manifest </rdg></app><app loc="2"><rdg>let you know</rdg></app> that it is very urgent that you grant me power of attorney. You can do this in Ciudad Juarez, Chihuahua or in any other of the borders. This power of attorney is not so that I can keep any of the properties that were my aunt Guadalupe’s and may now be rightfully yours, it is only to represent you in trial. I am told by people who are well-versed in these affairs that if you leave this to apathy the day may come when you lose your hereditary rights. Already my uncle is trying to sell the rustic property, by which I mean the four <app loc="1"><rdg>yuntas</rdg></app> <app loc="2"><rdg>team of oxen for ploughing</rdg></app> <app loc="3"><rdg>Biblical unit of measurement roughly equivalent to what a team of oxen can plow in a day</rdg></app> that are on the Vega’s pasture, and because there is no one to stop him, all the better for him. I wish I could <term type="metaphorical">travel with my breath</term> and <app loc="1"><rdg>speak to you at length</rdg></app> <app loc="2"><rdg>talk to you personally</rdg></app>but it’s very difficult for me. Or would you tell me if you can come to one of the borders I would do everything possible to go. The only thing left would be for you to tell me the day and date so that I may be ready to talk with you.</p>
+
+<p>Do not leave this to apathy.</p>
+                
+<closer><salute>Without further to add, your son who asks for your blessing and does not forget you.</salute>
+
+<signed>Nemecio J. Samaniego</signed>
+</closer>
+                
 </div1>
 
 </body>

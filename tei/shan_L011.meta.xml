@@ -183,42 +183,6 @@
            
 </div1>
 
-<div1 type="letter" xml:lang="en">
-                
-<pb facs="shan_l.064.jpg"/>
-                
-<opener>
-<address><addrLine>Albuquerque New Mexico</addrLine></address>
-<dateline>August 29, 1937</dateline>
-<salute>Mrs. Jesusita Baros</salute>
-</opener>
-                
-<p>I received your letter dated 17 <unclear reason="torn"/></p>
-
-<pb facs="shan_l.065.jpg"/>
-
-<fw>2</fw>
-
-<p>And you left me <app loc="1" cert="low"><rdg>you told me</rdg></app> alone <app loc="1" cert="high"><rdg>only</rdg></app> or it might be</p>
-
-<p>whom I told you</p>
-
-<pb facs="shan_l.066.jpg"/>
-
-<p>that you are not alone. Now, I don’t know if you want to see <certainty locus="name" cert="low"><desc>hemus</desc></certainty> at the depot or not. To tell <app loc="1"><rdg>him</rdg></app><app loc="2"><rdg>her</rdg></app> to go <app loc="1"><rdg>that he will go </rdg></app> <app loc="2"><rdg>that she will go</rdg></app> to your house I don’t know for sure <certainty locus="name" cert="low"/> they are thinking of going on the 3rd . Well, the house is as it was, without news <certainty locus="name" cert="low"/> to rent <certainty locus="name" cert="low"/></p>
-
-<pb facs="shan_l.067.jpg"/>
-
-<p>J and Santos may one day remember that they have an uncle in Albuquerque and you receive his heart <app loc="1"><rdg>the heart of</rdg></app> him, black <app loc="1"><rdg>dark</rdg></app>and skinny from Albuquerque who doesn’t forget you for a moment it’s been three 15 days since you left at 310 in the afternoon
-May.14.310 pm </p>
-
-<closer>                    
-<signed></signed>
-</closer>
-                
-</div1>
-
-
 <div1 type="envelope">
 
 <pb facs="shan_l.062.jpg"/>
@@ -252,6 +216,40 @@ TRANS. <unclear reason="illegible"/><lb/>
 
 </div1>
 
+<div1 type="letter" xml:lang="en">
+                
+<pb facs="shan_l.064.jpg"/>
+                
+<opener>
+<address><addrLine>Albuquerque New Mexico</addrLine></address>
+<dateline>August 29, 1937</dateline>
+<salute>Mrs. Jesusita Baros</salute>
+</opener>
+                
+<p>I received your letter dated 17 <unclear reason="torn"/></p>
+
+<pb facs="shan_l.065.jpg"/>
+
+<fw>2</fw>
+
+<p>And <app loc="1" cert="low"><rdg>you left me</rdg></app> <app loc="2" cert="low"><rdg>you told me</rdg></app> <app loc="1" cert="high"><rdg>alone</rdg></app> <app loc="2" cert="high"><rdg>only</rdg></app> or it might be</p>
+
+<p>whom I told you</p>
+
+<pb facs="shan_l.066.jpg"/>
+
+<p>that you are not alone. Now, I don’t know if you want to see <certainty locus="name" cert="low"><desc>hemus</desc></certainty> at the depot or not. To tell <app loc="1"><rdg>him</rdg></app><app loc="2"><rdg>her</rdg></app> <app loc="1"><rdg>to go</rdg></app> <app loc="2"><rdg>that he will go </rdg></app> <app loc="3"><rdg>that she will go</rdg></app> to your house I don’t know for sure they are thinking of going on the 3rd . Well, the house is as it was, without news to rent </p>
+
+<pb facs="shan_l.067.jpg"/>
+
+<p>J and Santos may one day remember that they have an uncle in Albuquerque and you receive <app loc="1"><rdg>his heart</rdg></app> <app loc="2"><rdg>the heart of</rdg></app> him, <app loc="1"><rdg>black</rdg></app> <app loc="2"><rdg>dark</rdg></app>and skinny from Albuquerque who doesn’t forget you for a moment it’s been three 15 days since you left at 310 in the afternoon
+May.14.310 pm </p>
+
+<closer>                    
+<signed></signed>
+</closer>
+                
+</div1>
 
 </body>
         

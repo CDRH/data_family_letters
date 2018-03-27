@@ -171,28 +171,6 @@
                 
 </div1>
 
-<div1 type="letter" xml:lang="es">
-                
-<pb facs="shan_l.043.jpg"/>
-                
-<opener>
-<dateline>20 de junio de 1939</dateline>
-<address><addrLine>Denver Colorado</addrLine></address>
-
-<address><addrLine>Señorita Santos Baros</addrLine></address>
-
-<salute>Querida amiga te escribo estas líneas para decirte que estoy bien, y que espero que tú estés igual.</salute>
-</opener>
-                
-<p>Solo te escribo para decirte que nos mudamos al número 2961 de la calle Lawrence, y que no me gusta este lugar. Creo que nos vamos a mudar de nuevo al número 24 de la calle Curtis, ya sabes, donde vivíamos antes, pero no a la misma casa. ¿Y vas a venir para el 4 de julio? ¿Y cuando se fueron de aquí les funcionó bien el carro? Y esto es todo por hoy. Salúdame a toda tu familia.</p>
-
-<closer><salute>De tu amiga</salute>                    
-<signed>Mary Moreno</signed>
-<address><addrLine>2961 Lawrence St.</addrLine></address>
-</closer>
-                
-</div1>
-
 <div1 type="envelope">
 
 <pb facs="shan_l.041.jpg"/>
@@ -228,6 +206,28 @@ COLO.<lb/>
 </figure>
 
 </div1>
+<div1 type="letter" xml:lang="es">
+                
+<pb facs="shan_l.043.jpg"/>
+                
+<opener>
+<dateline>20 de junio de 1939</dateline>
+<address><addrLine>Denver Colorado</addrLine></address>
+
+<address><addrLine>Señorita Santos Baros</addrLine></address>
+
+<salute>Querida amiga te escribo estas líneas para decirte que estoy bien, y que espero que tú estés igual.</salute>
+</opener>
+                
+<p>Solo te escribo para decirte que nos mudamos al número 2961 de la calle Lawrence, y que no me gusta este lugar. Creo que nos vamos a mudar de nuevo al número 24 de la calle Curtis, ya sabes, donde vivíamos antes, pero no a la misma casa. ¿Y vas a venir para el 4 de julio? ¿Y cuando se fueron de aquí les funcionó bien el carro? Y esto es todo por hoy. Salúdame a toda tu familia.</p>
+
+<closer><salute>De tu amiga</salute>                    
+<signed>Mary Moreno</signed>
+<address><addrLine>2961 Lawrence St.</addrLine></address>
+</closer>
+                
+</div1>
+
 
 </body>
         
