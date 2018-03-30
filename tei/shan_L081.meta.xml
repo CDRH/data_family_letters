@@ -185,8 +185,8 @@
 <pb facs="shan_l.256.jpg"/>
                 
 <opener>
-<address><addrLine>ft. Lupton Colo</addrLine></address>
-<dateline>May, 17, 1957</dateline>
+<address><addrLine>Ft. Lupton, Colorado</addrLine></address>
+<dateline>May 17, 1957</dateline>
 
 <salute>Dear daughter,</salute>
 </opener>
@@ -199,15 +199,14 @@
 
 <pb facs="shan_l.258.jpg"/>
 
-<p>Helen gave me some very nice <app loc="1"><rdg>pretty</rdg></app> pots <certainty locus="name" cert="high"><desc>dishware, plates</desc></certainty></p>
+<p>Helen gave me some very <app loc="1"><rdg>nice</rdg></app> <app loc="2"><rdg>pretty</rdg></app> <app loc="1" cert="high"><rdg>pots</rdg></app> <app loc="2" cert="high"><rdg>dishware</rdg></app><app loc="3" cert="high"><rdg>plates</rdg></app></p>
 
 <p>We will use them for the first time when you come. Jerry is becoming very haughty, he almost never comes to the house.</p>
 
 <p>Kathy does come, and is very chatty. Jess says that she’s like a parrot. Hey, did you end up writing to Demetrio, my brother? He hasn’t written to me again since that time. Tell me, when you write to me, if Demetrio wrote to you or not. Well, I think this will be all this time.</p>
 
 <closer>
-<salute>Give my regards to Bill and Billy boy, Robert and Linda, from Max and me. And for you, receive the
-finest regards <app loc="1"><rdg>remembrance</rdg></app> from your mother who wishes you all much happiness,</salute>                   
+<salute>Give my regards to Bill and Billy boy, Robert and Linda, from Max and me. And for you, receive the finest <app loc="1"><rdg>regards</rdg></app> <app loc="2"><rdg>remembrance</rdg></app> from your mother who wishes you all much happiness,</salute>                   
 <signed>Jesusita Baros Torres</signed>
 </closer>
                 

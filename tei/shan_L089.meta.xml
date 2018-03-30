@@ -226,7 +226,7 @@ COLO.<lb/>
 <pb facs="shan_l.306.jpg"/>
                 
 <opener>
-<address><addrLine>Ft. Lupton Colo</addrLine></address>
+<address><addrLine>Ft. Lupton, Colorado</addrLine></address>
 <dateline>July 4-1958</dateline>
 
 <salute>Dear daughter,</salute>
@@ -242,7 +242,7 @@ COLO.<lb/>
 
 <p>I thank God that Billy boy is well now;</p>
 
-<p>you tell me that he has to go <certainty locus="name" cert="high"><desc>swimming</desc></certainty> <app loc="1"><rdg>to swimming classes</rdg></app>;</p>
+<p>you tell me that he has to go <app loc="1" cert="high"><rdg>swimming</rdg></app> <app loc="2" cert="high"><rdg>to swimming classes</rdg></app>;</p>
 
 <p>how is Bill doing? You write so little. How is your <term type="literal">mama</term> mother in law doing? I hope she is better.</p>
 

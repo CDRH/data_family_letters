@@ -237,7 +237,7 @@ JAN30<lb/>
 
 </div1>
 
-<div1 type="letter" xml:lang="en">
+<div1 type="letter" xml:lang="es">
                 
 <pb facs="shan_l.220.jpg"/>
                 
@@ -251,9 +251,10 @@ JAN30<lb/>
 <salute>Feliz año Nuevo para todos. De versa deseamos que <add resp="iv001">el año</add> les traiga mucha felicidad, salud y prosperidad.</salute>
 </opener>
                 
-<p>Nos dio mucho gusto recibir su tarjeta de navidad y una buena carta. Bill, sentimos mucho enterarnos de que estuviste <certainty locus="name" cert="high"><desc>estuvo, tú, usted</desc></certainty> en el hospital con influenza y problemas del corazón. Buena noticia saber que pudiste levantarte y que regresaste al trabajo. Pero trata de descansar. No puedo evitar pensar que si lo haces, con los diferentes tratamientos y medicinas que tienen para todo tipo de enfermedades estarás bien. Hazle caso al doctor, de seguro quizá un buen jefe <certainty locus="name" cert="low"><desc>¿</desc></certainty> Espero que el resto de la familia esté bien.</p>
+<p>Nos dio mucho gusto recibir su tarjeta de navidad y una buena carta. Bill, sentimos mucho enterarnos de que <app loc="1" cert="high"><rdg>estuviste</rdg></app> <app loc="2" cert="high"><rdg>estuvo</rdg></app> <app loc="3" cert="high"><rdg>tú</rdg></app>
+<app loc="4" cert="high"><rdg>usted</rdg></app> en el hospital con influenza y problemas del corazón. Buena noticia saber que pudiste levantarte y que regresaste al trabajo. Pero trata de descansar. No puedo evitar pensar que si lo haces, con los diferentes tratamientos y medicinas que tienen para todo tipo de enfermedades estarás bien. Hazle caso al doctor, de seguro quizá un buen jefe <certainty locus="name" cert="low"><desc>¿</desc></certainty> Espero que el resto de la familia esté bien.</p>
 
-<p>Supe que pasaron una buena navidad yendo a casa de John y los Givens. Me hubiera gustado que hubiéramos podido <certainty locus="name" cert="low"><desc>pulsed</desc></certainty> a todos ustedes. Nosotros pasamos una buena navidad –como habíamos planeado, vino todo el clan a cenar el domingo antes de navidad. Santy <app loc="1"><rdg>Santa Clos</rdg></app> fue bueno con todos.</p>
+<p>Supe que pasaron una buena navidad yendo a casa de John y los Givens. Me hubiera gustado que hubiéramos podido a todos ustedes. Nosotros pasamos una buena navidad –como habíamos planeado, vino todo el clan a cenar el domingo antes de navidad. <app loc="1"><rdg>Santy</rdg></app> <app loc="2"><rdg>Santa Clos</rdg></app> fue bueno con todos.</p>
 
 <pb facs="shan_l.222.jpg"/>
 
@@ -267,7 +268,7 @@ JAN30<lb/>
 
 <fw>3/</fw>
 
-<p>uno de sus programas <certainty locus="name" cert="low"><desc>jr</desc></certainty> favoritos, Bruce le está escribiendo a <certainty locus="name" cert="low"><desc>Lou</desc></certainty>. Ayer llevó a Lou de regreso a Flagstaff para el <app loc="1"><rdg>su</rdg></app> segundo semestre de la universidad. Ella se había registrado la semana pasada para el segundo semestre. B. Se registró hoy para su segundo semestre. Las <app loc="1"><rdg>los</rdg></app> Tres C’s. El fin de semana pasado el grupo de jóvenes mayores de nuestra iglesia fue a nuestro campamento de la iglesia en la montaña Mingus, al noroeste, como a 100 millas <add resp="iv001">de aquí</add>, porque iban a celebrar la fiesta en la nieve que hacen cada año. Bueno, ¡no encontraron nieve ni para hacer un buen mono de nieve! ¡Mucho menos para andar en trineo! Se divirtieron mucho. Principalmente comiendo y caminando por la montaña. La altura y el clima frío les abrieron el apetito. El campamento está una altura como de como a 1 1⁄2 mi. Es un campamento bonito, que se usa mucho en el verano. El año pasado las <app loc="1"><rdg>los</rdg></app> Tres C’s se quedaron atrapados <app loc="1"><rdg>atrapadas</rdg></app> allá arriba por poco tiempo.</p>
+<p>uno de sus programas <certainty locus="name" cert="low"><desc>jr</desc></certainty> favoritos, Bruce le está escribiendo a <certainty locus="name" cert="low"><desc>Lou</desc></certainty>. Ayer llevó a Lou de regreso a Flagstaff para <app loc="1"><rdg>el</rdg></app> <app loc="2"><rdg>su</rdg></app> segundo semestre de la universidad. Ella se había registrado la semana pasada para el segundo semestre. B. Se registró hoy para su segundo semestre. Las <app loc="1"><rdg>los</rdg></app> Tres C’s. El fin de semana pasado el grupo de jóvenes mayores de nuestra iglesia fue a nuestro campamento de la iglesia en la montaña Mingus, al noroeste, como a 100 millas <add resp="iv001">de aquí</add>, porque iban a celebrar la fiesta en la nieve que hacen cada año. Bueno, ¡no encontraron nieve ni para hacer un buen mono de nieve! ¡Mucho menos para andar en trineo! Se divirtieron mucho. Principalmente comiendo y caminando por la montaña. La altura y el clima frío les abrieron el apetito. El campamento está una altura como de como a 1 1⁄2 mi. Es un campamento bonito, que se usa mucho en el verano. El año pasado <app loc="1"><rdg>las</rdg></app> <app loc="2"><rdg>los</rdg></app> Tres C’s se quedaron <app loc="1"><rdg>atrapados</rdg></app> <app loc="2"><rdg>atrapadas</rdg></app> allá arriba por poco tiempo.</p>
 
 <p>Gente, por favor disculpen también mi lápiz y <add resp="iv001">este/mi</add> papel. B. Está usando mi pluma buena. Siempre compro papel y sobres bonitos para tener papel bonito</p>
 
@@ -277,9 +278,9 @@ JAN30<lb/>
 
 <p>para escribir mis cartas, pero siempre lo doy como regalo.</p>
 
-<p>No ha hecho viento, a diferencia de otros días. Este mes hemos tenido más viento de lo usual. Llovió un poco el domingo en la tarde <app loc="1"><rdg>noche</rdg></app>; por lo menos suficiente para aplacar el polvo. Ayer recibimos carta de Lillie Minick desde Syracuse yesterday. Nos contaba que para variar les nevó algo la semana pasada.</p>
+<p>No ha hecho viento, a diferencia de otros días. Este mes hemos tenido más viento de lo usual. Llovió un poco el domingo en la <app loc="1"><rdg>tarde</rdg></app> <app loc="2"><rdg>noche</rdg></app>; por lo menos suficiente para aplacar el polvo. Ayer recibimos carta de Lillie Minick desde Syracuse yesterday. Nos contaba que para variar les nevó algo la semana pasada.</p>
 
-<p>Mis látiros <add resp="iv001">sweet peas: chícharos de olor/guisantes de olor</add> están empezando a florecer. Sembré algunas plantas para poner en los dos cajetes del patio de enfrente, pero voy a esperar un poco para plantarlos afuera porque muy en la mañana nos cae una helada fuera de temporada. Tengo pensamientos, alisos de mar y alhelíes para poner en los cajetes.</p>
+<p>Mis <app loc="1"><rdg>látiros</rdg></app> <app loc="2"><rdg>chícharos de olor</rdg></app><app loc="3"><rdg>guisantes de olor</rdg></app> están empezando a florecer. Sembré algunas plantas para poner en los dos cajetes del patio de enfrente, pero voy a esperar un poco para plantarlos afuera porque muy en la mañana nos cae una helada fuera de temporada. Tengo pensamientos, alisos de mar y alhelíes para poner en los cajetes.</p>
 
 <p> Los muchahcos están planeando pintar la casa más o menos en una semana. La pintura que tiene ahora se está empezando a descascarar muy fei, así que <add resp="iv001">dicen</add> que si le ponen una buena capa de pintura base y otra capa encima duraría unos cinco años. </p>
 

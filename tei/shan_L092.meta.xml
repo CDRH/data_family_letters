@@ -189,7 +189,7 @@ quieren tener la casa mas garnde; la <add place="above">Helen</add> ya no trabaj
 <pb facs="shan_l.314.jpg"/>
                 
 <opener>
-<address><addrLine>Fort Lupton, Colorado</addrLine></address>
+<address><addrLine>Ft. Lupton, Colorado</addrLine></address>
 <dateline>October 14, 1958;</dateline>
 
 <salute>Dear daughter,</salute>
@@ -212,10 +212,10 @@ they want to make the house bigger. <add place="above">Helen</add> is not workin
 
 <p>I took a long time to reply because I was very busy canning. I canned chilies, and tomatoes, pears and peaches, all by myself. Max is working <add resp="iv001">in the fields</add> picking carrots. The weather is very nice, but we had a little frost the last couple of days. Not a lot, but the tomatoes froze, and all my flowers froze.</p>
 
-<p>Only the marigolds are left. Well, I will tell you <app loc="1"><rdg>remind you</rdg></app> also that your saint’s day is on the 11th of November; Let me know ahead of time what you want me to send you. I know Billy boy’s <certainty locus="name" cert="high"><desc>saint's day, birthday</desc></certainty> is in October, but I don’t <add place="above">know</add> what day.</p>
+<p>Only the marigolds are left. Well, I will <app loc="1"><rdg>tell you</rdg></app> <app loc="2"><rdg>remind you</rdg></app> also that your saint’s day is on the 11th of November; Let me know ahead of time what you want me to send you. I know Billy boy’s <app loc="1" cert="high"><rdg>saint's day</rdg></app> <app loc="2" cert="high"><rdg>birthday</rdg></app> is in October, but I don’t <add place="above">know</add> what day.</p>
 
 <closer>
-<salute>Well, daughter, anyway, I think this will be all for now. Many regards <app loc="1"><rdg>love</rdg></app> for the kids, <add place="above">for Bill</add>,
+<salute>Well, daughter, anyway, I think this will be all for now. <app loc="1"><rdg>Many regards</rdg></app> <app loc="1"><rdg>Love</rdg></app> for the kids, <add place="above">for Bill</add>,
 and for you. Your mother</salute>                    
 <signed>Jesusita B Torres</signed>
 </closer>

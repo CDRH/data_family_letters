@@ -238,7 +238,7 @@ COLO.<lb/>
                 
 <opener>
 
-<dateline>f.t. Lupton Colo</dateline>
+<dateline>Ft. Lupton Colorado</dateline>
 <add>3,-jan,-1953</add>
 
 <address><addrLine>My dear daughter</addrLine></address>
@@ -270,10 +270,10 @@ COLO.<lb/>
 
 <pb facs="shan_l.233.jpg"/>
 
-<p>over there where you say Bill is. Further and further away it seems you <app loc="1"><rdg>all</rdg></app> are going. Well, tell me everything. How you have been, how things are with your kids, if Bill writes to you, and if he sends you money; I think about things a lot <app loc="1"><rdg>I worry a lot</rdg></app>. Well daughter, may God help you, those are my wishes. And when you have a problem of any kind tell me, and maybe I can help out somehow.</p>
+<p>over there where you say Bill is. Further and further away it seems you <app loc="1"><rdg>all</rdg></app> are going. Well, tell me everything. How you have been, how things are with your kids, if Bill writes to you, and if he sends you money; <app loc="1"><rdg>I think about things a lot</rdg></app> <app loc="2"><rdg>I worry a lot</rdg></app>. Well daughter, may God help you, those are my wishes. And when you have a problem of any kind tell me, and maybe I can help out somehow.</p>
 
 <closer>      
-<salute>Much love <app loc="1"><rdg>Many regards</rdg></app> for Bili boy, and Robert, and the baby and receive the finest <certainty locus="name" cert="high"><desc>warmest</desc></certainty> regards from us.</salute>   
+<salute><app loc="1"><rdg>Much love</rdg></app> <app loc="2"><rdg>Many regards</rdg></app> for Bili boy, and Robert, and the baby and receive the <app loc="1" cert="high"><rdg>finest</rdg></app> <app loc="2" cert="high"><rdg>warmest</rdg></app> regards from us.</salute>   
            
 <signed>J. Helen, Max, and your mom, J.B.T</signed>
 </closer>
