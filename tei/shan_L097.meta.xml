@@ -182,41 +182,6 @@ de un velorío, y un funeral cuando otro, y otro;</p>
                 
 </div1>
 
-
-<div1 type="letter" xml:lang="en">
-                
-<pb facs="shan_l.338.jpg"/>
-                
-<opener>
-<address><addrLine>Fort Lupton, Colorado</addrLine></address>
-<dateline>March 14, 1959</dateline>
-
-<salute>Dear daughter</salute>
-</opener>
-
-<p>this letter is to greet you, Bill and family,</p>
-                
-<p>hoping that you have <add resp="iv001">a</add> new family <add resp="iv001">member</add> by now. I think it will be a little woman, a girl. I’m waiting for you to let us know, and I think you must be waiting for me to reply. Well, you know, I kept going to see the doctor. No,
-I’m not very sick, but he says that I do have to have the shots, and the pills too.</p>
-
-<p>I hope that you are well and that you are relieved by now <add resp="iv001">that you've already had the baby</add>. Tell Bill to write to
-us. It doesn’t matter if it’s in English, Jesus knows <add resp="iv001">English</add>, he can read and let us hear from you. I will tell you that there have been many deaths around here. Two were buried in a week. I don’t know if you remember Mr. José Martínez, he died. He is from the field. And Mr. Julián Luján, also from the field and another <add resp="iv001">death</add>, I. Volmar. It seemed like we had just had
-<pb facs="shan_l.340.jpg"/>
-
-a wake and a funeral, and then another and another.</p>
-
-<p>There’s been a lot of wind. It looks like it’s going to snow. Helen started to work. They called her about two weeks ago.</p>
-
-<p>How are the kids? Have they gotten sick? There’s a lot of illness around here. Jerry and Kathy were a little sick, but they’re well now, and they’re going to school.</p>
-
-<closer>
-<salute>Well, many regards <app loc="1"><rdg>much love</rdg></app> for everyone: For Bill, Billy boy, Robert and Pamela, and a hello for the new baby. And for you, with love from your mother and Max Torres</salute>                    
-<signed>Jesusita B. Torres</signed>
-</closer>
-                
-</div1>
-
-
 <div1 type="envelope">
 
 <pb facs="shan_l.336.jpg"/>
@@ -248,6 +213,39 @@ COLO<lb/>
 <p></p>
 </figure>
 
+</div1>
+
+<div1 type="letter" xml:lang="en">
+                
+<pb facs="shan_l.338.jpg"/>
+                
+<opener>
+<address><addrLine>Ft. Lupton, Colorado</addrLine></address>
+<dateline>March 14, 1959</dateline>
+
+<salute>Dear daughter</salute>
+</opener>
+
+<p>this letter is to greet you, Bill and family,</p>
+                
+<p>hoping that you have <add resp="iv001">a</add> new family <add resp="iv001">member</add> by now. I think it will be a little woman, a girl. I’m waiting for you to let us know, and I think you must be waiting for me to reply. Well, you know, I kept going to see the doctor. No,
+I’m not very sick, but he says that I do have to have the shots, and the pills too.</p>
+
+<p>I hope that you are well and that you are relieved by now <add resp="iv001">that you've already had the baby</add>. Tell Bill to write to
+us. It doesn’t matter if it’s in English, Jesus knows <add resp="iv001">English</add>, he can read and let us hear from you. I will tell you that there have been many deaths around here. Two were buried in a week. I don’t know if you remember Mr. José Martínez, he died. He is from the field. And Mr. Julián Luján, also from the field and another <add resp="iv001">death</add>, I. Volmar. It seemed like we had just had
+<pb facs="shan_l.340.jpg"/>
+
+a wake and a funeral, and then another and another.</p>
+
+<p>There’s been a lot of wind. It looks like it’s going to snow. Helen started to work. They called her about two weeks ago.</p>
+
+<p>How are the kids? Have they gotten sick? There’s a lot of illness around here. Jerry and Kathy were a little sick, but they’re well now, and they’re going to school.</p>
+
+<closer>
+<salute>Well, <app loc="1"><rdg>many regards</rdg></app> <app loc="2"><rdg>much love</rdg></app> for everyone: For Bill, Billy boy, Robert and Pamela, and a hello for the new baby. And for you, with love from your mother and Max Torres</salute>                    
+<signed>Jesusita B. Torres</signed>
+</closer>
+                
 </div1>
 </body>
         

@@ -180,47 +180,6 @@ y me compuede ya haora estoy bien, no mas me faltan mis lentes ya tambien me los
                 
 </div1>
 
-
-<div1 type="letter" xml:lang="en">
-                
-<pb facs="shan_l.352.jpg"/>
-                
-<opener>
-<address><addrLine>Fort Lupton, Colorado</addrLine></address>
-<dateline>June 29, 1959</dateline>
-
-<salute>Dear daughter,</salute>
-</opener>
-
-<p>This letter is to greet all of you. Well, we are well, thank to God.</p>
-                
-<p>I got your letter dated on the 24th of June; well I see that you tell me that the baby was a
-<certainty locus="name" cert="low"><desc>little ill</desc></certainty>. I hope she is better. God’s will be done.</p>
-
-<p>We are a sorry sight: you’re struggling with your kids alone, and me without being able to help you, and
-I’m struggling with my part, and you unable to help me. Maybe destiny or life allowed
-this. I was very ill one night, but Max went to tell Jessee and then he called the doctor, he
-came and gave me shots and some pills</p>
-
-<pb facs="shan_l.353.jpg"/>
-
-<p> and I got better, and now I’m alright. I’m only missing my glasses. They’re having them
-made for me.</p>
-
-<p>The doctor for the glasses couldn’t make them <add resp="iv001">for me</add> because of the <app loc="1"><rdg>my</rdg></app>
-illness <app loc="1"><rdg>diabetes</rdg></app>, so I’m writing this letter by guessing, but I was able to read your letter
-that you sent me. I think I should have them <add resp="iv001">when your next letter comes</add>. Do write a
-little larger . Well, I will tell you to write to me more often, if you can and have time.</p>
-
-<closer>
-<salute>Many regards <app loc="1"><rdg>much love</rdg></app> for all of you, and specially for the children and you, from all
-of us and from your mom <add resp="iv001">who is</add> <certainty locus="name" cert="low"><desc>pretty</desc></certainty> blind,</salute>                   
-<signed>Jesusita B. Torres</signed>
-</closer>
-                
-</div1>
-
-
 <div1 type="envelope">
 
 <pb facs="shan_l.350.jpg"/>
@@ -252,6 +211,38 @@ COLO.<lb/>
 <p></p>
 </figure>
 
+</div1>
+
+<div1 type="letter" xml:lang="en">
+                
+<pb facs="shan_l.352.jpg"/>
+                
+<opener>
+<address><addrLine>Ft. Lupton, Colorado</addrLine></address>
+<dateline>June 29, 1959</dateline>
+
+<salute>Dear daughter,</salute>
+</opener>
+
+<p>This letter is to greet all of you. Well, we are well, thank to God.</p>
+                
+<p>I got your letter dated on the 24th of June; well I see that you tell me that the baby was a
+<certainty locus="name" cert="low"><desc>little ill</desc></certainty>. I hope she is better. God’s will be done.</p>
+
+<p>We are a sorry sight: you’re struggling with your kids alone, and me without being able to help you, and I’m struggling with my part, and you unable to help me. Maybe destiny or life allowed this. I was very ill one night, but Max went to tell Jessee and then he called the doctor, he came and gave me shots and some pills</p>
+
+<pb facs="shan_l.353.jpg"/>
+
+<p> and I got better, and now I’m alright. I’m only missing my glasses. They’re having them
+made for me.</p>
+
+<p>The doctor for the glasses couldn’t make them <add resp="iv001">for me</add> because of <app loc="1"><rdg>the</rdg></app> <app loc="2"><rdg>my</rdg></app> <app loc="1"><rdg>illness</rdg></app><app loc="2"><rdg>diabetes</rdg></app>, so I’m writing this letter by guessing, but I was able to read your letter that you sent me. I think I should have them <add resp="iv001">when your next letter comes</add>. Do write a little larger . Well, I will tell you to write to me more often, if you can and have time.</p>
+
+<closer>
+<salute><app loc="1"><rdg>Many regards </rdg></app><app loc="2"><rdg>much love</rdg></app> for all of you, and specially for the children and you, from all of us and from your mom <add resp="iv001">who is</add> <certainty locus="name" cert="low"><desc>pretty</desc></certainty> blind,</salute>                   
+<signed>Jesusita B. Torres</signed>
+</closer>
+                
 </div1>
 </body>
         

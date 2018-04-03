@@ -182,7 +182,7 @@
 <pb facs="shan_l.362.jpg"/>
                 
 <opener>
-<address><addrLine>Fort Lupton, Colorado</addrLine></address>
+<address><addrLine>Ft. Lupton, Colorado</addrLine></address>
 <dateline>August 31, 1959</dateline>
 
 <salute>Dear daughter,</salute>
@@ -197,16 +197,14 @@
 
 <pb facs="shan_l.363.jpg"/>
 
-<p>Well, daughter, give my regards <app loc="1"><rdg>my love</rdg></app> to Bill, from all of us. I am very thankful to him because he fixed the sink for me. Well, write when you can, so that I can know how you all are.</p>
+<p>Well, daughter, give <app loc="1"><rdg>my regards</rdg></app> <app loc="2"><rdg>my love</rdg></app> to Bill, from all of us. I am very thankful to him because he fixed the sink for me. Well, write when you can, so that I can know how you all are.</p>
 
 <closer>
-<salute>Regards <app loc="1"><rdg>love</rdg></app> to all, your mom,</salute>                    
+<salute><app loc="1"><rdg>Regards</rdg></app> <app loc="2"><rdg>Love</rdg></app> to all, your mom,</salute>                    
 <signed>jesusita B. Torres</signed>
 </closer>
                 
 </div1>
-
-
 </body>
         
 <back></back>
