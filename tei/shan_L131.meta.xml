@@ -215,12 +215,45 @@ my sleeping room – Want to paint some – also have some ply wood to make a li
 
 </div1>
 
+<div1 type="envelope">
+
+<pb facs="shan_l.492.jpg"/>
+
+<ab type="return">
+<address>
+<addrLine>WF Schubert</addrLine>
+<addrLine>Box 18</addrLine>
+<addrLine>Havelock, Nebr.</addrLine>
+</address>
+</ab>
+
+<ab type="address">
+<address>
+<addrLine>Mrs. Santos B. Schubert</addrLine>
+<addrLine>General Delivery</addrLine>
+<addrLine>Ft. Lupton</addrLine>
+<addrLine>Colorado</addrLine>
+</address>
+</ab>
+
+<pb facs="shan_l.493.jpg"/>
+
+<ab type="postmark">
+FORT LUPTON<lb/>
+DEC 18<lb/>
+6 PM<lb/>
+1947<lb/>
+COLO.<lb/>
+</ab>
+
+</div1>
+
 <div1 type="letter" xml:lang="es">
                 
 <pb facs="shan_l.494.jpg"/>
                 
 <opener>
-<address><addrLine>Havelock, Nebr</addrLine></address>
+<address><addrLine>Havelock, Nebraska</addrLine></address>
 <dateline>16 de diciembre 1947</dateline>
 <dateline>7:45 P.M.</dateline>
 
@@ -282,39 +315,6 @@ mi cuarto – Quería pintar un poco – también tengo algo de madera aglomerad
 
 </div1>
 
-
-<div1 type="envelope">
-
-<pb facs="shan_l.492.jpg"/>
-
-<ab type="return">
-<address>
-<addrLine>WF Schubert</addrLine>
-<addrLine>Box 18</addrLine>
-<addrLine>Havelock, Nebr.</addrLine>
-</address>
-</ab>
-
-<ab type="address">
-<address>
-<addrLine>Mrs. Santos B. Schubert</addrLine>
-<addrLine>General Delivery</addrLine>
-<addrLine>Ft. Lupton</addrLine>
-<addrLine>Colorado</addrLine>
-</address>
-</ab>
-
-<pb facs="shan_l.493.jpg"/>
-
-<ab type="postmark">
-FORT LUPTON<lb/>
-DEC 18<lb/>
-6 PM<lb/>
-1947<lb/>
-COLO.<lb/>
-</ab>
-
-</div1>
 </body>
         
 <back></back>
