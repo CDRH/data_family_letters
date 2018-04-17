@@ -195,6 +195,39 @@ Yo te amo mucho<lb/></p>
 
 </div1>
 
+<div1 type="envelope">
+
+<pb facs="shan_l.506.jpg"/>
+
+<ab type="address">
+<address>
+<addrLine>Mrs, Santos B. Schubert</addrLine>
+<addrLine>General Delivery</addrLine>
+<addrLine>Ft. Lupton</addrLine>
+<addrLine>Colorado</addrLine>
+</address>
+</ab>
+
+<ab type="postmark">
+LINCOLN<lb/>
+MAY 27<lb/>
+830 PM<lb/>
+1949<lb/>
+NEBR.<lb/>
+</ab>
+
+<pb facs="shan_l.507.jpg"/>
+
+<ab type="postmark">
+FORT LUPTON<lb/>
+MAY 28<lb/>
+6 PM<lb/>
+1949<lb/>
+COLO.<lb/>
+</ab>
+
+</div1>
+
 <div1 type="letter" xml:lang="es">
                 
 <pb facs="shan_l.508.jpg"/>
@@ -241,39 +274,6 @@ I love you very much<lb/></p>
 
 </div1>
 
-
-<div1 type="envelope">
-
-<pb facs="shan_l.506.jpg"/>
-
-<ab type="address">
-<address>
-<addrLine>Mrs, Santos B. Schubert</addrLine>
-<addrLine>General Delivery</addrLine>
-<addrLine>Ft. Lupton</addrLine>
-<addrLine>Colorado</addrLine>
-</address>
-</ab>
-
-<ab type="postmark">
-LINCOLN<lb/>
-MAY 27<lb/>
-830 PM<lb/>
-1949<lb/>
-NEBR.<lb/>
-</ab>
-
-<pb facs="shan_l.507.jpg"/>
-
-<ab type="postmark">
-FORT LUPTON<lb/>
-MAY 28<lb/>
-6 PM<lb/>
-1949<lb/>
-COLO.<lb/>
-</ab>
-
-</div1>
 </body>
         
 <back></back>
