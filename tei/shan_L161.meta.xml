@@ -213,7 +213,48 @@ Don’t forget when we’re coming home Oct 22nd in the Denver Zephyr<lb/></p>
  
 </div1>
 
+<div1 type="envelope">
 
+<pb facs="shan_l.592.jpg"/>
+
+<ab type="return">
+<address>
+<addrLine>Mrs. Sandra Schubert</addrLine>
+<addrLine>P.O. Box 681</addrLine>
+<addrLine>Ft. Lupton, Colo</addrLine>
+</address>
+</ab>
+
+<ab type="address">
+<address>
+<addrLine>Mr. W. F. Schubert</addrLine>
+<addrLine>Camp 67</addrLine>
+<addrLine>Rulo, Nebr.</addrLine>
+</address>
+</ab>
+
+<ab type="postmark">
+FORT LUPTON<lb/> 
+OCT 9<lb/>
+8 AM<lb/>
+1950<lb/>
+COLO<lb/>
+</ab>
+
+<figure type="stamp">
+<p></p>
+</figure>
+
+<pb facs="shan_l.593.jpg"/>
+
+<ab type="postmark">
+RULO<lb/>
+OCT 10<lb/>
+1950<lb/>
+NEBR.<lb/>
+</ab>
+
+</div1>
 
 <div1 type="letter" xml:lang="es">
                 
@@ -278,49 +319,6 @@ No se te olvide cuándo regresamos a casa. El 22 de octubre en el Denver Zephyr.
  
 </div1>
 
-
-<div1 type="envelope">
-
-<pb facs="shan_l.592.jpg"/>
-
-<ab type="return">
-<address>
-<addrLine>Mrs. Sandra Schubert</addrLine>
-<addrLine>P.O. Box 681</addrLine>
-<addrLine>Ft. Lupton, Colo</addrLine>
-</address>
-</ab>
-
-<ab type="address">
-<address>
-<addrLine>Mr. W. F. Schubert</addrLine>
-<addrLine>Camp 67</addrLine>
-<addrLine>Rulo, Nebr.</addrLine>
-</address>
-</ab>
-
-<ab type="postmark">
-FORT LUPTON<lb/> 
-OCT 9<lb/>
-8 AM<lb/>
-1950<lb/>
-COLO<lb/>
-</ab>
-
-<figure type="stamp">
-<p></p>
-</figure>
-
-<pb facs="shan_l.593.jpg"/>
-
-<ab type="postmark">
-RULO<lb/>
-OCT 10<lb/>
-1950<lb/>
-NEBR.<lb/>
-</ab>
-
-</div1>
 </body>
         
 <back></back>

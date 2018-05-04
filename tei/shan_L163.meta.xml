@@ -183,10 +183,50 @@ sent for living in our trailer. if he wants his trailer back he can have it. Any
 <salute>Lovingly your Wife,</salute>                    
 <signed>Sandra</signed>
 </closer>
+</div1>
+
+<div1 type="envelope">
+
+<pb facs="shan_l.603.jpg"/>
+
+<ab type="return">
+<address>
+<addrLine>Sandra Schubert</addrLine>
+<addrLine>P.O. Box 681</addrLine>
+<addrLine>Ft. Lupton, Colo</addrLine>
+</address>
+</ab>
+
+<ab type="address">
+<address>
+<addrLine>Mr. William F. Schubert</addrLine>
+<addrLine>Camp 67</addrLine>
+<addrLine><del type="strike">Adams</del>Rulo, Nebraska</addrLine>
+</address>
+</ab>
+
+<ab type="postmark">
+FORT LUPTON<lb/>
+OCT 4<lb/>
+530 PM<lb/>
+1950<lb/>
+COLO<lb/>
+</ab>
+
+<ab type="postmark">
+ADAMS<lb/>
+OCT 5<lb/>
+3 PM<lb/>
+1950<lb/>
+NEBR.<lb/>
+</ab>
+
+<figure type="stamp">
+<p></p>
+</figure>
 
 
 </div1>
-
 
 <div1 type="letter" xml:lang="es">
                 
@@ -232,49 +272,6 @@ amarillo y marrón. Dale le regaló unos juguetes de plástico, así que no le f
 
 </div1>
 
-
-<div1 type="envelope">
-
-<pb facs="shan_l.603.jpg"/>
-
-<ab type="return">
-<address>
-<addrLine>Sandra Schubert</addrLine>
-<addrLine>P.O. Box 681</addrLine>
-<addrLine>Ft. Lupton, Colo</addrLine>
-</address>
-</ab>
-
-<ab type="address">
-<address>
-<addrLine>Mr. William F. Schubert</addrLine>
-<addrLine>Camp 67</addrLine>
-<addrLine><del type="strike">Adams</del>Rulo, Nebraska</addrLine>
-</address>
-</ab>
-
-<ab type="postmark">
-FORT LUPTON<lb/>
-OCT 4<lb/>
-530 PM<lb/>
-1950<lb/>
-COLO<lb/>
-</ab>
-
-<ab type="postmark">
-ADAMS<lb/>
-OCT 5<lb/>
-3 PM<lb/>
-1950<lb/>
-NEBR.<lb/>
-</ab>
-
-<figure type="stamp">
-<p></p>
-</figure>
-
-
-</div1>
 </body>
         
 <back></back>

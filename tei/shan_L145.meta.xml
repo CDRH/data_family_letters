@@ -195,7 +195,7 @@
   
   <p>Hoy les escribiré unas líneas más, porque alcanzarán a recibirlas antes del sábado. Quiero que sepan que los amo mucho y que los extraño. Estaré en Lincoln el domingo para encontrarlos.</p>
   <p>Anoche el capataz y yo fuimos a Falls City a mandar correo y algunos telegramas de la compañía, y luego jugamos tres partidas de bolos. No sacamos muy buena puntuación; hace mucho tiempo desde la última vez que jugué boliche. Falls City tiene una población como de 6190 personas. Es un pueblito muy bonito.</p>
-  <p>Hoy en la mañana que fuimos por el correo el cronometrador llevó su carro <add resp="iv001">auto</add> y se le ponchó una llanta. No tiene gato, así que tuvimos que caminar de regreso al campamento y voy a llevar mi carro para que podamos llevar su llanta a arreglar. Hoy en la tarde, a menos de que surja algún otro problema, vamos a ir por las nueces, si las encontramos.</p>
+  <p>Hoy en la mañana que fuimos por el correo el cronometrador llevó su <app loc="1"><rdg>carro</rdg></app> <app loc="2"><rdg>auto</rdg></app> y se le ponchó una llanta. No tiene gato, así que tuvimos que caminar de regreso al campamento y voy a llevar mi carro para que podamos llevar su llanta a arreglar. Hoy en la tarde, a menos de que surja algún otro problema, vamos a ir por las nueces, si las encontramos.</p>
   <p>Tengo que ocuparme con mis reportes, así que me despido y espero verlos el domingo.</p>
   
   <closer>
@@ -208,8 +208,6 @@
    <p>Ayer recibí el periódico–</p>
   </postscript>
   
-  
-
  </div1>
 
 </body>
