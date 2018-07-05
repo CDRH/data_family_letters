@@ -2,13 +2,11 @@ default:
   shortname: family_letters
   collection_desc: Family Letters
   es_type: family_letters
-  uri_html: http://localhost:3001/html/
 
   variables_html:
-    fig_location: http://localhost:3001/images/
-    figures: true
-    fw: true
-    pb: true
+    image_large: 800
+    image_thumb: 150
+
 # development:
   # development overrides here
 # production:
