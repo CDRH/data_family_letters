@@ -17,6 +17,8 @@ class TeiToEs
     xpaths["recipient"] = "/TEI/teiHeader/profileDesc/correspDesc/correspAction[@type='deliveredTo']/persName"
     xpaths["source"] = "/TEI/teiHeader/fileDesc/sourceDesc/mxDesc[1]/msIdentifier/repository"
     xpaths["subcategory"] = "/TEI/text/body/div1[1]/@type"
+    xpaths["text_en"] = "/TEI/text/body/div1[@lang='en']"
+    xpaths["text_es"] = "/TEI/text/body/div1[@lang='es']"
     return xpaths
   end
 
@@ -55,6 +57,8 @@ class TeiToEs
   #  *_d, *_i, *_k, *_t
   def assemble_collection_specific
   #   @json["fieldname_k"] = some_value_or_method
+    @json["text_t_en"] = text_en
+    @json["text_t_es"] = text_es
   end
 
   ################
@@ -68,14 +72,6 @@ class TeiToEs
   def category
     category = get_text(@xpaths["category"])
     category.length > 0 ? category : "Writings"
-  end
-
-  def date_display
-    get_text(@xpaths["date_display"])
-  end
-
-  def image_id
-    # TODO should we just grab the first pb?
   end
 
   def recipient
@@ -104,8 +100,8 @@ class TeiToEs
       parent_type = p.parent["type"]
       if parent_type
         # TODO check if these are the terms we want to use (Cather uses "addressee")
-        role = "recipient" if parent_type = "deliveredTo"
-        role = "creator" if parent_type = "sentBy"
+        role = "recipient" if parent_type == "deliveredTo"
+        role = "creator" if parent_type == "sentBy"
         person["role"] = role
       end
       list << person
@@ -114,6 +110,21 @@ class TeiToEs
   end
 
   # TODO rights, rights_uri, and rights_holder?
+  def rights
+    # TODO
+  end
+
+  def rights_holder
+    "Elizabeth Jane and Steve Shanahan of Davey, NE"
+  end
+
+  def text_en
+    get_text(@xpaths["text_en"], false)
+  end
+
+  def text_es
+    get_text(@xpaths["text_es"], false)
+  end
 
   def uri
     "https://familyletters.unl.edu/#{@id}"
