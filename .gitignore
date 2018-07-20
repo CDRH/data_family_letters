@@ -11,6 +11,7 @@ private.yml
 **/es/*
 **/html-generated/*
 **/solr/*
+output/development/html/*
 
 !**/.keep
 
