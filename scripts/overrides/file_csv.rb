@@ -4,7 +4,8 @@ class FileCsv
     test = 
     doc["identifier"] = row["Filename"].gsub(".jpg","") if row["Title#1"]
     doc["title"] = !row["Title#1"].empty? ? row["Title#1"] : "No Title"
-    doc["creator"] = row["Artist/Creator#1"] if row["Artist/Creator#1"]
+    doc["creator"] = { name: row["creator"] } if row["Artist/Creator#1"]
+    # doc["creator"] = row["Artist/Creator#1"] if row["Artist/Creator#1"]
     doc["description"] = row["Description#1"] if row["Description#1"]
     doc["format"] = row["Format#1"] if row["Format#1"]
     doc["source"] = row["Source#1"] if row["Source#1"]
