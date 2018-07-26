@@ -7,6 +7,7 @@ class FileCsv
     doc["description"] = row["Description#1"] if row["Description#1"]
     doc["format"] = row["Format#1"] if row["Format#1"]
     doc["source"] = row["Source#1"] if row["Source#1"]
+    doc["data_type"] = "csv"
     doc
 end
 end
