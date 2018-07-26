@@ -1,15 +1,51 @@
 class FileCsv
   def row_to_es(headers, row)
     doc = {}
-    doc["identifier"] = row["Filename"].gsub(".jpg","") if row["Filename"]
-    doc["title"] = !row["Title#1"].empty? ? row["Title#1"] : "No Title"
-    doc["creator"] = { name: row["creator"] } if row["Artist/Creator#1"]
-    doc["description"] = row["Description#1"] if row["Description#1"]
-    doc["format"] = row["Format#1"] if row["Format#1"]
-    doc["source"] = row["Source#1"] if row["Source#1"]
-    doc["data_type"] = "csv"
+    # there must be an id for this row
+    if row["Filename"]
+      id = row["Filename"].gsub(".jpg", "") if present?(row["Filename"])
+      doc["id"] = id
+      # doc["category"]
+      doc["collection"] = @options["es_type"]
+      doc["collection_desc"] = @options["collection_desc"] || @options["es_type"]
+      # doc["contributor"]
+      doc["creator"] = { "name" => row["Artist/Creator#1"] } if present?(row["Artist/Creator#1"])
+      doc["data_type"] = "csv"
+      # doc["date"]
+      # doc["date_display"]
+      doc["description"] = row["Description#1"] if present?(row["Description#1"])
+      doc["format"] = row["Format#1"] if present?(row["Format#1"])
+      doc["identifier"] = id
+      # TODO this size should probably come out of the config file
+      doc["image_id"] = "#{@options["media_base"]}#{id}.jpg/full/!150,150/0/default.jpg"
+      # doc["keywords"]
+      # doc["language"]
+      # doc["languages"]
+      doc["medium"] = row["Format#1"] if present?(row["Format#1"])
+      # doc["person"]
+      # doc["people"]
+      # doc["places"]
+      # doc["publisher"]
+      # doc["recipient"]
+      # doc["rights"]
+      # doc["rights_holder"]
+      # doc["rights_uri"]
+      doc["source"] = row["Source#1"] if present?(row["Source#1"])
+      # doc["subjects"]
+      # doc["subcategory"]
+      doc["text"] = row["Description#1"] if present?(row["Description#1"])
+      doc["title"] = present?(row["Title#1"]) ? row["Title#1"] : "No Title"
+      # doc["title_sort"]
+      # doc["topics"]
+      # doc["uri"]
+      # filename in uri_data is coming from the filename of the CSV file, NOT the "Filename" column
+      doc["uri_data"] = "#{@options["data_base"]}/data/#{@options["collection"]}/csv/#{filename}"
+      # doc["uri_html"]
+      # doc["works"]
+    end
     doc
-end
+  end
+
 end
 
 # Fields from CSV and status 
