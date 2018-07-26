@@ -2,6 +2,8 @@ default:
   shortname: family_letters
   collection_desc: Family Letters
   es_type: family_letters
+  tei_html_xsl: collections/family_letters/scripts/tei.p5.xsl
+  media_base: https://cdrhmedia.unl.edu/iiif/2/family_letters%2F
 
   variables_html:
     image_large: 800
