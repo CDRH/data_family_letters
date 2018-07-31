@@ -74,6 +74,10 @@ class TeiToEs
     category.length > 0 ? category : "Writings"
   end
 
+  def image_id
+    "#{@options["media_base"]}#{@id}.jpg/full/!150,150/0/default.jpg"
+  end
+
   def recipient
     list = []
     eles = @xml.xpath(@xpaths["recipient"])
