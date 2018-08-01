@@ -53,63 +53,6 @@
 <!--                            OVERRIDES                                 -->
 <!-- ==================================================================== -->
   
-  <xsl:template match="pb">
-    <!-- grab the figure id, first looking in @facs, then @xml:id, and if there is a .jpg, chop it off -->
-    <xsl:variable name="figure_id">
-      <xsl:variable name="figure_id_full">
-        <xsl:choose>
-          <xsl:when test="@facs"><xsl:value-of select="@facs"></xsl:value-of></xsl:when>
-          <xsl:when test="@xml:id"><xsl:value-of select="@xml:id"></xsl:value-of></xsl:when>
-        </xsl:choose>
-      </xsl:variable>
-      <xsl:choose>
-        <xsl:when test="contains($figure_id_full,'.jpg')">
-          <xsl:value-of select="substring-before($figure_id_full,'.jpg')"/>
-        </xsl:when>
-        <xsl:otherwise>
-          <xsl:value-of select="$figure_id_full"/>
-        </xsl:otherwise>
-      </xsl:choose>
-    </xsl:variable>
-    
-    <span class="hr">&#160;</span>
-    <xsl:if test="$figure_id != ''">
-      <span>
-        <xsl:attribute name="class">
-          <xsl:text>pageimage</xsl:text>
-        </xsl:attribute>
-        <a>
-          <xsl:attribute name="href">
-            <xsl:value-of select="$media_base"/>
-            <xsl:value-of select="$figure_id"/>
-            <xsl:text>.jpg/full/!1000,1000/0/default.jpg</xsl:text>
-          </xsl:attribute>
-          <xsl:attribute name="rel">
-            <xsl:text>prettyPhoto[pp_gal]</xsl:text>
-          </xsl:attribute>
-          <xsl:attribute name="title">
-            <xsl:text>&lt;a href="</xsl:text>
-            <xsl:value-of select="$media_base"/>
-            <xsl:value-of select="$figure_id"/>
-            <xsl:text>.jpg/full/!1000,1000/0/default.jpg</xsl:text>
-            <xsl:text>" target="_blank" &gt;open image in new window&lt;/a&gt;</xsl:text>
-          </xsl:attribute>
-          
-          <img>
-            <xsl:attribute name="src">
-              <xsl:value-of select="$media_base"/>
-              <xsl:value-of select="$figure_id"/>
-              <xsl:text>.jpg/full/!100,100/0/default.jpg</xsl:text>
-            </xsl:attribute>
-            <xsl:attribute name="class">
-              <xsl:text>display</xsl:text>&#160;
-            </xsl:attribute>
-          </img>
-        </a>
-      </span>
-    </xsl:if>
-  </xsl:template>
-  
   <!-- TODO this is not a great way to do this.... -->
   <xsl:template match="//body/div1[@type='letter'][1]">
     <h3>
