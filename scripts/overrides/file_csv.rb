@@ -53,9 +53,9 @@ class FileCsv
 
       id = row["Filename"].gsub(".jpg", "") if row["Filename"]
       # using XML instead of HTML for simplicity's sake
-      builder = Nokogiri::XML::Builder.new do |xml|
+      builder = Nokogiri::XML::Builder.new do |xml|o
         xml.div(class: "main_content") {
-          xml.image( src: "#{@options["media_base"]}#{id}.jpg/full/!150,150/0/default.jpg" )
+          xml.image( src: "#{@options["media_base"]}#{id}.jpg/full/full/0/default.jpg" )
           xml.p(row["Description#1"], class: "image_description")
         }
       end
