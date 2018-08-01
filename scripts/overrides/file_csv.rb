@@ -18,7 +18,7 @@ class FileCsv
       doc["format"] = row["Format#1"] if present?(row["Format#1"])
       doc["identifier"] = id
       # TODO this size should probably come out of the config file
-      doc["image_id"] = "#{@options["media_base"]}#{id}.jpg/full/!150,150/0/default.jpg"
+      doc["image_id"] = "#{id}.jpg"
       # doc["keywords"]
       # doc["language"]
       # doc["languages"]
