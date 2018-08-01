@@ -75,7 +75,7 @@ class TeiToEs
   end
 
   def image_id
-    "#{@options["media_base"]}#{@id}.jpg/full/!150,150/0/default.jpg"
+    "#{@id}.jpg"
   end
 
   def recipient
