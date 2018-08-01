@@ -1,4 +1,5 @@
 class FileCsv
+
   def row_to_es(headers, row)
     doc = {}
     # there must be an id for this row
@@ -46,9 +47,25 @@ class FileCsv
     doc
   end
 
+  def build_html_from_csv
+    @csv.each do |row|
+      next if row.header_row?
+
+      id = row["Filename"].gsub(".jpg", "") if row["Filename"]
+      # using XML instead of HTML for simplicity's sake
+      builder = Nokogiri::XML::Builder.new do |xml|
+        xml.div(class: "main_content") {
+          xml.image( src: "#{@options["media_base"]}#{id}.jpg/full/!150,150/0/default.jpg" )
+          xml.p(row["Description#1"], class: "image_description")
+        }
+      end
+      write_html_to_file(builder, id)
+    end
+  end
+
 end
 
-# Fields from CSV and status 
+# Fields from CSV and status with API ES index
 
 # DONE        Filename          id  remove .jpg for id
 # IGNORE      Identifier        not sure what this is being used for - perhaps relating docs? Ignore for now
