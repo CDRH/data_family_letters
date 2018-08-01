@@ -41,7 +41,7 @@ class FileCsv
       # doc["uri"]
       # filename in uri_data is coming from the filename of the CSV file, NOT the "Filename" column
       doc["uri_data"] = "#{@options["data_base"]}/data/#{@options["collection"]}/csv/#{filename}"
-      # doc["uri_html"]
+      doc["uri_html"] = "#{@options["data_base"]}/data/#{@options["collection"]}/output/#{@options["environment"]}/html/#{id}.html"
       # doc["works"]
     end
     doc
