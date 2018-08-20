@@ -150,7 +150,7 @@
 <text>
 <body>
             
-<div1 type="letter">
+<div1 type="letter" xml:lang="es">
                 
 <pb facs="shan_l.320.jpg"/>
                 
@@ -218,6 +218,47 @@ COLO.<lb/>
 </ab>
 
 </div1>
+
+<div1 type="letter" xml:lang="en">
+                
+<pb facs="shan_l.320.jpg"/>
+            
+<opener>
+<address><addrLine>Ft. Lupton, Colorado</addrLine></address>
+<dateline>November 13, 1958</dateline>
+
+<salute>Dear daughter,</salute>
+</opener>
+
+<p>This letter is to greet you all, wishing as always that you may be well, as we are, thank God.</p>
+                
+<p>Well, I received your letter several days ago, and you know how time flies.</p>
+
+<p>Well, I will tell you that they finished fixing <app loc="1"><rdg>remodeling</rdg></app> Jesse’s house. Now the front room is bigger. They joined the room that used to be Jerry’s and the one that used to be the front room and it’s now bigger.</p>
+
+<p>It’s very nice. They bought a very nice $400 <app loc="1"  type="colloquial"><rdg>rag</rdg></app> <app loc="2"><rdg>rug</rdg></app>, they put in new windows and doors, and furniture and a sofa, and everything.
+
+<pb facs="shan_l.322.jpg"/>
+
+And they put Jerry’s room in the basement.</p>
+
+<p>In the end they decided not to take the new house because it was very expensive, $12,000 twelve thousand pesos.</p>
+
+<p>For me this was good, because I was very sad <add resp="iv001">to see them go</add>. Well, I also wanted to ask you if you want me to send you <app loc="1"><rdg>the</rdg></app> <app loc="2"><rdg>my</rdg></app> books of stamps from Safeway. I have two, plus the ones that you may have, you can order something for the kids. If you want them don’t take too long to reply, so that I can send them to you before Christmas is here.</p>
+
+<p><app loc="1"><rdg>It's good</rdg></app> <app loc="2"><rdg>I'm happy</rdg></app> that you spent a happy birthday. I remembered you all day that day. God bless you daughter. As far away as you are, it’s
+
+<pb facs="shan_l.324.jpg"/>
+
+I have no way of going <add resp="iv001">to see you</add>. Well, I think this will be all for now. <app loc="1"><rdg>Many regards</rdg></app> <app loc="2"><rdg>Much love</rdg></app> <app loc="3"><rdg>Warm regards</rdg></app> for Bill and Billy boy, and Robert, and Pamela. And for you the finest regards from all of us. Max, Jesse and his family and from me, your <app loc="1"><rdg>mother</rdg></app> <app loc="2"><rdg>mom</rdg></app> who wishes you <app loc="1"><rdg>well </rdg></app><app loc="2"><rdg>good things</rdg></app> in everything.</p>
+
+<closer>
+<salute>With much love</salute>                    
+<signed>Jesusita B. Torres</signed>
+</closer>
+                
+</div1>
+
 </body>
         
 <back></back>

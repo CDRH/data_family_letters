@@ -150,7 +150,7 @@
 <text>
 <body>
             
-<div1 type="letter">
+<div1 type="letter" xml:lang="es">
                 
 <pb facs="shan_l.380.jpg"/>
                 
@@ -229,6 +229,53 @@ COLO.<lb/>
 <p></p>
 </figure>
 
+</div1>
+
+<div1 type="letter" xml:lang="en">
+                
+<pb facs="shan_l.380.jpg"/>
+                
+<opener>
+<fw>page 1.</fw>
+<address><addrLine>Ft. Lupton, Colorado</addrLine></address>
+<dateline>July 15, 1961.</dateline>
+
+<salute>Dear daughter,</salute>
+</opener>
+
+<p>This letter is to greet you as well as Bill and all of the kids, hoping this finds you in good health as we are here, for which I thank God.</p>
+                
+<p>I was very happy to get your letter in which you tell me that Bill is getting a vacation in August. Well, tell me if you are coming, so that I can clean the house, because now it’s truly very dirty. I have been ill. My leg, you know, my veins
+
+<pb facs="shan_l.382.jpg"/>
+
+<fw>2.</fw>
+
+but tell me if you’re coming, to get someone to help me clean.</p>
+
+<p>Well, today is Saturday and it was my birthday. I turned 61 years old.</p>
+
+<p><app loc="1"><rdg>The Society of Guadalupe </rdg></app><app loc="2"><rdg>Our Lady of Guadalupe Society</rdg></app> threw a party for me, and we were very happy they whole day. Oh, and also, we received Pamela’s portrait. She is very pretty and very big.</p>
+
+<p>And yes, I truly am happy that you are raising your children in the Catholic religion, thank God.</p>
+
+<p>Well, I will tell you that Jerry is attending a school here in Denver. He takes the car by himself. He leaves in the morning
+
+<pb facs="shan_l.384.jpg"/>
+
+<fw>3</fw>
+
+and comes back in the afternoon.</p>
+
+<p>And I will also tell you that today we are planning to go to the office to see if we can see about Max’s Social Security, because he already turned 65 on June 9th, which was his birthday.</p>
+
+<p>Well, I think that this is all for now. <app loc="1"><rdg>Regards</rdg></app> <app loc="2"><rdg>Love</rdg></app> for all the kids and for Bill, and for you, receive the finest regards from Max and from Jesus and his family, and from your mom who <app loc="1"><rdg>apreciates you</rdg></app> <app loc="2"><rdg>loves you</rdg></app> all in equal measure.</p>
+
+<closer>
+<salute>With love,</salute>                    
+<signed>Jesusita B. Torres</signed>
+</closer>
+                
 </div1>
 </body>
         

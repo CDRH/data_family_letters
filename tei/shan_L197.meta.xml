@@ -150,7 +150,7 @@
 <text>
 <body>
             
-<div1 type="letter">
+<div1 type="letter" xml:lang="es">
                 
 <pb facs="shan_l.693.jpg"/>
                 
@@ -187,6 +187,46 @@ ya mero acaban el cuarto que te platíque todabía no vienen las puertas; pero y
 </closer>
                 
 </div1>
+
+
+<div1 type="letter" xml:lang="en">
+                
+<pb facs="shan_l.693.jpg"/>
+                
+<opener>
+<address><addrLine>Ft. Lupton, Colorado</addrLine></address>
+<dateline>April 30, - 1958</dateline>
+
+<salute>Dear daughter,</salute>
+</opener>
+                
+<p>This letter is to greet you, wishing as always that you are all well, as are we, for which I thank God.</p>
+
+<p>Well, I received you letter. I’m always worried for you all. I told Jess to call you on the telephone. He came and took me to his house and he called Bill.</p>
+
+<p>Yes, his hand was a bit bad. He had cut one of his fingers very badly. He cut the nerves of the fingers in his left hand at work, and the doctor stitched the wound, but he sewed the nerves, so <add resp="iv001">he</add> could not
+
+<pb facs="shan_l.694.jpg"/>
+
+move them <app loc="1"><rdg>the fingers</rdg></app>. And he healed, but he could not move the two biggest fingers on his left hand. He couldn’t work and they operated on him again, so he went to the hospital for about ten days, and they operated on him to release the nerves that they had stitched together and they put a cast in his hand, up to the forearm, and some metal things in his fingers, but they removed them this week and he still cannot work. Helen yes, she is working, and he is at home. Max worked about a day a week because it’s been very rainy, lots of water.</p>
+
+<p>Well, poor Bill, he lost the aunts that he had in Denver.
+
+<pb facs="shan_l.695.jpg"/>
+
+The room I was telling you about is almost done. The doors haven’t come yet, but I think that when you come it will be finished. And <add resp="iv001">I hope</add> that Bill continues to be well and that he doesn’t get sick.</p>
+
+<p>Billy Boy came out very handsome in the portrait. And Babe, hasn’t he been photographed? Send me one <add resp="iv001">photo of babe</add> too, to have memories <app loc="1" cert="high"><rdg>mementos</rdg></app> of when they were in school.</p>
+
+<p>Well daughter, this is all. Many regards <app loc="1"><rdg>much love</rdg></app> from Jess and his family, and from Max and your mom, who would rather see you than write to you. I hope that you come soon.</p> 
+
+<closer>
+<salute>Your mom</salute>                    
+<signed>Jesusita B. Torres</signed>
+</closer>
+                
+</div1>
+
 
 <div1 type="envelope">
 

@@ -149,7 +149,7 @@
 <text>
 <body>
             
-<div1 type="letter">
+<div1 type="letter" xml:lang="en">
                 
 <pb facs="shan_l.614.jpg"/>
                 
@@ -175,8 +175,6 @@ give me a different job again in 2 or 3 weeks</p>
 <p>Sure wish I had you and the trailer up here. Maybe we will get a break before long.</p>
 
 <pb facs="shan_l.615.jpg"/>
-
-<p>-2-</p>
 
 <fw>-2-</fw>
 
@@ -230,7 +228,6 @@ JAN 8<lb/>
 
 </div1>
 
-
 <div1 type="letter" xml:lang="es">
   
 <pb facs="shan_l.614.jpg"/>
@@ -263,7 +260,6 @@ JAN 8<lb/>
 </closer>
 
 </div1>
-
 
 </body>
         

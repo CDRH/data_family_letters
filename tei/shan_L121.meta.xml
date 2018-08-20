@@ -149,7 +149,7 @@
 <text>
 <body>
             
-<div1 type="letter">
+<div1 type="letter" xml:lang="en">
                 
 <pb facs="shan_l.455.jpg"/>
                 
@@ -164,7 +164,7 @@
 </closer>
 </div1>
 
-<div1 type="letter">
+<div1 type="letter" xml:lang="en">
                 
 <pb facs="shan_l.455.jpg"/>
                 
@@ -181,7 +181,7 @@
 
 </div1>
 
-<div1 type="letter">
+<div1 type="letter" xml:lang="en">
                 
 <pb facs="shan_l.454.jpg"/>
                 
@@ -190,6 +190,52 @@
 </opener>
                 
 <p>Bill F. Schubert and I’d a <del>tebb</del> terrible fight off and on all day. I had to walk to church. I went to see msgr. Kaczmarek. I called his mother and jack Schubert and marjorie and told them about about</p>
+
+</div1>
+
+<div1 type="letter" xml:lang="es">
+                
+<pb facs="shan_l.455.jpg"/>
+                
+<opener>
+<dateline>9 de septiembre de 1974</dateline>
+</opener>
+                
+<p>Por favor llévale estos tomates a la Sra. Borden..</p>
+
+<closer>
+<salute>Gracias.</salute>                    
+</closer>
+</div1>
+
+<div1 type="letter" xml:lang="es">
+                
+<pb facs="shan_l.455.jpg"/>
+                
+<opener>
+<salute>Sandra</salute>
+</opener>
+                
+<p>Todavía te amo, como te he amado siempre. Y no me voy a mudar como te había dicho.</p>
+
+<closer>
+<salute>Siempre tuyo,</salute>
+<signed>Bill</signed>                    
+</closer>
+
+</div1>
+
+<div1 type="letter" xml:lang="es">
+                
+<pb facs="shan_l.454.jpg"/>
+                
+<opener>
+<dateline>8 de septiembre de 1974</dateline>
+</opener>
+                
+<p>Bill F. Schubert y yo tuvimos una pelea terrible que duró todo el día. Tuve que caminar a
+la iglesia. Fui a ver a monseñor Kaczmarek. Le llamé a su mamá y a Jack Schubert y a
+Marjorie y les conté de de</p>
 
 </div1>
 

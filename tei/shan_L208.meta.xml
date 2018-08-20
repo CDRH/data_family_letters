@@ -149,7 +149,7 @@
 <text>
 <body>
             
-<div1 type="letter">
+<div1 type="letter" xml:lang="es">
                 
 <pb facs="shan_l.758.jpg"/>
                 
@@ -162,7 +162,9 @@
                 
 <p>La precete es para Saludarte siempre deceandoles que estes bien en Companía del Bill, y de todos los muchachos;</p>
 
-<p>pues nosotros estamos bíen es por lo que le doy Gracías á Díosíto que es tan Líndo, pues al fin me dío lícencía de ir á Mex. y de ver á toda mí gente, pues sí esta muy bonito todo pero el tíempo no nos quíso, nos enfermamos del Estomago, y yo de las bolas me salieron, les disen tanzolos; bueno pues aya nos estubímos 2, semanas y ya no pude aguantar mas nos benímos; de aya para aca me enferme mucho ay en el PassoTex y fuí Con un Doctor, sí; <add>me</add> puso 2 chats, y me dío unas Cauzulas y una agua para labarme la boca; bueno pues eso fue el
+<p>pues nosotros estamos bíen es por lo que le doy Gracías á Díosíto que es tan Líndo, pues al fin me dío lícencía de ir á Mex.</p>
+
+<p> y de ver á toda mí gente, pues sí esta muy bonito todo pero el tíempo no nos quíso, nos enfermamos del Estomago, y yo de las bolas me salieron, les disen tanzolos; bueno pues aya nos estubímos 2, semanas y ya no pude aguantar mas nos benímos; de aya para aca me enferme mucho ay en el PassoTex y fuí Con un Doctor, sí; <add>me</add> puso 2 chats, y me dío unas Cauzulas y una agua para labarme la boca; bueno pues eso fue el
 
 <pb facs="shan_l.759.jpg"/>
 
@@ -172,6 +174,38 @@ Domingo, y el Lunes nos benimos llegamos á qui el martes en la noche, y le tel�
 
 <closer>
 <salute>tu mamá</salute>                    
+<signed>Jesusita Torres</signed>
+</closer>
+                
+</div1>
+
+
+<div1 type="letter" xml:lang="en">
+                
+<pb facs="shan_l.758.jpg"/>
+                
+<opener>
+<address><addrLine>Fort Lupton, Colorado</addrLine></address>
+<dateline>March; 3-1965.</dateline>
+
+<salute>Dear daughter, Santos</salute>
+</opener>
+                
+<p>This letter is to greet you, always wishing that you are well, in the company of Bill and all the kids.</p>
+
+<p>Well, we are doing well, for which I thank God, He is so nice, because He finally allowed me to visit Mexico. </p>
+
+<p> And see all my people, well, yes everything is very beautiful but the weather didn’t like us <app loc="1"><rdg>the weather was bad</rdg></app> we got ill in the stomach, and I <add resp="iv001">was sick</add> with the balls I got, they call them tonzolas <app loc="1"><rdg>tonsils</rdg></app>. Well, so we were there for two weeks and I couldn’t take it anymore, we came back <add resp="iv001">and</add> I got sick on the way here. I went to a doctor in El Paso Tex, yes. He gave me two shots and he gave me some
+capsules and a liquid to rinse my mouth. Well, so that was on
+
+<pb facs="shan_l.759.jpg"/>
+
+Sunday, and on Monday we came back. We got here on Tuesday night, and I called Jesse and he picked us up, so we are already here, thank God. So I wrote to you from Juchipila, I don’t know if you received it or not. We brought Kathy, and Pamela some Mexican jackets but I’m not sending them because I hope you come <app loc="1"><rdg>visit</rdg></app> this summer.</p>
+
+<p>Reply <add resp="iv001">to this letter</add> so that I may know how you all have been. Regards <app loc="1"><rdg>love</rdg></app> to Elizabeth and <add resp="iv001">tell her</add> to write to me, and to Bill too, and to all the kids, and you receive the finest regards <add resp="iv001">much love</add> from us, Max, and me,</p>
+
+<closer>
+<salute>your mom,</salute>                    
 <signed>Jesusita Torres</signed>
 </closer>
                 

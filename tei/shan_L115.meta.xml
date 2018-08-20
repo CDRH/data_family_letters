@@ -149,7 +149,7 @@
 <text>
 <body>
             
-<div1 type="letter">
+<div1 type="letter" xml:lang="en">
                 
 <pb facs="shan_l.434.jpg"/>
                 
@@ -165,6 +165,24 @@
 </closer>
                 
 </div1>
+
+<div1 type="letter" xml:lang="es">
+                
+<pb facs="shan_l.434.jpg"/>
+                
+<opener>
+<salute>Querida mamita:</salute>
+</opener>
+                
+<p>Me estoy divirtiendo mucho. Hoy le ayudé a mi abuelita a lavar los platos y a limpiar los pisos. No hace mucho frío, pero refresca por la noche. Mi abuelita quiere que le escribas. Me está contando las cosas que hacías cuando estabas chiquita. Dile a Janey que a mi abuelita le gustan sus cartas. ¿Papito regresó bien? Espero que sí. Bueno, saluda a todos por mí.</p>
+
+<closer>
+<salute>Con cariño tu hija,</salute>
+<signed>Pam</signed>
+</closer>
+                
+</div1>
+
 
 <div1 type="envelope">
 

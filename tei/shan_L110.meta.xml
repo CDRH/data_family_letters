@@ -150,7 +150,7 @@
 <text>
 <body>
             
-<div1 type="letter">
+<div1 type="letter" xml:lang="es">
                 
 <pb facs="shan_l.408.jpg"/>
                 
@@ -209,6 +209,38 @@ COLO.<lb/>
 </ab>
 
 </div1>
+
+<div1 type="letter" xml:lang="en">
+                
+<pb facs="shan_l.408.jpg"/>
+                
+<opener>
+<address><addrLine>Ft. Lupton, Colorado</addrLine></address>
+<dateline>January 28, 1963.</dateline>
+
+<salute>Dear daughter,</salute>
+</opener>
+
+<p>this letter is to greet you, as well as Bill and the kids. Well, we are alright, for which we thank our Lord God.</p>
+                
+<p>I will tell you that I wrote to you a long time ago. That same day I got the letters that the kids wrote me, but it has been so cold that I haven’t been to Helen’s house so that Kathy can <app loc="1"><rdg>write for me</rdg></app> <app loc="2"><rdg>help me write</rdg></app> the letters for the kids. It’s been very cold around here. 25 and 30 below zero. I haven’t even gone to mass since Christmas, but I’ve been worried about you all because you haven’t written me. I’ve dreamt about you all last week, and that’s why
+
+<pb facs="shan_l.410.jpg"/>
+
+I’ve been worried about you all.</p>
+
+<p> I will tell you that Helen’s baby is starting to walk. He is a very big boy.</p>
+
+<p>Let me know if Jerry writes to you. They say that he is in Alabama. I wrote to him for Christmas, but he didn’t understand what <app loc="1"><rdg>I told him</rdg></app> <app loc="2"><rdg>wrote to him</rdg></app> because I told him <add resp="iv001">in the letter</add> to send me his picture, but he didn’t <app loc="1"><rdg>tell me</rdg></app> <app loc="2"><rdg>mention</rdg></app> anything about it. He sent me a Christmas card, but he doesn’t say anything.</p>
+
+<closer>
+<salute>Well, I think that this is all for now. Reply as soon as you can. Give <app loc="1"><rdg>our regards</rdg></app> <app loc="2"><rdg>our love</rdg></app> to Billy boy and Albert, and Pamela and Elizabeth, and to your husband. And for you, receive the finest regards from Max and mom</salute>
+<signed>Jesusita Torres.</signed>
+</closer>
+                
+</div1>
+
+
 </body>
         
 <back></back>

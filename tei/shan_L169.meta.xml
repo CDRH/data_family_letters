@@ -148,7 +148,7 @@
 <text>
 <body>
             
-<div1 type="letter">
+<div1 type="letter" xml:lang="es">
                 
 <pb facs="shan_l.625.jpg"/>
                 
@@ -168,28 +168,29 @@
 </closer>
                 
 </div1>
- 
+
 <div1 type="letter" xml:lang="en">
-  
+                
 <pb facs="shan_l.625.jpg"/>
-  
+                
 <opener>
 <address><addrLine>Mrs. Jesusita Baros</addrLine></address>
-   
+
 <salute>Dear Madam,</salute>
 </opener>
- 
- <p>Well, I cannot send word exactly, until after a few days have gone by, because she is now ill, has been ill for the past eight months. With none of the other kids has she been as ill as she now is.  We are now waiting for her delivery or her death, as the doctors have told us. Once her illness is gone, or if she remains the same, I will send word to you, and now I ask a favor from you, please pray to God to heal me, and that I may come out of this alright, because you know I have many children, and don’t know what will become of them <add cert="high" resp="ji">if I die.</add> Please answer soon so that I can have news from you, and I can let you know what happens. Everything will be alright, God willing.</p>
+                
+<p>Well, I cannot send word exactly, until after a few days have gone by, because she is now ill, has been ill for the past eight months. With none of the other kids has she been as ill as she now is. We are now waiting for her delivery or her death, as the doctors have told us. Once her illness is gone, or if she remains the same, I will send word to you, and now I ask a favor from you, please pray to God to heal me, and that I may come out of this alright, because you know I have many children, and don’t know what will become of them <add resp="iv001">if I die</add>. Please answer soon so that I can have news from you, and I can let you know what happens. Everything will be alright, God willing.</p>
 
-<p>Receive from me, many regards for all your family and your husband. And from me receive the finest regards.</p>
+<p><add resp="iv001">Receive</add>from me, many regards for all your family and your husband.</p>
 
 <closer>
-<salute>Your True and Steadfast Servant.</salute>                    
+<salute>And from me <add resp="iv001">receive</add> the finest regards</salute>
+<salute> Your True and Steadfast Servant</salute>                    
 <signed>Victoria A. de Torrez</signed>
 </closer>
- 
+                
 </div1>
- 
+
 </body>
         
 <back></back>

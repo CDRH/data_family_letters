@@ -150,7 +150,7 @@
 <text>
 <body>
             
-<div1 type="letter">
+<div1 type="letter" xml:lang="es">
                 
 <pb facs="shan_l.414.jpg"/>
                 
@@ -215,6 +215,36 @@ COLO<lb/>
 </figure>
 
 </div1>
+
+<div1 type="letter" xml:lang="en">
+                
+<pb facs="shan_l.414.jpg"/>
+                
+<opener>
+<address><addrLine>Ft. Lupton, Colorado</addrLine></address>
+<dateline>June 23, 1963</dateline>
+
+<salute>Dear daughter,</salute>
+</opener>
+
+<p>this letter is to greet you, as well as you husband and the kids,</p>
+                
+<p>hoping that you are all well, as are my wishes. Well, we are all right, for which I give thanks to God. I received your letter dated June 13th, Father’s Day. Max says thank you. Oh, I did buy him cigarretes.</p>
+
+<p>Well, the weather here is very hot. In news, I will tell you that Mrs. Nolosco died on June 3, may she rest in peace. She spent a year and seven months paralized in bed. My God <app loc="1"><rdg>have her</rdg></app> <app loc="2"><rdg>grant her</rdg></app> eternal rest.</p>
+
+<pb facs="shan_l.416.jpg"/>
+
+<p>Well, tell me about Mrs. Schubert, how is she doing. And I will tell you also about Jerry. They say that he’s in that place in Washington D.C., it was in <add resp="iv001">Fort</add> Lupton’s paper. They say that he is very fat, that he weighs 160 lbs. I'm sending you the picture here, because I don’t think he looks like Jerry.</p>
+
+<closer>  
+<salute>Well, I think this will be all for now. <app loc="1"><rdg>Many regards</rdg></app> <app loc="2"><rdg>Much love</rdg></app> for the kids and for Bill. And you, receive the love of you mom. God bless you and guide you on a good path, you and your family. These are the wishes of your mother,</salute>                  
+<signed>Jesusita B. Torres</signed>
+</closer>
+                
+</div1>
+
+
 </body>
         
 <back></back>

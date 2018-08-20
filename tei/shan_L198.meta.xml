@@ -150,7 +150,7 @@
 <text>
 <body>
             
-<div1 type="letter">
+<div1 type="letter" xml:lang="es">
                 
 <pb facs="shan_l.698.jpg"/>
                 
@@ -184,6 +184,45 @@ y para Billy boy y para Robert, y Pamela, y para Elizabeth;</p>
 <closer>
 <salute>y tu recive el mas fino recuerdo de nosotros Jess y family, Max y tu mamá</salute>                    
 <signed>Jesusita Baros; Torres</signed>
+</closer>
+                
+</div1>
+
+
+<div1 type="letter" xml:lang="en">
+                
+<pb facs="shan_l.698.jpg"/>
+                
+<opener>
+<address><addrLine>Fort Lupton, Colorado</addrLine></address>
+<dateline>April 7, 1961</dateline>
+
+<salute>Dear daughter,</salute>
+</opener>
+                
+<p>this letter is to greet you as well as your husband and family, hoping you’ve spent a good Lent. We are well and healthy, thank God.</p>
+
+<p>Well, how it makes me glad that you are teaching your children about <add resp="iv001">raising your children in</add> the Catholic religion. Take all of them to be confirmed, and to confess, to receive the sacraments of the Catholic Church. And you too, make time to go to confession and to receive the sacraments.</p>
+
+<p>Well, thank you
+
+<pb facs="shan_l.699.jpg"/>
+
+for the portraits that you sent me. The only one missing is Billy Boy. He is not in them, but everyone else came out quite well. The kids are very big.</p>
+
+<p>I hope they don’t get sick. They look great. I’ve been quite well. I haven’t had the tantrum <app loc="1"><rdg>health crisis</rdg></app>, blessed be God. For this I thank God.</p>
+
+<p>And look, I entrust you <app loc="1"><rdg>ask you to</rdg></app> <app loc="2"><rdg>beg of you</rdg></app> not to take too long before writing to me. I have not written since March 17, and today is April 7, but you let up to three months go by without writing, and really, I worry about <term type="plural">you</term>, with so many things happening <app loc="1"><rdg>going on</rdg></app>.</p>
+
+<p>Well, I think this will be all for today. Many regards <app loc="1"><rdg>much love</rdg></app> for Bill, your husband.
+
+<pb facs="shan_l.700.jpg"/>
+
+and for Billy Boy, and for Robert, and Pamela, and for Elizabeth;</p>
+
+<closer>
+<salute>and you, receive the finest regards from us, Jess and his family, Max and your mom</salute>                    
+<signed>Jesusita Baros Torres</signed>
 </closer>
                 
 </div1>

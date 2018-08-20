@@ -166,8 +166,8 @@
     
 <text>
 <body>
-            
-<div1 type="letter">
+ 
+<div1 type="letter" xml:lang="en">
                 
 <pb facs="shan_l.472.jpg"/>
                 
@@ -242,6 +242,7 @@ or direct distance Dialing Save 35% over day rate 5 P.M. to 11:PM<lb/>
 
 </div1>
 
+
  <div1 type="letter" xml:lang="es">
   
   <pb facs="shan_l.472.jpg"/>
@@ -274,7 +275,6 @@ or direct distance Dialing Save 35% over day rate 5 P.M. to 11:PM<lb/>
   
  </div1>
  
-
 
 </body>
         

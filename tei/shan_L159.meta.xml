@@ -149,7 +149,7 @@
 <text>
 <body>
             
-<div1 type="letter">
+<div1 type="letter" xml:lang="es">
                 
 <pb facs="shan_l.584.jpg"/>
 
@@ -192,49 +192,49 @@ carino espalda yo y aquí esta mucho frío, ase 2 días que esta callendo nieve;
 </closer>
                 
 </div1>
- 
+
 <div1 type="letter" xml:lang="en">
-  
+                
 <pb facs="shan_l.584.jpg"/>
-  
+
 <note>cashier's check. state bank no.<lb/>
 40133<lb/>
 Dec. 8, 1966.<lb/></note>
-  
+                
 <opener>
-<address><addrLine>Fort Lupton, Colorado</addrLine></address> 
+<address><addrLine>Ft. Lupton Colo</addrLine></address>
 <dateline>November 7, 1966</dateline>
-   
-<salute>Dear daughter,</salute>
+
+<salute>My dear daughter,</salute>
 </opener>
-  
-<p>this letter is to greet you, as well as Bill, your husband and all the kids.</p>  
 
-<p>Well, I will tell you that yesterday, Tuesday, I got your letter where you tell me that you are all [well], which makes me very happy. We are well. I am well, thank God.</p>
+<p>this letter is to greet you, as well as Bill, your husband and all the kids.</p>
+                
+<p>Well, I will tell you that yesterday, Tuesday, I got your letter where you tell me that you are all <add resp="iv001">well</add>, which makes me very happy. We are well. I am well, thank God.</p>
 
- <p>Well, I was taking care of Marcos, Jesse’s baby, since July. Helen is working at a place where they sew. But now in November, around Thanksgiving, it was my turn, because I went to the doctor before Thanksgiving Day, to Colo [Colorado?] Hospital, and they fond that I had high blood pressure, and I did have to tell them that I took care of a child, of Marquitos. So the doctor scolded [??] me, told me that I couldn’t take care of babies. 
- 
+<p>Well, I was taking care of Marcos, Jesse’s baby, since July. Helen is working at a place where they sew. But now in November, around Thanksgiving, it was my turn, because I went to the doctor before Thanksgiving Day, to Colo <app loc="1" cert="high"><rdg>Colorado</rdg></app> Hospital, and they found that I had high blood pressure, and I did have to tell them that I took care of a child, of Marquitos. So the doctor <certainty locus="name" cert="medium"><desc>scolded</desc></certainty> me, told me that I couldn’t take care of babies.
+
 <pb facs="shan_l.586.jpg"/>
- 
+
 <fw>2</fw>
 
-well, he sent a note to Helen, that she should take me next time. So I gave her the note that the doctor gave me, I gave it to Helen and she got mad. She asked me why I hadn’t told her that I was ill. I told her ‘Well, you both know that I am sick, but it seems that you don’t believe me”.</p>
+well, he sent a note to Helen, that she should take me next time. So I gave her the note that the doctor gave me, I gave it to Helen and she got mad. She asked me why I hadn’t told her that I was ill. I told her "Well, you both know that I am sick, but it seems that you don’t believe me."</p>
 
-<p>Well, I haven’t seen her since. Jesse takes me to mass, and they’re leaving Marquitos with the other sister. You know, Lila, the one who married a Texan. They’re staying here in Lupton now. So it’s bad for me to take care of babies now, and boys are worse. Well, I will tell you that I saw Bill. Oh, it made me very happy. End he invited me to come for a visit. Well, I will go, it’s just that I’m a little sick now
+<p>Well, I haven’t seen her since. Jesse takes me to mass, and they’re leaving Marquitos with the other sister. You know, Lila, the one who married a Texan. They’re staying here in Lupton now. So it’s bad for me to take care of babies now, and <term type="literal">little men</term> <app loc="1"><rdg>are worse</rdg></app> <app loc="2"><rdg>harder to take care of</rdg></app>. Well, I will tell you that I saw Bill. Oh, it made me very happy. End he invited me to come for a visit. Well, I will go, it’s just that I’m a little sick now.
 
 <pb facs="shan_l.587.jpg"/>
- 
+
 <fw>3</fw>
 
-love	<certainty locus="name" cert="low"/><app loc="1"><rdg>back me</rdg></app>it’s been very cold.It’s been snowing for the past two days.</p>
+love back me and it’s been very cold. It’s been snowing for the past two days.</p>
 
- <p>Well, you also ask me what I want for Christmas. I will tell you that every year you are the one who buys warm undies for me. But size 42 or 44, because they shrink when you wash them. Only about two, and some warm nylons. But only if you have time to go out to buy them, and if you can’t go out shopping, whatever you want, because there’s no one here to take me shopping. Helen seems to be mad at me now. But look daughter, looking at this carefully and slowly, they shouldn’t feel offended by this, and least of all get mad. When I was healthy I could <add resp="iv">take care of her grandkids</add>, but now I can’t.</p>
+<p>Well, you also ask me what I want for Christmas. I will tell you that every year you are the one who buys warm undies for me. But size 42 or 44, because they shrink when you wash them. Only about two, and some warm nylons. But only if you have time to go out to buy them, and if you can’t go out shopping, whatever you want, because there’s no one here to take me shopping. Helen seems to be mad at me now. But look daughter, looking at this carefully and slowly, they shouldn’t feel offended by this, and least of all get mad. When I was healthy I could <app loc="1"><rdg>help them</rdg></app> <app loc="2"><rdg>take care of her grandkids</rdg></app>, but now I can’t.</p>
 
 <closer>
-<salute>Well, many regards for the kids, and fine regards from your mother </salute>                    
+<salute>Well, <app loc="1"><rdg>many regards</rdg></app> <app loc="2"><rdg>warm regards</rdg></app> for
+the kids, and <app loc="1"><rdg>fine regards</rdg></app> <app loc="2"><rdg>much love</rdg></app> from your mother . Thank you for writing to me.</salute>                   
 <signed>Jesusita Torres</signed>
 </closer>
- 
 </div1>
 
 </body>

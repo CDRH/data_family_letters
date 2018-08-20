@@ -149,7 +149,7 @@
 <text>
 <body>
             
-<div1 type="letter">
+<div1 type="letter" xml:lang="es">
                 
 <pb facs="shan_l.713.jpg"/>
                 
@@ -186,39 +186,42 @@ ft, Lupton Colo;</signed>
                 
 </div1>
 
-<div1 type="letter" xml:lang="en">  
-
+<div1 type="letter" xml:lang="en">
+                
 <pb facs="shan_l.713.jpg"/>
-
+                
 <opener>
-Happy<lb/>
-New Year<lb/>
-<address><addrLine>Fort Lupton, Colorado</addrLine></address>
-<dateline>Jan 3, 1965</dateline>
+Feliz<lb/>
+Año Nuevo<lb/>
+<address><addrLine>Ft. Lupton, Colorado</addrLine></address>
+<dateline>January 3, 1965,</dateline>
 
 <salute>Dear children,</salute>
 </opener>
-
+                
 <p>this letter is to greet you wishing you are well and healthy, as we are, for which I thank God.</p>
- 
-<p>Well, Christmas has come and gone, and New Years too, and I’m still waiting for you to write to me. I did receive the package you sent, and we did like very much the shirt you sent to Max. It fit him, it was just his size. The same with the dress you sent me, it also fit me very well. Thank you. But what I don’t like is that <add cert="high" resp="ji">you sent</add> not even a card, not a letter, not even a word, not in Spanish or even in English. Don’t be like that please, because I don’t feel well.</p>
- 
+
+<p>Well, Christmas has come and gone, and New Years too, and I’m still waiting for you to write to me. I did receive the package you sent, and we did like very much the shirt you sent to Max. It fit him, it was just his size. The same with the dress you sent me, it also fit me
+very well. Thank you. But what I don’t like is that <add resp="iv001">you sent</add> not even a card, not a letter <app loc="1"><rdg>document</rdg></app>, not even a letter <app loc="1"><rdg>grapheme</rdg></app>, not in Spanish or even in English. Don’t be like that please, because I don’t feel well.</p>
+
 <pb facs="shan_l.714.jpg"/>
 
- <p>Don’t be so ingrate with me, because I haven’t died yet. I’m still alive and I keep thinking, wondering if you are ill. But then I ask how can you be <add cert="high" resp="ji">all ill</add> at the same time. So, I hope that you will write to me and tell me if you received the sarape and the money I sent, because I never forget you. Whomever picks up this letter, I beg you to reply to me please.</p>
+<p>Don’t be so ingrate with me, because I haven’t died yet. I’m still alive and I keep thinking, wondering if you are ill. But then I ask how can you be <add resp="iv001">all ill</add> at the same time. So, I hope that you will write to me and tell me if you received the sarape and the money I sent, because I never forget you. Whomever picks up this letter, I beg you to reply to me please.</p>
 
 <closer>
-<salute>Always your mom</salute>                    
-<signed>Greetings to all from Max and from Jesusita B. Torres,</signed>
-<address><addrLine>814, Pacífic Ave., Fort Lupton, Colorado</addrLine></address>
+<salute>Always you mother <app loc="1"><rdg>mom</rdg></app></salute>                    
+<signed>Greetings to all from Max and from
+Jesusita B. Torres,
+814, Pacific ave
+Ft. Lupton Colo;</signed>
 </closer>
- 
+
 <postscript>
-<p>THANKS FOR THE $5.00 GRANDMA,<lb/></p>
-  
+<p>GRACIAS POR LOS $5.00 ABUELITA,<lb/></p>
+
 <p>$5.00 G<lb/></p>
 </postscript>
- 
+                
 </div1>
 
 </body>

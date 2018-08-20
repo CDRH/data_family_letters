@@ -403,7 +403,8 @@
         <persName type="full"> <surname type="maternal " xml:lang="es">Baros</surname>, <forename type="first" full="yes" xml:lang="es">Jesús</forename></persName>
         <persName type="full"> <surname type="maternal " xml:lang="es">Baros</surname>, <forename type="first" full="yes" xml:lang="en">Jessy</forename></persName>
         <persName type="full"> <surname type="maternal " xml:lang="es">Baros</surname>, <forename type="first" full="yes" xml:lang="en">Jesse</forename><forename type="middle">J.</forename></persName>
-        <birth when="1924-04-26" source="#viaf">April 26, 1924</birth> <!-- D141 -->
+        <birth when="1924-04-26" source="#viaf">April 26, 1924</birth>  <!-- D141 -->
+        <death when="2018-01-10" source="Jane Shanahan">January 10, 2018</death>
         <trait type="ethnicity"><note>Hispanic</note></trait>
         <nationality source="Shanahan Collection">Mexican</nationality>
         <residence source="Shanahan Collection">Fort Lupton (CO)</residence>

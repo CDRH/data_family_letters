@@ -148,7 +148,7 @@
 <text>
 <body>
             
-<div1 type="letter">
+<div1 type="letter" xml:lang="es">
                 
 <pb facs="shan_l.314.jpg"/>
                 
@@ -171,18 +171,57 @@
 
 <pb facs="shan_l.315.jpg"/>
 
-quieren tener la casa mas garnde; la Helen ya no trabaja en Denver; pero estan con la casa;</p>
+quieren tener la casa mas garnde; la <add place="above">Helen</add> ya no trabaja en Denver; pero estan con la casa;</p>
 
 <p>me dilate en contestarte; porque estaba muy ocupada enfrascando enfrasce chile, y y tomate, Pera, y Durazno; yo sola, Max anda trabajando en la Pisca de la zanoria; el tiempo esta muy bonito hoy pero en dias pasados cayo una eladita, no mucho pero siempre se elo el tomate, ymis flores todas se elaron;</p>
 
 <p>no mas quedaron los zempuales bueno tambien te dire para el 1, de novemb es día de tu Santo, dme con tiempo que es lo que tu quieres que te mande; del Billy boy pues yo se que en Octubre es el dia pero no se cuando, que día de Octu;</p>
 
 <closer>
-<salute>bueno hija pues de todos modos yo creo que sera todo por esta bes; muchos recuerdos para los muchachos y para el Bill; y para ti tu mama</salute>                    
+<salute>bueno hija pues de todos modos yo creo que sera todo por esta bes; muchos recuerdos para los muchachos <add place="above">y para el Bill</add>; y para ti tu mama</salute>                    
 <signed>Jesusita B Torres</signed>
 </closer>
                 
 </div1>
+
+<div1 type="letter" xml:lang="en">
+                
+<pb facs="shan_l.314.jpg"/>
+                
+<opener>
+<address><addrLine>Ft. Lupton, Colorado</addrLine></address>
+<dateline>October 14, 1958;</dateline>
+
+<salute>Dear daughter,</salute>
+</opener>
+
+<p>this letter is to greet you all. Wishing as always that you may be well and in good health, as we are.</p>
+                
+<p>Well, it’s been several days since I got your letter where you sent me the colors for the portraits.</p>
+ 
+<p>Yes <add resp="iv001">I did</add>, and also the man came and took them. He told me that he was going to mail them on the 11th of November. I think they’re going to come out very nice.</p>
+
+<p>Well, I will tell you that Jesús is not going to Denver, like they had thought.</p>
+
+<p>They’re staying here after all, and well, I’m very happy. I’m truly very happy. They’re fixing the house now. They’re enlarging
+the front room;
+
+<pb facs="shan_l.315.jpg"/>
+
+they want to make the house bigger. <add place="above">Helen</add> is not working in Denver anymore, but she’s busy with the house.</p>
+
+<p>I took a long time to reply because I was very busy canning. I canned chilies, and tomatoes, pears and peaches, all by myself. Max is working <add resp="iv001">in the fields</add> picking carrots. The weather is very nice, but we had a little frost the last couple of days. Not a lot, but the tomatoes froze, and all my flowers froze.</p>
+
+<p>Only the marigolds are left. Well, I will <app loc="1"><rdg>tell you</rdg></app> <app loc="2"><rdg>remind you</rdg></app> also that your saint’s day is on the 11th of November; Let me know ahead of time what you want me to send you. I know Billy boy’s <app loc="1" cert="high"><rdg>saint's day</rdg></app> <app loc="2" cert="high"><rdg>birthday</rdg></app> is in October, but I don’t <add place="above">know</add> what day.</p>
+
+<closer>
+<salute>Well, daughter, anyway, I think this will be all for now. <app loc="1"><rdg>Many regards</rdg></app> <app loc="1"><rdg>Love</rdg></app> for the kids, <add place="above">for Bill</add>,
+and for you. Your mother</salute>                    
+<signed>Jesusita B Torres</signed>
+</closer>
+                
+</div1>
+
 </body>
         
 <back></back>

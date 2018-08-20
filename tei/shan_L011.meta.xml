@@ -180,7 +180,7 @@
 <closer>                    
 <signed></signed>
 </closer>
-                
+           
 </div1>
 
 <div1 type="envelope">
@@ -221,8 +221,8 @@ TRANS. <unclear reason="illegible"/><lb/>
 <pb facs="shan_l.064.jpg"/>
                 
 <opener>
-<address><addrLine>Albuquerque N. Mex</addrLine></address>
-<dateline>Aug.29.1937.</dateline>
+<address><addrLine>Albuquerque New Mexico</addrLine></address>
+<dateline>August 29, 1937</dateline>
 <salute>Mrs. Jesusita Baros</salute>
 </opener>
                 
@@ -232,19 +232,17 @@ TRANS. <unclear reason="illegible"/><lb/>
 
 <fw>2</fw>
 
-<p>And you left me <app loc="1"><rdg>you told me</rdg></app> <certainty locus="name" cert="low"/> alone <certainty locus="name" cert="high"><desc>only,</desc></certainty> or it might be</p>
+<p>And <app loc="1" cert="low"><rdg>you left me</rdg></app> <app loc="2" cert="low"><rdg>you told me</rdg></app> <app loc="1" cert="high"><rdg>alone</rdg></app> <app loc="2" cert="high"><rdg>only</rdg></app> or it might be</p>
 
-<p><unclear reason="illegible"/>whom I told you</p>
+<p>whom I told you</p>
 
 <pb facs="shan_l.066.jpg"/>
 
-<p>that you are not alone. Now, I don’t know if you want to see <certainty locus="name" cert="low"><desc>hemus</desc></certainty>at the depot or not. To tell <add resp="iv001">him/her</add> to go <add resp="iv001">that he/she will go</add> to your house I don’t know for
-sure <certainty locus="name" cert="low"/> they are thinking of going on the 3rd . Well, the house is as it was, without news
-<certainty locus="name" cert="low"/> to rent <certainty locus="name" cert="low"/></p>
+<p>that you are not alone. Now, I don’t know if you want to see <certainty locus="name" cert="low"><desc>hemus</desc></certainty> at the depot or not. To tell <app loc="1"><rdg>him</rdg></app><app loc="2"><rdg>her</rdg></app> <app loc="1"><rdg>to go</rdg></app> <app loc="2"><rdg>that he will go </rdg></app> <app loc="3"><rdg>that she will go</rdg></app> to your house I don’t know for sure they are thinking of going on the 3rd . Well, the house is as it was, without news to rent </p>
 
 <pb facs="shan_l.067.jpg"/>
 
-<p>J and Santos may one day remember that they have an uncle in Albuquerque and you receive his heart <add resp="iv001">the heart of</add> him, black and skinny from Albuquerque who doesn’t forget you for a moment it’s been three 15 days since you left at 310 in the afternoon
+<p>J and Santos may one day remember that they have an uncle in Albuquerque and you receive <app loc="1"><rdg>his heart</rdg></app> <app loc="2"><rdg>the heart of</rdg></app> him, <app loc="1"><rdg>black</rdg></app> <app loc="2"><rdg>dark</rdg></app>and skinny from Albuquerque who doesn’t forget you for a moment it’s been three 15 days since you left at 310 in the afternoon
 May.14.310 pm </p>
 
 <closer>                    
@@ -252,6 +250,7 @@ May.14.310 pm </p>
 </closer>
                 
 </div1>
+
 </body>
         
 <back></back>

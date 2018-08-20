@@ -162,7 +162,7 @@
 <salute>Dear Friend I am writingn you this few lines to tell you that I am ok. and hope you are the same.</salute>
 </opener>
                 
-<p>I just write to let you know that we moved to 2961 Lawrence St. and I don’t like this place. I think we are going to moved agin to 24th Curtis you know where we use to live before but not in same hous. and are you [word erased] going to come for the 4th of July. and When you went from here was the car alright. and thats all for to-day tell all your family Holly for me.</p>
+<p>I just write to let you know that we moved to 2961 Lawrence St. and I don’t like this place. I think we are going to moved agin to 24th Curtis you know where we use to live before but not in same hous. and are you <del/> going to come for the 4th of July. and When you went from here was the car alright. and thats all for to-day tell all your family Holly for me.</p>
 
 <closer><salute>From your Friend</salute>                    
 <signed>Mary Moreno</signed>
@@ -206,7 +206,6 @@ COLO.<lb/>
 </figure>
 
 </div1>
-
 <div1 type="letter" xml:lang="es">
                 
 <pb facs="shan_l.043.jpg"/>
@@ -220,11 +219,7 @@ COLO.<lb/>
 <salute>Querida amiga te escribo estas líneas para decirte que estoy bien, y que espero que tú estés igual.</salute>
 </opener>
                 
-<p>Solo te escribo para decirte que nos mudamos al número 2961 de la calle Lawrence, y
-que no me gusta este lugar. Creo que nos vamos a mudar de nuevo al número 24 de la calle
-Curtis, ya sabes, donde vivíamos antes, pero no a la misma casa. ¿Y vas a [word erased]
-venir para el 4 de julio? ¿Y cuando se fueron de aquí les funcionó bien el carro? Y esto es
-todo por hoy. Salúdame a toda tu familia.</p>
+<p>Solo te escribo para decirte que nos mudamos al número 2961 de la calle Lawrence, y que no me gusta este lugar. Creo que nos vamos a mudar de nuevo al número 24 de la calle Curtis, ya sabes, donde vivíamos antes, pero no a la misma casa. ¿Y vas a venir para el 4 de julio? ¿Y cuando se fueron de aquí les funcionó bien el carro? Y esto es todo por hoy. Salúdame a toda tu familia.</p>
 
 <closer><salute>De tu amiga</salute>                    
 <signed>Mary Moreno</signed>
@@ -232,6 +227,7 @@ todo por hoy. Salúdame a toda tu familia.</p>
 </closer>
                 
 </div1>
+
 
 </body>
         

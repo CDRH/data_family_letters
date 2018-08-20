@@ -149,7 +149,7 @@
 <text>
 <body>
             
-<div1 type="letter">
+<div1 type="letter" xml:lang="en">
                 
 <pb facs="shan_l.605.jpg"/>
                 
@@ -168,14 +168,14 @@ Helen gave him a <unclear reason= "illegible">wool</unclear> blue sweater—Terr
 
 <pb facs="shan_l.606.jpg"/>
 
-<p>Mother gave us $20.00 for our birthdays. Marjorie &amp; Jack sent him a yellow &amp; brown sweater
-And Dale some plastic toys so he didn’t do so bad.
-Thanks for the pickle recipe I’m going to try &amp; go over to your aunts. I guess I’ll come home
-about the 22nd it’s on a Sunday. Then Jess can take me to Denver you should charge Sgt. Ruth
-sent for living in our trailer. if he wants his trailer back he can have it. Anyway that’s too much
-money for the trailer. You can buy a lot here for only $100.00 there’s a place here, it’s a house
-plus 4 acres for only $7,000.
-Well, I guess I better eat so I can take the next bus. Sending you all our love from your</p> 
+<p>Mother gave us $20.00 for our birthdays.</p>
+
+<p> Marjorie &amp; Jack sent him a yellow &amp; brown sweater And Dale some plastic toys so he didn’t do so bad.</p>
+
+<p>Thanks for the pickle recipe I’m going to try &amp; go over to your aunts.</p>
+
+<p> I guess I’ll come home about the 22nd it’s on a Sunday. Then Jess can take me to Denver you should charge Sgt. Ruth
+sent for living in our trailer. if he wants his trailer back he can have it. Anyway that’s too much money for the trailer. You can buy a lot here for only $100.00 there’s a place here, it’s a house plus 4 acres for only $7,000. Well, I guess I better eat so I can take the next bus. Sending you all our love from your</p> 
 <pb/>
 <p>son &amp; wife. At nights Billy wants to go home to Daddy.</p>
 
@@ -183,8 +183,6 @@ Well, I guess I better eat so I can take the next bus. Sending you all our love 
 <salute>Lovingly your Wife,</salute>                    
 <signed>Sandra</signed>
 </closer>
-
-
 </div1>
 
 <div1 type="envelope">
@@ -229,6 +227,51 @@ NEBR.<lb/>
 
 
 </div1>
+
+<div1 type="letter" xml:lang="es">
+                
+<pb facs="shan_l.605.jpg"/>
+                
+<opener>
+<address><addrLine></addrLine></address>
+<dateline>4 de octubre de 1950</dateline>
+
+<salute>Querido Bill,</salute>
+</opener>
+
+<p>Voy a ir a Denver por primera vez desde que llegué. Perdí el autobús esta mañana, así
+necesito tomar el de la tarde. No importa mucho porque vamos a quedarnos en Denver
+hasta mañana para alcanzar a hacer todo lo que tengo que hacer.</p>
+
+<p>Bueno, Billy pasó un cumpleaños estupendo. Cenamos pollo y su pastel de cumpleaños
+fue de la panadería. Invité a Jess y a su familia y a Terry y a su familia. Terry no vino,
+pero Jess y su familia sí, así que Billy se divirtió mucho con los niños. Jess y Helen le
+regalaron un suéter azul –Terry le regaló una pistola – Cathy le regaló un tractor.</p>
+
+<p>Terry y Johnnie vinieron el lunes en la noche solo para traerle sus regalos a Billy. Un
+juguete de madera y unas pijamas de payaso.</p>
+
+<pb facs="shan_l.606.jpg"/>
+
+<p>Mamá nos dio $20.00 para nuestros cumpleaños. </p>
+
+<p>Marjorie y Jack le mandaron un suéter
+amarillo y marrón. Dale le regaló unos juguetes de plástico, así que no le fue tan mal.</p>
+
+<p>Gracias por la receta de los pickles. Voy a tratar de visitar a tu tía.</p>
+
+<p> Creo que regreso a casa el día 22 más o menos, que es domingo. Así Jess me puede llevar a Denver. Deberías cobrarle al sargento Ruth por vivir en nuestro remolque. Si quiere que le devuelvas su remolque puedes dárselo. De todas maneras creo que es mucho dinero por ese tráiler. Aquí se puede comprar mucho con solo $100.00. Aquí hay un lugar que incluye una casa y cuatro acres por solo $7,000. Bueno, creo que debo ir a comer para poder tomar el siguiente autobús. Te mando todo el amor de tu</p> 
+<pb/>
+<p>hijo y tu esposa. En las noches Billy quiere irse a casa con papá.</p>
+
+<closer>
+<salute>Con amor, tu esposa,</salute>                    
+<signed>Sandra</signed>
+</closer>
+
+
+</div1>
+
 </body>
         
 <back></back>

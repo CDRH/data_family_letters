@@ -137,7 +137,7 @@
 <text>
 <body>
             
-<div1 type="note">
+<div1 type="note" xml:lang="es">
                 
 <pb facs="shan_l.025.jpg"/>
                 
@@ -160,6 +160,32 @@
 <closer></closer>
                 
 </div1>
+
+<div1 type="note" xml:lang="en">
+                
+<pb facs="shan_l.025.jpg"/>
+                
+<opener></opener>
+                
+<p>Look this is how I want the my birth certificate</p>
+
+<p>Born on <del>19</del> 1895, on July 15</p>
+
+<p>Jesusita Flemate</p>
+
+<p>Godfather Símon</p>
+
+<p>Godmother Altagracía Gonzales</p>
+
+<p>Father Domingo Flemate</p>
+
+<p>Mother Mercedes Villarreal</p>
+
+<closer></closer>
+                
+</div1>
+
+               
 </body>
         
 <back></back>

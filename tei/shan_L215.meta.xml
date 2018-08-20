@@ -149,7 +149,7 @@
 <text>
 <body>
             
-<div1 type="letter">
+<div1 type="letter" xml:lang="es">
                 
 <pb facs="shan_x.xxx.jpg"/>
                 
@@ -165,6 +165,31 @@
 
 <closer>
 <salute>bueno esto sera todo</salute>                    
+<signed>Jesusita Torres</signed>
+</closer>
+
+</div1>
+
+
+<div1 type="letter" xml:lang="en">
+                
+<pb facs="shan_x.xxx.jpg"/>
+                
+<opener>
+<address><addrLine>Ft. Lupton Colorado</addrLine></address>
+<dateline>March 10,- 1966</dateline>
+
+</opener>
+                
+<p>This letter is to greet you, always wishing that you are all well.</p>
+
+<p>I received your letter in February. You had not written since November, so you didn’t write for four months. Very well. It's plain to
+see that you don’t have a mother’s love <app loc="1"><rdg>you don't love your mother</rdg></app> <app loc="2"><rdg>you don't know what it is to love like a mother</rdg></app>. You say that you work <app loc="1"><rdg>are working</rdg></app>, but it doesn’t
+take long to write, 30 minutes at most, and also, why do you work so much? You are not alone; you have your husband. Or tell me what’s going on with him, because you don’t tell me anything. From now on, if you write to me I will answer, but if you don’t write, I will pretend
+that we’ve died. After all, it seems <app loc="1"><rdg>it looks like</rdg></app> you are <add resp="iv001">already</add> counting me as <app loc="1"><rdg>take me for</rdg></app> dead.</p>
+
+<closer>
+<salute>Well, this will be all for now</salute>                    
 <signed>Jesusita Torres</signed>
 </closer>
 

@@ -157,9 +157,7 @@
 <salute>Señor Clemente torres</salute>
 </opener>
 
-<p>mi muy estimado y apresiado papa esta mi carta lleba el fin de saludarlo cariñosa mente y des pues de saludarlo con el cariño de siempre</p>
-
-<p>pues papa mas no dege de sentir triste que lemandara desir amimamaque no le contestara mi carta tal bes seria por que alguna cosa lo ayga ofendido pero si asi fue quiero que meaga usted el fabor de perdonarme y sigame contestando mis cartas asta que dios le de lisensia de benirse con nosotros pues papa  usted nos desia que cuando dios losocorriera nos iba aconprar una victrola oun Radio aqui enel Rancho ya ay algunos siusted pudiera traynos uno cuando dios lede lisensia de benir para que el niño agustin senseñe abailar lla comiensa ablar y lla anda vien como un titere y lla sabe desir papa y mama
+<p>mi muy estimado y apresiado papa esta mi carta lleba el fin de saludarlo cariñosa mente y des pues de saludarlo con el cariño de siempre pues papa mas no dege de sentir triste que lemandara desir amimamaque no le contestara mi carta tal bes seria por que alguna cosa lo ayga ofendido pero si asi fue quiero que meaga usted el fabor de perdonarme y sigame contestando mis cartas asta que dios le de lisensia de benirse con nosotros pues papa  usted nos desia que cuando dios losocorriera nos iba aconprar una victrola oun Radio aqui enel Rancho ya ay algunos siusted pudiera traynos uno cuando dios lede lisensia de benir para que el niño agustin senseñe abailar lla comiensa ablar y lla anda vien como un titere y lla sabe desir papa y mama
 
 <pb facs="shan_l.024.jpg"/>
 
@@ -173,6 +171,7 @@ abiña<lb/></signed>
 
 </div1>
 
+
 <div1 type="letter" xml:lang="en">
                 
 <pb facs="shan_l.023.jpg"/>
@@ -184,16 +183,14 @@ abiña<lb/></signed>
 
 <p>my very esteemed and appreciated father. This letter is to greet you warmly and after greeting you that with the same love as always.</p>
 
-<p>Well father, I felt sad that you sent word to my mom that you would not answer my letter, perhaps it was because I did something to offend you. If I did, please do me the favor of forgiving me, and continue answering my letters until God grants you permission to return to us. Well father, you used to tell us that when God allowed you to, you were going to buy us a phonograph or a radio. There are now a few here in the rancho, and if you
-could bring us one when God gives you license to come, so that little Agustin can learn to dance. He has already begun to talk and he walks well, like a puppet, and he already knows to say papa and mama</p>
+<p>Well father, I felt sad that you sent word to my mom that you would not answer my letter, perhaps it was because I did something to offend you. If I did, please do me the favor of forgiving me, and continue answering my letters until God grants you permission to return to us. Well father, you used to tell us that when God allowed you to, you were going to buy us a phonograph <app loc="1"><rdg>victrola</rdg></app> or a radio. There are now a few here in the rancho, and if you could bring us one when God gives you license to come, so that little Agustin can learn to dance. He has already begun to talk and he walks well, like a puppet, and he already knows to say papa and mama</p>
 
 <pb facs="shan_l.024.jpg"/>
 
 <p>And I won’t tell you more because I’m a little sick.</p>
 
 <closer>
-<salute>Receive many hugs from each of your children and from your comadre Selerina and send our regards to my uncle Magsimino and
-my aunt Jesusita and receive the warmest regards from me. I would much rather see you than write to you. This is all from the last <certainty locus="name" cert="low"><desc>the least/the youngest</desc></certainty> of your children, I</salute>
+<salute>Receive many hugs from each of your children and from your comadre Selerina and send our regards to my uncle Magsimino and my aunt Jesusita and receive the warmest regards from me. I would much rather see you than write to you. This is all from <app loc="1"><rdg>the last</rdg></app> <app loc="2" cert="low"><rdg>the least</rdg></app> <app loc="3" cert="low"><rdg>the youngest</rdg></app> of your children, I</salute>
 <signed>Rodolfo Torres<lb/>
 abiña<lb/></signed>
 </closer>

@@ -140,7 +140,7 @@
 <text>
 <body>
             
-<div1 type="letter">
+<div1 type="letter" xml:lang="en">
                 
 <pb facs="shan_l.456.jpg"/>
                 
@@ -152,6 +152,20 @@
 <p>Remember me, as you pass by, as you are now, so once was I, as I’m now, so you must be. Prepare for Death and follow me”</p>
                 
 </div1>
+
+<div1 type="letter" xml:lang="es">
+                
+<pb facs="shan_l.456.jpg"/>
+                
+<opener>
+<dateline>26 de mayo de 1986</dateline>
+<address><addrLine>Mensaje poético –</addrLine></address>
+</opener>
+                
+<p>Recuérdame cuando pases por aquí. Como estás estuve, y como estoy estarás. Prepárate para la muerte y sígueme.</p>
+                
+</div1>
+
 </body>
         
 <back></back>

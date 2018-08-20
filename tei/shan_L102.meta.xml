@@ -136,14 +136,6 @@
 <ref type="next" target="shan">Letter from x to y, date</ref>
 </correspContext> 
 </correspDesc>
-<particDesc>
-<person role="sender" xml:id="jbt001">
-<persName>Jesusita B Torres</persName>
-</person>
-<person role="recipient" xml:id="sbs001">
-<persName>Mrs. W. F. Schubert</persName>
-</person>
-</particDesc>
 </profileDesc>
         
 <revisionDesc>
@@ -157,7 +149,7 @@
 <text>
 <body>
             
-<div1 type="letter">
+<div1 type="letter" xml:lang="es">
                 
 <pb facs="shan_l.362.jpg"/>
                 
@@ -180,6 +172,35 @@
 
 <closer>
 <salute>saludes para todos; tu mamá,</salute>                    
+<signed>jesusita B. Torres</signed>
+</closer>
+                
+</div1>
+
+<div1 type="letter" xml:lang="en">
+                
+<pb facs="shan_l.362.jpg"/>
+                
+<opener>
+<address><addrLine>Ft. Lupton, Colorado</addrLine></address>
+<dateline>August 31, 1959</dateline>
+
+<salute>Dear daughter,</salute>
+</opener>
+
+<p>these few lines are to greet you all, hoping that you all are well back in your home, thank God.</p>
+                
+<p>Say hello to Billy boy, and to <del>babbe</del> and to Pamela, and give a little kiss to the baby from me. It looks like I’m well. Today is Monday and I want to go to the Doctor.</p>
+
+<p>News-wise, I will tell you that a little 9 year old boy drowned in a ditch. Be very careful with the kids. The funeral is today. I think you
+<add resp="iv001">will</add> remember <add resp="iv001">the father</add>, I told you about this man who lived here in the winter; he owed me $90 and was paying me $5.00 every week. Well, that is the family whose 9 year-old boy drowned.</p>
+
+<pb facs="shan_l.363.jpg"/>
+
+<p>Well, daughter, give <app loc="1"><rdg>my regards</rdg></app> <app loc="2"><rdg>my love</rdg></app> to Bill, from all of us. I am very thankful to him because he fixed the sink for me. Well, write when you can, so that I can know how you all are.</p>
+
+<closer>
+<salute><app loc="1"><rdg>Regards</rdg></app> <app loc="2"><rdg>Love</rdg></app> to all, your mom,</salute>                    
 <signed>jesusita B. Torres</signed>
 </closer>
                 

@@ -150,7 +150,7 @@
 <text>
 <body>
             
-<div1 type="letter">
+<div1 type="letter" xml:lang="en">
                 
 <pb facs="shan_l.508.jpg"/>
                 
@@ -182,6 +182,11 @@ night – Boy they really have some nice ones – Maybe we can get one before we
 <closer>
 <salute>Yours always</salute>                    
 <signed>Bill</signed>
+<salute>XXXXXX</salute>
+<salute>XXXXX</salute>
+<salute>XXXXX</salute>
+<salute>XXXXX</salute>
+<salute>XXXXX</salute>
 </closer>
 
 <postscript>
@@ -224,47 +229,52 @@ COLO.<lb/>
 
 </div1>
 
- <div1 type="letter" xml:lang="es">
-  
-  <pb facs="shan_l.508.jpg"/>
-  
-  <opener>
-   <address><addrLine>Havelock, Nebraska</addrLine></address>
-   <dateline>27 de Mayo de 1949</dateline>
-   
-   <salute>Mis queridos Santos y Billy:</salute>
-  </opener>
-  
-  <p>Los quiero mucho y me siento solo. Hoy recibí una carta tuya muy bonita, así que me siento mejor.</p>
-  
-  <p>Hoy empezaron a salir los hombres, así que solamente me quedan 12 hoy en la noche, y creo que algunos más se irán en la mañana, así que no tendremos muchos el fin de semana. Creo que estaremos listos para cargar todo y salir de aquí el primero de junio. Después iré a Omaha el día dos para ver al señor English y saber adónde iré después y para que me paguen.</p>
-  
-  <p>Hace calor hoy, después de tanta lluvia que tuvimos anoche. Voy a llevarme a casa alguna madera contrachapada para arreglar el sofá hoy en la noche.</p>
-  
-  <p>Creo que no te conté que fui a ver unos tráileres
-   
-   <pb facs="shan_l.510.jpg"/>
-   
-   <fw>-2-</fw> 
-   
-   anoche. Caramba, tienen unos muy bonitos. Quizá podamos comprar uno antes de irnos de aquí ya que no creo que podamos comprar el otro auto por ahora.</p>
-  
-  <p> Esperaré hasta saber de ti, para saber si vendrás a casa ahora o no, antes de mover el tráiler para la casa, así que dime qué quieres hacer.</p>
+<div1 type="letter" xml:lang="es">
+                
+<pb facs="shan_l.508.jpg"/>
+                
+<opener>
+<address><addrLine>Havelock, Nebraska</addrLine></address>
+<dateline>27 de may de 1949</dateline>
 
-  <p>No hay muchas noticias, así que me despido, porque ya es hora de servir la cena. Recuerda que te amo mucho.</p>
-  
-  <closer>
-   <salute>Siempre tuyo</salute>                    
-   <signed>Bill</signed>
-  </closer>
-  
-  <postscript>
-   <p>Santos y Billy<lb/>
-    I love you very much<lb/></p>
-  </postscript>
-  
- </div1>
-  
+<salute>Mis queridos Santos y Billy:</salute>
+</opener>
+                
+<p>Los quiero mucho y me siento solo. Hoy recibí una carta tuya muy bonita, así que me siento mejor.</p>
+
+<p>Hoy empezaron a salir los hombres, así que solamente me quedan 12 hoy en la noche, y creo que algunos más se irán en la mañana, así que no tendremos muchos el fin de semana. Creo que estaremos listos para cargar todo y salir de aquí el primero de junio. Después iré a Omaha el día dos para ver al señor English y saber adónde iré después y para que me paguen.</p>
+
+<p>Hace calor hoy, después de tanta lluvia que tuvimos anoche. Voy a llevarme a casa alguna madera contrachapada para arreglar el sofá hoy en la noche.</p>
+
+<p>Creo que no te conté que anoche fui a ver unos tráileres <add resp="iv001">casas móviles</add>
+
+<pb facs="shan_l.510.jpg"/>
+
+<fw>-2-</fw>
+
+Caramba, tienen unos muy bonitos. Quizá podamos comprar uno antes de irnos de aquí ya que no creo que podamos comprar el otro auto por ahora.</p>
+
+<p>Esperaré hasta saber de ti, para saber si vendrás a casa ahora o no, antes de mover el tráiler para la casa, así que dime qué quieres hacer –</p>
+
+<p>No hay muchas noticias, así que me despido, porque ya es hora de servir la cena - Recuerda que te amo mucho - </p>
+
+<closer>
+<salute>Siempre tuyo</salute>                    
+<signed>Bill</signed>
+<salute>XXXXXX</salute>
+<salute>XXXXX</salute>
+<salute>XXXXX</salute>
+<salute>XXXXX</salute>
+<salute>XXXXX</salute>
+</closer>
+
+<postscript>
+<p>Santos&amp;Billy<lb/>
+I love you very much<lb/></p>
+</postscript>
+
+</div1>
+
 </body>
         
 <back></back>
