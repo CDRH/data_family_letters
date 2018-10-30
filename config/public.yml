@@ -1,7 +1,8 @@
 default:
   shortname: family_letters
+  collection: family_letters
   collection_desc: Family Letters
-  es_type: family_letters
+  site_url: https://cdrhdev1.unl.edu/family_letters
   tei_html_xsl: collections/family_letters/scripts/tei.p5.xsl
   media_base: https://cdrhmedia.unl.edu
 
