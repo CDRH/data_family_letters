@@ -38,13 +38,13 @@ class TeiToEs
   end
 
   def read_file(path)
-    CommonXml.create_xml_object("#{@options["coll_dir"]}/#{path}")
+    CommonXml.create_xml_object("#{@options["collection_dir"]}/#{path}")
   end
 
   # do something before pulling fields
   def preprocessing
     # read additional files, alter the @xml, add data structures, etc
-    @personography = read_file "authority_files/shanahan_listperson.xml"
+    @personography = read_file "source/authority/shanahan_listperson.xml"
   end
 
   # do something after pulling the fields
