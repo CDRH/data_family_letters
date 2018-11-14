@@ -7,8 +7,8 @@ class FileCsv
       id = row["Filename"].gsub(".jpg", "") if present?(row["Filename"])
       doc["id"] = id
       # doc["category"]
-      doc["collection"] = @options["es_type"]
-      doc["collection_desc"] = @options["collection_desc"] || @options["es_type"]
+      doc["collection"] = @options["collection"]
+      doc["collection_desc"] = @options["collection_desc"] || @options["collection"]
       # doc["contributor"]
       doc["creator"] = { "name" => row["Artist/Creator#1"] } if present?(row["Artist/Creator#1"])
       doc["data_type"] = "csv"
@@ -53,7 +53,7 @@ class FileCsv
 
       id = row["Filename"].gsub(".jpg", "") if row["Filename"]
       # using XML instead of HTML for simplicity's sake
-      builder = Nokogiri::XML::Builder.new do |xml|o
+      builder = Nokogiri::XML::Builder.new do |xml|
         xml.div(class: "main_content") {
           xml.image( src: "#{@options["media_base"]}#{id}.jpg/full/full/0/default.jpg" )
           xml.p(row["Description#1"], class: "image_description")
