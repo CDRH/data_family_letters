@@ -11,9 +11,9 @@
 <!--                             IMPORTS                                  -->
 <!-- ==================================================================== -->
   
-  <xsl:import href="../.xslt/tei_to_html/lib/formatting.xsl"/>
-  <xsl:import href="../.xslt/tei_to_html/lib/personography_encyclopedia.xsl"/>
-  <xsl:import href="../.xslt/tei_to_html/lib/cdrh.xsl"/>
+  <xsl:import href="../.xslt-datura/tei_to_html/lib/formatting.xsl"/>
+  <xsl:import href="../.xslt-datura/tei_to_html/lib/personography_encyclopedia.xsl"/>
+  <xsl:import href="../.xslt-datura/tei_to_html/lib/cdrh.xsl"/>
   
 
   <!-- For display in TEI framework, have changed all namespace declarations 
