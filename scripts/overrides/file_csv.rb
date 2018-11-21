@@ -7,8 +7,8 @@ class FileCsv
       id = row["Filename"].gsub(".jpg", "") if present?(row["Filename"])
       doc["id"] = id
       # doc["category"]
-      doc["collection"] = @options["es_type"]
-      doc["collection_desc"] = @options["collection_desc"] || @options["es_type"]
+      doc["collection"] = @options["collection"]
+      doc["collection_desc"] = @options["collection_desc"] || @options["collection"]
       # doc["contributor"]
       doc["creator"] = { "name" => row["Artist/Creator#1"] } if present?(row["Artist/Creator#1"])
       doc["data_type"] = "csv"
