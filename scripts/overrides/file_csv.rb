@@ -6,7 +6,7 @@ class FileCsv
     if row["Filename"]
       id = row["Filename"].gsub(".jpg", "") if present?(row["Filename"])
       doc["id"] = id
-      # doc["category"]
+      doc["category"] = "Images"
       doc["collection"] = @options["collection"]
       doc["collection_desc"] = @options["collection_desc"] || @options["collection"]
       # doc["contributor"]
@@ -25,7 +25,7 @@ class FileCsv
       doc["medium"] = row["Format#1"] if present?(row["Format#1"])
       # doc["person"]
       # doc["people"]
-      # doc["places"]
+      doc["places"] = row["Coverage#1"] if present?(row["Coverage#1"])
       # doc["publisher"]
       # doc["recipient"]
       # doc["rights"]
@@ -33,7 +33,7 @@ class FileCsv
       # doc["rights_uri"]
       doc["source"] = row["Source#1"] if present?(row["Source#1"])
       # doc["subjects"]
-      # doc["subcategory"]
+      doc["subcategory"] = row["Format#1"] if present?(row["Format#1"])
       doc["text"] = row["Description#1"] if present?(row["Description#1"])
       doc["title"] = present?(row["Title#1"]) ? row["Title#1"] : "No Title"
       # doc["title_sort"]
