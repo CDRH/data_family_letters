@@ -1,39 +1,55 @@
 class FileCsv
 
   def build_html_from_csv
-    @csv.each do |row|
-      next if row.header_row?
-
-      id = row["Filename"].gsub(".jpg", "") if row["Filename"]
-      # using XML instead of HTML for simplicity's sake
+    items = reconstitute_items
+    items.each do |id, pages|
       builder = Nokogiri::XML::Builder.new do |xml|
         xml.div(class: "main_content") {
-          xml.image( src: "#{@options["media_base"]}#{id}.jpg/full/full/0/default.jpg" )
-          xml.p(row["Description#1"], class: "image_description")
+          pages.each do |page|
+            xml.span(class: "hr")
+            xml.span(class: "pageimage") {
+              xml.a(
+                # href: "https://cdrhmedia.unl.edu/iiif/2/family_letters%2Fshan_l.484.jpg/full/!800,800/0/default.jpg",
+                href: "#{@options["media_base"]}/iiif/2/#{@options["collection"]}%2F#{page["Filename"]}/full/!800,800/0/default.jpg",
+                rel: "prettyPhoto[pp_gal]",
+                # title: "<a href=&quot;https://cdrhmedia.unl.edu/iiif/2/family_letters%252Fshan_l.484.jpg/full/!800,800/0/default.jpg&quot; target=&quot;_blank&quot; >open image in new window</a>"
+                title: "<a href=&quot;#{@options["media_base"]}/iiif/2/#{@options["collection"]}%2F#{page["Filename"]}/full/!800,800/0/default.jpg&quot; target=&quot;_blank&quot; >open image in new window</a>"
+              ) {
+                xml.img(
+                  # src: "https://cdrhmedia.unl.edu/iiif/2/family_letters%2Fshan_l.484.jpg/full/!150,150/0/default.jpg",
+                  src: "#{@options["media_base"]}/iiif/2/#{@options["collection"]}%2F#{page["Filename"]}/full/!150,150/0/default.jpg",
+                  class: "display&nbsp;"
+                )
+              }
+            }
+            xml.p(page["Description#1"])
+          end
         }
       end
       write_html_to_file(builder, id)
     end
   end
 
-  # returns the data from either the first page or combines into one text field
+  # returns the data from either the first page or combines into array of values
   # flags any discrepancies if they are not to be combined
+  # combine: false returns a string (and potentially a warning)
+  # combine: true returns an array for flexibility of how it is treated on the other end
   def data_from_pages(pages, field, combine: false)
     data = pages.map { |p| CommonXml.normalize_space(p[field]) if present?(p[field]) }
     data = data.compact.uniq
     if combine
       # returns an array if combine is requested
       data
-    elsif data.length <= 1
-      # return a string if combine was not requested
-      data.first
     else
-      warning = <<-WARNING
-        Pages related to item #{pages.first["Filename"]}
-        had differing information for #{field}:
-        #{data}
-      WARNING
-      puts warning.yellow
+      # return a string if combine was not requested
+      if data.length > 1
+        warning = <<-WARNING
+          Pages related to item #{pages.first["Filename"]}
+          had differing information for #{field}:
+          #{data}
+        WARNING
+        puts warning.yellow
+      end
       data.first
     end
   end
@@ -47,8 +63,8 @@ class FileCsv
     items = {}
     @csv.each do |row|
       next if row.header_row?
-      id = row["Filename"]
-      rel = row["Relation#1"]
+      id = row["Filename"].gsub(".jpg", "")
+      rel = row["Relation#1"].gsub(".jpg", "")
       # if an item has no relation, add it as is
       # if an item has a relation which doesn't exist, consider this item the first page
       # if an item has a relation which already exists, add to that relation
@@ -65,7 +81,7 @@ class FileCsv
   def item_to_es(id, pages)
     doc = {}
 
-    doc["id"] = id.gsub(".jpg", "")
+    doc["id"] = id
     doc["category"] = "Images"
     doc["collection"] = @options["collection"]
     doc["collection_desc"] = @options["collection_desc"] || @options["collection"]
@@ -78,16 +94,19 @@ class FileCsv
     # doc["date"]
     doc["date_display"] = data_from_pages(pages, "Date#1", combine: false)
     doc["description"] = data_from_pages(pages, "Description#1", combine: true).join(" ")
-    # TODO since many of these have recto / verso in them, things could get confusing
-    doc["format"] = data_from_pages(pages, "Format#1", combine: true)
+    formats = data_from_pages(pages, "Format#1", combine: true)
+    # need to remove (recto) / verso type portions from the format
+    formats = formats.map { |f| f[/(\w*) \(\w*\)/, 1] }.uniq
+    doc["format"] = formats.length > 1 ? formats : formats.first
     doc["identifier"] = doc["id"]
-    # id is already a jpg for the first item
-    doc["image_id"] = id
+    # add jpg to the id, since that was removed in a previous step
+    # and we only want the image for the very first page involved
+    doc["image_id"] = "#{id}.jpg"
     # doc["keywords"]
     # TODO only eng or N/A, should these be altered to be more useful?
     # doc["language"]
     # doc["languages"]
-    doc["medium"] = data_from_pages(pages, "Format#1", combine: true)
+    doc["medium"] = doc["format"]
     people = [
       "Subject#1",
       "Subject#1$1",
@@ -110,15 +129,20 @@ class FileCsv
     # doc["rights_uri"]
     doc["source"] = data_from_pages(pages, "Source#1", combine: false)
     # doc["subjects"]
-    # TODO problem with recto verso for this as well, don't want this multivalued, I suspect?
-    doc["subcategory"] = data_from_pages(pages, "Format#1", combine: true).join(" ")
-    doc["text"] = data_from_pages(pages, "Description#1", combine: true).join(" ")
+    # NOTE this should not be multivalued
+    doc["subcategory"] = doc["format"].class == Array ? doc["format"].first : doc["format"]
     # doc["title"] = present?(row["Title#1"]) ? row["Title#1"] : "No Title"
     title = data_from_pages(pages, "Title#1", combine: false)
     doc["title"] = present?(title) ? title : "No Title"
     # TODO sort title?
     # doc["title_sort"]
     # doc["topics"]
+
+    doc["text"] = data_from_pages(pages, "Description#1", combine: true).join(" ")
+    doc["text"] += doc["title"] if doc["title"]
+    doc["text"] += doc["date_display"] if doc["date_display"]
+    doc["text"] += doc["people"].join(" ") if doc["people"]
+
     # doc["uri"]
     # filename in uri_data is coming from the filename of the CSV file, NOT the "Filename" column
     doc["uri_data"] = "#{@options["data_base"]}/data/#{@options["collection"]}/csv/#{filename}"
