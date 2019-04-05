@@ -142,10 +142,12 @@ class FileCsv
     doc["text"] += doc["title"] if doc["title"]
     doc["text"] += doc["date_display"] if doc["date_display"]
     doc["text"] += doc["people"].join(" ") if doc["people"]
+    # TODO the majority of thse are in English but will they be translated into spanish??
+    doc["text_t_en"] = doc["text"]
 
     # doc["uri"]
     # filename in uri_data is coming from the filename of the CSV file, NOT the "Filename" column
-    doc["uri_data"] = "#{@options["data_base"]}/data/#{@options["collection"]}/csv/#{filename}"
+    doc["uri_data"] = "#{@options["data_base"]}/data/#{@options["collection"]}/csv/#{self.filename}"
     doc["uri_html"] = "#{@options["data_base"]}/data/#{@options["collection"]}/output/#{@options["environment"]}/html/#{id}.html"
     # doc["works"]
     doc
