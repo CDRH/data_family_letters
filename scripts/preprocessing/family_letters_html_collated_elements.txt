@@ -1,0 +1,87 @@
+ab part="N" type="notes"
+add cert="high" instant="false" resp="iv" status="unremarkable"
+add cert="high" instant="false" resp="iv001" status="unremarkable"
+add cert="high" instant="false" resp="ji" status="unremarkable"
+add instant="false" place="above" status="unremarkable"
+add instant="false" place="below" status="unremarkable"
+add instant="false" resp="#iv001" status="unremarkable"
+add instant="false" resp="1" status="unremarkable"
+add instant="false" resp="iv001" status="unremarkable"
+add instant="false" resp="ji" status="unremarkable"
+add instant="false" status="unremarkable"
+addrLine
+address
+app cert="high"
+app cert="high" loc="1"
+app cert="high" loc="2"
+app cert="high" loc="3"
+app cert="high" loc="4"
+app cert="low"
+app cert="low" loc="1"
+app cert="low" loc="2"
+app cert="low" loc="3"
+app cert="medium"
+app cert="medium" loc="1"
+app cert="medium" loc="2"
+app cert="medium" loc="3"
+app loc="1"
+app loc="1" type="colloquial"
+app loc="1" type="diminutive"
+app loc="1" type="literal"
+app loc="1" type="neologism"
+app loc="2"
+app loc="3"
+app loc="4"
+app loc="5"
+app loc="iv001"
+certainty cert="high" locus="name"
+certainty cert="low" locus="name"
+certainty cert="low" locus="value"
+certainty cert="medium" locus="name"
+choice
+closer
+corr instant="false"
+dateline
+del instant="false" status="unremarkable"
+del instant="false" status="unremarkable" type="overstrike"
+del instant="false" status="unremarkable" type="strike"
+desc
+emph rend="italics"
+fw
+hi rend="case(allcaps)"
+hi rend="underline"
+label
+lang opt="false" xml:id="en"
+lang opt="false" xml:id="es"
+lb
+note anchored="true"
+opener
+orig
+p part="N"
+pb
+pb facs="l.025.jpg"
+pb facs="l.166.jpg"
+postscript
+rdg
+reg instant="false"
+salute
+sic
+signed
+term subtype="literal" type="informal"
+term type="diminutive"
+term type="formal"
+term type="informal"
+term type="literal"
+term type="metaphorical"
+term type="plural"
+time instant="false"
+unclear extent="four words" instant="false" reason="illegible"
+unclear extent="one word" instant="false" reason="illegible"
+unclear extent="three words" instant="false" reason="illegible"
+unclear instant="false"
+unclear instant="false" reason="faded"
+unclear instant="false" reason="ilegible"
+unclear instant="false" reason="illegible"
+unclear instant="false" reason="smudged"
+unclear instant="false" reason="stain"
+unclear instant="false" reason="torn"
