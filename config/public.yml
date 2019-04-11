@@ -10,6 +10,11 @@ development:
   es_path: https://cdrhdev1.unl.edu/elastic
   es_index: cdrhapidev-v1
   site_url: https://cdrhdev1.unl.edu/family_letters
+  # custom setting for family letters to grab list of urls to index
+  # eventually when the website is no longer being edited scrape_website can be
+  # set to false or removed and source/webs files can be indexed as is
+  scrape_endpoint: "https://cdrhdev1.unl.edu/family_letters/content_pages"
+  scrape_website: true
 production:
   es_path: https://cdrhapi.unl.edu/elastic
   es_index: cdrhapi-v1
