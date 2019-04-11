@@ -42,8 +42,8 @@ class Datura::DataManager
         contents. If you wish to scrape the family letters website, please
         add or update config/public.yml to use "scrape_website: true"}
     end
-    rescue => exception
-      print_error(exception, @options["scrape_endpoint"])
+  rescue => exception
+    print_error(exception, @options["scrape_endpoint"])
   end
 
   def print_error(e, url)
