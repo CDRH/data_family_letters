@@ -11,7 +11,6 @@ class FileCsv
           xml.div(class: "image_item_display") {
             xml.p(page["Description#1"])
             xml.img(
-              # src: "https://cdrhmedia.unl.edu/iiif/2/family_letters%2Fshan_l.484.jpg/full/!150,150/0/default.jpg",
               src: "#{@options["media_base"]}/iiif/2/#{@options["collection"]}%2F#{page["Filename"]}/full/!800,800/0/default.jpg",
               class: "display"
             )
