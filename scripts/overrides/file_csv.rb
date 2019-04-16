@@ -5,25 +5,17 @@ class FileCsv
     items.each do |id, pages|
       builder = Nokogiri::XML::Builder.new do |xml|
         xml.div(class: "main_content") {
-          pages.each do |page|
-            xml.span(class: "hr")
-            xml.span(class: "pageimage") {
-              xml.a(
-                # href: "https://cdrhmedia.unl.edu/iiif/2/family_letters%2Fshan_l.484.jpg/full/!800,800/0/default.jpg",
-                href: "#{@options["media_base"]}/iiif/2/#{@options["collection"]}%2F#{page["Filename"]}/full/!800,800/0/default.jpg",
-                rel: "prettyPhoto[pp_gal]",
-                # title: "<a href=&quot;https://cdrhmedia.unl.edu/iiif/2/family_letters%252Fshan_l.484.jpg/full/!800,800/0/default.jpg&quot; target=&quot;_blank&quot; >open image in new window</a>"
-                title: "<a href=&quot;#{@options["media_base"]}/iiif/2/#{@options["collection"]}%2F#{page["Filename"]}/full/!800,800/0/default.jpg&quot; target=&quot;_blank&quot; >open image in new window</a>"
-              ) {
-                xml.img(
-                  # src: "https://cdrhmedia.unl.edu/iiif/2/family_letters%2Fshan_l.484.jpg/full/!150,150/0/default.jpg",
-                  src: "#{@options["media_base"]}/iiif/2/#{@options["collection"]}%2F#{page["Filename"]}/full/!150,150/0/default.jpg",
-                  class: "display&nbsp;"
-                )
-              }
-            }
+        xml.div(class: "image_display")
+        xml.h4(data_from_pages(pages, "Title#1", combine: false))
+        pages.each do |page|
+          xml.div(class: "image_item_display") {
             xml.p(page["Description#1"])
-          end
+            xml.img(
+              src: "#{@options["media_base"]}/iiif/2/#{@options["collection"]}%2F#{page["Filename"]}/full/!800,800/0/default.jpg",
+              class: "display"
+            )
+          }
+        end
         }
       end
       write_html_to_file(builder, id)
