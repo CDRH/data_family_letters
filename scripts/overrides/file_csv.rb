@@ -24,7 +24,7 @@ class FileCsv
 
   # returns the data from either the first page or combines into array of values
   # flags any discrepancies if they are not to be combined
-  # combine: false returns a string (and potentially a warning)
+  # combine: false returns a string from the FIRST page only (and potentially a warning)
   # combine: true returns an array for flexibility of how it is treated on the other end
   def data_from_pages(pages, field, combine: false)
     data = pages.map { |p| CommonXml.normalize_space(p[field]) if present?(p[field]) }
@@ -81,10 +81,12 @@ class FileCsv
     # TODO needs to be a nested field
     # doc["creator"] = data_from_pages(pages, "Artist/Creator#1", combine: true)
     doc["data_type"] = "csv"
-    # TODO dates are NOT standardized so we'll either need to do a lot of work on this
-    # end, or we need to fix this in luna
-    # doc["date"]
+    first_date = data_from_pages(pages, "Date#1", combine: false)
+    standard_date = standardize_date(first_date)
+    doc["date"] = standard_date
+    doc["date_not_before"] = standard_date
     doc["date_display"] = data_from_pages(pages, "Date#1", combine: false)
+    # doc["date_not_after"]
     doc["description"] = data_from_pages(pages, "Description#1", combine: true).join(" ")
     formats = data_from_pages(pages, "Format#1", combine: true)
     # need to remove (recto) / verso type portions from the format
@@ -145,6 +147,20 @@ class FileCsv
     doc
   end
 
+  def standardize_date(dirty)
+    # Note: so far we are ONLY populating the date and date_not_before
+    # from the CSV because of how dates are recorded, although in some
+    # cases there ARE ending dates which are not being caught
+    if dirty
+      # removes (circa) and whitespace from dates
+      scrubbed = dirty.gsub(/[A-Za-z\(\) ]/, "")
+      # when there is a range (1940-1945) currently ignoring second half
+      if scrubbed[/\d{4}-\d{4}/]
+        scrubbed = scrubbed[/^\d{4}/]
+      end
+      CommonXml.date_standardize(scrubbed)
+    end
+  end
 
   # overriding in order so that "rows" of the csv are no longer the primary unit,
   # but rather "items" created in reconstitute_items
