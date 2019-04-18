@@ -1,12 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
-
-<TEI xmlns="http://www.tei-c.org/ns/1.0"  xml:id="shan_L200.meta">
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="shan_L200.meta">
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from Jesusita Baros Torres to Santos Baros Schubert, January 4, 1958</title>
-<title type="main">Carta de Jesusita Baros Torres a Santos Baros Schubert, 4 de enero, 1958</title>
+<title type="main" xml:lang="en">Letter from Jesusita Baros Torres to Santos Baros Schubert, January 4, 1958</title>
+<title type="main" xml:lang="es">Carta de Jesusita Baros Torres a Santos Baros Schubert, 4 de enero, 1958</title>
 <author>Baros Torres, Jesusita</author>
 <principal xml:id="iv001">Velázquez, Isabel</principal>
 <respStmt>
@@ -30,7 +27,7 @@
  <address>
 <addrLine>1111 Oldfather Hall</addrLine>
 <addrLine>660 N 12th</addrLine>
-<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-0315</addrLine>
 <addrLine>modlang2@unl.edu</addrLine>
 </address>
@@ -46,7 +43,7 @@
 </availability>
 </publicationStmt>
             
-<notesStmt><note></note></notesStmt>
+<notesStmt><note/></notesStmt>
             
 <sourceDesc>
 <bibl>
@@ -58,7 +55,7 @@
 <msDesc>
 <msIdentifier>
 <repository>Shanahan Collection</repository>
-<idno></idno>
+<idno/>
 </msIdentifier>
 <msContents>
 <p>3 hand-written pages and envelope</p>
@@ -66,24 +63,24 @@
 <physDesc>
 <objectDesc>
 <supportDesc>
-<support></support>
+<support/>
 <extent>3 pages and envelope
-<dimensions unit="mm"><height></height><width></width></dimensions>
+<dimensions unit="mm"><height/><width/></dimensions>
 </extent>
 <condition>
-<p></p></condition>
+<p/></condition>
 </supportDesc>
 </objectDesc>
 <handDesc hands="1">
 <handNote xml:id="h01" scribe="jbt001" medium="pen"><p>Media: black ink</p></handNote>
 </handDesc>
 <typeDesc>
-<typeNote><p></p></typeNote>
+<typeNote><p/></typeNote>
 </typeDesc>
 </physDesc>
-<history><origin></origin>
-<provenance></provenance>
-<acquisition></acquisition>
+<history><origin/>
+<provenance/>
+<acquisition/>
 </history>
 </msDesc>
                 
@@ -93,10 +90,10 @@
 <encodingDesc>
 <editorialDecl>
 <correction>
-<p></p>
+<p/>
 </correction>
 <normalization>
-<p></p>
+<p/>
 </normalization>
 </editorialDecl>
 </encodingDesc>
@@ -104,34 +101,34 @@
 <profileDesc>
 <textClass>
 <keywords scheme="original" n="category">
-<term></term>
+<term/>
 </keywords>
 <keywords scheme="original" n="subcategory">
-<term></term>
+<term/>
 </keywords>
 <keywords scheme="original" n="topic">
-<term></term>
+<term/>
 </keywords>
 <keywords scheme="lcsh" n="keywords">
-<term></term>
+<term/>
 </keywords>
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term/>
 </keywords>
 <keywords scheme="lcsh" n="places">
-<term></term>
+<term/>
 </keywords>
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
 <persName xml:id="jbt001">Baros Torres, Jesusita</persName>
-<placeName></placeName>
+<placeName/>
 <date type="written" when="1958-01-04"/>
 <date type="postmarked" when="1958-01-06"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName xml:id="sbs001">Baros Schubert, Santos</persName>
-<placeName></placeName>
+<placeName/>
 </correspAction>
 <correspContext>
 <ref type="prev" target="shan">Letter from x to y, date</ref>
@@ -163,7 +160,7 @@
                 
 <p>la precente es para Saludarlos siempre deceando que se incuentren bíen. así como nosotros estamos buenos adíos las gracías,</p>
 
-<p>yo estoy poquita mala como risfriada, pero ya al fín ya se pasaron los Cristmas y años nuevos, ojala y ya para haora este descansado el Bill, pues nosotros sintemos <unclear reason= "torn"/> yo le pido á Dios, que se a <unclear reason= "torn"/> bueno yo tengo mucho <unclear reason= "torn"/> Díos nos dío lícensía de llegar á los Cristmas del 1957, y años new. la Helen me dío una lamparita T.V. la comadre Felípita me mando cobíja, la Betty un Bolsa y muchas gracías tambíen, por lo que
+<p>yo estoy poquita mala como risfriada, pero ya al fín ya se pasaron los Cristmas y años nuevos, ojala y ya para haora este descansado el Bill, pues nosotros sintemos <unclear reason="torn"/> yo le pido á Dios, que se a <unclear reason="torn"/> bueno yo tengo mucho <unclear reason="torn"/> Díos nos dío lícensía de llegar á los Cristmas del 1957, y años new. la Helen me dío una lamparita T.V. la comadre Felípita me mando cobíja, la Betty un Bolsa y muchas gracías tambíen, por lo que
 
 <pb facs="shan_l.754.jpg"/>
 
@@ -171,7 +168,7 @@ me mandaste, sí me gusto mucho todo muchas gracías;</p>
 
 <p>y que bueno que te ayga quedado el bestido; la Helen me díjo que te lo comprara, que facíl ese era tu size; y álos Kids como les quedo ojala y ese fuera su medída</p>
 
-<p>todos muy contentos, y tu tambien híja ten pacíensía, le emos de pedír á Díos ayuda, be á la misa confiesate, para afrentar en la vida; que nos de luz para ber el camíno; Díos es el uníco nos da la vída, y cuando nos necesita nos yama; bu<unclear reason= "torn"/> contenta síempre tu <unclear reason= "torn"/> te decea que estes b<unclear reason= "torn"/> y con pacíensía, pídíend<unclear reason= "torn"/> recuerdos de jesus y Helen y famílía, y son muy flojos para escríbir tambien, disen que no tienen tiempo, savías que gesus es precídente de un uníon
+<p>todos muy contentos, y tu tambien híja ten pacíensía, le emos de pedír á Díos ayuda, be á la misa confiesate, para afrentar en la vida; que nos de luz para ber el camíno; Díos es el uníco nos da la vída, y cuando nos necesita nos yama; bu<unclear reason="torn"/> contenta síempre tu <unclear reason="torn"/> te decea que estes b<unclear reason="torn"/> y con pacíensía, pídíend<unclear reason="torn"/> recuerdos de jesus y Helen y famílía, y son muy flojos para escríbir tambien, disen que no tienen tiempo, savías que gesus es precídente de un uníon
 
 <pb facs="shan_l.755.jpg"/>
 
@@ -200,7 +197,7 @@ le nombran, la Uníon de Credíto, el tiene que aser muchos papeles y juntas,</p
                 
 <p>this letter is to greet you, always wishing you that are all well, as we are, thank God.</p>
 
-<p>I’m a bit sick, I have a cold. Well finally Christmas and New Years went by. I hope that Bill is resting. Well, we feel <unclear reason= "torn"/> I ask God that <unclear reason= "torn"/> Well, I have a lot <unclear reason= "torn"/> God gave us permission to reach Christmas 1957 and New Years. Helen gave me a little lamp T.V., my comadre Felipita sent me a blanket, Betty a purse, and thank you so much as well for what
+<p>I’m a bit sick, I have a cold. Well finally Christmas and New Years went by. I hope that Bill is resting. Well, we feel <unclear reason="torn"/> I ask God that <unclear reason="torn"/> Well, I have a lot <unclear reason="torn"/> God gave us permission to reach Christmas 1957 and New Years. Helen gave me a little lamp T.V., my comadre Felipita sent me a blanket, Betty a purse, and thank you so much as well for what
 
 <pb facs="shan_l.754.jpg"/>
 
@@ -209,7 +206,7 @@ you sent me, I did like everything very much, thank you very much,</p>
 <p>and I’m glad that the dress fit you. Helen told me to buy it for you, that it was easily your size. And the kids? How did everything fit?</p>
 
 <p><app loc="1" cert="high"><rdg>We spent Christmas</rdg></app> very happy. And you, daughter, be patient, we shall ask
-God for help. Go to church, go to confession to face life he will light the way. God is the only one who gives us life, and when he needs us he calls us, bu<unclear reason= "torn"/> happy you always <unclear reason= "torn"/> who wishes that you are <unclear reason= "torn"/> and with patience, ask <unclear reason= "torn"/> Regards <app loc="1"><rdg>love</rdg></app> from Jesus and Helen and their family. They are very lazy when it comes to writing too. They say they they don’t have the time. Did you know that Jesus is president of a union
+God for help. Go to church, go to confession to face life he will light the way. God is the only one who gives us life, and when he needs us he calls us, bu<unclear reason="torn"/> happy you always <unclear reason="torn"/> who wishes that you are <unclear reason="torn"/> and with patience, ask <unclear reason="torn"/> Regards <app loc="1"><rdg>love</rdg></app> from Jesus and Helen and their family. They are very lazy when it comes to writing too. They say they they don’t have the time. Did you know that Jesus is president of a union
 
 <pb facs="shan_l.755.jpg"/>
 
@@ -230,8 +227,8 @@ they call it the Credit Union. He has a lot of papers and meetings.</p>
 
 <ab type="return">
 <address>
-<addrLine><unclear reason= "torn"/>ox 681 Colo</addrLine> 
-<addrLine><unclear reason= "torn"/>Lupton</addrLine>
+<addrLine><unclear reason="torn"/>ox 681 Colo</addrLine> 
+<addrLine><unclear reason="torn"/>Lupton</addrLine>
 </address>
 </ab>
 
@@ -266,13 +263,13 @@ COLO.<lb/>
 
 <p>this letter is to greet you, always wishing you that are all well, as we are, thank God.</p>
  
- <p>I’m a bit sick, I have a cold. Well finally Christmas and New Years went by. I hope that Bill is resting. Well, we feel <unclear reason= "torn"/>I ask God that<unclear reason= "torn"/>  Well, I have a lot<unclear reason= "torn"/> God gave us permission to reach Christmas 1957 and New Years. Helen gave me a little lamp T.V., my comadre Felipita sent me a blanket, Betty a purse, and thank you so much as well for what
+ <p>I’m a bit sick, I have a cold. Well finally Christmas and New Years went by. I hope that Bill is resting. Well, we feel <unclear reason="torn"/>I ask God that<unclear reason="torn"/>  Well, I have a lot<unclear reason="torn"/> God gave us permission to reach Christmas 1957 and New Years. Helen gave me a little lamp T.V., my comadre Felipita sent me a blanket, Betty a purse, and thank you so much as well for what
 
 <pb facs="shan_l.754.jpg"/>
 
 you sent me, I did like everything very much, thank you very much.</p>
  
- <p>And I’m glad that the dress fit you. Helen told me to buy it for you, that it was easily your size. And the kids? How did everything fit? I hope that was their size and all are very happy. And you, daughter, be patient, we shall ask God for help. Go to church, go to confession to face life he will light the way. God is the only one who gives us life, and when he needs us he calls us, bu<unclear reason= "torn"/> happy you always<unclear reason= "torn"/> who wishes that you are<unclear reason= "torn"/> Regards  from Jesus and Helen and their family. They are very lazy when it comes to writing too. They say that they don’t have the time. Did you know that Jesus is president of a union
+ <p>And I’m glad that the dress fit you. Helen told me to buy it for you, that it was easily your size. And the kids? How did everything fit? I hope that was their size and all are very happy. And you, daughter, be patient, we shall ask God for help. Go to church, go to confession to face life he will light the way. God is the only one who gives us life, and when he needs us he calls us, bu<unclear reason="torn"/> happy you always<unclear reason="torn"/> who wishes that you are<unclear reason="torn"/> Regards  from Jesus and Helen and their family. They are very lazy when it comes to writing too. They say that they don’t have the time. Did you know that Jesus is president of a union
  
 <pb facs="shan_l.755.jpg"/> 
 
@@ -289,6 +286,6 @@ they call it the Credit Union. He has a lot of papers and meetings. </p>
  
 </body>
         
-<back></back>
+<back/>
 </text>
 </TEI>

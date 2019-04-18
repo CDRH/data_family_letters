@@ -1,272 +1,269 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
-
-<TEI xmlns="http://www.tei-c.org/ns/1.0"  xml:id="shan_L217.meta">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-<title type="main">Letter from Jesusita Baros Torres to Santos Baros Schubert, October 29, 1962</title>
-<title type="main">Carta de Jesusita Baros Torres a Santos Baros Schubert, 29 de octubre, 1962</title>
-<author>Baros Torres, Jesusita</author>
-<principal xml:id="iv001">Velázquez, Isabel</principal>
-<respStmt>
-<resp>transcription and encoding</resp>
-<name xml:id="ji">Isasi, Jennifer</name>
-<name xml:id="sbg">Garcia, Sarita B.</name>
-</respStmt>
-</titleStmt>
-<editionStmt>
-<edition>
-<date>2017</date>
-</edition>
-</editionStmt>
-<publicationStmt>
-<authority>Family Letters: An analysis of the Personal Correspondence of a Mexican American Family in Western Colorado and Eastern Nebraska in the First Half of the 20th Century</authority>
-<publisher>University of Nebraska-Lincoln</publisher>
-<distributor>
-<name>Department of Modern Languages and Literatures</name>
- <address>
-<addrLine>1111 Oldfather Hall</addrLine>
-<addrLine>660 N 12th</addrLine>
-<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
-<addrLine>Lincoln, NE 68588-0315</addrLine>
-<addrLine>modlang2@unl.edu</addrLine>
-</address>
-</distributor>
-<pubPlace>Lincoln, Nebraska</pubPlace>
-<address>
-<addrLine>University of Nebraska-Lincoln</addrLine>
-<addrLine>Lincoln, NE 68588-0315</addrLine>
-</address>
-<idno>shan_L217.meta</idno>
-<availability>
-<p>COPYRIGHT STATEMENT TO GO HERE</p>
-</availability>
-</publicationStmt>
-            
-<notesStmt><note></note></notesStmt>
-            
-<sourceDesc>
-<bibl>
-<author>Baros Torres, Jesusita</author>
-<title level="m" type="main">Letter from Jesusita Baros Torres to Santos Baros Schubert</title>
-<date when="1962-10-29">October 29, 1962</date>
-<extent>1 envelope and 3 pages</extent>
-</bibl>
-<msDesc>
-<msIdentifier>
-<repository>Shanahan Collection</repository>
-<idno></idno>
-</msIdentifier>
-<msContents>
-<p>1 hand-written envelope and 3 hand-written pages</p>
-</msContents>
-<physDesc>
-<objectDesc>
-<supportDesc>
-<support></support>
-<extent>1 envelope and 3 pages
-<dimensions unit="mm"><height></height><width></width></dimensions>
-</extent>
-<condition>
-<p></p></condition>
-</supportDesc>
-</objectDesc>
-<handDesc>
-<handNote><p>Media:</p></handNote>
-</handDesc>
-<typeDesc>
-<typeNote><p></p></typeNote>
-</typeDesc>
-</physDesc>
-<history><origin></origin>
-<provenance></provenance>
-<acquisition></acquisition>
-</history>
-</msDesc>
-                
-</sourceDesc>
-</fileDesc>
-        
-<encodingDesc>
-<editorialDecl>
-<correction>
-<p></p>
-</correction>
-<normalization>
-<p></p>
-</normalization>
-</editorialDecl>
-</encodingDesc>
-        
-<profileDesc>
-<textClass>
-<keywords scheme="original" n="category">
-<term></term>
-</keywords>
-<keywords scheme="original" n="subcategory">
-<term></term>
-</keywords>
-<keywords scheme="original" n="topic">
-<term></term>
-</keywords>
-<keywords scheme="lcsh" n="keywords">
-<term></term>
-</keywords>
-<keywords scheme="lcsh" n="people">
-<term></term>
-</keywords>
-<keywords scheme="lcsh" n="places">
-<term></term>
-</keywords>
-</textClass>
-<correspDesc>
-<correspAction type="sentBy">
-<persName xml:id="jbt001">Baros Torres, Jesusita</persName>
-<placeName></placeName>
-<date type="written" when="1962-10-29"/>
-</correspAction>
-<correspAction type="deliveredTo">
-<persName xml:id="sbs001">Baros Schubert, Santos</persName>
-<placeName></placeName>
-</correspAction>
-<correspContext>
-<ref type="prev" target="shan">Letter from x to y, date</ref>
-<ref type="next" target="shan">Letter from x to y, date</ref>
-</correspContext> 
-</correspDesc>
-</profileDesc>
-        
-<revisionDesc>
-<change when="2017" who="#sbg">Initial Encoding</change>
-<change when="2017" who="#ji">Transcription</change>
-            
-</revisionDesc>
-</teiHeader>
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="shan_L217.meta">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title type="main" xml:lang="en">Letter from Jesusita Baros Torres to Santos Baros Schubert, October 29, 1962</title>
+    <title type="main" xml:lang="es">Carta de Jesusita Baros Torres a Santos Baros Schubert, 29 de octubre, 1962</title>
+    <author>Baros Torres, Jesusita</author>
+    <principal xml:id="iv001">Velázquez, Isabel</principal>
+    <respStmt>
+     <resp>transcription and encoding</resp>
+     <name xml:id="ji">Isasi, Jennifer</name>
+     <name xml:id="sbg">Garcia, Sarita B.</name>
+    </respStmt>
+   </titleStmt>
+   <editionStmt>
+    <edition>
+     <date>2017</date>
+    </edition>
+   </editionStmt>
+   <publicationStmt>
+    <authority>Family Letters: An analysis of the Personal Correspondence of a Mexican American Family in Western Colorado and Eastern Nebraska in the First Half of the 20th Century</authority>
+    <publisher>University of Nebraska-Lincoln</publisher>
+    <distributor>
+     <name>Department of Modern Languages and Literatures</name>
+     <address>
+      <addrLine>1111 Oldfather Hall</addrLine>
+      <addrLine>660 N 12th</addrLine>
+      <addrLine>University of Nebraska–Lincoln</addrLine>
+      <addrLine>Lincoln, NE 68588-0315</addrLine>
+      <addrLine>modlang2@unl.edu</addrLine>
+     </address>
+    </distributor>
+    <pubPlace>Lincoln, Nebraska</pubPlace>
+    <address>
+     <addrLine>University of Nebraska-Lincoln</addrLine>
+     <addrLine>Lincoln, NE 68588-0315</addrLine>
+    </address>
+    <idno>shan_L217.meta</idno>
+    <availability>
+     <p>COPYRIGHT STATEMENT TO GO HERE</p>
+    </availability>
+   </publicationStmt>
+   
+   <notesStmt><note/></notesStmt>
+   
+   <sourceDesc>
+    <bibl>
+     <author>Baros Torres, Jesusita</author>
+     <title level="m" type="main">Letter from Jesusita Baros Torres to Santos Baros Schubert</title>
+     <date when="1962-10-29">October 29, 1962</date>
+     <extent>1 envelope and 3 pages</extent>
+    </bibl>
+    <msDesc>
+     <msIdentifier>
+      <repository>Shanahan Collection</repository>
+      <idno/>
+     </msIdentifier>
+     <msContents>
+      <p>1 hand-written envelope and 3 hand-written pages</p>
+     </msContents>
+     <physDesc>
+      <objectDesc>
+       <supportDesc>
+        <support/>
+        <extent>1 envelope and 3 pages
+         <dimensions unit="mm"><height/><width/></dimensions>
+        </extent>
+        <condition>
+         <p/></condition>
+       </supportDesc>
+      </objectDesc>
+      <handDesc>
+       <handNote><p>Media:</p></handNote>
+      </handDesc>
+      <typeDesc>
+       <typeNote><p/></typeNote>
+      </typeDesc>
+     </physDesc>
+     <history><origin/>
+      <provenance/>
+      <acquisition/>
+     </history>
+    </msDesc>
     
-<text>
-<body>
-            
-<div1 type="letter" xml:lang="es">
-                
-<pb facs="shan_l.777.jpg"/>
-                
-<opener>
-<fw>page 1</fw>
-<address><addrLine>ft, Lupton Colo</addrLine></address>
-<dateline>October 27, - 1962</dateline>
-</opener>
-
-<p>Querida hija la precente me sirve para saludarlos Deceandoles como siempre una
-completa salud;</p>
-<p>pues nosotros estamos bíen es por lo que doy Gracias á Diosito; que es tan bueno con
-nosotros;</p>
-<p>yo estoy muy alíbíada, me siento bien Bendito sea Diosito; recíví tu carta fecha 14, de
-Octo pues yo te escríví antes para saver que es lo que quería el Billy boy, pero no me
-díjístes. pues yo no se que mandarle ya estan tan grande que yo no se que mandarle;</p>
-<p>bueno pues haora se ba á yegar tu Brithday, yo te deceo muchos</p>
-
-<pb facs="shan_l.778.jpg"/>
-
-<p>dias de estos. que alcanses á conocer tus ñíetos, los hijos de tus nietos seas aguela; y
-<add>tataraguela;</add></p>
-<p>pues me preguntas de Max, pues ya no ay nada, oy en esta semana se acabo la zanoria; y
-el tiempo ya esta poco frio; ya aqui mis Rentantes ya se fueron.</p>
-<p>pues queda nomas la Anita Cardoza, ya las demas ya se fueron.</p>
-<p>ya esta, esta, todo muy diferente bueno síempre se me ase poco triste;</p>
-<p>te platícare que al Jerry lo mandaron para ese lugar Mísseesípe; pues yo no se sí me
-entenderas pero á ese estado donde no quieren á los negros; me dijo Helen que esta
-estudiando</p>
-
-<pb facs="shan_l.779.jpg"/>
-<fw>page 3.</fw>
-
-<p>como de medecínas; pues yo entiendo como Medíco - como Doctor; pues así entiendo yo.
-pues no será; pero así creemos.</p>
-<p>bueno tambíen mando pedír su rropá. y primero díjo que iba á Bernir como para
-Cristmas, y haora dise que no. bueno que Diosito nos ayude tu saves esosas guerras que
-tanto dísen;</p>
-<p>aquí estan rezando una novena de missas el Padre empezando el Lunes que estamos á 29,
-Octo y se ba á cabar el 6 de Novem por intencion de la Paz del mundo;</p>
-<p>bueno híja ay platicaremos yo creo que esto sera todo por oy.</p>
-
-</div1>
-
-
-<div1 type="letter" xml:lang="en">
-                
-<pb facs="shan_l.777.jpg"/>
-                
-<opener>
-<fw>page 1</fw>
-<address><addrLine>Ft. Lupton, Colorado</addrLine></address>
-<dateline>October 27, - 1962</dateline>
-</opener>
-
-<p>Dear daughter, this letter serves me to greet you, wishing you a complete health, as usual.</p>
-<p>Well, we are fine, and that is why I thank God, who is so good to us.</p>
-<p>I am much better, I feel well, blessed be God. I received your letter dated October 14. Well, I had written to you to askwhat Billy boy wanted, but you didn;t tell me. So, I don't know what to send him, he's so big already that I don't know what to send him.</p>
-<p>Well, so your Birthday is coming up, I wish you many</p>
-
-<pb facs="shan_l.778.jpg"/>
-
-<p>days like these, <add resp="iv001">I wish</add> that you get to meet your grandchildren, that you become a grandmother and
-<add>great-great- grandmother.</add></p>
-<p>So you ask about Max, well there is nothing now, today, this week, the carrot <add resp="iv001">crop</add> was finished. And is getting a bit cold here. My tenants are gone,</p>
-<p>Anita Cardoza is the only one that remains, the rest already left.</p>
-<p>Everything is, is very different and it’s a little sad.</p>
-<p>I’ll tell you that they sent Jerry to that place, Misseesipe <app loc="1" cert="high"><rdg>Mississippi</rdg></app>. I don't know if
-you will understand me, but it’s that state where they don't like the blacks. Helen told me that he's studying</p>
-
-<pb facs="shan_l.779.jpg"/>
-<fw>page 3.</fw>
-
-<p>something about Medicine. Well, I don’t understand. Something like a doctor, that’s
-what I understand. Well, maybe it’s not, but that’s what we believe.</p>
-<p>Well, he also sent for his clothes, and first he said he was coming for Christmas, and now
-he says that he’s not. Well, God help us, you know about those wars that they talk about
-so much.</p>
-<p>They are praying a novena of masses, the priest, starting this Monday, October 29th, and
-ending on November 6th, asking for world peace.</p>
-<p>Well, daughter, we’ll talk later. I think this will be all for today.</p>
-
-</div1>
-
-<div1 type="envelope">
-
-<pb facs="shan_l.775.jpg"/>
-
-<ab type="return">
-<address>
-<addrLine>814 pacific Ave</addrLine>
-<addrLine>ft Lupton Colo</addrLine>
-<addrLine>Jesusita B. Torres</addrLine>
-</address>
-</ab>
-
-<ab type="address">
-<address>
-<addrLine>Mrs W.F. Schubert</addrLine>
-<addrLine>1016, South 40th St.</addrLine>
-<addrLine>Lincoln. 10, Nebraska;</addrLine>
-</address>
-</ab>
-
-<ab type="postmark">
-FORT LUPTON<lb/> 
-OCT 29<lb/>
-4 PM<lb/>
-1962<lb/>
-COLO<lb/>
-</ab>
-
-<figure type="stamp">
-<p></p>
-</figure>
-
-</div1>
-</body>
-        
-<back></back>
-</text>
+   </sourceDesc>
+  </fileDesc>
+  
+  <encodingDesc>
+   <editorialDecl>
+    <correction>
+     <p/>
+    </correction>
+    <normalization>
+     <p/>
+    </normalization>
+   </editorialDecl>
+  </encodingDesc>
+  
+  <profileDesc>
+   <textClass>
+    <keywords scheme="original" n="category">
+     <term/>
+    </keywords>
+    <keywords scheme="original" n="subcategory">
+     <term/>
+    </keywords>
+    <keywords scheme="original" n="topic">
+     <term/>
+    </keywords>
+    <keywords scheme="lcsh" n="keywords">
+     <term/>
+    </keywords>
+    <keywords scheme="lcsh" n="people">
+     <term/>
+    </keywords>
+    <keywords scheme="lcsh" n="places">
+     <term/>
+    </keywords>
+   </textClass>
+   <correspDesc>
+    <correspAction type="sentBy">
+     <persName xml:id="jbt001">Baros Torres, Jesusita</persName>
+     <placeName/>
+     <date type="written" when="1962-10-29"/>
+    </correspAction>
+    <correspAction type="deliveredTo">
+     <persName xml:id="sbs001">Baros Schubert, Santos</persName>
+     <placeName/>
+    </correspAction>
+    <correspContext>
+     <ref type="prev" target="shan">Letter from x to y, date</ref>
+     <ref type="next" target="shan">Letter from x to y, date</ref>
+    </correspContext> 
+   </correspDesc>
+  </profileDesc>
+  
+  <revisionDesc>
+   <change when="2017" who="#sbg">Initial Encoding</change>
+   <change when="2017" who="#ji">Transcription</change>
+   
+  </revisionDesc>
+ </teiHeader>
+ 
+ <text>
+  <body>
+   
+   <div1 type="letter" xml:lang="es">
+    
+    <pb facs="shan_l.777.jpg"/>
+    
+    <opener>
+     <fw>page 1</fw>
+     <address><addrLine>ft, Lupton Colo</addrLine></address>
+     <dateline>October 27, - 1962</dateline>
+    </opener>
+    
+    <p>Querida hija la precente me sirve para saludarlos Deceandoles como siempre una
+     completa salud;</p>
+    <p>pues nosotros estamos bíen es por lo que doy Gracias á Diosito; que es tan bueno con
+     nosotros;</p>
+    <p>yo estoy muy alíbíada, me siento bien Bendito sea Diosito; recíví tu carta fecha 14, de
+     Octo pues yo te escríví antes para saver que es lo que quería el Billy boy, pero no me
+     díjístes. pues yo no se que mandarle ya estan tan grande que yo no se que mandarle;</p>
+    <p>bueno pues haora se ba á yegar tu Brithday, yo te deceo muchos</p>
+    
+    <pb facs="shan_l.778.jpg"/>
+    
+    <p>dias de estos. que alcanses á conocer tus ñíetos, los hijos de tus nietos seas aguela; y
+     <add>tataraguela;</add></p>
+    <p>pues me preguntas de Max, pues ya no ay nada, oy en esta semana se acabo la zanoria; y
+     el tiempo ya esta poco frio; ya aqui mis Rentantes ya se fueron.</p>
+    <p>pues queda nomas la Anita Cardoza, ya las demas ya se fueron.</p>
+    <p>ya esta, esta, todo muy diferente bueno síempre se me ase poco triste;</p>
+    <p>te platícare que al Jerry lo mandaron para ese lugar Mísseesípe; pues yo no se sí me
+     entenderas pero á ese estado donde no quieren á los negros; me dijo Helen que esta
+     estudiando</p>
+    
+    <pb facs="shan_l.779.jpg"/>
+    <fw>page 3.</fw>
+    
+    <p>como de medecínas; pues yo entiendo como Medíco - como Doctor; pues así entiendo yo.
+     pues no será; pero así creemos.</p>
+    <p>bueno tambíen mando pedír su rropá. y primero díjo que iba á Bernir como para
+     Cristmas, y haora dise que no. bueno que Diosito nos ayude tu saves esosas guerras que
+     tanto dísen;</p>
+    <p>aquí estan rezando una novena de missas el Padre empezando el Lunes que estamos á 29,
+     Octo y se ba á cabar el 6 de Novem por intencion de la Paz del mundo;</p>
+    <p>bueno híja ay platicaremos yo creo que esto sera todo por oy.</p>
+    
+   </div1>
+   
+   
+   <div1 type="letter" xml:lang="en">
+    
+    <pb facs="shan_l.777.jpg"/>
+    
+    <opener>
+     <fw>page 1</fw>
+     <address><addrLine>Ft. Lupton, Colorado</addrLine></address>
+     <dateline>October 27, - 1962</dateline>
+    </opener>
+    
+    <p>Dear daughter, this letter serves me to greet you, wishing you a complete health, as usual.</p>
+    <p>Well, we are fine, and that is why I thank God, who is so good to us.</p>
+    <p>I am much better, I feel well, blessed be God. I received your letter dated October 14. Well, I had written to you to askwhat Billy boy wanted, but you didn;t tell me. So, I don't know what to send him, he's so big already that I don't know what to send him.</p>
+    <p>Well, so your Birthday is coming up, I wish you many</p>
+    
+    <pb facs="shan_l.778.jpg"/>
+    
+    <p>days like these, <add resp="iv001">I wish</add> that you get to meet your grandchildren, that you become a grandmother and
+     <add>great-great- grandmother.</add></p>
+    <p>So you ask about Max, well there is nothing now, today, this week, the carrot <add resp="iv001">crop</add> was finished. And is getting a bit cold here. My tenants are gone,</p>
+    <p>Anita Cardoza is the only one that remains, the rest already left.</p>
+    <p>Everything is, is very different and it’s a little sad.</p>
+    <p>I’ll tell you that they sent Jerry to that place, Misseesipe <app loc="1" cert="high"><rdg>Mississippi</rdg></app>. I don't know if
+     you will understand me, but it’s that state where they don't like the blacks. Helen told me that he's studying</p>
+    
+    <pb facs="shan_l.779.jpg"/>
+    <fw>page 3.</fw>
+    
+    <p>something about Medicine. Well, I don’t understand. Something like a doctor, that’s
+     what I understand. Well, maybe it’s not, but that’s what we believe.</p>
+    <p>Well, he also sent for his clothes, and first he said he was coming for Christmas, and now
+     he says that he’s not. Well, God help us, you know about those wars that they talk about
+     so much.</p>
+    <p>They are praying a novena of masses, the priest, starting this Monday, October 29th, and
+     ending on November 6th, asking for world peace.</p>
+    <p>Well, daughter, we’ll talk later. I think this will be all for today.</p>
+    
+   </div1>
+   
+   <div1 type="envelope">
+    
+    <pb facs="shan_l.775.jpg"/>
+    
+    <ab type="return">
+     <address>
+      <addrLine>814 pacific Ave</addrLine>
+      <addrLine>ft Lupton Colo</addrLine>
+      <addrLine>Jesusita B. Torres</addrLine>
+     </address>
+    </ab>
+    
+    <ab type="address">
+     <address>
+      <addrLine>Mrs W.F. Schubert</addrLine>
+      <addrLine>1016, South 40th St.</addrLine>
+      <addrLine>Lincoln. 10, Nebraska;</addrLine>
+     </address>
+    </ab>
+    
+    <ab type="postmark">
+     FORT LUPTON<lb/> 
+     OCT 29<lb/>
+     4 PM<lb/>
+     1962<lb/>
+     COLO<lb/>
+    </ab>
+    
+    <figure type="stamp">
+     <p/>
+    </figure>
+    
+   </div1>
+  </body>
+  
+  <back/>
+ </text>
 </TEI>

@@ -1,12 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
-
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="shan_L001.meta">
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="shan_L001.meta">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="main">Letter from Rafaela Arroyo viuda de Torres to Maximino Torres, August 21, 1919</title>
-                <title type="main">Carta de Rafaela Arroyo viuda de Torres a Maximino Torres, 21 de Agosto, 1919</title>
+                <title type="main" xml:lang="en">Letter from Rafaela Arroyo viuda de Torres to Maximino Torres, August 21, 1919</title>
+                <title type="main" xml:lang="es">Carta de Rafaela Arroyo viuda de Torres a Maximino Torres, 21 de Agosto, 1919</title>
                 <author>Arroyo, Rafaela</author>
                 <principal xml:id="iv">Velázquez, Isabel</principal>
                 <respStmt>
@@ -29,7 +26,7 @@
                     <address>
                        <addrLine>1111 Oldfather Hall</addrLine>
                        <addrLine>660 N 12th St</addrLine>
-                       <addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+                       <addrLine>University of Nebraska–Lincoln</addrLine>
                        <addrLine>Lincoln, NE 68588-0315</addrLine>
                        <addrLine>modlang2@unl.edu</addrLine>
                    </address>
@@ -41,12 +38,12 @@
                 </address>
                 <idno>shan_L001.meta</idno>
                 <availability>
-                    <p></p>
-                    <p></p>
+                    <p/>
+                    <p/>
                 </availability>
             </publicationStmt>
 
-            <notesStmt><note></note></notesStmt>
+            <notesStmt><note/></notesStmt>
 
             <sourceDesc>
                 <bibl>
@@ -58,7 +55,7 @@
                 <msDesc>
                     <msIdentifier>
                         <repository>Shanahan Collection</repository>
-                        <idno></idno>
+                        <idno/>
                     </msIdentifier>
                     <msContents>
                         <p>2 hand-written pages</p>
@@ -66,24 +63,24 @@
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
-                                <support></support>
+                                <support/>
                                 <extent> 2 pages
-                                    <dimensions unit="mm"><height></height><width></width></dimensions>
+                                    <dimensions unit="mm"><height/><width/></dimensions>
                                 </extent>
                                 <condition>
-                                    <p></p></condition>
+                                    <p/></condition>
                                 </supportDesc>
                             </objectDesc>
                             <handDesc hands="1">
                                 <handNote xml:id="h01" scribe="rat001" medium="pen"><p>Media: blue ink</p></handNote>
                             </handDesc>
                             <typeDesc>
-                                <typeNote><p></p></typeNote>
+                                <typeNote><p/></typeNote>
                             </typeDesc>
                         </physDesc>
-                        <history><origin></origin>
-                        <provenance></provenance>
-                        <acquisition></acquisition>
+                        <history><origin/>
+                        <provenance/>
+                        <acquisition/>
                     </history>
                 </msDesc>
             </sourceDesc>
@@ -92,10 +89,10 @@
         <encodingDesc>
             <editorialDecl>
                 <correction>
-                    <p></p>
+                    <p/>
                 </correction>
                 <normalization>
-                    <p></p>
+                    <p/>
                 </normalization>
             </editorialDecl>
         </encodingDesc>
@@ -103,33 +100,33 @@
         <profileDesc>
             <textClass>
                 <keywords scheme="original" n="category">
-                    <term></term>
+                    <term/>
                 </keywords>
                 <keywords scheme="original" n="subcategory">
-                    <term></term>
+                    <term/>
                 </keywords>
                 <keywords scheme="original" n="topic">
-                    <term></term>
+                    <term/>
                 </keywords>
                 <keywords scheme="lcsh" n="keywords">
-                    <term></term>
+                    <term/>
                 </keywords>
                 <keywords scheme="lcsh" n="people">
-                    <term></term>
+                    <term/>
                 </keywords>
                 <keywords scheme="lcsh" n="places">
-                    <term></term>
+                    <term/>
                 </keywords>
             </textClass>
             <correspDesc>
                 <correspAction type="sentBy">
                     <persName xml:id="ravt001">Arroyo, Rafaela</persName>
-                    <placeName></placeName>
+                    <placeName/>
                     <date type="written" when="1919-08-21"/>
                 </correspAction>
                 <correspAction type="deliveredTo">
                     <persName xml:id="mt001">Torres, Maximino</persName>
-                    <placeName></placeName>
+                    <placeName/>
                 </correspAction>
                 <correspContext>
                     <ref type="prev" target="shan">Letter from x to y, date</ref>
@@ -183,7 +180,7 @@
 
                 <div1 type="letter" xml:lang="en">
 
-                <pb facs="shan_l.001.jpg"></pb>
+                <pb facs="shan_l.001.jpg"/>
 
 <opener> <dateline>Ecuanduero, Michoacan. August 21, 1919.</dateline>
 <address><addrLine> Mister Maximino Torres</addrLine>
@@ -215,6 +212,6 @@
                 </closer>
             </div1>
         </body>
-        <back></back>
+        <back/>
     </text>
 </TEI>

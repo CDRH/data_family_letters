@@ -1,12 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
-
-<TEI xmlns="http://www.tei-c.org/ns/1.0"  xml:id="shan_L165.meta">
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="shan_L165.meta">
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from William F. Schubert to Santos Baros Schubert, January 8, 1953</title>
-<title type="main">Carta de William F. Schubert a Santos Baros Schubert, 8 de enero, 1953</title>
+<title type="main" xml:lang="en">Letter from William F. Schubert to Santos Baros Schubert, January 8, 1953</title>
+<title type="main" xml:lang="es">Carta de William F. Schubert a Santos Baros Schubert, 8 de enero, 1953</title>
 <author>Schubert, William F.</author>
 <principal xml:id="iv001">Velázquez, Isabel</principal>
 <respStmt>
@@ -29,7 +26,7 @@
  <address>
 <addrLine>1111 Oldfather Hall</addrLine>
 <addrLine>660 N 12th</addrLine>
-<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-0315</addrLine>
 <addrLine>modlang2@unl.edu</addrLine>
 </address>
@@ -45,7 +42,7 @@
 </availability>
 </publicationStmt>
             
-<notesStmt><note></note></notesStmt>
+<notesStmt><note/></notesStmt>
             
 <sourceDesc>
 <bibl>
@@ -57,7 +54,7 @@
 <msDesc>
 <msIdentifier>
 <repository>Shanahan Collection</repository>
-<idno></idno>
+<idno/>
 </msIdentifier>
 <msContents>
 <p>2 hand-written pages and envelope</p>
@@ -65,24 +62,24 @@
 <physDesc>
 <objectDesc>
 <supportDesc>
-<support></support>
+<support/>
 <extent>2 pages and envelope
-<dimensions unit="mm"><height></height><width></width></dimensions>
+<dimensions unit="mm"><height/><width/></dimensions>
 </extent>
 <condition>
-<p></p></condition>
+<p/></condition>
 </supportDesc>
 </objectDesc>
 <handDesc>
 <handNote><p>Media:</p></handNote>
 </handDesc>
 <typeDesc>
-<typeNote><p></p></typeNote>
+<typeNote><p/></typeNote>
 </typeDesc>
 </physDesc>
-<history><origin></origin>
-<provenance></provenance>
-<acquisition></acquisition>
+<history><origin/>
+<provenance/>
+<acquisition/>
 </history>
 </msDesc>
                 
@@ -92,10 +89,10 @@
 <encodingDesc>
 <editorialDecl>
 <correction>
-<p></p>
+<p/>
 </correction>
 <normalization>
-<p></p>
+<p/>
 </normalization>
 </editorialDecl>
 </encodingDesc>
@@ -103,34 +100,34 @@
 <profileDesc>
 <textClass>
 <keywords scheme="original" n="category">
-<term></term>
+<term/>
 </keywords>
 <keywords scheme="original" n="subcategory">
-<term></term>
+<term/>
 </keywords>
 <keywords scheme="original" n="topic">
-<term></term>
+<term/>
 </keywords>
 <keywords scheme="lcsh" n="keywords">
-<term></term>
+<term/>
 </keywords>
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term/>
 </keywords>
 <keywords scheme="lcsh" n="places">
-<term></term>
+<term/>
 </keywords>
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
 <persName xml:id="wfs001">Schubert, William F.</persName>
-<placeName></placeName>
+<placeName/>
 <date type="written" when="1953-01-08"/>
 <date type="postmark" when="1953-01-08"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName xml:id="sbs001">Baros Schubert, Santos</persName>
-<placeName></placeName>
+<placeName/>
 </correspAction>
 <correspContext>
 <ref type="prev" target="shan">Letter from x to y, date</ref>
@@ -222,7 +219,7 @@ JAN 8<lb/>
 </ab>
 
 <figure type="stamp">
-<p></p>
+<p/>
 </figure>
 
 
@@ -239,9 +236,9 @@ JAN 8<lb/>
 <salute>Queridos Sandra, Billy, Bobby y Pamela</salute>
 </opener>
 
- <p>Regresé bien ayer en la mañana y fui a la reunión a las 3:00 pm. No pasó mucho en la reunión. Anoche mi supervisor me dijo que a partir de hoy voy a trabajar de las 10:30 PM a las 7:30 AM. Es un empleo de socorro<certainty locus="name" cert="medium"></certainty>. Dos noches en un fit yard<certainty locus="name" cert="low"></certainty> más cerca de Chicago; luego dos noches en los asilos para pobres y [fit houses] en Chicago donde está la oficina y una noche en otro [fit house]. Habría preferido quedarme en el fit yard<certainty locus="name" cert="low"></certainty> donde estaba. Todavía voy a descansar el lunes y el martes. No hubo mucho que hacer anoche. En las fit houses<certainty locus="name" cert="low"></certainty> es donde usualmente hay más robos, etc.  </p>
+ <p>Regresé bien ayer en la mañana y fui a la reunión a las 3:00 pm. No pasó mucho en la reunión. Anoche mi supervisor me dijo que a partir de hoy voy a trabajar de las 10:30 PM a las 7:30 AM. Es un empleo de socorro<certainty locus="name" cert="medium"/>. Dos noches en un fit yard<certainty locus="name" cert="low"/> más cerca de Chicago; luego dos noches en los asilos para pobres y [fit houses] en Chicago donde está la oficina y una noche en otro [fit house]. Habría preferido quedarme en el fit yard<certainty locus="name" cert="low"/> donde estaba. Todavía voy a descansar el lunes y el martes. No hubo mucho que hacer anoche. En las fit houses<certainty locus="name" cert="low"/> es donde usualmente hay más robos, etc.  </p>
 
-<p>Voy a ir a ver un parque de trailers que se supone que está a una milla de aquí. También tengo que ir a recoger mi ropa de la lavandería. Anoche se me ensució el abrigo así que hoy voy a conseguir líquido desmanchador para tratar de limpiarlo. Una cosa <add cert="high" resp="iv">buena</add> de las fit houses<certainty locus="name" cert="low"></certainty> es que tendré que usar traje y abrigo, es mucho más limpio. </p>
+<p>Voy a ir a ver un parque de trailers que se supone que está a una milla de aquí. También tengo que ir a recoger mi ropa de la lavandería. Anoche se me ensució el abrigo así que hoy voy a conseguir líquido desmanchador para tratar de limpiarlo. Una cosa <add cert="high" resp="iv">buena</add> de las fit houses<certainty locus="name" cert="low"/> es que tendré que usar traje y abrigo, es mucho más limpio. </p>
 
 <p>Parece que llovió y se congeló hoy en la mañana. Nevó un poco ayer y después subió un poco la temperatura por la noche. La empresa tiene un par de hombres más que van a empezar a trabajar, así que probablemente me darán un nuevo trabajo en unas dos o tres semanas.</p>
 
@@ -263,6 +260,6 @@ JAN 8<lb/>
 
 </body>
         
-<back></back>
+<back/>
 </text>
 </TEI>

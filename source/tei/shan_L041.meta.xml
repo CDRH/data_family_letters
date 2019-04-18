@@ -1,12 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
-
-<TEI xmlns="http://www.tei-c.org/ns/1.0"  xml:id="shan_L041.meta">
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="shan_L041.meta">
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from Tammy Autobus to Santos Baros Schubert, January 6, 1942</title>
-<title type="main">Carta de Tammy Autobus a Santos Baros Schubert, 6 de enero, 1942</title>
+<title type="main" xml:lang="en">Letter from Tammy Autobus to Santos Baros Schubert, January 6, 1942</title>
+<title type="main" xml:lang="es">Carta de Tammy Autobus a Santos Baros Schubert, 6 de enero, 1942</title>
 <author>Autobus, Tammy</author>
 <principal xml:id="iv001">Velázquez, Isabel</principal>
 <respStmt>
@@ -29,7 +26,7 @@
  <address>
 <addrLine>1111 Oldfather Hall</addrLine>
 <addrLine>660 N 12th</addrLine>
-<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-0315</addrLine>
 <addrLine>modlang2@unl.edu</addrLine>
 </address>
@@ -45,7 +42,7 @@
 </availability>
 </publicationStmt>
             
-<notesStmt><note></note></notesStmt>
+<notesStmt><note/></notesStmt>
             
 <sourceDesc>
 <bibl>
@@ -57,7 +54,7 @@
 <msDesc>
 <msIdentifier>
 <repository>Shanahan Collection</repository>
-<idno></idno>
+<idno/>
 </msIdentifier>
 <msContents>
 <p>1 hand-written page and envelope</p>
@@ -65,24 +62,24 @@
 <physDesc>
 <objectDesc>
 <supportDesc>
-<support></support>
+<support/>
 <extent>1 page and envelope
-<dimensions unit="mm"><height></height><width></width></dimensions>
+<dimensions unit="mm"><height/><width/></dimensions>
 </extent>
 <condition>
-<p></p></condition>
+<p/></condition>
 </supportDesc>
 </objectDesc>
 <handDesc hands="1">
 <handNote xml:id="h01" scribe="ta001" medium="pencil"><p>Media: lead/graphite</p></handNote>
 </handDesc>
 <typeDesc>
-<typeNote><p></p></typeNote>
+<typeNote><p/></typeNote>
 </typeDesc>
 </physDesc>
-<history><origin></origin>
-<provenance></provenance>
-<acquisition></acquisition>
+<history><origin/>
+<provenance/>
+<acquisition/>
 </history>
 </msDesc>
                 
@@ -92,10 +89,10 @@
 <encodingDesc>
 <editorialDecl>
 <correction>
-<p></p>
+<p/>
 </correction>
 <normalization>
-<p></p>
+<p/>
 </normalization>
 </editorialDecl>
 </encodingDesc>
@@ -103,34 +100,34 @@
 <profileDesc>
 <textClass>
 <keywords scheme="original" n="category">
-<term></term>
+<term/>
 </keywords>
 <keywords scheme="original" n="subcategory">
-<term></term>
+<term/>
 </keywords>
 <keywords scheme="original" n="topic">
-<term></term>
+<term/>
 </keywords>
 <keywords scheme="lcsh" n="keywords">
-<term></term>
+<term/>
 </keywords>
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term/>
 </keywords>
 <keywords scheme="lcsh" n="places">
-<term></term>
+<term/>
 </keywords>
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
 <persName xml:id="ta002">Autobus, Tammy</persName>
-<placeName></placeName>
+<placeName/>
 <date type="written" when="1942-01-06"/>
 <date type="postmarked" when="1942-01-06"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName xml:id="sbs001">Baros Schubert, Santos</persName>
-<placeName></placeName>
+<placeName/>
 </correspAction>
 <correspContext>
 <ref type="prev" target="shan">Letter from x to y, date</ref>
@@ -191,7 +188,7 @@
 <ab type="return">
 <address>
 <addrLine>Return to Tomasita Autobus</addrLine>
-<addrLine><unclear reason= "illegible">Box  154 R. # I</unclear></addrLine>
+<addrLine><unclear reason="illegible">Box  154 R. # I</unclear></addrLine>
 <addrLine>Erie Colorado</addrLine>
 </address>
 </ab>
@@ -213,7 +210,7 @@ COLO.<lb/>
 </ab>
 
 <figure type="stamp">
-<p></p>
+<p/>
 </figure>
 
 </div1>
@@ -255,6 +252,6 @@ COLO.<lb/>
 
 </body>
         
-<back></back>
+<back/>
 </text>
 </TEI>

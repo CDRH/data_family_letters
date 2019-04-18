@@ -1,12 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
-
-<TEI xmlns="http://www.tei-c.org/ns/1.0"  xml:id="shan_L225.meta">
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="shan_L225.meta">
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from Santos Baros Schubert to William F. Schubert, October 16, 1950</title>
-<title type="main">Carta de Santos Baros Schubert a William F. Schubert, 16 de octubre, 1950</title>
+<title type="main" xml:lang="en">Letter from Santos Baros Schubert to William F. Schubert, October 16, 1950</title>
+<title type="main" xml:lang="es">Carta de Santos Baros Schubert a William F. Schubert, 16 de octubre, 1950</title>
 <author>Baros Schubert, Santos</author>
 <principal xml:id="iv001">Velázquez, Isabel</principal>
 <respStmt>
@@ -28,7 +25,7 @@
  <address>
 <addrLine>1111 Oldfather Hall</addrLine>
 <addrLine>660 N 12th</addrLine>
-<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-0315</addrLine>
 <addrLine>modlang2@unl.edu</addrLine>
 </address>
@@ -44,7 +41,7 @@
 </availability>
 </publicationStmt>
             
-<notesStmt><note></note></notesStmt>
+<notesStmt><note/></notesStmt>
             
 <sourceDesc>
 <bibl>
@@ -56,7 +53,7 @@
 <msDesc>
 <msIdentifier>
 <repository>Shanahan Collection</repository>
-<idno></idno>
+<idno/>
 </msIdentifier>
 <msContents>
 <p>1 hand-written envelope, 1 card and 3 hand-written pages</p>
@@ -64,24 +61,24 @@
 <physDesc>
 <objectDesc>
 <supportDesc>
-<support></support>
+<support/>
 <extent>1 envelope, 1 card and 3 pages
-<dimensions unit="mm"><height></height><width></width></dimensions>
+<dimensions unit="mm"><height/><width/></dimensions>
 </extent>
 <condition>
-<p></p></condition>
+<p/></condition>
 </supportDesc>
 </objectDesc>
 <handDesc>
 <handNote><p>Media:</p></handNote>
 </handDesc>
 <typeDesc>
-<typeNote><p></p></typeNote>
+<typeNote><p/></typeNote>
 </typeDesc>
 </physDesc>
-<history><origin></origin>
-<provenance></provenance>
-<acquisition></acquisition>
+<history><origin/>
+<provenance/>
+<acquisition/>
 </history>
 </msDesc>
                 
@@ -91,10 +88,10 @@
 <encodingDesc>
 <editorialDecl>
 <correction>
-<p></p>
+<p/>
 </correction>
 <normalization>
-<p></p>
+<p/>
 </normalization>
 </editorialDecl>
 </encodingDesc>
@@ -102,33 +99,33 @@
 <profileDesc>
 <textClass>
 <keywords scheme="original" n="category">
-<term></term>
+<term/>
 </keywords>
 <keywords scheme="original" n="subcategory">
-<term></term>
+<term/>
 </keywords>
 <keywords scheme="original" n="topic">
-<term></term>
+<term/>
 </keywords>
 <keywords scheme="lcsh" n="keywords">
-<term></term>
+<term/>
 </keywords>
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term/>
 </keywords>
 <keywords scheme="lcsh" n="places">
-<term></term>
+<term/>
 </keywords>
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
 <persName xml:id="sbs001">Baros Schubert, Santos</persName>
-<placeName></placeName>
+<placeName/>
 <date type="written" when="1950-10-16"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName xml:id="wfs001">Schubert, William F.</persName>
-<placeName></placeName>
+<placeName/>
 </correspAction>
 <correspContext>
 <ref type="prev" target="shan">Letter from x to y, date</ref>
@@ -158,16 +155,16 @@
 <salute>MyDearest Husband,</salute>
 </opener>
 
-<p>Hope &amp; pray this will find you in good health. I&#39;m O.K. but Billy has a cold. Helen &amp; Jess were here tonight with the kids. Billy talks more to Jess now. Yesterday Sunday we cut the grass. It was so high. We had just finished when Terry &amp; Johnie came. They&#39;re just driving around. Stayed 1/2 hr. &amp; then left for Longmont. I read Billy your letter. You should have seen his expression. He says he wants walnuts so I can make him cookies. And he wants his train set up when we get home. Glad to hear that Jack is O.K. If I had his address I&#39;d</p>
+<p>Hope &amp; pray this will find you in good health. I'm O.K. but Billy has a cold. Helen &amp; Jess were here tonight with the kids. Billy talks more to Jess now. Yesterday Sunday we cut the grass. It was so high. We had just finished when Terry &amp; Johnie came. They're just driving around. Stayed 1/2 hr. &amp; then left for Longmont. I read Billy your letter. You should have seen his expression. He says he wants walnuts so I can make him cookies. And he wants his train set up when we get home. Glad to hear that Jack is O.K. If I had his address I'd</p>
 
 <pb facs="shan_l.811.jpg"/>
 
-<p>write to him. I should write more letters. Haven&#39;t written to Mrs. Parrish yet. Almost forget to tell you that I went to Denver again Sat. with Helen&amp;Jess. They&#39;d to do alot of shopping. They bought a gas heater. I bought me a suede brown, shoulder strap pocket book, with my birthday money. And when I get home you can have your $10.00 for Billy&#39;s train. Friday night I went to the Spanish show with the folks. Had to take Billy.
-There&#39;s a trailer park here on the highway. I asked the man today how much it was to park a trailer. He said $4.00 a week. But he don&#39;t want any more trailers (He just has one)</p>
+<p>write to him. I should write more letters. Haven't written to Mrs. Parrish yet. Almost forget to tell you that I went to Denver again Sat. with Helen&amp;Jess. They'd to do alot of shopping. They bought a gas heater. I bought me a suede brown, shoulder strap pocket book, with my birthday money. And when I get home you can have your $10.00 for Billy's train. Friday night I went to the Spanish show with the folks. Had to take Billy.
+There's a trailer park here on the highway. I asked the man today how much it was to park a trailer. He said $4.00 a week. But he don't want any more trailers (He just has one)</p>
 <pb/>
-<p>because they want him to put sewer &amp; everything. It&#39;d cost him about $2,000. I hope you can sell the small one, as it&#39;s alot of bother.</p>
-<p>I see that I&#39;m going to have a picnic when I get home. Everything all upset.</p>
-<p>Don&#39;t forget to send me the key to the brown suit case.</p>
+<p>because they want him to put sewer &amp; everything. It'd cost him about $2,000. I hope you can sell the small one, as it's alot of bother.</p>
+<p>I see that I'm going to have a picnic when I get home. Everything all upset.</p>
+<p>Don't forget to send me the key to the brown suit case.</p>
 <p>Better say good night Bill. Sweet dreams. We miss you and love you.</p>
 <closer>
 <salute>Faithfully yours,</salute>
@@ -188,7 +185,7 @@ There&#39;s a trailer park here on the highway. I asked the man today how much i
 <salute>Dearest Bill,</salute>
 </opener>
 <p>Am at Post office. Received two letters.</p>
-<p>If you&#39;re going to the Army no use <del type="strike">if</del> in sending me my postal savings. I don&#39;t want the lots. I thought we&#39;re going with you wherever you go. Unless you want us to stay here. Of course, I rather stay here as anywhere else. Thanks for the key. Lots of love from Billy &amp; Sandra</p>
+<p>If you're going to the Army no use <del type="strike">if</del> in sending me my postal savings. I don't want the lots. I thought we're going with you wherever you go. Unless you want us to stay here. Of course, I rather stay here as anywhere else. Thanks for the key. Lots of love from Billy &amp; Sandra</p>
 
 <pb facs="shan_l.808.jpg"/>
 
@@ -280,7 +277,7 @@ COLO<lb/>
 </ab>
 
 <figure type="stamp">
-<p></p>
+<p/>
 </figure>
 
 <pb facs="shan_l.802.jpg"/>
@@ -297,6 +294,6 @@ COLO<lb/>
 </div1>
 </body>
         
-<back></back>
+<back/>
 </text>
 </TEI>

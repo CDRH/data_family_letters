@@ -1,12 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
-
-<TEI xmlns="http://www.tei-c.org/ns/1.0"  xml:id="shan_L219.meta">
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="shan_L219.meta">
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from Jesusita Baros Torres to Santos Baros Schubert, October 4, 1968</title>
-<title type="main">Carta de Jesusita Baros Torres a Santos Baros Schubert, 4 de octubre, 1968</title>
+<title type="main" xml:lang="en">Letter from Jesusita Baros Torres to Santos Baros Schubert, October 4, 1968</title>
+<title type="main" xml:lang="es">Carta de Jesusita Baros Torres a Santos Baros Schubert, 4 de octubre, 1968</title>
 <author>Baros Torres, Jesusita</author>
 <principal xml:id="iv001">Velázquez, Isabel</principal>
 <respStmt>
@@ -28,7 +25,7 @@
  <address>
 <addrLine>1111 Oldfather Hall</addrLine>
 <addrLine>660 N 12th</addrLine>
-<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-0315</addrLine>
 <addrLine>modlang2@unl.edu</addrLine>
 </address>
@@ -44,7 +41,7 @@
 </availability>
 </publicationStmt>
             
-<notesStmt><note></note></notesStmt>
+<notesStmt><note/></notesStmt>
             
 <sourceDesc>
 <bibl>
@@ -56,7 +53,7 @@
 <msDesc>
 <msIdentifier>
 <repository>Shanahan Collection</repository>
-<idno></idno>
+<idno/>
 </msIdentifier>
 <msContents>
 <p>1 hand-written envelope and 2 hand-written pages</p>
@@ -64,24 +61,24 @@
 <physDesc>
 <objectDesc>
 <supportDesc>
-<support></support>
+<support/>
 <extent>1 envelope and 2 pages
-<dimensions unit="mm"><height></height><width></width></dimensions>
+<dimensions unit="mm"><height/><width/></dimensions>
 </extent>
 <condition>
-<p></p></condition>
+<p/></condition>
 </supportDesc>
 </objectDesc>
 <handDesc>
 <handNote><p>Media: pencil</p></handNote>
 </handDesc>
 <typeDesc>
-<typeNote><p></p></typeNote>
+<typeNote><p/></typeNote>
 </typeDesc>
 </physDesc>
-<history><origin></origin>
-<provenance></provenance>
-<acquisition></acquisition>
+<history><origin/>
+<provenance/>
+<acquisition/>
 </history>
 </msDesc>
                 
@@ -91,10 +88,10 @@
 <encodingDesc>
 <editorialDecl>
 <correction>
-<p></p>
+<p/>
 </correction>
 <normalization>
-<p></p>
+<p/>
 </normalization>
 </editorialDecl>
 </encodingDesc>
@@ -102,33 +99,33 @@
 <profileDesc>
 <textClass>
 <keywords scheme="original" n="category">
-<term></term>
+<term/>
 </keywords>
 <keywords scheme="original" n="subcategory">
-<term></term>
+<term/>
 </keywords>
 <keywords scheme="original" n="topic">
-<term></term>
+<term/>
 </keywords>
 <keywords scheme="lcsh" n="keywords">
-<term></term>
+<term/>
 </keywords>
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term/>
 </keywords>
 <keywords scheme="lcsh" n="places">
-<term></term>
+<term/>
 </keywords>
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
 <persName xml:id="jbt001">Baros Torres, Jesusita</persName>
-<placeName></placeName>
+<placeName/>
 <date type="written" when="1968-10-04"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName xml:id="sbs001">Baros Schubert, Santos</persName>
-<placeName></placeName>
+<placeName/>
 </correspAction>
 <correspContext>
 <ref type="prev" target="shan">Letter from x to y, date</ref>
@@ -197,7 +194,7 @@ nosotros.</p>
 
 <p>Dear daughter, this letter is to greet you and Bill, and all the children, hoping you are all doing well, and <add resp="iv001">wishing</add> Billy boy a Happy Birthday.</p>
 <p>Happy Birthday</p>
-<p>Well, we don&#39;t have any news here, everything is the same, just that it is getting very cold already. Sandra, I&#39;ll tell you that I received the parcel you sent me and that is how I wanted my warm underwear. I&#39;m very grateful. Thanks a lot. Helen is still working, Markl is in school, and Max is also working, so I&#39;m home alone. I want to bring my flowers into the house because it&#39;s already cold. And I’ve also been wanting to send you that thing I told you about, but there is no one here to take me to the store. Well, I don&#39;t get by well enough to go to the store by myself.</p>
+<p>Well, we don't have any news here, everything is the same, just that it is getting very cold already. Sandra, I'll tell you that I received the parcel you sent me and that is how I wanted my warm underwear. I'm very grateful. Thanks a lot. Helen is still working, Markl is in school, and Max is also working, so I'm home alone. I want to bring my flowers into the house because it's already cold. And I’ve also been wanting to send you that thing I told you about, but there is no one here to take me to the store. Well, I don't get by well enough to go to the store by myself.</p>
 
 <pb facs="shan_l.785.jpg"/>
 
@@ -243,12 +240,12 @@ PM<lb/>
 </ab>
 
 <figure type="stamp">
-<p></p>
+<p/>
 </figure>
 
 </div1>
 </body>
         
-<back></back>
+<back/>
 </text>
 </TEI>

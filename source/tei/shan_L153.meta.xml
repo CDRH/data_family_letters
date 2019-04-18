@@ -1,12 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
-
-<TEI xmlns="http://www.tei-c.org/ns/1.0"  xml:id="shan_L153.meta">
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="shan_L153.meta">
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from Faustin Villanueva to Jesusita Baros Torres, May 14, 1939</title>
-<title type="main">Carta de Faustin Villanueva a Jesusita Baros Torres, 14 de mayo, 1939</title>
+<title type="main" xml:lang="en">Letter from Faustin Villanueva to Jesusita Baros Torres, May 14, 1939</title>
+<title type="main" xml:lang="es">Carta de Faustin Villanueva a Jesusita Baros Torres, 14 de mayo, 1939</title>
 <author>Villanueva, Faustin</author>
 <principal xml:id="iv001">Velázquez, Isabel</principal>
 <respStmt>
@@ -30,7 +27,7 @@
  <address>
 <addrLine>1111 Oldfather Hall</addrLine>
 <addrLine>660 N 12th</addrLine>
-<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-0315</addrLine>
 <addrLine>modlang2@unl.edu</addrLine>
 </address>
@@ -46,7 +43,7 @@
 </availability>
 </publicationStmt>
             
-<notesStmt><note></note></notesStmt>
+<notesStmt><note/></notesStmt>
             
 <sourceDesc>
 <bibl>
@@ -58,7 +55,7 @@
 <msDesc>
 <msIdentifier>
 <repository>Shanahan Collection</repository>
-<idno></idno>
+<idno/>
 </msIdentifier>
 <msContents>
 <p>4 hand-written pages and envelope</p>
@@ -66,24 +63,24 @@
 <physDesc>
 <objectDesc>
 <supportDesc>
-<support></support>
+<support/>
 <extent>4 pages and envelope
-<dimensions unit="mm"><height></height><width></width></dimensions>
+<dimensions unit="mm"><height/><width/></dimensions>
 </extent>
 <condition>
-<p></p></condition>
+<p/></condition>
 </supportDesc>
 </objectDesc>
 <handDesc hands="1">
 <handNote xml:id="h01" scribe="fv001" medium="pen"><p>Media: pencil</p></handNote>
 </handDesc>
 <typeDesc>
-<typeNote><p></p></typeNote>
+<typeNote><p/></typeNote>
 </typeDesc>
 </physDesc>
-<history><origin></origin>
-<provenance></provenance>
-<acquisition></acquisition>
+<history><origin/>
+<provenance/>
+<acquisition/>
 </history>
 </msDesc>
                 
@@ -93,10 +90,10 @@
 <encodingDesc>
 <editorialDecl>
 <correction>
-<p></p>
+<p/>
 </correction>
 <normalization>
-<p></p>
+<p/>
 </normalization>
 </editorialDecl>
 </encodingDesc>
@@ -104,34 +101,34 @@
 <profileDesc>
 <textClass>
 <keywords scheme="original" n="category">
-<term></term>
+<term/>
 </keywords>
 <keywords scheme="original" n="subcategory">
-<term></term>
+<term/>
 </keywords>
 <keywords scheme="original" n="topic">
-<term></term>
+<term/>
 </keywords>
 <keywords scheme="lcsh" n="keywords">
-<term></term>
+<term/>
 </keywords>
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term/>
 </keywords>
 <keywords scheme="lcsh" n="places">
-<term></term>
+<term/>
 </keywords>
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
 <persName xml:id="fv001">Villanueva, Faustin</persName>
-<placeName></placeName>
+<placeName/>
 <date type="written" when="1939-05-14"/>
 <date type="postmarked" when="1939-05-18"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName xml:id="jbt001">Baros Torres, Jesusita</persName>
-<placeName></placeName>
+<placeName/>
 </correspAction>
 <correspContext>
 <ref type="prev" target="shan">Letter from x to y, date</ref>
@@ -164,13 +161,13 @@
                 
 <p>Ase días que résiví tu carta en la cual tube muncho gusto al saver que estan Buenos que la salu que yo paso es Buena por lo que Doy Gracas a Díos</p>
 
-<p>Hoy ase dos años que te fueits a las 310 PM que me quede solo en el mundo. crying for you pues <unclear reason= "illegible" extent= "one word">díos</unclear> hace todo <unclear reason= "smudged">estó</unclear> pues este es el papel que me mandetes y tembían me díses de
+<p>Hoy ase dos años que te fueits a las 310 PM que me quede solo en el mundo. crying for you pues <unclear reason="illegible" extent="one word">díos</unclear> hace todo <unclear reason="smudged">estó</unclear> pues este es el papel que me mandetes y tembían me díses de
 
 <pb facs="shan_l.557.jpg"/>
 
 <fw>( 2)</fw>
 
-la Rosa de <choice><reg>Vicente</reg><orig>víente</orig></choice> se acaso con un que es Delfin <choice><reg>Montoro</reg><orig>Montorno</orig></choice> pues probe Vicente tenbien Florencio <unclear reason= "illegible" extent= "one word"/> este apunte de la adelida la de Viseno Luís. yo <choice><corr>no</corr><sic>mo</sic></choice> <choice><corr>les</corr><sic>los</sic></choice> albo pues a notche mataron a un <choice><corr>vecino</corr><sic>Biseno</sic></choice> miyo en monte carlo en William street pues ora temben te díre que no va jente de aqí para <choice><corr>Colorado</corr><sic>calardo</sic></choice>, naiden el <choice><corr>gobierno</corr><sic>Gorverno</sic></choice> no dega ir jente de este estado para ya ít ís raíning
+la Rosa de <choice><reg>Vicente</reg><orig>víente</orig></choice> se acaso con un que es Delfin <choice><reg>Montoro</reg><orig>Montorno</orig></choice> pues probe Vicente tenbien Florencio <unclear reason="illegible" extent="one word"/> este apunte de la adelida la de Viseno Luís. yo <choice><corr>no</corr><sic>mo</sic></choice> <choice><corr>les</corr><sic>los</sic></choice> albo pues a notche mataron a un <choice><corr>vecino</corr><sic>Biseno</sic></choice> miyo en monte carlo en William street pues ora temben te díre que no va jente de aqí para <choice><corr>Colorado</corr><sic>calardo</sic></choice>, naiden el <choice><corr>gobierno</corr><sic>Gorverno</sic></choice> no dega ir jente de este estado para ya ít ís raíning
 
 <pb facs="shan_l.558.jpg"/>
 
@@ -178,16 +175,16 @@ la Rosa de <choice><reg>Vicente</reg><orig>víente</orig></choice> se acaso con 
 
 very hard, son las 9 de la notche hay <choice><reg>gloomy</reg><orig>bloomy</orig></choice>.</p>
 
-<p>cuando eramos a parke de la 4th street yo creo que tu no te acurdes de nada yo se por que día día estoy a quí y miro tu ratrato yo creo que tu no mires el mio todo <choice><corr>las</corr><sic>lus</sic></choice> <choice><corr>cartas</corr><sic>cartes</sic></choice> que tu me asi escrito yo las tengo todas pues saludos a <choice><corr>la</corr><sic>lu</sic></choice> S y J de el Tío <unclear reason= "illegible" extent= "one word"/> pude que ya no <choice><corr>acuerden</corr><sic>acurden</sic></choice> de mí pues <unclear reason= "illegible" extent= "one word">corazon</unclear> te dire que que <choice><corr>va a entrar</corr><sic>va en tríe</sic></choice> la
+<p>cuando eramos a parke de la 4th street yo creo que tu no te acurdes de nada yo se por que día día estoy a quí y miro tu ratrato yo creo que tu no mires el mio todo <choice><corr>las</corr><sic>lus</sic></choice> <choice><corr>cartas</corr><sic>cartes</sic></choice> que tu me asi escrito yo las tengo todas pues saludos a <choice><corr>la</corr><sic>lu</sic></choice> S y J de el Tío <unclear reason="illegible" extent="one word"/> pude que ya no <choice><corr>acuerden</corr><sic>acurden</sic></choice> de mí pues <unclear reason="illegible" extent="one word">corazon</unclear> te dire que que <choice><corr>va a entrar</corr><sic>va en tríe</sic></choice> la
 
 <pb facs="shan_l.559.jpg"/>
 
 <fw>(4)</fw>
 
-uníon en el shop. Ora pronto esta Bueno es Bueno. Pues mí <choice><corr>hermano</corr><sic>hermno</sic></choice> Jose no entra en el shop toda via es muy poca jente trabajando el savado <unclear reason="smudged">tubemos</unclear> lay off. 10 personas . <choice><corr>quién</corr><sic>cen</sic></choice> save como se ponga el trabajo pues <unclear reason= "illegible" extent= "one word">corazon</unclear> no te escribo mas <unclear reason= "illegible" extent= "three words">esta orta vista</unclear></p>
+uníon en el shop. Ora pronto esta Bueno es Bueno. Pues mí <choice><corr>hermano</corr><sic>hermno</sic></choice> Jose no entra en el shop toda via es muy poca jente trabajando el savado <unclear reason="smudged">tubemos</unclear> lay off. 10 personas . <choice><corr>quién</corr><sic>cen</sic></choice> save como se ponga el trabajo pues <unclear reason="illegible" extent="one word">corazon</unclear> no te escribo mas <unclear reason="illegible" extent="three words">esta orta vista</unclear></p>
 
 <closer>
-<salute>Contestas pronto <unclear reason= "illegible" extent= "one word">corazon</unclear> y saludes a S &amp; J y <unclear reason= "illegible" extent= "four words">tub resves el Corazon</unclear> de FV contesta <choice><corr>pronto</corr><sic>ponto</sic></choice> <unclear reason="illegible"/></salute>                    
+<salute>Contestas pronto <unclear reason="illegible" extent="one word">corazon</unclear> y saludes a S &amp; J y <unclear reason="illegible" extent="four words">tub resves el Corazon</unclear> de FV contesta <choice><corr>pronto</corr><sic>ponto</sic></choice> <unclear reason="illegible"/></salute>                    
 <signed>Lucía <unclear reason="illegible"/> soy FV</signed>
 </closer>
 
@@ -226,7 +223,7 @@ N. MEX.<lb/>
 
 
 <figure type="stamp">
-<p></p>
+<p/>
 </figure>
 
 </div1>
@@ -249,7 +246,7 @@ N. MEX.<lb/>
  
  <fw>(2)</fw>
  
- Vicente’s Rosa, who married a guy named Delfin Montorno <add resp="iv001" cert="high">Montoro</add>, poor Vicente. Also Florencio <unclear reason= "illegible" extent= "one word"/> this note <add resp="iv001" cert="high">newsclipping</add> about neighbor Luis’ Adelaida. I’m not speaking to them because last night they killed one of my neighbors at the Monte Carlo on Willam Street. Well, I will also tell you that no one from here is going to Colorado. The government is not letting people from this state go over there. Está lloviendo
+ Vicente’s Rosa, who married a guy named Delfin Montorno <add resp="iv001" cert="high">Montoro</add>, poor Vicente. Also Florencio <unclear reason="illegible" extent="one word"/> this note <add resp="iv001" cert="high">newsclipping</add> about neighbor Luis’ Adelaida. I’m not speaking to them because last night they killed one of my neighbors at the Monte Carlo on Willam Street. Well, I will also tell you that no one from here is going to Colorado. The government is not letting people from this state go over there. Está lloviendo
 
 
 <pb facs="shan_l.558.jpg"/>
@@ -257,7 +254,7 @@ N. MEX.<lb/>
 <fw>(3)</fw>
  mucho. Hasta ahorita, 9 de la noche, hay hay <app loc="1" cert="low"><rdg>bloomy</rdg></app> <app loc="2" cert="low"><rdg>gloomy.</rdg></app></p>
 
- <p>When we were at the park on 4 th street I think you don’t remember anythin I do because day after day I’m here and I look at your portrait and I think you don’t look at mine. All your letters that you have written to me I keep them all. Well, regards to S and J from uncle <unclear reason= "illegible" extent= "one word"/> it’s possible that they won’t remember me. Well, sweetheart, I will tel you that the
+ <p>When we were at the park on 4 th street I think you don’t remember anythin I do because day after day I’m here and I look at your portrait and I think you don’t look at mine. All your letters that you have written to me I keep them all. Well, regards to S and J from uncle <unclear reason="illegible" extent="one word"/> it’s possible that they won’t remember me. Well, sweetheart, I will tel you that the
   
   <pb facs="shan_l.559.jpg"/>
   
@@ -278,6 +275,6 @@ N. MEX.<lb/>
  
 </body>
         
-<back></back>
+<back/>
 </text>
 </TEI>

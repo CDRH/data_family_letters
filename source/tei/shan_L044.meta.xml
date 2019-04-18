@@ -1,12 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
-
-<TEI xmlns="http://www.tei-c.org/ns/1.0"  xml:id="shan_L044.meta">
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="shan_L044.meta">
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from Santos Baros Schubert to Jesusita Baros Torres, February 24, 1960</title>
-<title type="main">Carta de Santos Baros Schubert a Jesusita Baros Torres, 24 de febrero, 1960</title>
+<title type="main" xml:lang="en">Letter from Santos Baros Schubert to Jesusita Baros Torres, February 24, 1960</title>
+<title type="main" xml:lang="es">Carta de Santos Baros Schubert a Jesusita Baros Torres, 24 de febrero, 1960</title>
 <author>Baros Schubert, Santos</author>
 <principal xml:id="iv001">Velázquez, Isabel</principal>
 <respStmt>
@@ -29,7 +26,7 @@
  <address>
 <addrLine>1111 Oldfather Hall</addrLine>
 <addrLine>660 N 12th</addrLine>
-<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-0315</addrLine>
 <addrLine>modlang2@unl.edu</addrLine>
 </address>
@@ -45,7 +42,7 @@
 </availability>
 </publicationStmt>
             
-<notesStmt><note></note></notesStmt>
+<notesStmt><note/></notesStmt>
             
 <sourceDesc>
 <bibl>
@@ -57,7 +54,7 @@
 <msDesc>
 <msIdentifier>
 <repository>Shanahan Collection</repository>
-<idno></idno>
+<idno/>
 </msIdentifier>
 <msContents>
 <p>1 hand-written page</p>
@@ -65,24 +62,24 @@
 <physDesc>
 <objectDesc>
 <supportDesc>
-<support></support>
+<support/>
 <extent>1 page
-<dimensions unit="mm"><height></height><width></width></dimensions>
+<dimensions unit="mm"><height/><width/></dimensions>
 </extent>
 <condition>
-<p></p></condition>
+<p/></condition>
 </supportDesc>
 </objectDesc>
 <handDesc hands="1">
 <handNote xml:id="h01" scribe="sbs001" medium="pen"><p>Media: blue ink</p></handNote>
 </handDesc>
 <typeDesc>
-<typeNote><p></p></typeNote>
+<typeNote><p/></typeNote>
 </typeDesc>
 </physDesc>
-<history><origin></origin>
-<provenance></provenance>
-<acquisition></acquisition>
+<history><origin/>
+<provenance/>
+<acquisition/>
 </history>
 </msDesc>
                 
@@ -92,10 +89,10 @@
 <encodingDesc>
 <editorialDecl>
 <correction>
-<p></p>
+<p/>
 </correction>
 <normalization>
-<p></p>
+<p/>
 </normalization>
 </editorialDecl>
 </encodingDesc>
@@ -103,33 +100,33 @@
 <profileDesc>
 <textClass>
 <keywords scheme="original" n="category">
-<term></term>
+<term/>
 </keywords>
 <keywords scheme="original" n="subcategory">
-<term></term>
+<term/>
 </keywords>
 <keywords scheme="original" n="topic">
-<term></term>
+<term/>
 </keywords>
 <keywords scheme="lcsh" n="keywords">
-<term></term>
+<term/>
 </keywords>
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term/>
 </keywords>
 <keywords scheme="lcsh" n="places">
-<term></term>
+<term/>
 </keywords>
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
 <persName xml:id="sbs001">Baros Schubert, Santos</persName>
-<placeName></placeName>
+<placeName/>
 <date type="written" when="1960-02-24"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName xml:id="jbt001">Baros Torres, Jesusita</persName>
-<placeName></placeName>
+<placeName/>
 </correspAction>
 <correspContext>
 <ref type="prev" target="shan">Letter from x to y, date</ref>
@@ -156,7 +153,7 @@
 <opener>
 
 <dateline>Feb 24,1960</dateline>
-<address><addrLine>><unclear reason="illegible">60</unclear> South 40th St.</addrLine></address>
+<address><addrLine>&gt;<unclear reason="illegible">60</unclear> South 40th St.</addrLine></address>
 
 <salute>Querida mama,</salute>
 </opener>
@@ -169,7 +166,7 @@
 
 <closer>
 <salute>De nuevas – es el tiempo –esta muy frio y mucha, mucha nieve Que bueno que tengo muy buena casa –muy calientita – no es fria.</salute>                    
-<signed></signed>
+<signed/>
 </closer>
                 
 </div1>
@@ -195,13 +192,13 @@
 <closer>
 <salute>In other news –it’s the weather – it’s very cold and <add resp="iv001">we have</add> a lot, a lot of snow. It’s a good
 thing that I have a very good house—very warm—it’s not cold.</salute>                    
-<signed></signed>
+<signed/>
 </closer>
                 
 </div1>
 
 </body>
         
-<back></back>
+<back/>
 </text>
 </TEI>

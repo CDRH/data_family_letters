@@ -1,12 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
-
-<TEI xmlns="http://www.tei-c.org/ns/1.0"  xml:id="shan_L218.meta">
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="shan_L218.meta">
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from Jesusita Baros Torres to Santos Baros Schubert, July 25, 1966</title>
-<title type="main">Carta de Jesusita Baros Torres a Santos Baros Schubert, 25 de julio, 1966</title>
+<title type="main" xml:lang="en">Letter from Jesusita Baros Torres to Santos Baros Schubert, July 25, 1966</title>
+<title type="main" xml:lang="es">Carta de Jesusita Baros Torres a Santos Baros Schubert, 25 de julio, 1966</title>
 <author>Baros Torres, Jesusita</author>
 <principal xml:id="iv001">Velázquez, Isabel</principal>
 <respStmt>
@@ -28,7 +25,7 @@
  <address>
 <addrLine>1111 Oldfather Hall</addrLine>
 <addrLine>660 N 12th</addrLine>
-<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-0315</addrLine>
 <addrLine>modlang2@unl.edu</addrLine>
 </address>
@@ -44,7 +41,7 @@
 </availability>
 </publicationStmt>
             
-<notesStmt><note></note></notesStmt>
+<notesStmt><note/></notesStmt>
             
 <sourceDesc>
 <bibl>
@@ -56,7 +53,7 @@
 <msDesc>
 <msIdentifier>
 <repository>Shanahan Collection</repository>
-<idno></idno>
+<idno/>
 </msIdentifier>
 <msContents>
 <p>2 hand-written pages</p>
@@ -64,24 +61,24 @@
 <physDesc>
 <objectDesc>
 <supportDesc>
-<support></support>
+<support/>
 <extent>2pages
-<dimensions unit="mm"><height></height><width></width></dimensions>
+<dimensions unit="mm"><height/><width/></dimensions>
 </extent>
 <condition>
-<p></p></condition>
+<p/></condition>
 </supportDesc>
 </objectDesc>
 <handDesc>
 <handNote><p>Media:</p></handNote>
 </handDesc>
 <typeDesc>
-<typeNote><p></p></typeNote>
+<typeNote><p/></typeNote>
 </typeDesc>
 </physDesc>
-<history><origin></origin>
-<provenance></provenance>
-<acquisition></acquisition>
+<history><origin/>
+<provenance/>
+<acquisition/>
 </history>
 </msDesc>
                 
@@ -91,10 +88,10 @@
 <encodingDesc>
 <editorialDecl>
 <correction>
-<p></p>
+<p/>
 </correction>
 <normalization>
-<p></p>
+<p/>
 </normalization>
 </editorialDecl>
 </encodingDesc>
@@ -102,33 +99,33 @@
 <profileDesc>
 <textClass>
 <keywords scheme="original" n="category">
-<term></term>
+<term/>
 </keywords>
 <keywords scheme="original" n="subcategory">
-<term></term>
+<term/>
 </keywords>
 <keywords scheme="original" n="topic">
-<term></term>
+<term/>
 </keywords>
 <keywords scheme="lcsh" n="keywords">
-<term></term>
+<term/>
 </keywords>
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term/>
 </keywords>
 <keywords scheme="lcsh" n="places">
-<term></term>
+<term/>
 </keywords>
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
 <persName xml:id="jbt001">Baros Torres, Jesusita</persName>
-<placeName></placeName>
+<placeName/>
 <date type="written" when="1966-07-25"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName xml:id="sbs001">Baros Schubert, Santos</persName>
-<placeName></placeName>
+<placeName/>
 </correspAction>
 <correspContext>
 <ref type="prev" target="shan">Letter from x to y, date</ref>
@@ -216,14 +213,14 @@ precipalmente tu; porezo yo no queria que se fueran legos; bueno yo le contesto 
 <dateline>July 25, - 1966</dateline>
 </opener>
 
-<p>This letter is to greet you in the company of your husband, and all your family hoping that you are all <add resp="iv001">well</add>, so we wish. We are well, thank God. Well, I&#39;ll tell you that I received your letter with the $4 check. Well, thank you for writing to me, I really appreciate it. Even if you don’t send me money, write to me from time to time. If you can&#39;t do it, because you say you are always baby-sitting, Pamela can write to me. It really saddens me that you pretend not to care - especially you. That&#39;s why I didn&#39;t want you all to go so far away. Well, I will reply to Pamela in Spanish, because you know how to read in Spanish anyway. Well, when Kathy is here she writes in English for
+<p>This letter is to greet you in the company of your husband, and all your family hoping that you are all <add resp="iv001">well</add>, so we wish. We are well, thank God. Well, I'll tell you that I received your letter with the $4 check. Well, thank you for writing to me, I really appreciate it. Even if you don’t send me money, write to me from time to time. If you can't do it, because you say you are always baby-sitting, Pamela can write to me. It really saddens me that you pretend not to care - especially you. That's why I didn't want you all to go so far away. Well, I will reply to Pamela in Spanish, because you know how to read in Spanish anyway. Well, when Kathy is here she writes in English for
 me.</p>
 
 <pb facs="shan_l.781.jpg"/>
 
 <p>It looks like she turned out to be good in Spanish. Writing, and speaking too. Now that school is over Kathy returned to Lupton, but they wrote to her <add resp="iv001">to ask</add> if she wanted to work as a secretary now in the summer school for the little children. So she is not here. She comes on Saturdays, but leaves on Sunday afternoon. Well, and what does Billy boy say, does he like school or did he quit? Kathy asked me to ask you.</p>
 
-<p>They say that Jerry doesn&#39;t write, that he is in N York <app loc="1" cert="high"><rdg>New York</rdg></app>. I think this will be all for now. Greetings from Jess and family, and from Max, and from your mother. I really, really wish you well and good luck in your new house.</p>
+<p>They say that Jerry doesn't write, that he is in N York <app loc="1" cert="high"><rdg>New York</rdg></app>. I think this will be all for now. Greetings from Jess and family, and from Max, and from your mother. I really, really wish you well and good luck in your new house.</p>
 
 <closer>
 <salute>Your mom, </salute>
@@ -233,6 +230,6 @@ me.</p>
 
 </body>
         
-<back></back>
+<back/>
 </text>
 </TEI>

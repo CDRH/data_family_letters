@@ -1,12 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
-
-<TEI xmlns="http://www.tei-c.org/ns/1.0"  xml:id="shan_L223.meta">
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="shan_L223.meta">
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from Santos Baros Schubert to William F. Schubert, October 10, 1950</title>
-<title type="main">Carta de Santos Baros Schubert a William F. Schubert, 10 de octubre, 1950</title>
+<title type="main" xml:lang="en">Letter from Santos Baros Schubert to William F. Schubert, October 10, 1950</title>
+<title type="main" xml:lang="es">Carta de Santos Baros Schubert a William F. Schubert, 10 de octubre, 1950</title>
 <author>Baros Schubert, Santos</author>
 <principal xml:id="iv001">Velázquez, Isabel</principal>
 <respStmt>
@@ -28,7 +25,7 @@
  <address>
 <addrLine>1111 Oldfather Hall</addrLine>
 <addrLine>660 N 12th</addrLine>
-<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-0315</addrLine>
 <addrLine>modlang2@unl.edu</addrLine>
 </address>
@@ -44,7 +41,7 @@
 </availability>
 </publicationStmt>
             
-<notesStmt><note></note></notesStmt>
+<notesStmt><note/></notesStmt>
             
 <sourceDesc>
 <bibl>
@@ -56,7 +53,7 @@
 <msDesc>
 <msIdentifier>
 <repository>Shanahan Collection</repository>
-<idno></idno>
+<idno/>
 </msIdentifier>
 <msContents>
 <p>1 hand-written envelope and 4 hand-written pages</p>
@@ -64,24 +61,24 @@
 <physDesc>
 <objectDesc>
 <supportDesc>
-<support></support>
+<support/>
 <extent>1 envelope and 4 pages
-<dimensions unit="mm"><height></height><width></width></dimensions>
+<dimensions unit="mm"><height/><width/></dimensions>
 </extent>
 <condition>
-<p></p></condition>
+<p/></condition>
 </supportDesc>
 </objectDesc>
 <handDesc>
 <handNote><p>Media:</p></handNote>
 </handDesc>
 <typeDesc>
-<typeNote><p></p></typeNote>
+<typeNote><p/></typeNote>
 </typeDesc>
 </physDesc>
-<history><origin></origin>
-<provenance></provenance>
-<acquisition></acquisition>
+<history><origin/>
+<provenance/>
+<acquisition/>
 </history>
 </msDesc>
                 
@@ -91,10 +88,10 @@
 <encodingDesc>
 <editorialDecl>
 <correction>
-<p></p>
+<p/>
 </correction>
 <normalization>
-<p></p>
+<p/>
 </normalization>
 </editorialDecl>
 </encodingDesc>
@@ -102,33 +99,33 @@
 <profileDesc>
 <textClass>
 <keywords scheme="original" n="category">
-<term></term>
+<term/>
 </keywords>
 <keywords scheme="original" n="subcategory">
-<term></term>
+<term/>
 </keywords>
 <keywords scheme="original" n="topic">
-<term></term>
+<term/>
 </keywords>
 <keywords scheme="lcsh" n="keywords">
-<term></term>
+<term/>
 </keywords>
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term/>
 </keywords>
 <keywords scheme="lcsh" n="places">
-<term></term>
+<term/>
 </keywords>
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
 <persName xml:id="sbs001">Baros Schubert, Santos</persName>
-<placeName></placeName>
+<placeName/>
 <date type="written" when="1950-10-10"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName xml:id="wfs001">Schubert, William F.</persName>
-<placeName></placeName>
+<placeName/>
 </correspAction>
 <correspContext>
 <ref type="prev" target="shan">Letter from x to y, date</ref>
@@ -159,25 +156,25 @@
 </opener>
 
 <p>How is my precious husband? Your wifie and son are doing o.k. We both went this
-afternoon to the post office and drug store. Found two letters from you. I&#39;m glad that you
-write every day. You know how lazy I&#39;m to write. I hope you don&#39;t worry about us.
+afternoon to the post office and drug store. Found two letters from you. I'm glad that you
+write every day. You know how lazy I'm to write. I hope you don't worry about us.
 Your little boy is playing with pots &amp; pans. Hope he keeps playing until I get thru
 writing.</p>
-<p>Sunday, I didn&#39;t have any place to go so Billy &amp; I went to the drug store, had ice-cream,
-then went to the show. Saw &quot;The Outriders&quot; &amp; &quot;Maggie&amp;Jiggs&quot;. Billy behaved o.k. We
+<p>Sunday, I didn't have any place to go so Billy &amp; I went to the drug store, had ice-cream,
+then went to the show. Saw "The Outriders" &amp; "Maggie&amp;Jiggs". Billy behaved o.k. We
 also went to see Helen &amp; Jess. Stayed a while.</p>
 
 <pb facs="shan_l.799.jpg"/>
 
-<p>Bill, on this side of the tracks all the lots are $100.00 and on the other side of tracks <hi rend="underline">all</hi> lots are $150.00 That&#39;s where Helen &amp; Jess live - only &quot;white&quot; people live there and on this side - Spanish speaking people live. I rather live on the other side. It&#39;s closer to town. Jess&#39; house is right by the highway. I&#39;ll see what I can do tomorrow.</p>
-<p>No, we didn&#39;t can any pickles. They froze. We&#39;d two real cold nights. That was the end of
+<p>Bill, on this side of the tracks all the lots are $100.00 and on the other side of tracks <hi rend="underline">all</hi> lots are $150.00 That's where Helen &amp; Jess live - only "white" people live there and on this side - Spanish speaking people live. I rather live on the other side. It's closer to town. Jess' house is right by the highway. I'll see what I can do tomorrow.</p>
+<p>No, we didn't can any pickles. They froze. We'd two real cold nights. That was the end of
 <del type="strike">every</del> everything.</p>
-<p>Max is now tapping sugar beets. Mother can&#39;t work on account of her leg. She went to
+<p>Max is now tapping sugar beets. Mother can't work on account of her leg. She went to
 Denver &amp; saw her Dr. He gave her 2 shots &amp; medicene.</p>
 <pb/>
 <p>You certainly do alot of sleeping. We do, too. We go to bed at 8:PM. Poor Billy looks
-like he&#39;s going to catch cold. Have to doctor him tonight. He wants Alkaseltzer.
-It&#39;s 8:PM so we better go to bed. Mother &amp; Max are snoring already.
+like he's going to catch cold. Have to doctor him tonight. He wants Alkaseltzer.
+It's 8:PM so we better go to bed. Mother &amp; Max are snoring already.
 Goodnight, Sweetheart. We love you &amp; only you. I remain,</p>
 <closer>
 <salute>Faithfully Yours,</salute>
@@ -186,7 +183,7 @@ Goodnight, Sweetheart. We love you &amp; only you. I remain,</p>
 
 <postscript>
 <p>Billy sends you all his love &amp; kisses.</p>
-<p>I&#39;ll be ever so happy when we&#39;ll be together again. Billy asks for you every night. And you know I miss you.</p>
+<p>I'll be ever so happy when we'll be together again. Billy asks for you every night. And you know I miss you.</p>
 <p>I'll write again some day.</p>
 <p>I almost forgot. Do you happen to know where the key to my brown
 
@@ -212,7 +209,7 @@ have belong to the trailer.</p>
 
 <p>¿Cómo está mi precioso esposo?Tu esposita y tu hijo están bien. Fuimos al correo y a la farmacia hoy en la tarde. Encontré dos cartas tuyas. Me alegra que me escribes todos los días. Ya sabes que soy muy floja para escribir. Espero que no te preocupes por nosotros.
 Tu hijito está jugando con los sartenes y las ollas. Espero que siga jugando hasta que yo termine de escribir.</p>
-<p>El domingo no tenía a dónde ir, así que Billy y yo fuimos a la farmacia, nos comimos un helado y luego fuimos al cine. Vimos &quot;The Outriders&quot; &amp; &quot;Maggie&amp;Jiggs&quot;. Billy se portó bien. También fuimos a ver a Helen y a Jess y nos quedamos un rato.</p>
+<p>El domingo no tenía a dónde ir, así que Billy y yo fuimos a la farmacia, nos comimos un helado y luego fuimos al cine. Vimos "The Outriders" &amp; "Maggie&amp;Jiggs". Billy se portó bien. También fuimos a ver a Helen y a Jess y nos quedamos un rato.</p>
 
 <pb facs="shan_l.799.jpg"/>
 
@@ -264,7 +261,7 @@ COLO<lb/>
 </ab>
 
 <figure type="stamp">
-<p></p>
+<p/>
 </figure>
 
 <pb facs="shan_l.797.jpg"/>
@@ -281,6 +278,6 @@ COLO<lb/>
 </div1>
 </body>
         
-<back></back>
+<back/>
 </text>
 </TEI>
