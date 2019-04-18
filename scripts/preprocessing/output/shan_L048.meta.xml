@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="shan_L048.meta">
+<teiHeader type="text">
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">Letter from Maximino Torres to Jesus Samaniego, June 8, 1977</title>
+<title type="main" xml:lang="es">Carta de Maximino Torres a Jesus Samaniego, 8 de junio, 1977</title>
+<author>Torres, Maximino</author>
+<principal xml:id="iv001">Velázquez, Isabel</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name xml:id="jda" full="yes" instant="false">Avelar, Janette D.</name>
+<name xml:id="km" full="yes" instant="false">Mendell, Kate</name>
+<name xml:id="sbg" full="yes" instant="false">Garcia, Sarita B.</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date instant="false">2015</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Family Letters: An analysis of the Personal Correspondence of a Mexican American Family in Western Colorado and Eastern Nebraska in the First Half of the 20th Century</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name full="yes" instant="false">Department of Modern Languages and Literatures</name>
+ <address>
+<addrLine>1111 Oldfather Hall</addrLine>
+<addrLine>660 N 12th</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+<addrLine>modlang2@unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+</address>
+<idno>shan_L048.meta</idno>
+<availability default="false" status="unknown">
+<p part="N">COPYRIGHT STATEMENT TO GO HERE</p>
+</availability>
+</publicationStmt>
+            
+<notesStmt><note anchored="true"/></notesStmt>
+            
+<sourceDesc default="false">
+<bibl default="false" status="draft">
+<author>Torres, Maximino</author>
+<title level="m" type="main">Letter from Maximino Torres to Jesus Samaniego</title>
+<date when="1977-06-08" instant="false">June 8, 1977</date>
+<extent>2 pages and envelope</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Shanahan Collection</repository>
+<idno/>
+</msIdentifier>
+<msContents defective="false">
+<p part="N">2 hand-written pages and envelope</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support/>
+<extent>2 pages and envelope
+<dimensions unit="mm"><height/><width/></dimensions>
+</extent>
+<condition>
+<p part="N"/></condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="h01" scribe="mt001" medium="pen"><p part="N">Media: blue ink</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote><p part="N"/></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin instant="false"/>
+<provenance/>
+<acquisition/>
+</history>
+</msDesc>
+                
+</sourceDesc>
+</fileDesc>
+        
+<encodingDesc>
+<editorialDecl default="false">
+<correction default="false" status="unknown" method="silent">
+<p part="N"/>
+</correction>
+<normalization default="false" method="silent">
+<p part="N"/>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+        
+<profileDesc>
+<textClass default="false">
+<keywords scheme="original" n="category">
+<term/>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term/>
+</keywords>
+<keywords scheme="original" n="topic">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term/>
+</keywords>
+</textClass>
+<correspDesc default="false">
+<correspAction type="sentBy">
+<persName xml:id="mt001" instant="false" full="yes">Torres, Maximino</persName>
+<placeName instant="false" full="yes"/>
+<date type="postmarked" when="1977-06-08" instant="false"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="js001" instant="false" full="yes">Samaniego, Jesus</persName>
+<placeName instant="false" full="yes"/>
+</correspAction>
+<correspContext>
+<ref type="prev" target="shan">Letter from x to y, date</ref>
+<ref type="next" target="shan">Letter from x to y, date</ref>
+</correspContext> 
+</correspDesc>
+</profileDesc>
+        
+<revisionDesc status="draft">
+<change when="2015" who="#jda" status="draft">Initial Encoding</change>
+<change when="2014" who="#km" status="draft">Transcription</change>
+            
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>
+            
+<div1 type="letter" xml:lang="es" part="N" org="uniform" sample="complete">
+                
+<pb facs="shan_l.208.jpg"/>
+                
+<opener>
+<salute>Sr. Jesus Samaniego</salute>
+</opener>
+                
+<p part="N">Te escribo esta para decirte tu mama murio ase poco tiempo no te abia escrito por que estaba muy mal yo tambien y no ayaba el domicilio y tambien le escribÍ a demecio quien sabe si benga o no tu mama me digo que les escribiera a todos sus hijos yo necesito un poco de Uds. para poderme defender de tu medio hermano Jesus si por dado caso no puedes benir me escribes por favor tambien te digo que Jesus se cre el unico hijo y nos el unico tu mama tenia mas de 1000 pesos y todo lo agaro el y ba a benir mi hermano Clemente
+
+<pb facs="shan_l.210.jpg"/>
+
+y quiero con la ayuda de Uds. aber que arelamos yo me encuentro muy enfermo y no puedo andar aqui estoy con el que me esta cuidando por que no puedo aser nada</p>
+
+<closer>   
+<salute>recibe saludes mias y me contesas pronto</salute>                 
+<signed>Maximino Torres</signed>
+</closer>
+                
+</div1>
+
+<div1 type="envelope" part="N" org="uniform" sample="complete">
+
+<pb facs="shan_l.206.jpg"/>
+
+<ab type="return" part="N">
+<address>
+<addrLine>Maximino Torres</addrLine>
+<addrLine>814  Pacific Street</addrLine>
+<addrLine>Fort Lupton, Colorado</addrLine>
+<addrLine>80621</addrLine>
+</address>
+</ab>
+
+<ab type="address" part="N">
+<address>
+<addrLine>Jesus Samaniego</addrLine>
+<addrLine>Lista de Correo</addrLine>
+<addrLine>Mexicali B.C. Mexico</addrLine>
+</address>
+</ab>
+
+<figure type="stamp">
+<p part="N"/>
+</figure>
+
+<figure type="stamp">
+<p part="N"/>
+</figure>
+
+<figure type="stamp">
+<p part="N"/>
+</figure>
+
+<pb facs="shan_l.207.jpg"/>
+
+<ab type="postmark" part="N">
+FORT LUPTON COLO<lb/>
+JUNE<lb/>
+8<lb/>
+1977<lb/>
+USPO<lb/>
+</ab>
+
+</div1>
+
+<div1 type="letter" xml:lang="en" part="N" org="uniform" sample="complete">
+                
+<pb facs="shan_l.208.jpg"/>
+                
+<opener>
+<salute>Mr. Jesus Samaniego</salute>
+</opener>
+                
+<p part="N">I write you this letter to let you know that your mom died recently. I haven’t written before because I’ve been very ill myself and I couldn’t find your address. I’ve also written to Demecio, who knows if he will come or not. Your mom asked me to write to all of her children. I need a little bit of your help to defend myself from your half brother Jesus. If you can’t come for some reason, please write to me. I’ll also tell you that Jesus <app loc="1"><rdg>thinks that he is</rdg></app> <app loc="2"><rdg>believes himself to be</rdg></app> <app loc="3"><rdg>acts like</rdg></app> the only son, and he is not. Your mom had more than 1000 pesos and he took it all. My brother Clemente was going to come <app loc="1"><rdg>is going to come</rdg></app>
+
+<pb facs="shan_l.210.jpg"/>
+
+And, with you all’s help, let’s see how we can <app loc="1"><rdg>fix</rdg></app> <app loc="2"><rdg>solve</rdg></app> this. I am very ill and can’t walk. I’m here with the man who takes care of me, because I can’t do anything by myself. </p>
+
+<closer>   
+<salute>Receive my regards and reply quickly</salute>                 
+<signed>Maximino Torres</signed>
+</closer>
+                
+</div1>
+
+</body>
+        
+<back/>
+</text>
+</TEI>

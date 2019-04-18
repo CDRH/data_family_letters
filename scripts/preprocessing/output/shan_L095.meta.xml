@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="shan_L095.meta">
+<teiHeader type="text">
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">Letter from Jesusita Baros Torres to Santos Baros Schubert, December 9, 1958</title>
+<title type="main" xml:lang="es">Carta de Jesusita Baros Torres a Santos Baros Schubert, 09 de diciembre, 1958</title>
+<author>Baros Torres, Jesusita</author>
+<principal xml:id="iv001">Velázquez, Isabel</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name xml:id="af" full="yes" instant="false">Faxas, Adoni A.</name>
+<name xml:id="iv" full="yes" instant="false">Velázquez, Isabel</name>
+<name xml:id="sbg" full="yes" instant="false">Garcia, Sarita B.</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date instant="false">2015</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Family Letters: An analysis of the Personal Correspondence of a Mexican American Family in Western Colorado and Eastern Nebraska in the First Half of the 20th Century</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name full="yes" instant="false">Department of Modern Languages and Literatures</name>
+ <address>
+<addrLine>1111 Oldfather Hall</addrLine>
+<addrLine>660 N 12th</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+<addrLine>modlang2@unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+</address>
+<idno>shan_L095.meta</idno>
+<availability default="false" status="unknown">
+<p part="N">COPYRIGHT STATEMENT TO GO HERE</p>
+</availability>
+</publicationStmt>
+            
+<notesStmt><note anchored="true"/></notesStmt>
+            
+<sourceDesc default="false">
+<bibl default="false" status="draft">
+<author>Baros Torres, Jesusita</author>
+<title level="m" type="main">Letter from Jesusita Baros Torres to Santos Baros Schubert</title>
+<date when="1958-12-09" instant="false">December 9, 1958</date>
+<extent>2 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Shanahan Collection</repository>
+<idno/>
+</msIdentifier>
+<msContents defective="false">
+<p part="N">2 hand-written pages</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support/>
+<extent>2 pages
+<dimensions unit="mm"><height/><width/></dimensions>
+</extent>
+<condition>
+<p part="N"/></condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="h01" scribe="jbt001" medium="pen"><p part="N">Media: black ink</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote><p part="N"/></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin instant="false"/>
+<provenance/>
+<acquisition/>
+</history>
+</msDesc>
+                
+</sourceDesc>
+</fileDesc>
+        
+<encodingDesc>
+<editorialDecl default="false">
+<correction default="false" status="unknown" method="silent">
+<p part="N"/>
+</correction>
+<normalization default="false" method="silent">
+<p part="N"/>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+        
+<profileDesc>
+<textClass default="false">
+<keywords scheme="original" n="category">
+<term/>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term/>
+</keywords>
+<keywords scheme="original" n="topic">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term/>
+</keywords>
+</textClass>
+<correspDesc default="false">
+<correspAction type="sentBy">
+<persName xml:id="jbt001" instant="false" full="yes">Baros Torres, Jesusita</persName>
+<placeName instant="false" full="yes"/>
+<date type="written" when="1958-12-09" instant="false"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="sbs001" instant="false" full="yes">Baros Schubert, Santos</persName>
+<placeName instant="false" full="yes"/>
+</correspAction>
+<correspContext>
+<ref type="prev" target="shan">Letter from x to y, date</ref>
+<ref type="next" target="shan">Letter from x to y, date</ref>
+</correspContext> 
+</correspDesc>
+</profileDesc>
+        
+<revisionDesc status="draft">
+<change when="2015" who="#af" status="draft">Initial Encoding</change>
+<change when="2013" who="#iv" status="draft">Transcription</change>
+            
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>
+            
+<div1 type="letter" xml:lang="es" part="N" org="uniform" sample="complete">
+                
+<pb facs="shan_l.326.jpg"/>
+                
+<opener>
+<address><addrLine>ft, Lupton colo;</addrLine></address>
+<dateline>Decem 9. –1958</dateline>
+
+<salute>Querida hija</salute>
+</opener>
+
+<p part="N">la precente es para saludarlos tanto a ti, como á tu esposo, á los muchachos; pues nosotros estamos Buenos, Gracias á Díos</p>
+                
+<p part="N">Tengo gusto que ya agan recivido el ponografo; ojala y les guste a los kids; tambien oy te mando los libros del <del instant="false" status="unremarkable">Sefw</del> sefeway; tu les mandes traer algo á los Kids;</p>
+ 
+<p part="N">Bueno tambien me dises que es lo que quiero para cristmas pues casi no necesito nada. Pero ay lo que tu quieras una <add instant="false" status="unremarkable">cosa</add> Chiquita; y max pues el necesita <add instant="false" status="unremarkable">una</add> union size 40; no mas tu saves de la que
+
+<pb facs="shan_l.328.jpg"/>
+
+usa el, de mangas largas; y muchas Gracias por el retrato del Billy ya esta muy grande y bonito que se esta poniendo; y tengo gusto que ya este en la escuela la Pamela; que bueno; ella es muy viva. pronto ba aprender;</p>
+
+<p part="N">tengo gusto que estes bien la virjen te á de ayudar todos los días pido á Dios  por uds, mayormente por ti, Dios es muy bueno nos ayu<add instant="false" status="unremarkable">da</add> en todo pide y reciviras;</p>
+
+<closer>
+<salute>ojala y pasen unas buenas chritmas y felizes años nuebos, recuerdos para los kids, y para el Bill, y para ti, con cariño de tu mamá</salute>                    
+<signed>jesusita B. Torres</signed>
+</closer>
+                
+</div1>
+
+<div1 type="letter" xml:lang="en" part="N" org="uniform" sample="complete">
+                
+<pb facs="shan_l.326.jpg"/>
+                
+<opener>
+<address><addrLine>Ft. Lupton, Colorado;</addrLine></address>
+<dateline>December 9, 1958</dateline>
+
+<salute>Dear daughter</salute>
+</opener>
+
+<p part="N">This letters is to greet you all. You, your husband and the kids. We are well, thank God.</p>
+                
+<p part="N">I’m very happy that you received the phonograph, I hope the kids like it. I’m also sending you the Safeway <app loc="1"><rdg>books</rdg></app> <app loc="2"><rdg>booklets</rdg></app> today, so you can order something for the kids.</p>
+ 
+<p part="N">Well, you ask me what I want for Christmas. I need almost nothing. Whatever you want, something little. And Max, he needs a <app loc="1"><rdg>union</rdg></app> <app loc="2"><rdg>long johns</rdg></app>, size 40. You know, that kind
+
+<pb facs="shan_l.328.jpg"/>
+
+he uses, with long sleeves. And thank you for Billy’s picture. He’s very big, and he’s becoming very cute. I’m very hapy that he’s now in school, and Pamela too. She’s very bright. She’ll soon learn.</p>
+
+<p part="N">I’m happy that you are well. The Virgin will help you. I ask God every day for all of you, for you especially. God is very good and helps us  in everything. Ask and you shall receive.</p>
+
+<closer>
+<salute>I hope you spend a good Christmas and a happy new year. <app loc="1"><rdg>Regards</rdg></app><app loc="2"><rdg>Love</rdg></app> for the kids, and for Bill, and for you. With love from your mother</salute>                    
+<signed>Jesusita B. Torres</signed>
+</closer>
+                
+</div1>
+
+</body>
+        
+<back/>
+</text>
+</TEI>

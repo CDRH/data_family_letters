@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="shan_L145.meta">
+<teiHeader type="text">
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">Letter from William F. Schubert to Santos Baros Schubert, October 19, 1950</title>
+<title type="main" xml:lang="es">Carta de William F. Schubert a Santos Baros Schubert, 19 de octubre, 1950</title>
+<author>Schubert, William F.</author>
+<principal xml:id="iv001">Velázquez, Isabel</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name xml:id="af" full="yes" instant="false">Faxas, Adoni A.</name>
+<name xml:id="iv" full="yes" instant="false">Velázquez, Isabel</name>
+<name xml:id="sbg" full="yes" instant="false">Garcia, Sarita B.</name>
+<name xml:id="ji" full="yes" instant="false">Isasi, Jennifer</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date instant="false">2016</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Family Letters: An analysis of the Personal Correspondence of a Mexican American Family in Western Colorado and Eastern Nebraska in the First Half of the 20th Century</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name full="yes" instant="false">Department of Modern Languages and Literatures</name>
+ <address>
+<addrLine>1111 Oldfather Hall</addrLine>
+<addrLine>660 N 12th</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+<addrLine>modlang2@unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+</address>
+<idno>shan_L145.meta</idno>
+<availability default="false" status="unknown">
+<p part="N">COPYRIGHT STATEMENT TO GO HERE</p>
+</availability>
+</publicationStmt>
+            
+<notesStmt><note anchored="true"/></notesStmt>
+            
+<sourceDesc default="false">
+<bibl default="false" status="draft">
+<author>Schubert, William F.</author>
+<title level="m" type="main">Letter from William F. Schubert to Santos Baros Schubert</title>
+<date when="1950-10-19" instant="false">October 19, 1950</date>
+<extent>1 page</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Shanahan Collection</repository>
+<idno/>
+</msIdentifier>
+<msContents defective="false">
+<p part="N">1 typed page</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support/>
+<extent>1 page
+<dimensions unit="mm"><height/><width/></dimensions>
+</extent>
+<condition>
+<p part="N"/></condition>
+</supportDesc>
+</objectDesc>
+<handDesc>
+<handNote/>
+</handDesc>
+<typeDesc>
+<typeNote><p part="N">Media: black ink</p></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin instant="false"/>
+<provenance/>
+<acquisition/>
+</history>
+</msDesc>
+                
+</sourceDesc>
+</fileDesc>
+        
+<encodingDesc>
+<editorialDecl default="false">
+<correction default="false" status="unknown" method="silent">
+<p part="N"/>
+</correction>
+<normalization default="false" method="silent">
+<p part="N"/>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+        
+<profileDesc>
+<textClass default="false">
+<keywords scheme="original" n="category">
+<term/>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term/>
+</keywords>
+<keywords scheme="original" n="topic">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term/>
+</keywords>
+</textClass>
+<correspDesc default="false">
+<correspAction type="sentBy">
+<persName xml:id="wfs001" instant="false" full="yes">Schubert, William F.</persName>
+<placeName instant="false" full="yes"/>
+<date type="written" when="1950-10-19" instant="false"/>
+<date type="postmarked" when="1000" instant="false"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="sbs001" instant="false" full="yes">Baros Schubert, Santos</persName>
+<placeName instant="false" full="yes"/>
+</correspAction>
+<correspContext>
+<ref type="prev" target="shan">Letter from x to y, date</ref>
+<ref type="next" target="shan">Letter from x to y, date</ref>
+</correspContext> 
+</correspDesc>
+</profileDesc>
+        
+<revisionDesc status="draft">
+<change when="2016" who="#af" status="draft">Initial Encoding</change>
+<change when="2014" who="#iv" status="draft">Transcription</change>
+            
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>
+            
+<div1 type="letter" xml:lang="en" part="N" org="uniform" sample="complete">
+                
+<pb facs="shan_l.536.jpg"/>
+                
+<opener>
+<address><addrLine>Camp 67</addrLine></address>
+<dateline>19 Oct 1950</dateline>
+
+<salute>My darling wife and son,</salute>
+</opener>
+                
+<p part="N">Will write a few lines yet today as you should get this before Saturday. Want you to know that I love you very much and miss you a lot. I’ll be in Lincoln Sunday to meet you.</p> 
+
+<p part="N">Last night the Foreman and I went to Falls City to send some company wires and mail; then bowled three games. We didn’t make very good scores; but it has been a long time since I’ve bowled. Falls City is about 6190 population. Really a nice little town.</p> 
+
+<p part="N">This morning the timekeeper drove his car up when we went for the mail then had a flat tire. He doesn’t have a jack so we walked back to camp and I’ll take my car up and we can take his tire to get it repaired. This afternoon, unless sometime comes up again, we are going to get the walnuts if we can find some.</p> 
+
+<p part="N">I have to get busy with my reports so will sign off and hope to see you Sunday.</p>
+
+<closer>
+ 
+<salute> Always yours.</salute>                    
+<signed>Bill</signed>
+</closer>
+
+<postscript>
+<p part="N">I love you</p>
+<p part="N">Rec’ed the newspaper today –</p>
+</postscript>
+
+</div1>
+
+ <div1 type="letter" xml:lang="es" part="N" org="uniform" sample="complete">
+  
+  <pb facs="shan_l.536.jpg"/>
+  
+  <opener>
+   <address><addrLine>Campamento 67</addrLine></address>
+   <dateline>19 de Octubre de 1950</dateline>
+   
+   <salute>Mis queridos esposa e hijo:</salute>
+  </opener>
+  
+  <p part="N">Hoy les escribiré unas líneas más, porque alcanzarán a recibirlas antes del sábado. Quiero que sepan que los amo mucho y que los extraño. Estaré en Lincoln el domingo para encontrarlos.</p>
+  <p part="N">Anoche el capataz y yo fuimos a Falls City a mandar correo y algunos telegramas de la compañía, y luego jugamos tres partidas de bolos. No sacamos muy buena puntuación; hace mucho tiempo desde la última vez que jugué boliche. Falls City tiene una población como de 6190 personas. Es un pueblito muy bonito.</p>
+<p part="N">Hoy en la mañana que fuimos por el correo el cronometrador llevó su <app loc="1"><rdg>carro</rdg></app> <app loc="2"><rdg>auto</rdg></app> y se le ponchó una llanta. No tiene gato, así que tuvimos que caminar de regreso al campamento y voy a llevar mi carro para que podamos llevar su llanta a arreglar. Hoy en la tarde, a menos de que surja algún otro problema, vamos a ir por las nueces, si las encontramos.</p>
+  <p part="N">Tengo que ocuparme con mis reportes, así que me despido y espero verlos el domingo.</p>
+  
+  <closer>
+   <salute>Siempre tuyo</salute>                    
+   <signed>Bill</signed>
+  </closer>
+  
+  <postscript>
+   <p part="N">Te amo</p>
+   <p part="N">Ayer recibí el periódico–</p>
+  </postscript>
+  
+ </div1>
+
+</body>
+        
+<back/>
+</text>
+</TEI>

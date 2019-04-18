@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="shan_L111.meta">
+<teiHeader type="text">
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">Letter from Jesusita Baros Torres to Santos Baros Schubert, June 23, 1963</title>
+<title type="main" xml:lang="es">Carta de Jesusita Baros Torres a Santos Baros Schubert, 23 de junio, 1963</title>
+<author>Baros Torres, Jesusita</author>
+<principal xml:id="iv001">Velázquez, Isabel</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name xml:id="af" full="yes" instant="false">Faxas, Adoni A.</name>
+<name xml:id="km" full="yes" instant="false">Mendell, Kate</name>
+<name xml:id="sbg" full="yes" instant="false">Garcia, Sarita B.</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date instant="false">2016</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Family Letters: An analysis of the Personal Correspondence of a Mexican American Family in Western Colorado and Eastern Nebraska in the First Half of the 20th Century</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name full="yes" instant="false">Department of Modern Languages and Literatures</name>
+ <address>
+<addrLine>1111 Oldfather Hall</addrLine>
+<addrLine>660 N 12th</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+<addrLine>modlang2@unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+</address>
+<idno>shan_L111.meta</idno>
+<availability default="false" status="unknown">
+<p part="N">COPYRIGHT STATEMENT TO GO HERE</p>
+</availability>
+</publicationStmt>
+            
+<notesStmt><note anchored="true"/></notesStmt>
+            
+<sourceDesc default="false">
+<bibl default="false" status="draft">
+<author>Baros Torres, Jesusita</author>
+<title level="m" type="main">Letter from Jesusita Baros Torres to Santos Baros Schubert</title>
+<date when="1963-06-23" instant="false">June 23, 1963</date>
+<extent>2 pages and envelope</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Shanahan Collection</repository>
+<idno/>
+</msIdentifier>
+<msContents defective="false">
+<p part="N">2 hand-written pages and envelope</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support/>
+<extent>2 pages and envelope
+<dimensions unit="mm"><height/><width/></dimensions>
+</extent>
+<condition>
+<p part="N"/></condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="h01" scribe="jbt001" medium="pen"><p part="N">Media: black ink</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote><p part="N"/></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin instant="false"/>
+<provenance/>
+<acquisition/>
+</history>
+</msDesc>
+                
+</sourceDesc>
+</fileDesc>
+        
+<encodingDesc>
+<editorialDecl default="false">
+<correction default="false" status="unknown" method="silent">
+<p part="N"/>
+</correction>
+<normalization default="false" method="silent">
+<p part="N"/>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+        
+<profileDesc>
+<textClass default="false">
+<keywords scheme="original" n="category">
+<term/>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term/>
+</keywords>
+<keywords scheme="original" n="topic">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term/>
+</keywords>
+</textClass>
+<correspDesc default="false">
+<correspAction type="sentBy">
+<persName xml:id="jbt001" instant="false" full="yes">Baros Torres, Jesusita</persName>
+<placeName instant="false" full="yes"/>
+<date type="written" when="1963-06-23" instant="false"/>
+<date type="postmarked" when="1963-06-24" instant="false"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="sbs001" instant="false" full="yes">Baros Schubert, Santos</persName>
+<placeName instant="false" full="yes"/>
+</correspAction>
+<correspContext>
+<ref type="prev" target="shan">Letter from x to y, date</ref>
+<ref type="next" target="shan">Letter from x to y, date</ref>
+</correspContext> 
+</correspDesc>
+</profileDesc>
+        
+<revisionDesc status="draft">
+<change when="2017" who="#af" status="draft">Initial Encoding</change>
+<change when="2016" who="#af" status="draft">Initial Encoding</change>
+<change when="2014" who="#km" status="draft">Transcription</change>
+            
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>
+            
+<div1 type="letter" xml:lang="es" part="N" org="uniform" sample="complete">
+                
+<pb facs="shan_l.414.jpg"/>
+                
+<opener>
+<address><addrLine>ft, Lupton colo</addrLine></address>
+<dateline>6—23—63.</dateline>
+
+<salute>Querida hija,</salute>
+</opener>
+
+<p part="N">la presente es para saludarlos tanto á ti. como á tu espozo, y á los muchachos,</p>
+                
+<p part="N">Esperando que esten bíen así son mis deceos, pues nosotros estamos bíen por lo que le doy Gracías á Díos, recíví tu carta fecha 13, june días de los padres.; dise <add instant="false" status="unremarkable">max</add> que muchas gracías, ó sí le compre cígarros,</p>
+
+<p part="N">pues áquí esta el tíempo muy calíente; y de nuevas te platícare que la Sra nolasco murío, el 3, de june; en paz descanze; duro 1. Año y 7 meses, en la cama paralízada; Dios la tenga en su Eterno descanzo;</p>
+
+<pb facs="shan_l.416.jpg"/>
+
+<p part="N">bueno y platicame de la Sra Schubert; como á seguido, y tambien te platicare del jerry pues disen que esta en ese lugar de Washington <add instant="false" status="unremarkable">d.c.</add> salío en el papel de Lupton dísen que esta muy gordo que pesa 160 libr, aquí te mando el retrato pues amí se me ase que no se parese al jerry.</p>
+
+<closer>  
+<salute>bueno yo creo que esto sera todo por esta ves. muchos saludes para los muchahcos y para Bill, y recive el cariño de tu mamá que Díosíto <add instant="false" status="unremarkable">te</add> Bendiga y te guíe por un camíno bueno, tanto á ti como á toda tu famílía son los deceos de tu mamá</salute>                  
+<signed>Jesusita B, Torres:</signed>
+</closer>
+                
+</div1>
+
+<div1 type="envelope" part="N" org="uniform" sample="complete">
+
+<pb facs="shan_l.412.jpg"/>
+
+<ab type="return" part="N">
+<address>
+<addrLine>jesusita B. Torres</addrLine>
+<addrLine>814, Pacífc ave ft Lupton</addrLine> 
+<addrLine>colorado</addrLine>
+</address>
+</ab>
+
+<ab type="address" part="N">
+<address>
+<addrLine>W. F. Schubert</addrLine>
+<addrLine>1016 South; 40th</addrLine>
+<addrLine>Lincoln 10, Nebraska</addrLine>
+</address>
+</ab>
+
+<ab type="postmark" part="N">
+FORT LUPTON<lb/> 
+JUN 24<lb/>
+5 PM<lb/>
+1963<lb/>
+COLO<lb/>
+</ab>
+
+<figure type="stamp">
+<p part="N"/>
+</figure>
+
+<figure type="stamp">
+<p part="N"/>
+</figure>
+
+</div1>
+
+<div1 type="letter" xml:lang="en" part="N" org="uniform" sample="complete">
+                
+<pb facs="shan_l.414.jpg"/>
+                
+<opener>
+<address><addrLine>Ft. Lupton, Colorado</addrLine></address>
+<dateline>June 23, 1963</dateline>
+
+<salute>Dear daughter,</salute>
+</opener>
+
+<p part="N">this letter is to greet you, as well as you husband and the kids,</p>
+                
+<p part="N">hoping that you are all well, as are my wishes. Well, we are all right, for which I give thanks to God. I received your letter dated June 13th, Father’s Day. Max says thank you. Oh, I did buy him cigarretes.</p>
+
+<p part="N">Well, the weather here is very hot. In news, I will tell you that Mrs. Nolosco died on June 3, may she rest in peace. She spent a year and seven months paralized in bed. My God <app loc="1"><rdg>have her</rdg></app> <app loc="2"><rdg>grant her</rdg></app> eternal rest.</p>
+
+<pb facs="shan_l.416.jpg"/>
+
+<p part="N">Well, tell me about Mrs. Schubert, how is she doing. And I will tell you also about Jerry. They say that he’s in that place in Washington D.C., it was in <add resp="iv001" instant="false" status="unremarkable">Fort</add> Lupton’s paper. They say that he is very fat, that he weighs 160 lbs. I'm sending you the picture here, because I don’t think he looks like Jerry.</p>
+
+<closer>  
+<salute>Well, I think this will be all for now. <app loc="1"><rdg>Many regards</rdg></app> <app loc="2"><rdg>Much love</rdg></app> for the kids and for Bill. And you, receive the love of you mom. God bless you and guide you on a good path, you and your family. These are the wishes of your mother,</salute>                  
+<signed>Jesusita B. Torres</signed>
+</closer>
+                
+</div1>
+
+
+</body>
+        
+<back/>
+</text>
+</TEI>

@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="shan_L131.meta">
+<teiHeader type="text">
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">Letter from William F. Schubert to Santos Baros Schubert, December 16, 1947</title>
+<title type="main" xml:lang="es">Carta de William F. Schubert a Santos Baros Schubert, 16 de diciembre, 1947</title>
+<author>Schubert, William F.</author>
+<principal xml:id="iv001">Velázquez, Isabel</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name xml:id="af" full="yes" instant="false">Faxas, Adoni A.</name>
+<name xml:id="sbg" full="yes" instant="false">Garcia, Sarita B.</name>
+ <name xml:id="ji" full="yes" instant="false">Isasi, Jennifer</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date instant="false">2016</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Family Letters: An analysis of the Personal Correspondence of a Mexican American Family in Western Colorado and Eastern Nebraska in the First Half of the 20th Century</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name full="yes" instant="false">Department of Modern Languages and Literatures</name>
+ <address>
+<addrLine>1111 Oldfather Hall</addrLine>
+<addrLine>660 N 12th</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+<addrLine>modlang2@unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+</address>
+<idno>shan_L131.meta</idno>
+<availability default="false" status="unknown">
+<p part="N">COPYRIGHT STATEMENT TO GO HERE</p>
+</availability>
+</publicationStmt>
+            
+<notesStmt><note anchored="true"/></notesStmt>
+            
+<sourceDesc default="false">
+<bibl default="false" status="draft">
+<author>Schubert, William F.</author>
+<title level="m" type="main">Letter from William F. Schubert to Santos Baros Schubert</title>
+<date when="1947-12-16" instant="false">December 16, 1947</date>
+<extent>4 pages and envelope</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Shanahan Collection</repository>
+<idno/>
+</msIdentifier>
+<msContents defective="false">
+<p part="N">4 hand-written pages and envelope</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support/>
+<extent>4 pages and envelope
+<dimensions unit="mm"><height/><width/></dimensions>
+</extent>
+<condition>
+<p part="N"/></condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="h01" scribe="wfs001" medium="pen"><p part="N">Media: blue ink</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote><p part="N"/></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin instant="false"/>
+<provenance/>
+<acquisition/>
+</history>
+</msDesc>
+                
+</sourceDesc>
+</fileDesc>
+        
+<encodingDesc>
+<editorialDecl default="false">
+<correction default="false" status="unknown" method="silent">
+<p part="N"/>
+</correction>
+<normalization default="false" method="silent">
+<p part="N"/>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+        
+<profileDesc>
+<textClass default="false">
+<keywords scheme="original" n="category">
+<term/>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term/>
+</keywords>
+<keywords scheme="original" n="topic">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term/>
+</keywords>
+</textClass>
+<correspDesc default="false">
+<correspAction type="sentBy">
+<persName xml:id="wfs001" instant="false" full="yes">Schubert, William F.</persName>
+<placeName instant="false" full="yes"/>
+<date type="written" when="1947-12-16" instant="false"/>
+<date type="postmarked" when="1947-12-18" instant="false"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="sbs001" instant="false" full="yes">Baros Schubert, Santos</persName>
+<placeName instant="false" full="yes"/>
+</correspAction>
+<correspContext>
+<ref type="prev" target="shan">Letter from x to y, date</ref>
+<ref type="next" target="shan">Letter from x to y, date</ref>
+</correspContext> 
+</correspDesc>
+</profileDesc>
+        
+<revisionDesc status="draft">
+<change when="2016" who="#af" status="draft">Initial Encoding</change>
+<change when="2014" who="#af" status="draft">Transcription</change>
+            
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>
+            
+<div1 type="letter" xml:lang="en" part="N" org="uniform" sample="complete">
+                
+<pb facs="shan_l.494.jpg"/>
+                
+<opener>
+<address><addrLine>Havelock, Nebraska</addrLine></address>
+<dateline>16 Dec 1947</dateline>
+<dateline>7:45 P.M.</dateline>
+
+<salute>My Darling Wife&amp;Baby –</salute>
+</opener>
+
+<p part="N">your letter of Sunday received this afternoon and glad to hear from you as it had been several days so I was getting more lonesome and blue.</p>
+                
+<p part="N">I’ll be so glad when you two are here as I really miss you and am unhappy by myself. You didn’t say if you had your reservations but hope you do as I want you an baby for Christmas –</p>
+
+<p part="N">Will send the Blue Cross; also, my Insurance tomorrow so it’ll be out of the way – The baby is on the Blue Cross, and it’s $7.00 now –</p>
+
+<p part="N">Last night I had to close my books for the first half so was busy and didn’t write – Today, I have been busy too as I finally got to carry all the mattresses and extra blankets out of the gang bunk house – Have 24 men now after receiving some last night and again tonight – Most of the old ones are gone now so it should be better around here – Suppose most of them will quit about Christmas –</p>
+
+<pb facs="shan_l.496.jpg"/>
+<fw>-2-</fw>
+
+<p part="N">I’m getting along ok. My cough is improved so am feeling well – Will you be able to get another baptism certificate? Sure hope so; but wouldn’t know how you lost the other one.</p>
+
+<p part="N">Darling, I want you to come but don’t say I have to get a place before you’ll come be<del instant="false" status="unremarkable">c</del> cause places aren’t that easy; and I do want you both with me it’s not any fun for me here worrying about you – After all I need you, and want baby so I can enjoy him as a baby –</p>
+
+<p part="N">Tomorrow I am suppose to receive my meat, Groceries and some commissary; so hope to get in to town Thursday to get the shopping done and get some cards so I can send them out –</p>
+
+<p part="N">The closet I have been working on is almost finished anyway I put a cloth over the front of it and have my clothes in it now – Mopped and really cleaned the commissary, and
+
+<pb facs="shan_l.495.jpg"/>
+<fw>-3-</fw>
+
+my sleeping room – Want to paint some – also have some ply wood to make a little cabinet.</p>
+
+<p part="N">I’ve put $175.00 in the bank since I’ve been here – This month I’ll have a good check coming – Let me know if you need some money as I don’t know how much you have or if you have any of your checks –</p>
+
+<p part="N">Darling, remember I want you and baby for Christmas – I’ll be very unhappy if you disappoint me now. If I have to sleep by myself very much longer I’ll go nuts – Really miss you very very much. It’s been a long long time, over a month now I’ve been away from and that’s been too long now – You and baby get here and we’ll get by someway and have someplace to live.</p>
+
+<p part="N">Sweet heart I’ll say Sweet Dreams now and God Bless You Both –</p>
+
+<closer>
+<salute>Your Husband</salute>                    
+<signed>Bill</signed>
+</closer>
+
+<pb facs="shan_l.497.jpg"/>
+
+<postscript>
+<p part="N">Loads </p> 
+<p part="N">of Love</p>
+<p part="N">and Kisses to</p>
+<p part="N">You and Baby</p>
+</postscript>
+ 
+<closer>
+<salute>Your Husband&amp;Daddy</salute>                    
+<signed>Bill</signed>
+</closer>
+
+<postscript>
+<p part="N">-Always yours-</p>
+</postscript>               
+
+</div1>
+
+<div1 type="envelope" part="N" org="uniform" sample="complete">
+
+<pb facs="shan_l.492.jpg"/>
+
+<ab type="return" part="N">
+<address>
+<addrLine>WF Schubert</addrLine>
+<addrLine>Box 18</addrLine>
+<addrLine>Havelock, Nebr.</addrLine>
+</address>
+</ab>
+
+<ab type="address" part="N">
+<address>
+<addrLine>Mrs. Santos B. Schubert</addrLine>
+<addrLine>General Delivery</addrLine>
+<addrLine>Ft. Lupton</addrLine>
+<addrLine>Colorado</addrLine>
+</address>
+</ab>
+
+<pb facs="shan_l.493.jpg"/>
+
+<ab type="postmark" part="N">
+FORT LUPTON<lb/>
+DEC 18<lb/>
+6 PM<lb/>
+1947<lb/>
+COLO.<lb/>
+</ab>
+
+</div1>
+
+<div1 type="letter" xml:lang="es" part="N" org="uniform" sample="complete">
+                
+<pb facs="shan_l.494.jpg"/>
+                
+<opener>
+<address><addrLine>Havelock, Nebraska</addrLine></address>
+<dateline>16 de diciembre 1947</dateline>
+<dateline>7:45 P.M.</dateline>
+
+<salute>Mis queridos esposa y bebe –</salute>
+</opener>
+
+<p part="N">Hoy en la tarde recibí su carta del domingo y me alegró recibir noticias suyas porque ya habían pasado varios días y me estaba sintiendo más solo y más triste.</p>
+                
+<p part="N">Me sentiré muy feliz cuando estén aquí, porque realmente los extraño y me siento infeliz estando solo. No me mencionas si ya tienes tus reservaciones, pero espero que sí, porque los quiero aquí a ti y al bebé para Navidad –</p>
+
+<p part="N">Voy a mandar mañana la <add resp="iv001" instant="false" status="unremarkable">tarjeta de seguro médico</add> Blue Cross; y mi seguro también, para no tener ese pendiente. El bebé está en la Blue Cross, y ahora cuesta siete dólares –</p>
+
+<p part="N">Anoche tuve que cerrar la contabilidad para la primera mitad, así que estuve ocupado y no te escribí – Yo también he estado ocupado, porque finalmente pude sacar los colchones y las cobijas extra del barracón. Ahora tengo 24 hombres después de recibir a algunos anoche y otros pocos esta misma noche – La mayoría de los que habían estado aquí por mucho tiempo ya se fueron, así que se las aquí cosas deberán mejorar– Supongo que la mayoría dejará el trabajo cerca de Navidad –</p>
+
+<pb facs="shan_l.496.jpg"/>
+<fw>-2-</fw>
+
+<p part="N">Yo estoy bien. Mi tos ha mejorado y que me siento bien – ¿Vas a poder sacar otro certificado de bautismo? Así lo espero, auqnue no sé cómo perdiste el
+otro.</p>
+
+<p part="N">Querida, quiero que vengas, pero no digas que tengo que conseguir un lugar donde vivir antes de que vengas, porque <add resp="iv001" instant="false" status="unremarkable">encontrar</add> dónde vivir no es fácil y yo los quiero conmigo, porque no es divertido para mí estar aquí preocupándome por ustedes. Después de todo, te necesito y quiero ver al bebé para poder disfrutarlo ahora que es bebé.</p>
+
+<p part="N">Mañana debo recibir mi carne, provisiones y algo del economato, así que espero ir al pueblo este jueves para hacer mis compras y conseguir algunas tarjetas para poderlas mandar –</p>
+
+<p part="N">El armario en el que he estado trabajando casi esta terminado. De todos modos, le pongo un trapo que cubra el frente y ahí tengo mi ropa. Lavé el piso y limpié muy bien el economato, y
+
+<pb facs="shan_l.495.jpg"/>
+<fw>-3-</fw>
+
+mi cuarto – Quería pintar un poco – también tengo algo de madera aglomerada para hacer un pequeño gabinete.</p>
+
+<p part="N">Desde que he estado aquí he depositado 175 dólares en el banco– Este mes me llegará un buen cheque– Avísame si necesitas algo de dinero porque no se cuánto tienes, ni si tienes alguno de tus cheques –</p>
+
+<p part="N">Querida, recuerda que los quiero a ti y al bebé para Navidad – Seré muy infeliz si me decepcionas. Si tengo que dormir solo por más tiempo voy a volverme loco – De veras te extraño mucho mucho. Ha sido mucho tiempo. Ya hace más de un mes que he estado lejos de ustedes y sido mucho. Vengan tú y el bebé y nos las arreglaremos de algún modo y tendremos un lugar dónde vivir.</p>
+
+<p part="N">Corazón, por ahora les deseo dulces sueños y que Dios los bendiga a los dos.</p>
+
+<closer>
+<salute>Tu esposo</salute>                    
+<signed>Bill</signed>
+</closer>
+
+<pb facs="shan_l.497.jpg"/>
+
+<postscript>
+<p part="N">Mucho amor</p>
+<p part="N">y besos para</p>
+<p part="N">ti y para el bebé</p>
+</postscript>
+ 
+<closer>
+<salute>Su esposo y papito</salute>                    
+<signed>Bill</signed>
+</closer>
+
+<postscript>
+<p part="N">-Siempre tuyo-</p>
+</postscript>               
+
+</div1>
+</body>
+        
+<back/>
+</text>
+</TEI>

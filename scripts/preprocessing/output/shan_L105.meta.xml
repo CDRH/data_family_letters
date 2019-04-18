@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="shan_L105.meta">
+<teiHeader type="text">
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">Letter from Jesusita Baros Torres to Santos Baros Schubert, May 27, 1960</title>
+<title type="main" xml:lang="es">Carta de Jesusita Baros Torres a Santos Baros Schubert, 27 de mayo, 1960</title>
+<author>Baros Torres, Jesusita</author>
+<principal xml:id="iv001">Velázquez, Isabel</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name xml:id="af" full="yes" instant="false">Faxas, Adoni A.</name>
+<name xml:id="km" full="yes" instant="false">Mendell, Kate</name>
+<name xml:id="sbg" full="yes" instant="false">Garcia, Sarita B.</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date instant="false">2015</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Family Letters: An analysis of the Personal Correspondence of a Mexican American Family in Western Colorado and Eastern Nebraska in the First Half of the 20th Century</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name full="yes" instant="false">Department of Modern Languages and Literatures</name>
+ <address>
+<addrLine>1111 Oldfather Hall</addrLine>
+<addrLine>660 N 12th</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+<addrLine>modlang2@unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+</address>
+<idno>shan_L105.meta</idno>
+<availability default="false" status="unknown">
+<p part="N">COPYRIGHT STATEMENT TO GO HERE</p>
+</availability>
+</publicationStmt>
+            
+<notesStmt><note anchored="true"/></notesStmt>
+            
+<sourceDesc default="false">
+<bibl default="false" status="draft">
+<author>Baros Torres, Jesusita</author>
+<title level="m" type="main">Letter from Jesusita Baros Torres to Santos Baros Schubert</title>
+<date when="1960-05-27" instant="false">May 27, 1960</date>
+<extent>4 pages and envelope</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Shanahan Collection</repository>
+<idno/>
+</msIdentifier>
+<msContents defective="false">
+<p part="N">4 hand-written pages and envelope</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support/>
+<extent>4 pages and envelope
+<dimensions unit="mm"><height/><width/></dimensions>
+</extent>
+<condition>
+<p part="N"/></condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="h01" scribe="jbt001" medium="pen"><p part="N">Media: black ink</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote><p part="N"/></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin instant="false"/>
+<provenance/>
+<acquisition/>
+</history>
+</msDesc>
+                
+</sourceDesc>
+</fileDesc>
+        
+<encodingDesc>
+<editorialDecl default="false">
+<correction default="false" status="unknown" method="silent">
+<p part="N"/>
+</correction>
+<normalization default="false" method="silent">
+<p part="N"/>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+        
+<profileDesc>
+<textClass default="false">
+<keywords scheme="original" n="category">
+<term/>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term/>
+</keywords>
+<keywords scheme="original" n="topic">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term/>
+</keywords>
+</textClass>
+<correspDesc default="false">
+<correspAction type="sentBy">
+<persName xml:id="jbt001" instant="false" full="yes">Baros Torres, Jesusita</persName>
+<placeName instant="false" full="yes"/>
+<date type="written" when="1960-05-27" instant="false"/>
+<date type="postmarked" when="1960-05-28" instant="false"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="sbs001" instant="false" full="yes">Baros Schubert, Santos</persName>
+<placeName instant="false" full="yes"/>
+</correspAction>
+<correspContext>
+<ref type="prev" target="shan">Letter from x to y, date</ref>
+<ref type="next" target="shan">Letter from x to y, date</ref>
+</correspContext> 
+</correspDesc>
+</profileDesc>
+        
+<revisionDesc status="draft">
+<change when="2017" who="#af" status="draft">Initial Encoding</change>
+<change when="2015" who="#af" status="draft">Initial Encoding</change>
+<change when="2014" who="#km" status="draft">Transcription</change>
+            
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>
+            
+<div1 type="letter" xml:lang="es" part="N" org="uniform" sample="complete">
+                
+<pb facs="shan_l.374.jpg"/>
+                
+<opener>
+<address><addrLine>Ft, Lupton Colo</addrLine></address>
+<dateline>27, may—1960,</dateline>
+
+<address><addrLine>Querida híja</addrLine></address>
+<salute>la precente es para Saludarlos, tanto al Bill, como á ti y á níños, esperando que esten bien, todos: pues nosotros estamos buenos gracías á Díos;</salute>
+</opener>
+                
+<p part="N">pues ya ase días que me cayo el retrato de la baby Elizabeth, for mother day; pues esta deberas esta parecída á ti; ya se be muy grande quíen sabe sí <add instant="false" status="unremarkable">en</add> <del instant="false" status="unremarkable">el</del> en el cuerpo no se paresca á ti, tu estas chaparita quíen ella;</p>
+
+<p part="N">de nuebas te platícare que aquí el tiempo esta muy bonito, y lla ay mucho trabajo, en el Betabel, y en las plantaciones ya tu sabes;</p>
+
+<pb facs="shan_l.375.jpg"/>
+
+<p part="N">bueno en tu carta me dises que tienes flores; pero no me díses sí al fin te prendieron aqueyos camotes que llebo al Bill, de clabdioll<add instant="false" status="unremarkable">os</add> color de roza, y blancas; pues aqui tengo muchos; pero todabía estan chíquitas tu sabes todabía no es tiempo de que esten grandes; dallias tambíen tengo estan muy bonitas;</p>
+
+<p part="N">yo é estado bien muy descansa<add instant="false" status="unremarkable">da</add> bendito se Díos; as oraciones <add instant="false" status="unremarkable">hija</add> para que se me quite esta enfermedad; porque esta enfermedad; es de ricos; á uno de pobre; no puede uno, estar asiendo costos; porque dinero, y dinero y mas, dinero;</p>
+
+<p part="N">enseña á tus níños, á rezar y <add instant="false" status="unremarkable">e</add> pedir <add instant="false" status="unremarkable">por</add> los enfermos; Díos es muy
+
+<pb facs="shan_l.376.jpg"/>
+
+bueno sí oye las oracíones de los níños; por ellos son agelítos de Díos;</p>
+
+<p part="N">y mira anque yo enbeses no te escríba, tu cuando puedes escríbirme, platicarme algo; de lo que te pase, ó de algunas news;</p>
+
+<p part="N">pues aquí yo si te platico algo de lo que pasa; pues al esposo de la Frances nolasco; te platicare como siempre se queda poraya en Denver; dura asta 4, o. 5 días su pago lo resíven el Viernes, y cayo asta el martes todo golpeado le quitaron su dinero cayo aquí asta el martes despues de medío día, con las quijadas quebradas, y haora pues aquí esta sin trabajar; llendo con el Doctor, lo tienen; me dijo la Frances</p>
+
+<pb facs="shan_l.377.jpg"/>
+
+<p part="N">que amarado de las quijadas el Doctr; con alambres que no puede ni ablar, <add instant="false" status="unremarkable">ni</add> comer pura cosas bebido; la Frances se rí díse pues ojala y ya haora se le quite lo andulante; pues pobres, pero haorita sí le estan alludando; porque yo beo que le train mucha comida; suguro que <add instant="false" status="unremarkable">por</add> los niños tu sabes por la familia; es muy bueno tener hijos pues yo se quí es mucho trabajo pero por la familía el Gobierno ayuda.</p>
+
+<closer>
+<salute>bueno ya estubimos platicando. saludes tanto para Bill, como para tí y los niños, de max y jessee y famíly y de mí tu mamá</salute>                    
+<signed>jesusita B. Torres;</signed>
+</closer>
+                
+</div1>
+
+<div1 type="envelope" part="N" org="uniform" sample="complete">
+
+<pb facs="shan_l.372.jpg"/>
+
+<ab type="return" part="N">
+<address>
+<addrLine>814. Pacífic, ave;</addrLine>
+<addrLine>Ft. Lupton colorado</addrLine>
+</address>
+</ab>
+
+<ab type="address" part="N">
+<address>
+<addrLine>mrs. W. F. Schubert</addrLine>
+<addrLine>1016 South, 40th St;</addrLine>
+<addrLine>Lincoln, 10, nebraska</addrLine>
+</address>
+</ab>
+
+<ab type="postmark" part="N">
+FORT LUPTON<lb/>
+MAY 28<lb/>
+430PM<lb/>
+1960<lb/>
+COLO.<lb/>
+</ab>
+
+</div1>
+
+<div1 type="letter" xml:lang="en" part="N" org="uniform" sample="complete">
+                
+<pb facs="shan_l.374.jpg"/>
+                
+<opener>
+<address><addrLine>Ft. Lupton, Colorado</addrLine></address>
+<dateline>May 27, 1960</dateline>
+
+<address><addrLine>Dear daughter</addrLine></address>
+<salute>this letter is to greet you, Bill and the kids, hoping that you are all well.
+Well, we are alright, thank God.</salute>
+</opener>
+                
+<p part="N">Well, it’s been several days since I got baby Elizabeth’s portrait for mother’s day. She really does look like you. She’s grown a lot. Who knows if
+she resembles you body-wise, because you are a little short, and who knows if she will be.</p>
+
+<p part="N">In <add resp="iv001" instant="false" status="unremarkable">other</add> news I will tell you that the weather here is very nice, and there is a lot of work in the beet <add resp="iv001" instant="false" status="unremarkable">farms</add> already, and in planting, as you know.</p>
+
+<pb facs="shan_l.375.jpg"/>
+
+<p part="N">Well, in your letter you tell me that you have flowers, but you don’t tell me if the pink and white gladioli bulbs that Bill took with him bloomed in the end. I have a many here, but they are still small because as you know it’s not time for them to be big yet. I also have dahlias, and they are very pretty.</p>
+
+<p part="N">I have been well rested, blessed be God. Pray, daughter, so that I may heal from this illness, because this is an illness of the rich. Being poor, one can’t be continually spending money and more money.</p>
+
+<p part="N">Teach your children to pray. God is very
+
+<pb facs="shan_l.376.jpg"/>
+
+good and does listen to children’s prayers, because they are God’s little angels.</p>
+
+<p part="N">And look, even though I sometimes may not write to you, write to me when you can. Tell me about something that is going on with you, or some news.</p>
+
+<p part="N">Here <add resp="iv001" instant="false" status="unremarkable">in this letter</add> I will tell you what’s going on. Well, Frances Nolasco’s husband, I will tell you that he always stays
+over there in Denver. He spends four or even five days there. They get his salary on Friday, and he returned home until Tuesday, all beat up. They took his money and came back here until Tuesday past noon, with a broken jaw. And now he is not working, he’s going to the doctor, and they have him, Frances told me,</p>
+
+<pb facs="shan_l.377.jpg"/>
+
+<p part="N">with the jaw shut with wires, he can’t talk or eat, he can only drink. Frances laughs and says that she hopes that <add resp="iv001" instant="false" status="unremarkable">after this</add> he is no longer a <app loc="1" type="neologism"><rdg>rambler</rdg></app> <app loc="2"><rdg> he doesn't stray</rdg></app>. I feel for them. But now they are receiving aid, because I see they bring them a lot of food, almost surely because of the children. You know, because of their family. It’s good to have a family. I know it’s a lot of work, but <app loc="1"><rdg>because of having a family</rdg></app> <app loc="2"><rdg>if you have a family</rdg></app> the government will help you.</p>
+
+<closer>
+<salute>Well, we’ve had a chat <add resp="iv001" instant="false" status="unremarkable">in this letter</add>. <app loc="1"><rdg>Regards</rdg></app> <app loc="2"><rdg>Love</rdg></app> for Bill, for you, and for the kids from Max, and Jesse and his family, and from me, your mom </salute>                    
+<signed>Jesusita B. Torres</signed>
+</closer>
+                
+</div1>
+</body>
+        
+<back/>
+</text>
+</TEI>

@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="shan_L085.meta">
+<teiHeader type="text">
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">Letter from Mrs. Eddie Unnkel to William F. Schubert and Santos Baros Schubert, November 6, 1957</title>
+<title type="main" xml:lang="es">Carta de Sra. Eddie Unnkel a William F. Schubert y Santos Baros Schubert 6 de noviembre, 1957</title>
+<author>Unnkel, Eddie</author>
+<principal xml:id="iv001">Velázquez, Isabel</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name xml:id="af" full="yes" instant="false">Faxas, Adoni A.</name>
+<name xml:id="km" full="yes" instant="false">Mendell, Kate</name>
+<name xml:id="sbg" full="yes" instant="false">Garcia, Sarita B.</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date instant="false">2015</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Family Letters: An analysis of the Personal Correspondence of a Mexican American Family in Western Colorado and Eastern Nebraska in the First Half of the 20th Century</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name full="yes" instant="false">Department of Modern Languages and Literatures</name>
+ <address>
+<addrLine>1111 Oldfather Hall</addrLine>
+<addrLine>660 N 12th</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+<addrLine>modlang2@unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+</address>
+<idno>shan_L085.meta</idno>
+<availability default="false" status="unknown">
+<p part="N">COPYRIGHT STATEMENT TO GO HERE</p>
+</availability>
+</publicationStmt>
+            
+<notesStmt><note anchored="true"/></notesStmt>
+            
+<sourceDesc default="false">
+<bibl default="false" status="draft">
+<author>Unnkel, Mrs. Eddie</author>
+<title level="m" type="main">Mrs. Eddie Unnkel to William F. Schubert and Santos Baros Schubert</title>
+<date when="1957-11-06" instant="false">November 6, 1957</date>
+<extent>4 pages and envelope</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Shanahan Collection</repository>
+<idno/>
+</msIdentifier>
+<msContents defective="false">
+<p part="N">4 hand-written pages and envelope</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support/>
+<extent>4 pages and envelope
+<dimensions unit="mm"><height/><width/></dimensions>
+</extent>
+<condition>
+<p part="N"/></condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="h01" scribe="eu001" medium="pen"><p part="N">Media: blue ink</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote><p part="N"/></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin instant="false"/>
+<provenance/>
+<acquisition/>
+</history>
+</msDesc>
+                
+</sourceDesc>
+</fileDesc>
+        
+<encodingDesc>
+<editorialDecl default="false">
+<correction default="false" status="unknown" method="silent">
+<p part="N"/>
+</correction>
+<normalization default="false" method="silent">
+<p part="N"/>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+        
+<profileDesc>
+<textClass default="false">
+<keywords scheme="original" n="category">
+<term/>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term/>
+</keywords>
+<keywords scheme="original" n="topic">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term/>
+</keywords>
+</textClass>
+<correspDesc default="false">
+<correspAction type="sentBy">
+<persName xml:id="eu001" instant="false" full="yes">Unnkel, Mrs. Eddie</persName>
+<placeName instant="false" full="yes"/>
+<date type="written" when="1957-11-06" instant="false"/>
+<date type="postmarked" when="1957-11-06" instant="false"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="wfs001" instant="false" full="yes">Schubert, William F.</persName>
+<persName xml:id="sbs001" instant="false" full="yes">Baros Schubert, Santos</persName>
+<placeName instant="false" full="yes"/>
+</correspAction>
+<correspContext>
+<ref type="prev" target="shan">Letter from x to y, date</ref>
+<ref type="next" target="shan">Letter from x to y, date</ref>
+</correspContext> 
+</correspDesc>
+</profileDesc>
+        
+<revisionDesc status="draft">
+<change when="2017" who="#af" status="draft">Initial Encoding</change>
+<change when="2015" who="#af" status="draft">Initial Encoding</change>
+<change when="2014" who="#km" status="draft">Transcription</change>
+            
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>
+            
+<div1 type="letter" xml:lang="en" part="N" org="uniform" sample="complete">
+                
+<pb facs="shan_l.280.jpg"/>
+                
+<opener>
+<dateline>Nov 6, 1957</dateline>
+<salute>Dear Bill, Sandra and Family,</salute>
+</opener>
+
+<p part="N">I hope you will forgive me being so slow about writing to you.</p>           
+<p part="N">Lately my last excuse has been “Been in bed for nearly a wk. aching all over and running a high fever”, No! it wasn’t the asian flu, it was one of my old childhood sicknesses “Tonsiliti’s”</p>
+<p part="N">Phooey! and I had my tonsil’s out 28 yrs. ago and that was the second time for me then but guess what stubs grew back took lots of time getting here, but I do feel better but not very high powered yet.</p>
+<p part="N">Lila and Harvey have a son it was born Sept. 13, 1957 on a Friday too. he weighed 7lb. 9oz. and was 20 inches long. as far as being born on Friday the 13th guess it was just lucky for her. Ha.</p>
+<p part="N">He looks like Harvey especially when he laughs he has Harvey’s smile, hair about the same color of Harvey’s (what little he has anyway) anyway Lila and Donie are fine. Don Edward is his name and my husband is sire proud of that, Donie weighs close to 12 lbs now and his length is 25” so he is growing fast.</p> 
+<p part="N">The folks we rented the other side of our duplex to moved out after Eddie ask them to. Lila and Harvey live there now and it is such a relief to have them gone. Sandra I could
+
+<pb facs="shan_l.282.jpg"/>
+
+<fw>2</fw>
+
+write page after page telling you folks about what terrible deals they pulled on us and the one that gripped me the most was they hated Kids and all of our friends and relatives have children, to them they were brats. For instance when we had company and the company left they would tell us “We are sure glad your company with their brats went home.”</p>
+<p part="N">A couple wk. before youfolks came  out here they jumped on to me about kids walking on their grass (the grass on the side of the of the sidewalk they rented) my doctor has ask me not to get myself riled up on account of an old injury <del instant="false" status="unremarkable">when</del> I was hurt when I was a kid. these muscles tighten up around my heart and stomach and causes me to be quite ill.</p>
+<p part="N">Well when they jumped on to me I told them it wasn’t hurting a thing when they kids they walked over there it wasn’t new grass and it didn’t cause dogs to come up there and leave stops like it did when his wife feed all the stray dogs on our side. this fellow also told me he didn’t want me talking to a neighbor lady across the st. she is old and had lost her husband. all these things are just cathpiess and that is enough of that but I hope that give you an idea of how hard they were to get along with. well any way I got riled up and I lost 10 lbs in less then 3 days. I couldn’t eat and it was hard for me to breath. and
+
+<pb facs="shan_l.284.jpg"/>
+
+<fw>3.</fw>
+
+I will say Sandra and Bill it’s hard to put up with such kidish things and not get riled up.</p>
+<p part="N">We got Lila and Harvey a Presto stainless pressure cooker and she (neighbor lady) saw it. this seems funny to me now but at the time it wasn’t. “That’s not stainless steel because mine is and it doesn’t look like that.” Hers is a polished aluminum but we just had to keep still and we couldn’t argue or she would go home and cry because some one crossed her. so anymore to us the “Jim Seller’s” are spoiled brat and big bully.</p>
+<p part="N">I told Bill I would write and tell you about some of the things those folks have done otherwise I shouldn’t have said a thing. Guess <hi rend="underline">that</hi> is what we bought along with our home Ha.</p>
+<p part="N">I sure miss Mr. De Woody on dark, dreary days as I think he used to feel a bit lonesome on such days and telephone us.</p>
+<p part="N">By the way Russell and Irene Sherrill say Hi. they are still living on the same place but have done some building on lately the Irene talked the last time I Telephoned her. all of them were well at that time.</p>
+<p part="N">Mrs. Nichel, Ida Conroy’s old landlady at 2137 Welton St, she passed away better then 2 months ago. She was a very nice old lady. she also had a heart attack.</p>
+<p part="N">2 of the girls who used to work at the
+
+<pb facs="shan_l.286.jpg"/>
+
+<fw>4.</fw>
+
+Trailways garage, they lost their husbands but I don’t think either of you know them. one was married a month later.</p>
+<p part="N">Lila was just over so she left a card to put in with this letter she said she was sorry they didn’t get it off to you before.</p>
+<p part="N">Dad is better at the present time, he had a liver infection, while clearing that up, he had an infection in his leg which caused a blood clot to go to one of his lungs causing him to leave a slight case of pneumonia, after that he fell and lit sitting down, fortunately no bones were broken but he could hardly move for awhile he has recovered from these things pretty good so we will have him out here with us soon we think.</p>
+<p part="N">Phill is supposed t go out on the U.S.S. Worchester soon, he wrote about getting 2 different badges and a ribbon to wear and drew us a picture of his left breast pocket and the decorations.</p>
+<p part="N">Ernie going to High now, but about all he thinks about is joining the Navy, I told him that those bow legged pants wouldn’t fit him Ha.</p>
+<p part="N">Hi Billie, Hi Bobbie, and Pam. Take good care of your Mom and Dad.</p>
+<p part="N">Please excuse the length of this letter, I hardly think I’ll have time to write a very long one at Christmas time but hope this finds all of you well and happy in your home in Lincoln.</p> 
+
+<closer>
+<salute>As Ever</salute>                   
+<signed>Allen + All</signed>
+</closer>
+                
+</div1>
+
+<div1 type="envelope" part="N" org="uniform" sample="complete">
+
+<pb facs="shan_l.278.jpg"/>
+
+<ab type="return" part="N">
+<address>
+<addrLine>Mrs. Eddie Unkel</addrLine>
+<addrLine>2427- W. Argyle Pl.</addrLine>
+<addrLine>Denver 11, Colo.</addrLine>
+</address>
+</ab>
+
+<ab type="address" part="N">
+<address>
+<addrLine>Mr. and Mrs. William Shubert</addrLine>
+<addrLine><del instant="false" status="unremarkable">1912 North 32 and So.</del></addrLine>
+<addrLine>Lincoln, Nebraska</addrLine>
+<addrLine>C/O Balbo Trailer Club.</addrLine>
+</address>
+</ab>
+
+<ab type="postmark" part="N">
+DENVER<lb/> 
+NOV 6<lb/>
+530PM<lb/>
+1957<lb/>
+</ab>
+
+<figure type="stamp">
+<p part="N"/>
+</figure>
+
+</div1>
+
+<div1 type="letter" xml:lang="es" part="N" org="uniform" sample="complete">
+                
+<pb facs="shan_l.280.jpg"/>
+                
+<opener>
+<dateline>Nov 6, 1957</dateline>
+<salute>Queridos Bill, Sandra y familia:</salute>
+</opener>
+
+<p part="N">Espero disculpen mi tardanza en escribirles.</p>           
+<p part="N">Mi más reciente excusa han sido: “En cama casi una semana, con el cuerpo cortado y fiebre alta”. No, no fue la influenza asiática, sino una de mis enfermedades de la infancia: las anginas.</p>
+<p part="N">¡Uff! I me las sacaron hace 28 años, y en ese entonces era la segunda vez; se tomaron su tiempo, pero creo que lo que quedó volvió a crecer. Pero sí me siento mejor, aunque todavía no con mucha energía.</p>
+<p part="N">Lila y Harvey tienen bebé. Nació el 13 de septiembre de 1957 y pesó 7 libras 9 onzas y midió 20 pulgadas. Y eso de que nación e viernes 13, supongo que fue suerte para ella. Ja.</p>
+<p part="N">Se parece a Harvey, sobre todo cuando se ríe. Tiene la sonrisa de Harvey, y el pelo más o menos del mismo color que Harvey (el poco que tiene, claro). Bueno, Lila y Donie están bien. Se llama Don Edward, y mi esposo está muy orgulloso de eso. Ahora Donie pesa casi 12 libras y mide 25 pulgadas, está creciendo muy rápido.</p> 
+<p part="N">La gente a la que le rentamos el otro lado de nuestro duplex se mudó después de que Eddie se los pidió. Ahora Lila y Harvey viven ahí, y es mucho alivio que se hayan ido. Sandra, podría
+
+<pb facs="shan_l.282.jpg"/>
+
+<fw>2</fw>
+
+escribir páginas y páginas para contarles las cosas terribles que nos hicieron. La que más me llegó es que odiaban a los niños, y todos nuestros amigos y parientes tienen niños. Para ellos todos eran niños malcriados. Por ejemplo, cuando teníamos visita y la visita se iba, nos decían: “Qué bueno que se fueron sus visitas con sus niños malcriados”.</p>
+<p part="N">Un par de semanas antes de que ustedes vinieran se quejaron conmigo porque los niños caminaban sobre su pasto (el pasto que está junto a la banqueta de la casa que rentaban). El doctor me dijo que no me sobresaltara, porque tengo una lesión de cuando era niña. Los músculos del corazón y del estómago se me tensan y me pongo muy mal.</p>
+<p part="N">Bueno, cuando vinieron a quejarse conmigo les dije que los niños no le estaba haciendo daño a nadie cuando caminaban por ahí, y que no era pasto nuevo, ni atraía a todos los perros, como hacían ellos cuando le daban de comer a los perros callejeros en nuestro lado. Además, el<app loc="1"><rdg> hombre</rdg></app> <app loc="2"><rdg>tipo</rdg></app> <app loc="3"><rdg>sujeto</rdg></app> <app loc="3"><rdg>individuo</rdg></app> me dijo que no quería que hablara con una vecina de enfrente. Es una señora mayor, que perdió a su esposo. Todo esto son <app loc="1" cert="low"><rdg>minucias</rdg></app> <app loc="1" cert="low"><rdg>tonterías</rdg></app> <app loc="1"><rdg>quejas</rdg></app> y ya basta del tema, pero espero que les de una idea de lo difícil que era llevarse con ellos. Bueno, a fin de cuentas, me alteré tanto que perdí 10 libras en menos de tres días. No podía comer y me costaba trabajo respirar y
+
+<pb facs="shan_l.284.jpg"/>
+
+<fw>3.</fw>
+
+les diré, Sandra y Bill, que es difícil soportar tantas cosas tan infantiles sin alterarse.</p>
+<p part="N">Les <app loc="1"><rdg>compramos</rdg></app> <app loc="2"><rdg>conseguimos</rdg></app> a Lila y a Harvey una olla de presión Presto, de acero inoxidable , y ella (la vecina) la vio. Ahora se me hace chistoso, pero no lo fue entonces. “Eso no es acero inoxidable, porque la mía es de acero inoxidable y no se ve así”. La de ella era de aluminio pulido, pero nos tuvimos que quedar callados, porque si no se iba a su casa y se ponía a llorar porque alguien la contradecía. Así que ahora, para siempre, los “Jim Sellers” son malcriados y prepotentes.</p>
+<p part="N">Le dije a Bill que les escribiría para contarles algo de lo que nos hicieron estas personas, si no fuera así no habría dicho nada. Supongo que <hi rend="underline">eso</hi> es lo que compramos junto con nuestra casa. Ja.</p>
+<p part="N">En días nublados y tristes extraño mucho al Sr. De Woody. Creo que en esos días se sentía un poco solo y nos telefoneaba.</p>
+<p part="N">Por cierto, Russell e Irene Sherrill dicen hola. Todavía viven donde mismo, pero recientemente han estado construyendo, según me dijo Irene la última vez que hablamos. Le llamé por teléfono y en ese entonces todos estaban bien.</p>
+<p part="N">Hace casi dos meses falleció la Sra. Nichel, la antigua casera de Ida Conroy en el 2137 de la calle Welton. Era una anciana muy amable. También murió de un infarto.</p>
+<p part="N">Dos de las chicas que trabajaban ene
+
+<pb facs="shan_l.286.jpg"/>
+
+<fw>4.</fw>
+
+el taller Trailways enviudaron, pero creo que ustedes no las conocieron. Una se casó un mes después.</p>
+<p part="N">Lila acaba de venir y me dejó una tarjeta para incluirla con esta carta. Dijo que sentía mucho no habérselas enviado antes.</p>
+<p part="N">Papá está mejor ahora. Tuvo una infección en el hígado y mientras se estaba reponiendo de eso se le infectó una pierna, lo que le causó que un coágulo en la pierna que se le fue a un pulmón y le causó una ligera neumonía. Después de eso <app loc="1" cert="high"><rdg>se cayó</rdg></app> <app loc="2" cert="high"><rdg>se dio un sentón</rdg></app>. Afortunadamente no se quebró ningún hueso, pero casi no se pudo mover por un rato. Ya casi está recuperado de todo eso, y creo que lo tendremos con nosotros dentro de poco.</p>
+<p part="N">Phil debe embarcarse en el U.S.S. Worchester dentro de poco. Nos escribió para decirnos que le dieron dos placas diferentes y un listón para usarlos, y nos dibujó el bolso izquierdo de su uniforme con las condecoraciones.</p>
+<p part="N">Ernie va a high school ahora, pero solo piensa en enlistarse en la <app loc="1"><rdg>marina</rdg></app> <app loc="1"><rdg>Navy</rdg></app>. Le dije que no le iban a quedar esos pantalones de piernas chuecas. Ja.</p>
+<p part="N">Hola Billie, hola Bobbie y Pam. Cuiden muy bien a mamá y a papá.</p>
+<p part="N">Por favor disculpen lo largo de esta carta. Creo que no tendré tiempo de escribir una carta muy larga en Navidad, pero espero que esta los encuentre con bien y felices en su casa de Lincoln.</p> 
+
+<closer>
+<salute>Como siempre,</salute>                   
+<signed>Allen + Todas</signed>
+</closer>
+                
+</div1>
+
+</body>
+        
+<back/>
+</text>
+</TEI>

@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="shan_L082.meta">
+<teiHeader type="text">
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">Letter from Jesusita Baros Torres to Santos Baros Schubert, June 23, 1957</title>
+<title type="main" xml:lang="es">Carta de Jesusita Baros Torres a Santos Baros Schubert, 23 de junio, 1957</title>
+<author>Baros Torres, Jesusita</author>
+<principal xml:id="iv001">Velázquez, Isabel</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name xml:id="af" full="yes" instant="false">Faxas, Adoni A.</name>
+<name xml:id="km" full="yes" instant="false">Mendell, Kate</name>
+<name xml:id="sbg" full="yes" instant="false">Garcia, Sarita B.</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date instant="false">2015</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Family Letters: An analysis of the Personal Correspondence of a Mexican American Family in Western Colorado and Eastern Nebraska in the First Half of the 20th Century</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name full="yes" instant="false">Department of Modern Languages and Literatures</name>
+ <address>
+<addrLine>1111 Oldfather Hall</addrLine>
+<addrLine>660 N 12th</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+<addrLine>modlang2@unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+</address>
+<idno>shan_L081.meta</idno>
+<availability default="false" status="unknown">
+<p part="N">COPYRIGHT STATEMENT TO GO HERE</p>
+</availability>
+</publicationStmt>
+            
+<notesStmt><note anchored="true"/></notesStmt>
+            
+<sourceDesc default="false">
+<bibl default="false" status="draft">
+<author>Baros Torres, Jesusita</author>
+<title level="m" type="main">Letter from Jesusita Baros Torres to Santos Baros Schubert</title>
+<date when="1957-06-24" instant="false">June 23, 1957</date>
+<extent>3 pages and envelope</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Shanahan Collection</repository>
+<idno/>
+</msIdentifier>
+<msContents defective="false">
+<p part="N">3 hand-written pages and envelope</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support/>
+<extent>3 pages and envelope
+<dimensions unit="mm"><height/><width/></dimensions>
+</extent>
+<condition>
+<p part="N"/></condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="h01" scribe="jbt001" medium="pen"><p part="N">Media: black ink</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote><p part="N"/></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin instant="false"/>
+<provenance/>
+<acquisition/>
+</history>
+</msDesc>
+                
+</sourceDesc>
+</fileDesc>
+        
+<encodingDesc>
+<editorialDecl default="false">
+<correction default="false" status="unknown" method="silent">
+<p part="N"/>
+</correction>
+<normalization default="false" method="silent">
+<p part="N"/>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+        
+<profileDesc>
+<textClass default="false">
+<keywords scheme="original" n="category">
+<term/>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term/>
+</keywords>
+<keywords scheme="original" n="topic">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term/>
+</keywords>
+</textClass>
+<correspDesc default="false">
+<correspAction type="sentBy">
+<persName xml:id="jbt001" instant="false" full="yes">Baros Torres, Jesusita</persName>
+<placeName instant="false" full="yes"/>
+<date type="written" when="1957-06-23" instant="false"/>
+<date type="postmarked" when="1957-06-24" instant="false"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="sbs001" instant="false" full="yes">Baros Schubert, Santos</persName>
+<placeName instant="false" full="yes"/>
+</correspAction>
+<correspContext>
+<ref type="prev" target="shan">Letter from x to y, date</ref>
+<ref type="next" target="shan">Letter from x to y, date</ref>
+</correspContext> 
+</correspDesc>
+</profileDesc>
+        
+<revisionDesc status="draft">
+<change when="2017" who="#af" status="draft">Initial Encoding</change>
+<change when="2015" who="#af" status="draft">Initial Encoding</change>
+<change when="2013" who="#km" status="draft">Transcription</change>
+            
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>
+            
+<div1 type="letter" xml:lang="es" part="N" org="uniform" sample="complete">
+                
+<pb facs="shan_l.262.jpg"/>
+                
+<opener>
+<address><addrLine>ft. Lupton Colorado</addrLine></address>
+<dateline>June 23,-1957</dateline>
+
+<salute>Querida hija,</salute>
+</opener>
+
+<p part="N">la precente es para saludarte, tanto á ti como al Bill, y los Kids;</p>
+                
+<p part="N">nosotros estamos bien Gracías a Díos; pues hija ya ase días que recíví tu carta;</p>
+
+<p part="N">pero tan poquito que mes escríbes, no me platicas casí nada; como les á hido con estos aygronazos; pues aqui se dise mucho;</p>
+
+<p part="N">ya haora esta cayendo agua nosmas y apoquito sale el sol, ba muy bonito el gardin y al fin sembraron maíz Uds; yo me acuerdo de Albert tu niño ya parese que no me acuerdo ?pero hasí se llama? (que no) que le gusta mucho los elotes;</p>
+
+<pb facs="shan_l.264.jpg"/>
+
+<p part="N">pero haora sí bínes en july, como dices no ba á ber maíz todabía; sí estan muy bonítas las matitas pero apenas esta empesando;</p>
+
+<p part="N">pero de todos modos no le ase cuando tenemos gusto que bengas no me dises sí bíene el Bíll, ó no biene, ó sí bíenis tu no mas con los muchachos; tu saves, quíero saver para alistar camas; yo aquí tengo no muchas flores; pero as esta muy alegre mí gardin; la Helen trabajando y jess tambíen, el jerry trabaja en veces con max en el farmer y gana sus sentavos</p>
+
+<closer>
+<salute>bueno hija yo creo que esto sera todo por esta bes dales mís recuerdos al Bill, los niños y tu recíve el mas fino recuerdo de nosotros,</salute>                   
+</closer>
+
+<pb facs="shan_l.264.jpg"/>
+
+<closer>
+<salute>max y de mamá</salute>                    
+<signed>jesusita Baros Torres</signed>
+</closer>
+                
+</div1>
+
+<div1 type="envelope" part="N" org="uniform" sample="complete">
+
+<pb facs="shan_l.260.jpg"/>
+
+<ab type="return" part="N">
+<address>
+<addrLine>P.O. Box, 681.</addrLine>
+<addrLine>ft, Lupton Colo</addrLine>
+<addrLine>Jesusita Baros Torres</addrLine>
+</address>
+</ab>
+
+<ab type="address" part="N">
+<address>
+<addrLine>Mrs Sandra B. Schubert</addrLine>
+<addrLine>1016 South 40th St</addrLine>
+<addrLine>Lincoln 10, nebra;</addrLine>
+</address>
+</ab>
+
+<ab type="postmark" part="N">
+FORT LUPTON<lb/> 
+JUN 24<lb/>
+830 AM<lb/>
+1957<lb/>
+COLO<lb/>
+</ab>
+
+</div1>
+
+<div1 type="letter" xml:lang="en" part="N" org="uniform" sample="complete">
+                
+<pb facs="shan_l.262.jpg"/>
+                
+<opener>
+<address><addrLine>Ft. Lupton, Colorado</addrLine></address>
+<dateline>June 23, -1957</dateline>
+
+<salute>Dear daughter,</salute>
+</opener>
+
+<p part="N">this letter is to greet you, along with Bill and the kids.</p>
+                
+<p part="N">Well daughter, I got your letter several days ago,</p>
+
+<p part="N">but you write so very little, you tell me almost nothing. How did you fare with the big windstorms? <add resp="iv001" instant="false" status="unremarkable">People</add> have talked a lot about them here.</p>
+
+<p part="N">It’s raining now, and the sun shines only once in a while. The garden is growing very well. And, did you end up planting corn? I remember your son Albert, I can’t quite remember, that’s his name, isn’t it? he really likes corn.</p>
+
+<pb facs="shan_l.264.jpg"/>
+
+<p part="N">but if you come in July like you say there won’t be any corn yet. The plants are very pretty, but it’s just starting.</p>
+
+<p part="N">But anyway, it doesn’t matter, because we’re very happy that you are coming. You don’t tell me <add resp="iv001" instant="false" status="unremarkable">in your letter</add> if Bill is coming or not, or if you’re coming alone with the kids. You know, I want to know to get the beds ready. I don’t have many flowers in my garden, but it’s very cheery. Helen is working and Jess is too. Jerry works with Max sometimes in the farm and earns his money.</p>
+
+<closer>
+<salute>Well daughter, I think this will be all for now. Give my regards to Bill and to the kids, and receive the finest regards
+from us,</salute>                   
+</closer>
+
+<pb facs="shan_l.264.jpg"/>
+
+<closer>
+<salute>Max and mom</salute>                    
+<signed>Jesusita Baros Torres</signed>
+</closer>
+                
+</div1>
+
+
+</body>
+        
+<back/>
+</text>
+</TEI>

@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="shan_L005.meta">
+<teiHeader type="text">
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">Letter from Julia de Arroyo to Maximino Torres, March 18, 1926</title>
+<title type="main" xml:lang="es">Carta de Julia de Arroyo a Maximino Torres, 18 de marzo, 1926</title>
+<author>de Arroyo, Julia</author>
+<principal xml:id="iv001">Velázquez, Isabel</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name xml:id="jda" full="yes" instant="false">Avelar, Janette D.</name>
+<name xml:id="iv002" full="yes" instant="false">Velázquez, Isabel</name>
+<name xml:id="sbg" full="yes" instant="false">Garcia, Sarita B.</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date instant="false">2015</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Family Letters: An analysis of the Personal Correspondence of a Mexican American Family in Western Colorado and Eastern Nebraska in the First Half of the 20th Century</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name full="yes" instant="false">Department of Modern Languages and Literatures</name>
+ <address>
+<addrLine>1111 Oldfather Hall</addrLine>
+<addrLine>660 N 12th</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+<addrLine>modlang2@unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+</address>
+<idno>shan_L005.meta</idno>
+<availability default="false" status="unknown">
+<p part="N">COPYRIGHT STATEMENT TO GO HERE</p>
+</availability>
+</publicationStmt>
+            
+<notesStmt><note anchored="true">Text in the margins of pages 1 and 2 has been placed in reading order at the end of the text continuing at the end of page 2</note></notesStmt>
+            
+<sourceDesc default="false">
+<bibl default="false" status="draft">
+<author>de Arroyo, Julia</author>
+<title level="m" type="main">Letter from Julia de Arroyo to Maximino Torres</title>
+<date when="1926-03-18" instant="false">March 18, 1926</date>
+<extent>2 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Shanahan Collection</repository>
+<idno/>
+</msIdentifier>
+<msContents defective="false">
+<p part="N">2 hand-written pages</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support/>
+<extent>2 pages
+<dimensions unit="mm"><height/><width/></dimensions>
+</extent>
+<condition>
+<p part="N"/></condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="h01" scribe="ja001" medium="pen"><p part="N">Media: black ink</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote><p part="N"/></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin instant="false"/>
+<provenance/>
+<acquisition/>
+</history>
+</msDesc>
+                
+</sourceDesc>
+</fileDesc>
+        
+<encodingDesc>
+<editorialDecl default="false">
+<correction default="false" status="unknown" method="silent">
+<p part="N"/>
+</correction>
+<normalization default="false" method="silent">
+<p part="N"/>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+        
+<profileDesc>
+<textClass default="false">
+<keywords scheme="original" n="category">
+<term/>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term/>
+</keywords>
+<keywords scheme="original" n="topic">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term/>
+</keywords>
+</textClass>
+<correspDesc default="false">
+<correspAction type="sentBy">
+<persName xml:id="ja001" instant="false" full="yes">de Arroyo, Julia</persName>
+<placeName instant="false" full="yes"/>
+<date type="written" when="1926-03-18" instant="false"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="mt001" instant="false" full="yes">Torres, Maximino</persName>
+<placeName instant="false" full="yes"/>
+</correspAction>
+<correspContext>
+<ref type="prev" target="shan">Letter from x to y, date</ref>
+<ref type="next" target="shan">Letter from x to y, date</ref>
+</correspContext> 
+</correspDesc>
+</profileDesc>
+        
+<revisionDesc status="draft">
+<change when="2015" who="#jda" status="draft">Initial Encoding</change>
+<change when="2013" who="#iv002" status="draft">Transcription</change>
+            
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>
+            
+<div1 type="letter" xml:lang="es" part="N" org="uniform" sample="complete">
+                
+<pb facs="shan_l.015.jpg"/>
+  
+<opener>
+<address><addrLine>Huapamacato Mich. Mex.</addrLine></address>
+<dateline>Marzo 18-1926</dateline>
+<address><addrLine>Sr. Magsimino Torrez</addrLine></address>
+<address><addrLine>Rocksprins, Wyo</addrLine></address>
+<salute>Muy Estimado Magsimino</salute>
+</opener>
+
+<p part="N">Derijo la presente para Saludarte desiando te yncuentres Sin ninguna nobedad Son mis gratos decseos nosotros bien asta la presente gracial al Criador.</p>
+    
+<p part="N">Magzimino acuzo rresibo de tu atenta fecha 18 del pasado y contodo gusto doy contestacion ahella que dando ynformada En que te encuentras bien asta aquella fecha es lo desiado y Espero que esta te encuentre mejor. Me dises que tus deseso son de que Clemente Se enseñe a escribir yal menosSu nombre era lo que también nosotros desiabamos pero yo pienso que esta muy trabajosa Su benida a casa por que El no quiera, ho por que no lo dejen El cazo es que yo creo no Se biene no lo hemos buelto a ber desde antes del 12 de Diciembre Me dices que bas amandar las medisinas yndicadas mucho te agradecere pero Si no las as puesto nates de que rrecibas esta no me las
+
+<pb facs="shan_l.016.jpg"/>
+
+mandes por fabor por que me dise tu tio que no las saca por que no tiene con que creo cuesta mucho sacar objetos que bienen por correo asi que te suplico no me mandes mejor nada que cuesta por las cartas mas de lo que balen a qui es muy bandido el gobierno aqui cada frasco bale 2. Dos pesos y Se me hiso ami mas fasil mandarte desir ati me hisieras favor de mandartemelas de alla por que tambien no sabia lo que costaba El sacarlas y por consiguiente siempre aqui son mucho mas caras que alla</p>
+    
+<p part="N">Cuando yo estaba alla beia en el periodico el balor de un peso cada frasco asi que y ate digo yo que mas quisiera desiar a que me las mandaras pero qu eno me costar nada ho al me nos una cosa que fuera justa no tanto aun que algun di ate las ubiera pagado con alguna gratificacion de alguna cosa pero no se puede como te digo Concepcion Se yncuentra bastante escazo de rrecursoz y me a de dar pena rregresarlas para tras. No se te holbide gastar tu dinero traajo que a tit e cuesta mucho no lo tires en nada a qui en Megico esta muy trabajoso para ganar un sentabo rresibe muchos rrecuerdos de Concepcion de Filomena y de Mama Ruben y de Andrea tengo gusto en que aygas rrecebido El Bolo que te mande y deseo dartelo aunque sea de una Botella de mistela cuando bengas bente que siegas ay las cargas nomas de eso se be aora ya lo que desean es allar no por que te abias de quierer aser una de hellas pero y ate digo rresibe</p> 
+
+<closer>
+<salute>El mas cresido afecto de tu tia que te apresia</salute>
+
+<signed>Julia <unclear reason="illegible" instant="false">F</unclear> de Arroyo</signed>
+    
+</closer>
+
+</div1>
+
+
+<div1 type="letter" xml:lang="en" part="N" org="uniform" sample="complete">
+                
+<pb facs="shan_l.015.jpg"/>
+  
+<opener>
+<address><addrLine>Huapamacato, Michoacan</addrLine>
+<addrLine>Mexico</addrLine></address>
+<dateline>March 18-1926</dateline>
+<address><addrLine>Mr. Magsimino Torrez</addrLine></address>
+<address><addrLine>Rocksprings, Wyoming</addrLine></address>
+<salute>My Esteemed Magsimino</salute>
+</opener>
+
+<p part="N">I write this letter to greet you wishing you are well and without bad news, such as is my wish. We are well as of today, <app loc="1"><rdg>thanks be to the Creator</rdg></app> <app loc="2"><rdg>Thank God</rdg></app></p>
+
+<p part="N">Magzimino I received your kind letter dated on the 18th of last month and gladly reply, acknowledging receipt of the news that you were well as of that date, my wish and hope is that this finds you <add resp="iv001" instant="false" status="unremarkable">even</add>better. You tell me about your interest in having Clemente learn to write at least his name, this is what we would wish also, but I think it’s very difficult that he comes to live with us either because he doesn’t want to or because they will not let him, in any event I think he’s not coming. We haven’t seen him since before the 12th of December. You tell me you are going to send me the medicines that were prescribed to me and I will be very thankful if you do, but if you have not mailed them before you receive this please don’t
+
+<pb facs="shan_l.016.jpg"/>
+
+send them to me, because your uncle says that he cannot pick them up <add resp="iv001" instant="false" status="unremarkable">at the post office</add> because he has no money to do so. I think it’s very expensive to pick up items that come through the mail, so I beg you, please don’t send me anything because it’s more expensive to pick up letters than what they’re worth. The government is full of bandits here. Every bottle is worth two pesos here, and it seemed easy to ask if you would do me the favor of sending them to me because I didn’t know how expensive it would be to pick them up, and thus, they are always more expensive here than there.</p>
+
+<p part="N">When I was over there I used to see in the paper that each bottle was worth one peso, so I tell you, how I would wish that you
+could send them and that they would not cost me a thing, or at least that they would cost something that was fair, not so expensive. Even though I would have paid you some day with some form of gratuity or something, but as I tell you, it’s not possible. Concepción is very scarce in resources and it would pain me to have to send them back. Don’t forget to spend your money, which you have worked so hard for, don’t waste it on anything. Here in México it’s very hard to earn a <app loc="1"><rdg>cent</rdg></app> <app loc="2"><rdg>money</rdg></app>. Receive warm regards from Concepción, from Filomena and from Mama Ruben and from Andrea. I’m glad you received the bolo <add resp="iv001" instant="false" status="unremarkable">token, souvenir or coin given by godparents to those present at a baptism</add> that I sent you. I wish to give it to you in the form of a bottle of mistela <add resp="iv001" instant="false" status="unremarkable">sweet liqueur</add>when you come. Come, and you can carry them with you. This is the only thing seen these days, what they want is to find them, not because you would want to get your hands on one bottle. And I tell you, receive the biggest warmest affection from your aunt who holds
+you in high esteem,</p>
+<closer><signed>Julia F de Arroyo</signed></closer>
+
+</div1>
+</body>
+
+<back/>
+</text>
+</TEI>

@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="shan_L211.meta">
+<teiHeader type="text">
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">Letter from Jesusita Baros Torres to Santos Baros Schubert, November 6, 1968</title>
+<title type="main" xml:lang="es">Carta de Jesusita Baros Torres a Santos Baros Schubert, 6 de noviembre, 1968</title>
+<author>Baros Torres, Jesusita</author>
+<principal xml:id="iv001">Velázquez, Isabel</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name xml:id="af" full="yes" instant="false">Faxas, Adoni A.</name>
+<name xml:id="ji" full="yes" instant="false">Isasi, Jennifer</name>
+<name xml:id="sbg" full="yes" instant="false">Garcia, Sarita B.</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date instant="false">2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Family Letters: An analysis of the Personal Correspondence of a Mexican American Family in Western Colorado and Eastern Nebraska in the First Half of the 20th Century</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name full="yes" instant="false">Department of Modern Languages and Literatures</name>
+ <address>
+<addrLine>1111 Oldfather Hall</addrLine>
+<addrLine>660 N 12th</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+<addrLine>modlang2@unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+</address>
+<idno>shan_L211.meta</idno>
+<availability default="false" status="unknown">
+<p part="N">COPYRIGHT STATEMENT TO GO HERE</p>
+</availability>
+</publicationStmt>
+            
+<notesStmt><note anchored="true">The date on the letter is after the postmark date.</note></notesStmt>
+            
+<sourceDesc default="false">
+<bibl default="false" status="draft">
+<author>Baros Torres, Jesusita</author>
+<title level="m" type="main">Letter from Jesusita Baros Torres to Santos Baros Schubert</title>
+<date when="1968-11-6" instant="false">November 06, 1968</date>
+<extent>2 pages and envelope</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Shanahan Collection</repository>
+<idno/>
+</msIdentifier>
+<msContents defective="false">
+<p part="N">2 hand-written pages and envelope</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support/>
+<extent>2 pages and envelope
+<dimensions unit="mm"><height/><width/></dimensions>
+</extent>
+<condition>
+<p part="N"/></condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="h01" scribe="jbt001" medium="pen"><p part="N">Media: black ink</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote><p part="N"/></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin instant="false"/>
+<provenance/>
+<acquisition/>
+</history>
+</msDesc>
+                
+</sourceDesc>
+</fileDesc>
+        
+<encodingDesc>
+<editorialDecl default="false">
+<correction default="false" status="unknown" method="silent">
+<p part="N"/>
+</correction>
+<normalization default="false" method="silent">
+<p part="N"/>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+        
+<profileDesc>
+<textClass default="false">
+<keywords scheme="original" n="category">
+<term/>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term/>
+</keywords>
+<keywords scheme="original" n="topic">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term/>
+</keywords>
+</textClass>
+<correspDesc default="false">
+<correspAction type="sentBy">
+<persName xml:id="jbt001" instant="false" full="yes">Baros Torres, Jesusita</persName>
+<placeName instant="false" full="yes"/>
+<date type="postmarked" when="1968-11-06" instant="false"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="sbs001" instant="false" full="yes">Baros Schubert, Santos</persName>
+<placeName instant="false" full="yes"/>
+</correspAction>
+<correspContext>
+<ref type="prev" target="shan">Letter from x to y, date</ref>
+<ref type="next" target="shan">Letter from x to y, date</ref>
+</correspContext> 
+</correspDesc>
+</profileDesc>
+        
+<revisionDesc status="draft">
+<change when="2017" who="#af" status="draft">Initial Encoding</change>
+<change when="2017" who="#ji" status="draft">Transcription</change>
+            
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>
+            
+<div1 type="letter" xml:lang="es" part="N" org="uniform" sample="complete">
+                
+<pb facs="shan_l.731.jpg"/>
+                
+<opener>
+<address><addrLine>Ft. Lupton Colo</addrLine></address>
+<dateline>Novem 7,- 1968
+</dateline>
+
+<address><addrLine>Sra Santos, B. Schubert</addrLine></address>
+<salute>Querida hija</salute>
+</opener>
+                
+<p part="N">la precente es saludarlos á todos esperando que esten bien, pues asi lo deceo yo; que esten todos buenos;</p>
+
+<p part="N">nosotros aqui an estado bíen yo tambíen ya estoy mucho ma que bien, pero tu te acuerdas que Cuando Uds vinieron, yo te decía que sentía poco mal, pues al fin tube que venír aquí al Hopital Braithon, me opraron otra ves; tengo aquí 2 semanas entre el 22, de Octuber pero ya me siento muy bíen pues dise el Dr que asta que sierre la operacíon; bueno no te apures ya estoy muy aliviada; y tu como as estado yo te escribi 2, cartas y con esta son 3; ojala y si haora me contestes
+
+<pb facs="shan_l.732.jpg"/>
+
+para saver tan siquiera si me contestas á la direcsion <add instant="false" status="unremarkable">de la casa</add></p>
+
+<p part="N">bueno pues yo pienzo que esto sera todo por esta ves, recuerdos para todos tambien del Jess y familia; ó se me abia pasado desirte que el Jerry esta aquí dise que ba á quedar aquí ft, Lupton</p>
+
+<p part="N">recuerdos Max y de mí Diosito nos ayude tanto á Uds como á Nosotros</p>
+
+<closer>
+<salute>El SEÑR te Bendíga,</salute>                    
+<signed>Jesusita Torres.</signed>
+</closer>
+
+</div1>
+
+
+<div1 type="letter" xml:lang="en" part="N" org="uniform" sample="complete">
+                
+<pb facs="shan_l.731.jpg"/>
+                
+<opener>
+<address><addrLine>Ft. Lupton, Colorado</addrLine></address>
+<dateline>November 7,- 1968
+</dateline>
+
+<address><addrLine>Mrs. Santos B. Schubert</addrLine></address>
+<salute>Dear daughter,</salute>
+</opener>
+                
+<p part="N">this letter is to greet all of you, hoping that you are all well, as are my wishes, that you are all healthy.</p>
+
+<p part="N">Here, we have been well, me too, I’m better than well. You will remember that when you came, I told you that I was feeling a little under the weather. Well, I finally had to come here to Brighton Hospital. I had surgery again. I’ve been here for two weeks. I was admitted on October 22, but I’m already feeling better. Well, the Doctor says that <add resp="iv001" instant="false" status="unremarkable">I’ll have to stay here</add> till the wound closes. Well, don’t worry, I feeling much better. And how have you been? I wrote you two letters, this one makes three. I hope you will now answer me
+
+<pb facs="shan_l.732.jpg"/>
+
+so that I can know at least, if you wrote to me at home.</p>
+
+<p part="N">Well, I think this will be all for now. Regards <app loc="1"><rdg>love</rdg></app> for everyone, also from Jess and family. Oh, I had forgotten to tell you that Jerry is here <add resp="iv001" instant="false" status="unremarkable">and</add> says he’s going to stay here <add resp="iv001" instant="false" status="unremarkable">in</add> Ft. Lupton.</p>
+
+<p part="N">Regards <add resp="iv001" instant="false" status="unremarkable">from</add> Max and me. May God help both you and us.</p>
+
+<closer>
+<salute>The Lord bless you,</salute>                    
+<signed>Jesusita Torres.</signed>
+</closer>
+
+</div1>
+
+<div1 type="envelope" part="N" org="uniform" sample="complete">
+
+<pb facs="shan_l.729.jpg"/>
+
+<ab type="return" part="N">
+<address>
+<addrLine>814. Pacific Ave</addrLine>
+<addrLine>Jesusita Torres</addrLine>
+<addrLine>ft, Lupton Colo. 8062</addrLine>
+</address>
+</ab>
+
+<ab type="address" part="N">
+<address>
+<addrLine>Sandra Schubert</addrLine>
+<addrLine>3830 “C.” Street</addrLine>
+<addrLine>Lincoln, Nebraska</addrLine>
+</address>
+</ab>
+
+<ab type="postmark" part="N">
+BRIGHTON, CO<lb/> 
+NOV 6<lb/> 
+PM<lb/>
+1968<lb/>
+80601<lb/>
+</ab>
+
+<figure type="stamp">
+<p part="N"/>
+</figure>
+
+<pb facs="shan_l.730.jpg"/>
+
+<ab type="stamp" part="N">
+SEAL-DRY AT A TOUCH<lb/>
+FOLD THIS FLAP UPWARD<lb/>
+PRESS UPPER FLAP DOWN<lb/>
+. . . IT SEALS ITSELF<lb/>
+</ab>
+
+</div1>
+ 
+
+ <div1 type="letter" xml:lang="en" part="N" org="uniform" sample="complete">
+  
+  <pb facs="shan_l.731.jpg"/>
+  
+  <opener>
+   <address><addrLine>Ft. Lupton, Colorado</addrLine></address>
+   <dateline>November 7, 1968
+   </dateline>
+   
+   <address><addrLine>Mrs. Santos B. Schubert</addrLine></address>
+   
+   <salute>Dear daughter,</salute>
+  </opener>
+  
+  <p part="N">this letter is to greet all of you, hoping that you are all well, as are my
+   wishes, that you are all healthy.</p>
+  <p part="N">Here, we have been well, me too, I’m better than well. You will remember that when you came, I told you that I was feeling a little under the weather. Well, I finally had to come here to Brighton Hospital. I had surgery again. I’ve been here for two weeks. I was admitted on October 22, but I’m already feeling better. Well, the Doctor says that <add cert="high" resp="ji" instant="false" status="unremarkable">I’ll have to stay here</add> till the wound closes.</p> 
+  
+  <p part="N"> Well, don’t worry, I feeling much better. And how have you been? I wrote you two letters, this one makes three. I hope you
+   will now answer me
+   
+   <pb facs="shan_l.732.jpg"/>
+  
+  so that I can know at least, if you wrote to me at home.</p>
+  
+  <p part="N">Well, I think this will be all for now. Regards for everyone, also from Jess and family. Oh, I had forgotten to tell you that Jerry is here, says he’s going to stay here in Ft. Lupton.</p>
+  
+  <p part="N"> Regards from Max and me. May God help both you and us.</p>
+  
+  <closer>
+   <salute>The Lord bless you,</salute>                    
+   <signed>Jesusita Torres.</signed>
+  </closer>
+  
+ </div1>
+ 
+</body>
+        
+<back/>
+</text>
+</TEI>

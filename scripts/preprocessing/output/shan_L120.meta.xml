@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="shan_L120.meta">
+<teiHeader type="text">
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">Letter from Jesusita Baros Torres to Santos Baros Schubert, September 11, 1970</title>
+<title type="main" xml:lang="es">Carta de Jesusita Baros Torres a Santos Baros Schubert, 11 de septiembre, 1970</title>
+<author>Baros Torres, Jesusita</author>
+<principal xml:id="iv001">Velázquez, Isabel</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name xml:id="af" full="yes" instant="false">Faxas, Adoni A.</name>
+<name xml:id="km" full="yes" instant="false">Mendell, Kate</name>
+<name xml:id="sbg" full="yes" instant="false">Garcia, Sarita B.</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date instant="false">2016</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Family Letters: An analysis of the Personal Correspondence of a Mexican American Family in Western Colorado and Eastern Nebraska in the First Half of the 20th Century</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name full="yes" instant="false">Department of Modern Languages and Literatures</name>
+ <address>
+<addrLine>1111 Oldfather Hall</addrLine>
+<addrLine>660 N 12th</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+<addrLine>modlang2@unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+</address>
+<idno>shan_L120.meta</idno>
+<availability default="false" status="unknown">
+<p part="N">COPYRIGHT STATEMENT TO GO HERE</p>
+</availability>
+</publicationStmt>
+            
+<notesStmt><note anchored="true"/></notesStmt>
+            
+<sourceDesc default="false">
+<bibl default="false" status="draft">
+<author>Baros Torres, Jesusita</author>
+<title level="m" type="main">Letter from Jesusita Baros Torres to Santos Baros Schubert</title>
+<date when="1970-09-11" instant="false">September 11, 1970</date>
+<extent>1 page and envelope</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Shanahan Collection</repository>
+<idno/>
+</msIdentifier>
+<msContents defective="false">
+<p part="N">1 hand-written page and envelope</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support/>
+<extent>1 page
+<dimensions unit="mm"><height/><width/></dimensions>
+</extent>
+<condition>
+<p part="N"/></condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="h01" scribe="jbt001" medium="pen"><p part="N">Media: purple ink</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote><p part="N"/></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin instant="false"/>
+<provenance/>
+<acquisition/>
+</history>
+</msDesc>
+                
+</sourceDesc>
+</fileDesc>
+        
+<encodingDesc>
+<editorialDecl default="false">
+<correction default="false" status="unknown" method="silent">
+<p part="N"/>
+</correction>
+<normalization default="false" method="silent">
+<p part="N"/>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+        
+<profileDesc>
+<textClass default="false">
+<keywords scheme="original" n="category">
+<term/>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term/>
+</keywords>
+<keywords scheme="original" n="topic">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term/>
+</keywords>
+</textClass>
+<correspDesc default="false">
+<correspAction type="sentBy">
+<persName xml:id="jbt001" instant="false" full="yes">Baros Torres, Jesusita</persName>
+<placeName instant="false" full="yes"/>
+<date type="written" when="1970-09-11" instant="false"/>
+<date type="postmarked" when="1970-09-11" instant="false"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="sbs001" instant="false" full="yes">Baros Schubert, Santos</persName>
+<placeName instant="false" full="yes"/>
+</correspAction>
+<correspContext>
+<ref type="prev" target="shan">Letter from x to y, date</ref>
+<ref type="next" target="shan">Letter from x to y, date</ref>
+</correspContext> 
+</correspDesc>
+</profileDesc>
+        
+<revisionDesc status="draft">
+<change when="2016" who="#af" status="draft">Initial Encoding</change>
+<change when="2014" who="#km" status="draft">Transcription</change>
+            
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>
+            
+<div1 type="letter" xml:lang="es" part="N" org="uniform" sample="complete">
+                
+<pb facs="shan_l.452.jpg"/>
+                
+<opener>
+<address><addrLine>ft. Lupton colo</addrLine></address>
+<dateline>11. de Septembre 1970</dateline>
+
+<salute>Sra Santos B. chubert</salute>
+</opener>
+
+<p part="N">La presente es para saludarte querida hija,</p>
+                
+<p part="N">me puse á escribire esta carta para darte las muchas <add instant="false" status="unremarkable">gracías</add> por el cheque;</p>
+
+<p part="N">ya parese que estoy mejor pues la Helen trabajando toda vía yo parese que me siento mas alibíada;</p>
+
+<p part="N">pues aqui ya empiesa á ser poco frío; pues yo píenso las muchachas ya estan en la escuela aquí no ay nada de nuevo lo mismo <del instant="false" status="unremarkable">a</del> como siempre</p>
+
+<p part="N">díle Halló á la Pam;</p>
+
+<p part="N">y tambien Isabel, la jane</p>
+
+<p part="N">y alberto; y boy <add instant="false" status="unremarkable">Billy</add> cuando te escriba y al Bill grande,</p>
+
+<closer>
+<salute>y tu recíve el cariño de nosotros max y jesusita</salute>                    
+<signed>tu mamá</signed>
+</closer>
+                
+</div1>
+
+<div1 type="envelope" part="N" org="uniform" sample="complete">
+
+<pb facs="shan_l.450.jpg"/>
+
+<ab type="return" part="N">
+<address>
+<addrLine>Jesusita Torres</addrLine>
+<addrLine>814 Pacifc ave</addrLine>
+<addrLine>ft; Lupton Colo, 80621.</addrLine>
+</address>
+</ab>
+
+<ab type="address" part="N">
+<address>
+<addrLine>Mrs. Schubert</addrLine> 
+<addrLine>3830 “c.” st</addrLine>
+<addrLine>Líncoln nebrasca</addrLine>
+<addrLine>68510.</addrLine>
+</address>
+</ab>
+
+<ab type="postmark" part="N">
+FORT LUPTON. CO<lb/>
+SEP 11<lb/>
+PM<lb/>
+1970<lb/>
+80621<lb/>
+</ab>
+
+
+<figure type="stamp">
+<p part="N"/>
+</figure>
+
+</div1>
+
+<div1 type="letter" xml:lang="en" part="N" org="uniform" sample="complete">
+                
+<pb facs="shan_l.452.jpg"/>
+                
+<opener>
+<address><addrLine>Ft. Lupton, Colorado</addrLine></address>
+<dateline>September 11, 1970</dateline>
+
+<salute>Mrs. Santos B. Schubert</salute>
+</opener>
+
+<p part="N">This letter is to greet you, darling daughter.</p>
+                
+<p part="N">I started writing this letter to tell you thank you very much for the check.</p>
+
+<p part="N">It seems that I’m doing better. Helen is still working. It seems I’m feeling better <app loc="1"><rdg>healthier</rdg></app>.</p>
+
+<p part="N">Well, it’s already started to get a little cold here. I think <app loc="1" cert="high"><rdg>the girls</rdg></app> <app loc="2" cert="high"><rdg>the kids</rdg></app> should be in school by now. There are no news here, everything is the same.</p>
+
+<p part="N">Say hello to Pam</p>
+
+<p part="N">and also to Isabel Jane,</p>
+
+<p part="N">and Alberto, and to Billy boy when he writes to you, and to <app loc="1"><rdg>big Bill</rdg></app> <app loc="2"><rdg>Bill senior</rdg></app>,</p>
+
+<closer>
+<salute>and for you, receive <app loc="1"><rdg>our affection</rdg></app> <app loc="2"><rdg>our love</rdg></app> from Max and Jesusita,</salute>                    
+<signed>your mom</signed>
+</closer>
+                
+</div1>
+</body>
+        
+<back/>
+</text>
+</TEI>

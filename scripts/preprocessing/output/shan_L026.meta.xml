@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="shan_L026.meta">
+<teiHeader type="text">
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">Letter from Demetrio Flemate to Jesusita Baros Torres, December 6, 1958</title>
+<title type="main" xml:lang="es">Carta de Demetrio Flemate a Jesusita Baros Torres, 6 de diciembre, 1958</title>
+<author>Flemate, Demetrio</author>
+<principal xml:id="iv001">Velázquez, Isabel</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name xml:id="jda" full="yes" instant="false">Avelar, Janette D.</name>
+<name xml:id="iv002" full="yes" instant="false">Velázquez, Isabel</name>
+<name xml:id="sbg" full="yes" instant="false">Garcia, Sarita B.</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date instant="false">2015</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Family Letters: An analysis of the Personal Correspondence of a Mexican American Family in Western Colorado and Eastern Nebraska in the First Half of the 20th Century</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name full="yes" instant="false">Department of Modern Languages and Literatures</name>
+ <address>
+<addrLine>1111 Oldfather Hall</addrLine>
+<addrLine>660 N 12th</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+<addrLine>modlang2@unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+</address>
+<idno>shan_L026.meta</idno>
+<availability default="false" status="unknown">
+<p part="N">COPYRIGHT STATEMENT TO GO HERE</p>
+</availability>
+</publicationStmt>
+            
+<notesStmt><note anchored="true"/></notesStmt>
+            
+<sourceDesc default="false">
+<bibl default="false" status="draft">
+<author>Flemate, Demetrio</author>
+<title level="m" type="main">Letter from Demetrio Flemate to Jesusita Baros Torres</title>
+<date when="1958-12-06" cert="high" instant="false">December 6, 1958</date>
+<extent>1 page and envelope</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Shanahan Collection</repository>
+<idno/>
+</msIdentifier>
+<msContents defective="false">
+<p part="N">1 hand-written page and envelope</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support/>
+<extent>1 page and envelope
+<dimensions unit="mm"><height/><width/></dimensions>
+</extent>
+<condition>
+<p part="N"/></condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="h01" scribe="df001" medium="pen"><p part="N">Media: blue ink</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote><p part="N"/></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin instant="false"/>
+<provenance/>
+<acquisition/>
+</history>
+</msDesc>
+                
+</sourceDesc>
+</fileDesc>
+        
+<encodingDesc>
+<editorialDecl default="false">
+<correction default="false" status="unknown" method="silent">
+<p part="N"/>
+</correction>
+<normalization default="false" method="silent">
+<p part="N"/>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+        
+<profileDesc>
+<textClass default="false">
+<keywords scheme="original" n="category">
+<term/>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term/>
+</keywords>
+<keywords scheme="original" n="topic">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term/>
+</keywords>
+</textClass>
+<correspDesc default="false">
+<correspAction type="sentBy">
+<persName xml:id="df001" instant="false" full="yes">Flemate, Demetrio</persName>
+<placeName instant="false" full="yes"/>
+<date type="written" when="1958-12-06" instant="false"/>
+<date type="postmarked" when="1958-12-07" instant="false"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="jbt001" instant="false" full="yes">Baros Torres, Jesusita</persName>
+<placeName instant="false" full="yes"/>
+</correspAction>
+<correspContext>
+<ref type="prev" target="shan">Letter from x to y, date</ref>
+<ref type="next" target="shan">Letter from x to y, date</ref>
+</correspContext> 
+</correspDesc>
+</profileDesc>
+        
+<revisionDesc status="draft">
+<change when="2015" who="#jda" status="draft">Initial Encoding</change>
+<change when="2014" who="#iv002" status="draft">Transcription</change>
+            
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>
+            
+<div1 type="letter" xml:lang="es" part="N" org="uniform" sample="complete">
+                
+<pb facs="shan_l.178.jpg"/>
+                  
+<opener>
+<dateline>diciembre 6 de mi 195<unclear reason="illegible" instant="false">8</unclear></dateline>
+
+<salute>Señora gesus varos</salute></opener>
+
+<p part="N">Mimullestimada mamasita de toto mimallor apresio y cariño lapresente mesirve para saludar;a desiando se y n cunetren bien como son mis deseos ce la ce de acise des pide mosdega bien grasias adios</p>
+                
+<p part="N">Des pues de saludarla conel cariño de siempre pues mama me dises ce cieres ce te alludemos asa car la cta de nasimiento una es ce no sabemos ce año nasio otra es qe aqui se llama <unclear reason="illegible" instant="false">jeliboria</unclear> flemate y enestados unidos se llama gesus ta varos en fin aqi con dinero se arregla En Guchipila en Galpa no nos conocen pero digame ce año masio ce mes y qenfueron sus padrinos aversi a cien Guchipila lapo demos sacar digame en ce nomvrelivoria flemate gesusita varos llo creo ce en nombre de gesusita varos estadifisil mire mama va ades conocer la letra por ce me la y sieron por ce llo estoy mull des velado</p>
+                    
+<closer><salute>Será todo porestav es resiva saludes de toda lafamilia y de</salute>
+
+<signed>Su ygo</signed>
+</closer>
+                
+</div1>
+
+<div1 type="envelope" part="N" org="uniform" sample="complete">
+
+<pb facs="shan_l.176.jpg"/>
+
+<ab type="return" part="N">
+<address>
+<addrLine>Demetrio Flemate</addrLine>
+<addrLine>Hotel Zaragoza <unclear reason="illegible" instant="false"/>8</addrLine>
+<addrLine>Juchipila Zac</addrLine>
+<addrLine>México</addrLine>
+</address>
+</ab>
+
+<ab type="address" part="N">
+<address>
+<addrLine>Sra.</addrLine>
+<addrLine>Jesusita Varos</addrLine>
+<addrLine>814 Pacific St</addrLine>
+<addrLine>Ft. Lupton Colo</addrLine>
+</address>
+</ab>
+
+<ab type="postmark" part="N">
+JUCHIPILA<lb/>
+-7DIC.58.14<lb/>
+ZAC<lb/>
+</ab>
+
+<figure type="stamp">
+<p part="N"/>
+</figure>
+
+</div1>
+
+<div1 type="letter" xml:lang="en" part="N" org="uniform" sample="complete">
+                
+<pb facs="shan_l.178.jpg"/>
+                  
+<opener>
+<dateline>December 6 </dateline>
+
+<salute>Mrs. Gesus Varos</salute></opener>
+
+<p part="N">My dear <term type="diminutive">mom</term>  of my highest regard and love, this letter allows me to send you my regards and wish that <term type="plural">you</term> are well, as are my wishes. This letter leaves us well, thank God</p>
+                
+<p part="N">After greeting you with the same love as always, well mom you tell me that you want us to help you to get your birth certificate. One <add resp="iv001" instant="false" status="unremarkable">problem</add> is that we don’t know the year <term type="formal">you</term> were born. Another <add resp="iv001" instant="false" status="unremarkable">problem</add> is that here your name is <app loc="1" cert="high"><rdg>Jeliboria</rdg></app> <app loc="2" cert="high"><rdg>Seliboria</rdg></app> Flemate and in the United States your name is Gesusita Varos. Anyway, with money this can be fixed here in Guchipila, in Galpa <app loc="1"><rdg>Jalpa, Zacatecas</rdg></app>no one knows us. But let me know in what year you were born and who were your godparents, so we can try to get it <add resp="iv001" instant="false" status="unremarkable">the birth certificate</add> in Guchipila. Let me know under which name, Elivoria Flemate, Gesusita Varos. I think that it will be difficult <add resp="iv001" instant="false" status="unremarkable">to obtain</add>under the name Gesusita Varos. Look mom, the handwriting <add resp="iv001" instant="false" status="unremarkable">on this letter</add> will not be familiar to you because I had someone write it for me because <app loc="1"><rdg>I didn’t sleep well </rdg></app><app loc="2"><rdg>I’m very tired from lack of sleep</rdg></app></p>
+                    
+<closer><salute>This will be all for now. Receive regards from the whole family and from</salute>
+
+<signed>Your son</signed>
+</closer>
+                
+</div1>
+
+</body>
+        
+<back/>
+</text>
+</TEI>

@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="shan_L225.meta">
+<teiHeader type="text">
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">Letter from Santos Baros Schubert to William F. Schubert, October 16, 1950</title>
+<title type="main" xml:lang="es">Carta de Santos Baros Schubert a William F. Schubert, 16 de octubre, 1950</title>
+<author>Baros Schubert, Santos</author>
+<principal xml:id="iv001">Velázquez, Isabel</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name xml:id="ji" full="yes" instant="false">Isasi, Jennifer</name>
+<name xml:id="sbg" full="yes" instant="false">Garcia, Sarita B.</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date instant="false">2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Family Letters: An analysis of the Personal Correspondence of a Mexican American Family in Western Colorado and Eastern Nebraska in the First Half of the 20th Century</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name full="yes" instant="false">Department of Modern Languages and Literatures</name>
+ <address>
+<addrLine>1111 Oldfather Hall</addrLine>
+<addrLine>660 N 12th</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+<addrLine>modlang2@unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+</address>
+<idno>shan_L225.meta</idno>
+<availability default="false" status="unknown">
+<p part="N">COPYRIGHT STATEMENT TO GO HERE</p>
+</availability>
+</publicationStmt>
+            
+<notesStmt><note anchored="true"/></notesStmt>
+            
+<sourceDesc default="false">
+<bibl default="false" status="draft">
+<author>Baros Schubert, Santos</author>
+<title level="m" type="main">Letter from Santos Baros Schubert to William F. Schubert</title>
+<date when="1950-10-10" instant="false">October 16, 1950</date>
+<extent>1 envelope, 1 card and 3 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Shanahan Collection</repository>
+<idno/>
+</msIdentifier>
+<msContents defective="false">
+<p part="N">1 hand-written envelope, 1 card and 3 hand-written pages</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support/>
+<extent>1 envelope, 1 card and 3 pages
+<dimensions unit="mm"><height/><width/></dimensions>
+</extent>
+<condition>
+<p part="N"/></condition>
+</supportDesc>
+</objectDesc>
+<handDesc>
+<handNote><p part="N">Media:</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote><p part="N"/></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin instant="false"/>
+<provenance/>
+<acquisition/>
+</history>
+</msDesc>
+                
+</sourceDesc>
+</fileDesc>
+        
+<encodingDesc>
+<editorialDecl default="false">
+<correction default="false" status="unknown" method="silent">
+<p part="N"/>
+</correction>
+<normalization default="false" method="silent">
+<p part="N"/>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+        
+<profileDesc>
+<textClass default="false">
+<keywords scheme="original" n="category">
+<term/>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term/>
+</keywords>
+<keywords scheme="original" n="topic">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term/>
+</keywords>
+</textClass>
+<correspDesc default="false">
+<correspAction type="sentBy">
+<persName xml:id="sbs001" instant="false" full="yes">Baros Schubert, Santos</persName>
+<placeName instant="false" full="yes"/>
+<date type="written" when="1950-10-16" instant="false"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="wfs001" instant="false" full="yes">Schubert, William F.</persName>
+<placeName instant="false" full="yes"/>
+</correspAction>
+<correspContext>
+<ref type="prev" target="shan">Letter from x to y, date</ref>
+<ref type="next" target="shan">Letter from x to y, date</ref>
+</correspContext> 
+</correspDesc>
+</profileDesc>
+        
+<revisionDesc status="draft">
+<change when="2017" who="#sbg" status="draft">Initial Encoding</change>
+<change when="2017" who="#ji" status="draft">Transcription</change>
+            
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>
+            
+<div1 type="letter" xml:lang="en" part="N" org="uniform" sample="complete">
+                
+<pb facs="shan_l.810.jpg"/>
+                
+<opener>
+<dateline>Oct. 12, 1950</dateline>
+<address><addrLine>Ft. Lupton, Colo</addrLine></address>
+
+<salute>MyDearest Husband,</salute>
+</opener>
+
+<p part="N">Hope &amp; pray this will find you in good health. I'm O.K. but Billy has a cold. Helen &amp; Jess were here tonight with the kids. Billy talks more to Jess now. Yesterday Sunday we cut the grass. It was so high. We had just finished when Terry &amp; Johnie came. They're just driving around. Stayed 1/2 hr. &amp; then left for Longmont. I read Billy your letter. You should have seen his expression. He says he wants walnuts so I can make him cookies. And he wants his train set up when we get home. Glad to hear that Jack is O.K. If I had his address I'd</p>
+
+<pb facs="shan_l.811.jpg"/>
+
+<p part="N">write to him. I should write more letters. Haven't written to Mrs. Parrish yet. Almost forget to tell you that I went to Denver again Sat. with Helen&amp;Jess. They'd to do alot of shopping. They bought a gas heater. I bought me a suede brown, shoulder strap pocket book, with my birthday money. And when I get home you can have your $10.00 for Billy's train. Friday night I went to the Spanish show with the folks. Had to take Billy.
+There's a trailer park here on the highway. I asked the man today how much it was to park a trailer. He said $4.00 a week. But he don't want any more trailers (He just has one)</p>
+<pb/>
+<p part="N">because they want him to put sewer &amp; everything. It'd cost him about $2,000. I hope you can sell the small one, as it's alot of bother.</p>
+<p part="N">I see that I'm going to have a picnic when I get home. Everything all upset.</p>
+<p part="N">Don't forget to send me the key to the brown suit case.</p>
+<p part="N">Better say good night Bill. Sweet dreams. We miss you and love you.</p>
+<closer>
+<salute>Faithfully yours,</salute>
+<signed>Sandra</signed>
+<salute>Love from Billy, your son.</salute>
+</closer>
+</div1>
+
+
+<div1 type="postcard" xml:lang="en" part="N" org="uniform" sample="complete">
+
+<pb facs="shan_l.809.jpg"/>
+<opener>
+<dateline>Oct. 17, 1950</dateline>
+<time instant="false">12:30 P.M.</time>
+<address><addrLine>Rulo, Nebr.</addrLine></address>
+
+<salute>Dearest Bill,</salute>
+</opener>
+<p part="N">Am at Post office. Received two letters.</p>
+<p part="N">If you're going to the Army no use <del type="strike" instant="false" status="unremarkable">if</del> in sending me my postal savings. I don't want the lots. I thought we're going with you wherever you go. Unless you want us to stay here. Of course, I rather stay here as anywhere else. Thanks for the key. Lots of love from Billy &amp; Sandra</p>
+
+<pb facs="shan_l.808.jpg"/>
+
+<ab type="address" part="N">
+<address>
+<addrLine>Mr. William F. Schubert</addrLine>
+<addrLine>Camp 67</addrLine>
+<addrLine>Rulo, Nebr.</addrLine>
+</address>
+</ab>
+
+</div1>
+
+
+<div1 type="letter" xml:lang="es" part="N" org="uniform" sample="complete">
+                
+<pb facs="shan_l.810.jpg"/>
+                
+<opener>
+<dateline>12 de octubre de 1950</dateline>
+<address><addrLine>Ft. Lupton, Colorado</addrLine></address>
+
+<salute>Mi amadísimo esposo:</salute>
+</opener>
+
+<p part="N">Espero y rezo porque esta carta te encuentre en buena salud. Yo estoy bien, pero Billy está resfriado. Helen y Jess vinieron hoy en la noche con los niños. Billy se lleva mejor con Jess ahora. Ayer domingo cortamos el pasto. Estaba muy alto. Acabábamos de terminar cuando llegaron Terry y Johnie. Habían salido a dar un paseo en el auto. Se quedaron media hora y después se fueron a Longmont. Le leí tu carta a Billy. Debías haber visto su cara. Dice que quiere nueves para que yo le haga galletas. Y quiere que su tren esté armado para cuando volvamos a casa. Me alegra saber que Jack está bien. Si tuviera su dirección le
+
+<pb facs="shan_l.811.jpg"/>
+
+escribiría. Debería escribir más. Todavía no le escribo a la señora Parrish. Casi se me olvidaba decirte que el sábado fui otra vez a Denver con Helen y Jess. Necesitaban hacer muchas compras. Compraron un calentón de gas. Yo me compré un bolso de ante café con el dinero de mi cumpleaños. Y cuando regrese a casa te devuelvo los $10.00 del tren de Billy. El viernes en la noche fui a la película en español con los parientes <app loc="1"><rdg>con mi gente</rdg></app> <app loc="2"><rdg>con Jesusita y Max</rdg></app>. Tuve que llevarme a Billy. Aquí hay un tráiler park junto a la carretera. Hoy le pregunté al hombre cuánto costaba instalar un tráiler. Me dijo que $40.00 a la semana, pero que ya no quiere más trailers (solo tiene uno)</p>
+<pb/>
+<p part="N">porque quieren que meta drenaje y todo, y que le costaría unos $2,000. Espero que
+puedas vender el <add resp="iv001" instant="false" status="unremarkable">tráiler</add> chico. Es mucho problema.</p>
+<p part="N">Veo que tendré un día de campo cuando vuelva a casa, con todo revuelto.</p>
+<p part="N">No te olvides de mandarme la llave de mi maleta café.</p>
+<p part="N">Más vale que te diga buenas noches. Dulces sueños. Te extrañamos y te queremos.</p>
+<closer>
+<salute>Fielmente tuya <app loc="1"><rdg>tu fiel esposa</rdg></app></salute>
+<signed>Sandra</signed>
+<salute><add resp="iv001" instant="false" status="unremarkable">Recibe el</add> amor de Billy, tu hijo.</salute>
+</closer>
+</div1>
+
+
+<div1 type="postcard" xml:lang="es" part="N" org="uniform" sample="complete">
+
+<pb facs="shan_l.809.jpg"/>
+<opener>
+<dateline>17 de octubre de 1950</dateline>
+<time instant="false">12:30 P.M.</time>
+<address><addrLine>Rulo, Nebraska</addrLine></address>
+
+<salute>Queridísimo Bill,,</salute>
+</opener>
+<p part="N">Estoy en la oficina de correos. Recibí dos cartas.</p>
+<p part="N">Si vas a enlistarte en el ejército no tiene caso que me envíes mis ahorros postales. No quiero los lotes. Pensé que iríamos <app loc="1" cert="high"><rdg>iremos</rdg></app> contigo a dónde tú vayas. A menos de que quieras que nos quedemos aquí. Yo, desde luego, preferiría quedarme aquí que en cualquier otro lugar. Gracias por la llave. Mucho amor de Billy y de Sandra.</p>
+
+<pb facs="shan_l.808.jpg"/>
+
+<ab type="address" part="N">
+<address>
+<addrLine>Mr. William F. Schubert</addrLine>
+<addrLine>Camp 67</addrLine>
+<addrLine>Rulo, Nebr.</addrLine>
+</address>
+</ab>
+
+</div1>
+
+
+<div1 type="envelope" part="N" org="uniform" sample="complete">
+
+<pb facs="shan_l.801.jpg"/>
+
+<ab type="address" part="N">
+<address>
+<addrLine>Mr. William F. Schubert</addrLine>
+<addrLine>Camp 67</addrLine>
+<addrLine>Rulo, Nebraska</addrLine>
+</address>
+</ab>
+
+<ab type="postmark" part="N">
+FORT LUPTON<lb/> 
+OCT 17<lb/>
+5:30 PM<lb/>
+1950<lb/>
+COLO<lb/>
+</ab>
+
+<figure type="stamp">
+<p part="N"/>
+</figure>
+
+<pb facs="shan_l.802.jpg"/>
+
+<ab type="return" part="N">
+<address>
+<addrLine>Mrs. Sandra B. Schubert</addrLine>
+<addrLine>P.O. Box 681</addrLine>
+<addrLine>Ft. Lupton, Colo.</addrLine>
+</address>
+</ab>
+
+
+</div1>
+</body>
+        
+<back/>
+</text>
+</TEI>

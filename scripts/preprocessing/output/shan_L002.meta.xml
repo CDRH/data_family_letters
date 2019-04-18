@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="shan_L002.meta.xml">
+<teiHeader type="text">
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">Letter from Maximino Torres to Reynaldo Hurtado, February 5, 1923</title>
+<title type="main" xml:lang="es">Carta de Maximino Torres a Reynaldo Hurtado, 5 de febrero, 1923</title>
+<author>Torres, Maximino</author>
+<principal xml:id="iv001">Velázquez, Isabel</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name xml:id="jda" full="yes" instant="false">Avelar, Janette D.</name>
+<name xml:id="iv002" full="yes" instant="false">Velázquez, Isabel</name>
+<name xml:id="sbg" full="yes" instant="false">Garcia, Sarita B.</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date instant="false">2015</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Family Letters: An analysis of the Personal Correspondence of a Mexican American Family in Western Colorado and Eastern Nebraska in the First Half of the 20th Century</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name full="yes" instant="false">Department of Modern Languages and Literatures</name>
+ <address>
+<addrLine>1111 Oldfather Hall</addrLine>
+<addrLine>660 N 12th</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+<addrLine>modlang2@unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+</address>
+<idno>shan_L002.meta.xml</idno>
+<availability default="false" status="unknown">
+<p part="N">COPYRIGHT STATEMENT TO GO HERE</p>
+</availability>
+</publicationStmt>
+            
+<notesStmt><note anchored="true"/></notesStmt>
+            
+<sourceDesc default="false">
+<bibl default="false" status="draft">
+<author>Torres, Maximino</author>
+<title level="m" type="main">Letter from Maximino Torres to Reynaldo Hurtado</title>
+<date when="1923-02-05" instant="false">February 5, 1923</date>
+<extent>5 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Shanahan Collection</repository>
+<idno/>
+</msIdentifier>
+<msContents defective="false">
+<p part="N">5 hand-written pages</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support/>
+<extent>5 pages
+<dimensions unit="mm"><height/><width/></dimensions>
+</extent>
+<condition>
+<p part="N"/></condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="h01" scribe="mt001" medium="pen"><p part="N">Media: blue ink</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote><p part="N"/></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin instant="false"/>
+<provenance/>
+<acquisition/>
+</history>
+</msDesc>
+                
+</sourceDesc>
+</fileDesc>
+        
+<encodingDesc>
+<editorialDecl default="false">
+<correction default="false" status="unknown" method="silent">
+<p part="N"/>
+</correction>
+<normalization default="false" method="silent">
+<p part="N"/>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+        
+<profileDesc>
+<textClass default="false">
+<keywords scheme="original" n="category">
+<term/>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term/>
+</keywords>
+<keywords scheme="original" n="topic">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term/>
+</keywords>
+</textClass>
+<correspDesc default="false">
+<correspAction type="sentBy">
+<persName xml:id="mt001" instant="false" full="yes">Torres, Maximino</persName>
+<placeName instant="false" full="yes"/>
+<date type="written" when="1923-02-05" instant="false"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="rh001" instant="false" full="yes">Hurtado, Reynaldo</persName>
+<placeName instant="false" full="yes"/>
+</correspAction>
+<correspContext>
+<ref type="prev" target="shan">Letter from x to y, date</ref>
+<ref type="next" target="shan">Letter from x to y, date</ref>
+</correspContext> 
+</correspDesc>
+</profileDesc>
+        
+<revisionDesc status="draft">
+<change when="2015" who="#jda" status="draft">Initial Encoding</change>
+<change when="2013" who="#iv002" status="draft">Transcription</change>
+            
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>
+            
+<div1 type="letter" xml:lang="es" part="N" org="uniform" sample="complete">
+                
+<pb facs="shan_l.009.jpg"/>
+
+<opener>
+<address><addrLine>Rock Springs, Wyo. Borego</addrLine></address>
+<dateline>Feb. 5 de 1923</dateline>
+<address><addrLine>Sr. Reynaldo Hurtado</addrLine></address>
+<salute>Respectable tio;</salute>
+</opener>
+
+<p part="N">Derijo la presente para Saludarlo afectuosamente en union de toda su apresiable familia desiando que hal ser hesta en sus finas manos seyencuentre disfrutando de muy Buena salud quedando yo hasta esta fecha sin nobedad Gracias a Dios.</p>
+
+<p part="N">tio despues de mis gratos recuerdo digo a Ud. Yo me yncuentro en este lugar aora yncontre trabajo fuera de Rock Springs poco retirado pero por aora pronto le pido la corespondencia a Ese Lugar</p>
+
+<pb facs="shan_l.011.jpg"/>
+            
+<fw>2</fw>
+            
+<p part="N">yo me bi hobligado asalir de Idaho y cayi con suerte que luego hotro dia enpese atrabajar yo no se si Ud. me abra escrito algunas cartas asta hoy le escrebi a Frank para que me remita alguna a este lugar. Y agame fabor de mandarme el numero de la yompa y de los pantalones yo se su no. pero no se si sean para Ud. ho para los de casa El Corazon semeparte para ayudarlo y lo ayudare como pida aunque sea lo que pueda sierto ayer recebi pago y almismo tiempo nada medieron en dinero porque la <unclear reason="illegible" instant="false">probieron</unclear> y algo que me presto en dinero el Mayordomo asi que para el hotro pago yo pienzo</p>
+
+<pb facs="shan_l.012.jpg"/>
+    
+<fw>3</fw>
+
+<p part="N">mandarle los pantalones y la yompa en dinero aber que tanto alcanzo a mandarle aunque sea poco. digame si pienza traerse a la familia y si mama tambien piensa benirse fabor de mandarme desir yo con mucho gusto ubiera aceptado a subuen deseo de ayudarlo des de luego que yego a Mexico pero no he podido andube algunos dias nomas trampiando y Dios quiso colocarme aora ya estoy poco serca de mi tio lo fui aber de algun modo bamos ayudarlo digame cuando piensa salir de haya aunque ya en su anterior me ynformo que para este Mes pero siempre deceo saber aora si Mama piensa yrse me mande</p>
+
+<pb facs="shan_l.013.jpg"/>
+
+<fw>4</fw>
+
+<p part="N">desir para asimismo aser lo posible amandarle tambien para heya y digame si sabe de Teodosio fabor de escrebirle y desirle que yo quiero sebenga paraca. Yo se que en el berano ban atraer jente del pazo para el betabel y llo boy ainformar si es sierto para mandarle desir como si tiene muy proxima su salida pronto espero su resolucion y resiba mil recuerdos de mi tio  y de su familia tienen mucho gusto de que sefue aber a su Mama y familia y que mi tia le escribio a su
+            
+<pb facs="shan_l.014.jpg"/>
+
+Mama en disiembre y que no le contest Trenidad les escribe aeyos de Arizona.</p>
+
+<p part="N">A Mama no le escribo derectamente porque estoy esperando su contestacion. Y digame si yego a qui la señora ho no. y a Mama me hase fabor de desirle que no tenga pena yo boy aserlo posible amandarle algo. Y resiba de su sobrino el mas cresido afecto quien asus ordenes en lo poco que pueda</p>
+
+<closer>
+<salute>Su affmo. atto.</salute>
+<signed>S.S.<lb/>
+Maximino Torrez<lb/></signed></closer>
+
+</div1>
+
+<div1 type="letter" xml:lang="en" part="N" org="uniform" sample="complete">
+<pb facs="shan_l.009.jpg"/>
+
+<opener>
+<address><addrLine>Rock Springs, Wyoming Borego</addrLine></address>
+<dateline>February 5, 1923</dateline>
+<address><addrLine>Mr. Reynaldo Hurtado</addrLine></address>
+<salute>Respectable uncle;</salute>
+</opener>
+
+<p part="N">I write you this to greet you warmly in the company of your dear family, wishing that when you have this in your fine hands you will be in good health, I am myself without news, Thank God.</p>
+
+<p part="N">Uncle, after my pleasant greetings, I tell you that I find myself in this place now. I found work outside of Rock Springs, it’s a little far but for now I ask you to send correspondence to that place.</p>
+
+<pb facs="shan_l.011.jpg"/>
+            
+<fw>2</fw>
+
+<p part="N">I was forced to leave Idaho and I was lucky that soon after, the next day, I started working. I don’t know if you wrote to me some letters. I wrote Frank until today so he may forward them to me here. And please send me the size of the <app loc="1" cert="low"><rdg>jumper</rdg></app> <app loc="2" cert="low"><rdg>jacket</rdg></app> For the pants, I know your size but I don’t know if they’re for you or for someone at home. My heart breaks to help you and I will, anyway you ask, as much as I can. It’s true that I received payment yesterday, and at the same time I did not receive any money because of <certainty locus="name" cert="low"><desc>probation</desc></certainty> and because of some money I owed the foreman so on the next payday I’m planning to</p>
+
+<pb facs="shan_l.012.jpg"/>
+<fw>3</fw>
+
+<p part="N">send you the pants and the <app loc="1" cert="low"><rdg>jumper</rdg></app> <app loc="2" cert="low"><rdg>jacket</rdg></app>, in cash let’s see how much I can send you even if it’s a little. Tell me if you’re thinking of bringing the family and if my mom is also planning to come. Please let me know. I would have been pleased to accept your good wish that I should help you right after it arrived in Mexico, but I have not been able to. I spent a few days tramping  and now God placed me somewhat near my uncle. I went to see him. We will help you somehow. Tell me when you’re planning to leave, you told me on your last letter that it was this month but I do wish to know if my mom is planning to leave. Let me</p>
+
+<pb facs="shan_l.013.jpg"/>
+<fw>4</fw>
+
+<p part="N">know all the same so that I can do anything possible to send her money for her and tell me if you know anything about Teodosio. Please write to him and tell him I want him to come here. I know that in the summer they are going to bring people from El Paso to work on the beets and I’m going to find out if this is true to let you know. As your departure
+nears I wait for your resolution receive a thousand regards from my uncle and his family. They are very pleased that <app loc="1" cert="high"><rdg>you</rdg></app> <app loc="2" cert="high"><rdg>he</rdg></app> went to see <app loc="1" cert="high"><rdg>your</rdg></app> <app loc="2" cert="high"><rdg>his</rdg></app> mother and family, and my aunt wrote to her</p>
+
+<pb facs="shan_l.014.jpg"/>
+
+<p part="N">mother in December but did not get a reply. Trinidad writes to them from Arizona. I do not write to my mom directly because I’m waiting for her reply. And tell me if the lady arrived or not. And please tell mom not to be <app loc="1" cert="high"><rdg>worried</rdg></app> <app loc="2" cert="high"><rdg>concerned</rdg></app> <app loc="3" cert="high"><rdg>embarrassed</rdg></app> that I will try to send her something. And receive from your nephew the warmest affection, from him who is at your service in the little that he can</p>
+
+<closer>
+<salute>Yours affectionally and truly </salute>
+<salute>Faithfully yours,</salute>
+<signed>Maximino Torrez</signed>
+</closer>
+
+</div1>
+</body>
+    
+<back/>
+</text>
+</TEI>

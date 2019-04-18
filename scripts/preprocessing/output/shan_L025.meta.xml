@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="shan_L025.meta">
+<teiHeader type="text">
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">Letter from Nemecio Samaniego to Jesusita Baros Torres, February 22, 1953</title>
+<title type="main" xml:lang="es">Carta de Nemecio Samaniego a Jesusita Baros Torres, 22 de febrero, 1953</title>
+<author>Samaniego, Nemecio</author>
+<principal xml:id="iv001">Velázquez, Isabel</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name xml:id="jda" full="yes" instant="false">Avelar, Janette D.</name>
+<name xml:id="iv002" full="yes" instant="false">Velázquez, Isabel</name>
+<name xml:id="sbg" full="yes" instant="false">Garcia, Sarita B.</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date instant="false">2015</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Family Letters: An analysis of the Personal Correspondence of a Mexican American Family in Western Colorado and Eastern Nebraska in the First Half of the 20th Century</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name full="yes" instant="false">Department of Modern Languages and Literatures</name>
+ <address>
+<addrLine>1111 Oldfather Hall</addrLine>
+<addrLine>660 N 12th</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+<addrLine>modlang2@unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+</address>
+<idno>shan_L025.meta</idno>
+<availability default="false" status="unknown">
+<p part="N">COPYRIGHT STATEMENT TO GO HERE</p>
+</availability>
+</publicationStmt>
+            
+<notesStmt><note anchored="true"/></notesStmt>
+            
+<sourceDesc default="false">
+<bibl default="false" status="draft">
+<author>Samaniego, Nemecio</author>
+<title level="m" type="main">Letter from Nemecio Samaniego to Jesusita Baros Torres</title>
+<date when="1953-02-22" instant="false">February 22, 1953</date>
+<extent>1 page and envelope</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Shanahan Collection</repository>
+<idno/>
+</msIdentifier>
+<msContents defective="false">
+<p part="N">1 typed page and envelope</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support/>
+<extent>1 page and envelope
+<dimensions unit="mm"><height/><width/></dimensions>
+</extent>
+<condition>
+<p part="N"/></condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="h01" scribe="js001" medium="pen"><p part="N">Media:black ink</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote><p part="N">Media:black ink</p></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin instant="false"/>
+<provenance/>
+<acquisition/>
+</history>
+</msDesc>
+                
+</sourceDesc>
+</fileDesc>
+        
+<encodingDesc>
+<editorialDecl default="false">
+<correction default="false" status="unknown" method="silent">
+<p part="N"/>
+</correction>
+<normalization default="false" method="silent">
+<p part="N"/>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+        
+<profileDesc>
+<textClass default="false">
+<keywords scheme="original" n="category">
+<term/>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term/>
+</keywords>
+<keywords scheme="original" n="topic">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term/>
+</keywords>
+</textClass>
+<correspDesc default="false">
+<correspAction type="sentBy">
+<persName xml:id="js001" instant="false" full="yes">Samaniego, Jesus</persName>
+<placeName instant="false" full="yes"/>
+<date type="written" when="1953-02-22" instant="false"/>
+<date type="postmarked" when="1953-02-23" instant="false"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="jbt001" instant="false" full="yes">Baros Torres, Jesusita</persName>
+<placeName instant="false" full="yes"/>
+</correspAction>
+<correspContext>
+<ref type="prev" target="shan">Letter from x to y, date</ref>
+<ref type="next" target="shan">Letter from x to y, date</ref>
+</correspContext> 
+</correspDesc>
+</profileDesc>
+        
+<revisionDesc status="draft">
+<change when="2015" who="#jda" status="draft">Initial Encoding</change>
+<change when="2014" who="#iv002" status="draft">Transcription</change>
+            
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>
+            
+<div1 type="letter" xml:lang="es" part="N" org="uniform" sample="complete">
+                
+<pb facs="shan_l.170.jpg"/>
+
+<opener>
+<address><addrLine>Nemecio Samaniego</addrLine></address>
+<address><addrLine>C/o Sr. Mauro Quezada.</addrLine></address>
+<address><addrLine>Juchipila, Zac;</addrLine></address><dateline>febrero 22 de 1953</dateline>
+
+<address><addrLine>Sra. Jesusita Baros.</addrLine></address>
+<address><addrLine>P.O. Box 681.</addrLine></address>
+<address><addrLine>F-t-Juptón Colo.</addrLine></address>
+
+<salute>Muy apreciable madre:</salute>
+</opener>
+
+<p part="N">Esperando que al recibo de esta sea encontrada con buena salud, así como yo lo estoy en compañía de mi familia gracias a Dios, en seguida vengo a manifestarle: que es muy urgente que usted otorgue en mi favor carta poder, esto lo puede hacer en Ciudad Jauarez, Chi. O en cualesquier frontera, esto de la carta poder no es para quedarme yo con lo que a usted le corresponda en los bienes de mi tía Guadalupe, es nada mas para representarla en el juicio, me dicen personas muy bien preparadas en estos negocios que si usted deja esto a la desidía deja lugar a que llega día que pierden  su derecho hereditario, mi tio ya anda queriendo vender la propiedad rústica o sean las 4 yuntas que hay en el potrero de Los Vega, y como no hay quien le pare el alto para el que mejor., quisiera ir con el aliento y platicar con usted mas extensamente, pero me es muy difícil, o bien usted me diga si es de que viene a una de las fronteras, yo hago lo posible a ir, nomas restaría el que me indicara día y fecha para estar listo a platicar con usted.</p>
+
+<p part="N">No deja esto a la desidia</p>
+                
+<closer><salute>Sin mas su hijo que le pide su vendición., y no la olvida.</salute>
+
+<signed>Nemecio J. Samaniego</signed>
+</closer>
+        
+</div1>
+
+<div1 type="envelope" part="N" org="uniform" sample="complete">
+
+<pb facs="shan_l.168.jpg"/>
+
+<ab type="return" part="N">
+<address>
+<addrLine>Nemecio Samaniego</addrLine>
+<addrLine>C/o. Sr. Mauro Quezada</addrLine>
+<addrLine>Juchipila, Zac.</addrLine>
+</address>
+</ab>
+
+<ab type="address" part="N">
+<address>
+<addrLine>Sra. Jesusita Baros.</addrLine>
+<addrLine>P.O. Box #681.</addrLine>
+<addrLine>F T- Lupton, Colo.</addrLine>
+</address>
+</ab>
+
+<ab type="postmark" part="N">
+JUCHIPILA<lb/>
+23.FEB.53<unclear reason="illegible" instant="false"/><lb/>
+ZAC<lb/>
+</ab>
+
+<figure type="stamp">
+<p part="N"/>
+</figure>
+
+</div1>
+
+<div1 type="letter" xml:lang="en" part="N" org="uniform" sample="complete">
+                
+<pb facs="shan_l.170.jpg"/>
+
+<opener>
+<address><addrLine>Nemecio Samaniego</addrLine></address>
+<address><addrLine>C/o Mr. Mauro Quezada.</addrLine></address>
+<address><addrLine>Juchipila, Zacatecas</addrLine></address><dateline>February 22, 1953</dateline>
+
+<address><addrLine>Mrs. Jesusita Baros.</addrLine></address>
+<address><addrLine>P.O. Box 681.</addrLine></address>
+<address><addrLine>Ft. Lupton, Colorado</addrLine></address>
+
+<salute>Dear <term type="formal">mother</term>,</salute>
+</opener>
+
+<p part="N">I hope that when you receive this <add resp="iv001" instant="false" status="unremarkable">letter</add> you may be enjoying good health as my family and I are doing, thank God. I next wish to <app loc="1"><rdg>manifest </rdg></app><app loc="2"><rdg>let you know</rdg></app> that it is very urgent that you grant me power of attorney. You can do this in Ciudad Juarez, Chihuahua or in any other of the borders. This power of attorney is not so that I can keep any of the properties that were my aunt Guadalupe’s and may now be rightfully yours, it is only to represent you in trial. I am told by people who are well-versed in these affairs that if you leave this to apathy the day may come when you lose your hereditary rights. Already my uncle is trying to sell the rustic property, by which I mean the four <app loc="1"><rdg>yuntas</rdg></app> <app loc="2"><rdg>team of oxen for ploughing</rdg></app> <app loc="3"><rdg>Biblical unit of measurement roughly equivalent to what a team of oxen can plow in a day</rdg></app> that are on the Vega’s pasture, and because there is no one to stop him, all the better for him. I wish I could <term type="metaphorical">travel with my breath</term> and <app loc="1"><rdg>speak to you at length</rdg></app> <app loc="2"><rdg>talk to you personally</rdg></app>but it’s very difficult for me. Or would you tell me if you can come to one of the borders I would do everything possible to go. The only thing left would be for you to tell me the day and date so that I may be ready to talk with you.</p>
+
+<p part="N">Do not leave this to apathy.</p>
+                
+<closer><salute>Without further to add, your son who asks for your blessing and does not forget you.</salute>
+
+<signed>Nemecio J. Samaniego</signed>
+</closer>
+                
+</div1>
+
+</body>
+        
+<back/>
+</text>
+</TEI>

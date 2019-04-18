@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="shan_L103.meta">
+<teiHeader type="text">
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">Letter from Jesusita Baros Torres to Santos Baros Schubert, October 9, 1959</title>
+<title type="main" xml:lang="es">Carta de Jesusita Baros Torres a Santos Baros Schubert, 09 de octubre, 1959</title>
+<author>Baros Torres, Jesusita</author>
+<principal xml:id="iv001">Velázquez, Isabel</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name xml:id="af" full="yes" instant="false">Faxas, Adoni A.</name>
+<name xml:id="km" full="yes" instant="false">Mendell, Kate</name>
+<name xml:id="sbg" full="yes" instant="false">Garcia, Sarita B.</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date instant="false">2015</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Family Letters: An analysis of the Personal Correspondence of a Mexican American Family in Western Colorado and Eastern Nebraska in the First Half of the 20th Century</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name full="yes" instant="false">Department of Modern Languages and Literatures</name>
+ <address>
+<addrLine>1111 Oldfather Hall</addrLine>
+<addrLine>660 N 12th</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+<addrLine>modlang2@unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+</address>
+<idno>shan_L103.meta</idno>
+<availability default="false" status="unknown">
+<p part="N">COPYRIGHT STATEMENT TO GO HERE</p>
+</availability>
+</publicationStmt>
+            
+<notesStmt><note anchored="true"/></notesStmt>
+            
+<sourceDesc default="false">
+<bibl default="false" status="draft">
+<author>Baros Torres, Jesusita</author>
+<title level="m" type="main">Letter from Jesusita Baros Torres to Santos Baros Schubert</title>
+<date when="1959-10-09" instant="false">October 9, 1959</date>
+<extent>3 pages and envelope</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Shanahan Collection</repository>
+<idno/>
+</msIdentifier>
+<msContents defective="false">
+<p part="N">3 hand-written pages and envelope</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support/>
+<extent>3 pages and envelope
+<dimensions unit="mm"><height/><width/></dimensions>
+</extent>
+<condition>
+<p part="N"/></condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="h01" scribe="jbt001" medium="pen"><p part="N">Media: black ink</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote><p part="N"/></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin instant="false"/>
+<provenance/>
+<acquisition/>
+</history>
+</msDesc>
+                
+</sourceDesc>
+</fileDesc>
+        
+<encodingDesc>
+<editorialDecl default="false">
+<correction default="false" status="unknown" method="silent">
+<p part="N"/>
+</correction>
+<normalization default="false" method="silent">
+<p part="N"/>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+        
+<profileDesc>
+<textClass default="false">
+<keywords scheme="original" n="category">
+<term/>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term/>
+</keywords>
+<keywords scheme="original" n="topic">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term/>
+</keywords>
+</textClass>
+<correspDesc default="false">
+<correspAction type="sentBy">
+<persName xml:id="jbt001" instant="false" full="yes">Baros Torres, Jesusita</persName>
+<placeName instant="false" full="yes"/>
+<date type="written" when="1959-10-09" instant="false"/>
+<date type="postmarked" when="1959-10-09" instant="false"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="sbs001" instant="false" full="yes">Baros Schubert, Santos</persName>
+<placeName instant="false" full="yes"/>
+</correspAction>
+<correspContext>
+<ref type="prev" target="shan">Letter from x to y, date</ref>
+<ref type="next" target="shan">Letter from x to y, date</ref>
+</correspContext> 
+</correspDesc>
+</profileDesc>
+        
+<revisionDesc status="draft">
+<change when="2017" who="#af" status="draft">Initial Encoding</change>
+<change when="2015" who="#af" status="draft">Initial Encoding</change>
+<change when="2014" who="#km" status="draft">Transcription</change>
+            
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>
+            
+<div1 type="letter" xml:lang="es" part="N" org="uniform" sample="complete">
+                
+<pb facs="shan_l.366.jpg"/>
+                
+<opener>
+<address><addrLine>ft. Lupton Colo</addrLine></address>
+<dateline>9, Octu,–1959</dateline>
+
+<salute>Querida hija</salute>
+</opener>
+
+<p part="N">la precente es para Saludarlos, á todos en general y desírte que estoy mejor; Gracias á Díos;</p>
+                
+<p part="N">pues ya ase muchos días que recívi tu carta; y no abía podido contestarla; bueno prímero que como max trabaja; pues siempre tengo que estar al pendiente de el; y tambíen los muchachos, que víven á quí; pues les lababa la ropa; una ropa tan puerca; que prímero tenía que labarla en el labadero; á mano; y despues la echaba en la maquina; y mucha ropa, eran 4, y max su garras, tambien igual; de modo que toda la semana el Lunes, labar el martes, almodonar y límpíar poquito la casa; el Míercoles me limpia<add instant="false" status="unremarkable">ba</add> yo, y que tengo que ír al Doctor
+
+<pb facs="shan_l.368.jpg"/>
+<fw>Page 2.</fw>
+
+el juebes, y Viernes, á Planchar; y el Savado al limpiar la casa;</p>
+
+<p part="N">y la buena que me síento poco alivíada, en ratítos me acuesto una medía hora pero haora que bueno ya se fueron</p>
+
+<p part="N">y tambien te platicare, Demetrío mi hermano; síempre sígue querien<add instant="false" status="unremarkable">do</add> que yo le manda la firma; atocante de un terreno que Vendío, y le reclaman, mí firma como heredera; por parte de mí herma<add instant="false" status="unremarkable">na</add> Lupe; (en paz descanze.) y el me escribe que se la mande y no me díse te mandaré lo que pertenese; no díse nada; y le conteste, que sí le firmaba unos papeles que me mando; pero que me mandara lo que me pertenese; <unclear instant="false">ú</unclear> se enejó me ma<add instant="false" status="unremarkable">n</add>do una carta tan cochina; maltratando, me tratandode muy mal asta me dise que me ba á reportar
+
+<pb facs="shan_l.369.jpg"/>
+<fw>Page 3.</fw>
+
+que entramos de contrabando; y que me ba echar á la prísíon por todos los días de mi vida; y que é robabado al Gobierno Americano; <unclear instant="false">ú</unclear> me dise mucho, mucho, me dise; pues á me da sentimiento; que el sea así; yo nunca le é deseado mal á el ni á nadíen;</p>
+
+<p part="N">no es que le tenga miedo pues que nos ase; yo creo que sí el ase como dise; no nos asen nada; me díse que é robado al Gobierno Americano por <add instant="false" status="unremarkable">que</add> nos ayudaban en el relif; tu saves cuando víviamos en n. mex. sí quieres platícale al Bill; aber, que díse el;</p>
+
+<p part="N">pero de verda que me síento muy mal, deberas; pero Díos que le aye;</p>
+
+<closer>
+<salute>bueno hija yo creo que esto sera todo muchos recuerdos á los muchachos; y á la baby díle un Halo <add instant="false" status="unremarkable">á</add> mí hijita que hago de cuenta que tu misma eres; y al Bill que aprecío con cariño;</salute>                    
+<signed>jesusita B. Torres;</signed>
+</closer>
+                
+</div1>
+
+<div1 type="envelope" part="N" org="uniform" sample="complete">
+
+<pb facs="shan_l.364.jpg"/>
+
+<ab type="return" part="N">
+<address>
+<addrLine>814, Pacific, St</addrLine>
+<addrLine>ft Lupton Colo</addrLine>
+</address>
+</ab>
+
+<ab type="address" part="N">
+<address>
+<addrLine>mrs. W. F Schubert</addrLine>
+<addrLine>1016, Sauth, 40th St.</addrLine>
+<addrLine>Lincoln 10, Nebraska;</addrLine>
+</address>
+</ab>
+
+<ab type="postmark" part="N">
+FORT LUPTON<lb/> 
+OCT 9<lb/>
+430 PM<lb/>
+1959<lb/>
+COLO.<lb/>
+</ab>
+
+<figure type="stamp">
+<p part="N"/>
+</figure>
+
+</div1>
+
+<div1 type="letter" xml:lang="en" part="N" org="uniform" sample="complete">
+                
+<pb facs="shan_l.366.jpg"/>
+                
+<opener>
+<address><addrLine>Ft. Lupton, Colorado</addrLine></address>
+<dateline>October 9, 1959</dateline>
+
+<salute>Dear daughter,</salute>
+</opener>
+
+<p part="N">this letter is to greet you all in general, and to tell you that I am doing better, thank God.</p>
+                
+<p part="N">Well it’s been a few days since I received your letter and I haven’t been able to answer it. Well, first, because Max works, and I have to take care of him, and also take care of the boys that live here <add resp="iv001" instant="false" status="unremarkable">boarders</add>. I’ve been washing their clothes. Such dirty clothes I first had to wash them by hand on the sink and then put them in the washing machine. And so many clothes, there are four of them and also Max’s <app loc="1"><rdg>rags</rdg></app> <app loc="2"><rdg>clothing</rdg></app>, too. So all week, Monday doing the laundry, Tuesday starching and a little housecleaning, Wednesday cleaning myself and going to the doctor,
+
+<pb facs="shan_l.368.jpg"/>
+<fw>Page 2.</fw>
+
+ironing on Thursday, and Friday, and cleaning the house on Saturday.</p>
+
+<p part="N">And the good news is that I feel a little better. Once in a while I lie down for half an hour, but now it’s good that they left.</p>
+
+<p part="N">I will also tell you that Demetrio, my brother, still wants me to send my signature in relation to a <app loc="1"><rdg>property </rdg></app><app loc="2"><rdg>lot</rdg></app> he sold. They are asking for my signature as one of my sister Lupe’s heirs (may she rest in peace). And he writes to me asking that I send him my signature, and doesn’t tell me ‘I will send you what belongs to you’, he doesn’t say anything, and I answered that I would sign some documents he sent, but that he had to send me <app loc="1"><rdg>what belongs to me</rdg></app> <app loc="2"><rdg>my part</rdg></app>, and he got angry and sent me such a dirty letter, abusing me, treating me horribly. He even tells me that he is going to report us
+
+<pb facs="shan_l.369.jpg"/>
+<fw>Page 3.</fw>
+
+That we entered <add resp="iv001" instant="false" status="unremarkable">the U.S.</add> as <app loc="1"><rdg>contraband</rdg></app> <app loc="2"><rdg>illegally</rdg></app>, and that he was going to throw me in jail for the rest of my life, and that I had robed the American Government. Yes, he said many things, many things he said, and it makes me sad that he is that way, because I’ve never wished anything bad to him or anyone else.</p>
+
+<p part="N">And it’s not that i’m afraid of him, because what can he do? I think that if he does as he says they won’t do anything to us. He tells me that I stole from the American Government because of the relief we got. You know, when we lived in New Mexico. Tell Bill <add resp="iv001" instant="false" status="unremarkable">about this</add> if you want, let’s see what he says <add resp="iv001" instant="false" status="unremarkable">about this</add>.</p>
+
+<p part="N">I truly feel bad <add resp="iv001" instant="false" status="unremarkable">about this</add>, but God will judge him.</p>
+
+<closer>
+<salute>Well, daughter, I think this will be all. <app loc="1"><rdg>Many regards</rdg></app> <app loc="2"><rdg>much love</rdg></app> to the kids and to the baby. Say hello to my little daughter, <add resp="iv001" instant="false" status="unremarkable">because</add> I pretend she is you yourself. And <add resp="iv001" instant="false" status="unremarkable">love</add> to Bill, whom I appreciate with affection.</salute>                    
+<signed>Jesusita B. Torres;</signed>
+</closer>
+                
+</div1>
+</body>
+        
+<back/>
+</text>
+</TEI>

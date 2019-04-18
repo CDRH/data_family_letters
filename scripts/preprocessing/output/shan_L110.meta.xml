@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="shan_L110.meta">
+<teiHeader type="text">
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">Letter from Jesusita Baros Torres to Santos Baros Schubert, January 28, 1963</title>
+<title type="main" xml:lang="es">Carta de Jesusita Baros Torres a Santos Baros Schubert, 28 de enero, 1963</title>
+<author>Baros Torres, Jesusita</author>
+<principal xml:id="iv001">Velázquez, Isabel</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name xml:id="af" full="yes" instant="false">Faxas, Adoni A.</name>
+<name xml:id="km" full="yes" instant="false">Mendell, Kate</name>
+<name xml:id="sbg" full="yes" instant="false">Garcia, Sarita B.</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date instant="false">2015</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Family Letters: An analysis of the Personal Correspondence of a Mexican American Family in Western Colorado and Eastern Nebraska in the First Half of the 20th Century</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name full="yes" instant="false">Department of Modern Languages and Literatures</name>
+ <address>
+<addrLine>1111 Oldfather Hall</addrLine>
+<addrLine>660 N 12th</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+<addrLine>modlang2@unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+</address>
+<idno>shan_L110.meta</idno>
+<availability default="false" status="unknown">
+<p part="N">COPYRIGHT STATEMENT TO GO HERE</p>
+</availability>
+</publicationStmt>
+            
+<notesStmt><note anchored="true"/></notesStmt>
+            
+<sourceDesc default="false">
+<bibl default="false" status="draft">
+<author>Baros Torres, Jesusita</author>
+<title level="m" type="main">Letter from Jesusita Baros Torres to Santos Baros Schubert</title>
+<date when="1963-01-28" instant="false">January 28, 1963</date>
+<extent>2 pages and envelope</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Shanahan Collection</repository>
+<idno/>
+</msIdentifier>
+<msContents defective="false">
+<p part="N">2 hand-written pages and envelope</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support/>
+<extent>2 pages and envelope
+<dimensions unit="mm"><height/><width/></dimensions>
+</extent>
+<condition>
+<p part="N"/></condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="h01" scribe="jbt001" medium="pen"><p part="N">Media: black ink</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote><p part="N"/></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin instant="false"/>
+<provenance/>
+<acquisition/>
+</history>
+</msDesc>
+                
+</sourceDesc>
+</fileDesc>
+        
+<encodingDesc>
+<editorialDecl default="false">
+<correction default="false" status="unknown" method="silent">
+<p part="N"/>
+</correction>
+<normalization default="false" method="silent">
+<p part="N"/>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+        
+<profileDesc>
+<textClass default="false">
+<keywords scheme="original" n="category">
+<term/>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term/>
+</keywords>
+<keywords scheme="original" n="topic">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term/>
+</keywords>
+</textClass>
+<correspDesc default="false">
+<correspAction type="sentBy">
+<persName xml:id="jbt001" instant="false" full="yes">Baros Torres, Jesusita</persName>
+<placeName instant="false" full="yes"/>
+<date type="written" when="1963-01-28" instant="false"/>
+<date type="postmarked" when="1963-01-28" instant="false"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="sbs001" instant="false" full="yes">Baros Schubert, Santos</persName>
+<placeName instant="false" full="yes"/>
+</correspAction>
+<correspContext>
+<ref type="prev" target="shan">Letter from x to y, date</ref>
+<ref type="next" target="shan">Letter from x to y, date</ref>
+</correspContext> 
+</correspDesc>
+</profileDesc>
+        
+<revisionDesc status="draft">
+<change when="2017" who="#af" status="draft">Initial Encoding</change>
+<change when="2015" who="#af" status="draft">Initial Encoding</change>
+<change when="2014" who="#km" status="draft">Transcription</change>
+            
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>
+            
+<div1 type="letter" xml:lang="es" part="N" org="uniform" sample="complete">
+                
+<pb facs="shan_l.408.jpg"/>
+                
+<opener>
+<address><addrLine>ft, Lupton Colo</addrLine></address>
+<dateline>jan, 28,- 1963.</dateline>
+
+<salute>Querida hija</salute>
+</opener>
+
+<p part="N">precente es para Saludarles tanto á tí como al Bill y todos los muchachos, pues nosotros estamos bien es por lo que le damos Gracías á Nuestro Díos;</p>
+                
+<p part="N">pues te dire que ase mucho que te escrivi, ese mísmo día recivi las cartas que me escrívieron los muchachos; pero como á echo tanto frío pues no é ído á casa de la Helen para que la <del instant="false" status="unremarkable">Kachy</del> Kathy me aga las cartas de los muchachos; aquí á echo mucho frío á 25, y 30, bajo zero; desde Cristmas que no boy ní á mísa, pero é estado con pena de Uds; que no me escríben; toda esta semana pasada te é soñado, y por eso
+
+<pb facs="shan_l.410.jpg"/>
+
+tengo pena de Uds.</p>
+
+<p part="N">te platícare que el Baby de la Helen ya empiesa á andar esta muy grande muchacho;</p>
+
+<p part="N">dime sí te escribe el jerry. disen que esta en Alabana; yo le escríbí para los cristmas pero que <add instant="false" status="unremarkable">me</add> me entendío lo que le desía, pues le desía que me mandara su retrato, pero de eso no me dijo nada no mas me mando una tarjeta de navidad, pero no me dise nada,</p>
+
+<closer>
+<salute>bueno pues yo creo que esto todo por esta ves contestame lo mas pronto que puedas, dales nuestros recuerdos al Billy boy, y Albert, y Pamela y la Elizabeth, y á tu Espozo y tu recíve el mas fíno recuerdo de max y mamá</salute>
+<signed>Jesusita Torres.</signed>
+</closer>
+                
+</div1>
+
+<div1 type="envelope" part="N" org="uniform" sample="complete">
+
+<pb facs="shan_l.406.jpg"/>
+
+<ab type="return" part="N">
+<address>
+<addrLine>jesusita Torres</addrLine>
+<addrLine>814 Pacífc ave ft</addrLine>
+<addrLine>Lupton Colorado.</addrLine>
+</address>
+</ab>
+
+<ab type="address" part="N">
+<address>
+<addrLine>Mrs. W. F. Schubert</addrLine> 
+<addrLine>1016. South 40th St</addrLine>
+<addrLine>Lincoln 10, nebraska</addrLine>
+</address>
+</ab>
+
+<ab type="postmark" part="N">
+FORT LUPTON<lb/> 
+JAN 28<lb/>
+5 PM<lb/>
+1963<lb/>
+COLO.<lb/>
+</ab>
+
+</div1>
+
+<div1 type="letter" xml:lang="en" part="N" org="uniform" sample="complete">
+                
+<pb facs="shan_l.408.jpg"/>
+                
+<opener>
+<address><addrLine>Ft. Lupton, Colorado</addrLine></address>
+<dateline>January 28, 1963.</dateline>
+
+<salute>Dear daughter,</salute>
+</opener>
+
+<p part="N">this letter is to greet you, as well as Bill and the kids. Well, we are alright, for which we thank our Lord God.</p>
+                
+<p part="N">I will tell you that I wrote to you a long time ago. That same day I got the letters that the kids wrote me, but it has been so cold that I haven’t been to Helen’s house so that Kathy can <app loc="1"><rdg>write for me</rdg></app> <app loc="2"><rdg>help me write</rdg></app> the letters for the kids. It’s been very cold around here. 25 and 30 below zero. I haven’t even gone to mass since Christmas, but I’ve been worried about you all because you haven’t written me. I’ve dreamt about you all last week, and that’s why
+
+<pb facs="shan_l.410.jpg"/>
+
+I’ve been worried about you all.</p>
+
+<p part="N"> I will tell you that Helen’s baby is starting to walk. He is a very big boy.</p>
+
+<p part="N">Let me know if Jerry writes to you. They say that he is in Alabama. I wrote to him for Christmas, but he didn’t understand what <app loc="1"><rdg>I told him</rdg></app> <app loc="2"><rdg>wrote to him</rdg></app> because I told him <add resp="iv001" instant="false" status="unremarkable">in the letter</add> to send me his picture, but he didn’t <app loc="1"><rdg>tell me</rdg></app> <app loc="2"><rdg>mention</rdg></app> anything about it. He sent me a Christmas card, but he doesn’t say anything.</p>
+
+<closer>
+<salute>Well, I think that this is all for now. Reply as soon as you can. Give <app loc="1"><rdg>our regards</rdg></app> <app loc="2"><rdg>our love</rdg></app> to Billy boy and Albert, and Pamela and Elizabeth, and to your husband. And for you, receive the finest regards from Max and mom</salute>
+<signed>Jesusita Torres.</signed>
+</closer>
+                
+</div1>
+
+
+</body>
+        
+<back/>
+</text>
+</TEI>

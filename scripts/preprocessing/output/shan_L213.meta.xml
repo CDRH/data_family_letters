@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="shan_L213.meta">
+<teiHeader type="text">
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">Letter from Jesusita Baros Torres to Santos Baros Schubert, December 8, 1971</title>
+<title type="main" xml:lang="es">Carta de Jesusita Baros Torres a Santos Baros Schubert, 8 de diciembre, 1971</title>
+<author>Baros Torres, Jesusita</author>
+<principal xml:id="iv001">Velázquez, Isabel</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name xml:id="af" full="yes" instant="false">Faxas, Adoni A.</name>
+<name xml:id="ji" full="yes" instant="false">Isasi, Jennifer</name>
+<name xml:id="sbg" full="yes" instant="false">Garcia, Sarita B.</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date instant="false">2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Family Letters: An analysis of the Personal Correspondence of a Mexican American Family in Western Colorado and Eastern Nebraska in the First Half of the 20th Century</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name full="yes" instant="false">Department of Modern Languages and Literatures</name>
+ <address>
+<addrLine>1111 Oldfather Hall</addrLine>
+<addrLine>660 N 12th</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+<addrLine>modlang2@unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+</address>
+<idno>shan_L213.meta</idno>
+<availability default="false" status="unknown">
+<p part="N">COPYRIGHT STATEMENT TO GO HERE</p>
+</availability>
+</publicationStmt>
+            
+<notesStmt><note anchored="true"/></notesStmt>
+            
+<sourceDesc default="false">
+<bibl default="false" status="draft">
+<author>Baros Torres, Jesusita</author>
+<title level="m" type="main">Letter from Jesusita Baros Torres to Santos Baros Schubert</title>
+<date when="1971-12-08" instant="false">December 8, 1971</date>
+<extent>1 page and envelope</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Shanahan Collection</repository>
+<idno/>
+</msIdentifier>
+<msContents defective="false">
+<p part="N">1 hand-written page and envelope</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support/>
+<extent>1 page and envelope
+<dimensions unit="mm"><height/><width/></dimensions>
+</extent>
+<condition>
+<p part="N"/></condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="h01" scribe="jbt001" medium="pen"><p part="N">Media: black ink</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote><p part="N"/></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin instant="false"/>
+<provenance/>
+<acquisition/>
+</history>
+</msDesc>
+                
+</sourceDesc>
+</fileDesc>
+        
+<encodingDesc>
+<editorialDecl default="false">
+<correction default="false" status="unknown" method="silent">
+<p part="N"/>
+</correction>
+<normalization default="false" method="silent">
+<p part="N"/>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+        
+<profileDesc>
+<textClass default="false">
+<keywords scheme="original" n="category">
+<term/>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term/>
+</keywords>
+<keywords scheme="original" n="topic">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term/>
+</keywords>
+</textClass>
+<correspDesc default="false">
+<correspAction type="sentBy">
+<persName xml:id="jbt001" instant="false" full="yes">Baros Torres, Jesusita</persName>
+<placeName instant="false" full="yes"/>
+<date type="written" when="1971-12-08" instant="false"/>
+<date type="postmarked" when="1971-12-11" instant="false"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="sbs001" instant="false" full="yes">Baros Schubert, Santos</persName>
+<placeName instant="false" full="yes"/>
+</correspAction>
+<correspContext>
+<ref type="prev" target="shan">Letter from x to y, date</ref>
+<ref type="next" target="shan">Letter from x to y, date</ref>
+</correspContext> 
+</correspDesc>
+</profileDesc>
+        
+<revisionDesc status="draft">
+<change when="2017" who="#af" status="draft">Initial Encoding</change>
+<change when="2017" who="#ji" status="draft">Transcription</change>
+            
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>
+            
+<div1 type="letter" xml:lang="es" part="N" org="uniform" sample="complete">
+                
+<pb facs="shan_l.742.jpg"/>
+                
+<opener>
+<address><addrLine>Fortlupt Colo</addrLine></address>
+<dateline>Decem 8, 1971-</dateline>
+
+<salute>Querida hija</salute>
+</opener>
+                
+<p part="N">te escribo estas cuantas linias para saladarte tanto á ti como á tu espozo y la familia y desirte que estamos bien Gracias a Dios.</p>
+
+<p part="N">te platicare que se murio un hermano de Helena, ya ase como un mes, yo no se si Jes te escribo ó no bueno te dire que aqui esta muy frio;</p>
+
+<p part="N">aqui te mando estos 20. dollar tus cristmas, tu escribeme ó ablame por telefon, para Crístmas, esto sera todo por esta ves;</p>
+
+<p part="N">muchos saludes á todos;</p>
+
+<p part="N">tambien te queria preguntar, tus muchachos ban á benir á besitarte ó no platícame algo de eyos. </p>
+
+<closer>
+ <salute>recibe saludes de Max y de Jess, y de mí tu mama, tu Bedícíon;</salute>                    
+<signed>Jesusíta Torres</signed>
+</closer>
+                
+</div1>
+
+
+<div1 type="letter" xml:lang="en" part="N" org="uniform" sample="complete">
+                
+<pb facs="shan_l.742.jpg"/>
+                
+<opener>
+<address><addrLine>Fort Lupton, Colorado</addrLine></address>
+<dateline>December 8, 1971-</dateline>
+
+<salute>Dear daughter,</salute>
+</opener>
+                
+<p part="N">I am writing you these lines to greet both you and your husband and family, and to tell you that we are well, thank God.</p>
+
+<p part="N">I will tell you that one of Helena’s brother died. It was about a month ago. I don’t know if Jess wrote to you or not. Well, I’ll tell you that it’s very cold here.</p>
+
+<p part="N">I’m sending you these 20 dollars as your Christmas <add resp="iv001" instant="false" status="unremarkable">gift</add>. Write to me or call me on the phone, for Christmas. This will be all for now.</p>
+
+<p part="N">Many regards <app loc="1"><rdg>much love</rdg></app> for everyone.</p>
+
+<p part="N">I also wanted to ask you, are your kids coming to visit you or not? Tell me something
+about them. Receive regards from Max and Jess, and from me, your mom, </p>
+
+<closer>
+<salute>a blessing;</salute>                    
+<signed>Jesusíta Torres</signed>
+</closer>
+                
+</div1>
+
+<div1 type="envelope" part="N" org="uniform" sample="complete">
+
+<pb facs="shan_l.740.jpg"/>
+
+<ab type="return" part="N">
+<address>
+<addrLine>Jesusita Torres</addrLine>
+<addrLine>814, Pacific Ave</addrLine>
+<addrLine>fort Lupton Colo</addrLine>
+<addrLine>80621.</addrLine>
+</address>
+</ab>
+
+<ab type="address" part="N">
+<address>
+<addrLine>Mr Mrs Schubert</addrLine>
+<addrLine>3830 c st</addrLine>
+<addrLine>Lincoln Nebraska</addrLine>
+</address>
+</ab>
+
+<ab type="postmark" part="N">
+FORT LUPTON. CO<lb/>
+DEC 11<lb/>
+AM<lb/>
+1971<lb/>
+80621<lb/>
+</ab>
+
+<figure type="stamp">
+<p part="N"/>
+</figure>
+
+</div1>
+
+
+<div1 type="letter" xml:lang="en" part="N" org="uniform" sample="complete">
+ 
+ <pb facs="shan_l.742.jpg"/>
+ 
+ <opener>
+  <address><addrLine>Fort Lupton, Colorado</addrLine></address>
+  <dateline>December 8, 1971-</dateline>
+  
+  <salute>Dear daughter,</salute>
+ </opener>
+
+ <p part="N">I am writing you these lines to greet both you and your husband and
+  family, and to tell you that we are well, thank God.</p>
+ <p part="N">I will tell you that one of Helena’s brother died. It was about a month ago. I don’t
+  know if Jess wrote to you or not. Well, I’ll tell you that it’s very cold here.</p>
+ <p part="N">I’m sending you these 20 dollars as your Christmas gift. Write to me or call me on
+  the phone, for Christmas. This will be all for now.</p>
+ <p part="N">Many regards for everyone.</p>
+ <p part="N">I also wanted to ask you, are your kids coming to visit you or not? Tell me something
+  about them.</p>
+ 
+ <closer>
+  <salute>Receive regards from Max and Jess, and from me, your mom, a blessing.</salute>                    
+  <signed>Jesusíta Torres</signed>
+ </closer>
+ 
+</div1> 
+ 
+</body>
+        
+<back/>
+</text>
+</TEI>

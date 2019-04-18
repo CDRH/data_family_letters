@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="shan_L108.meta">
+<teiHeader type="text">
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">Letter from Jesusita Baros Torres to Santos Baros Schubert, September 17, 1962</title>
+<title type="main" xml:lang="es">Carta de Jesusita Baros Torres a Santos Baros Schubert, 17 de septiembre, 1962</title>
+<author>Baros Torres, Jesusita</author>
+<principal xml:id="iv001">Velázquez, Isabel</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name xml:id="af" full="yes" instant="false">Faxas, Adoni A.</name>
+<name xml:id="km" full="yes" instant="false">Mendell, Kate</name>
+<name xml:id="sbg" full="yes" instant="false">Garcia, Sarita B.</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date instant="false">2015</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Family Letters: An analysis of the Personal Correspondence of a Mexican American Family in Western Colorado and Eastern Nebraska in the First Half of the 20th Century</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name full="yes" instant="false">Department of Modern Languages and Literatures</name>
+ <address>
+<addrLine>1111 Oldfather Hall</addrLine>
+<addrLine>660 N 12th</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+<addrLine>modlang2@unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+</address>
+<idno>shan_L108.meta</idno>
+<availability default="false" status="unknown">
+<p part="N">COPYRIGHT STATEMENT TO GO HERE</p>
+</availability>
+</publicationStmt>
+            
+<notesStmt><note anchored="true"/></notesStmt>
+            
+<sourceDesc default="false">
+<bibl default="false" status="draft">
+<author>Baros Torres, Jesusita</author>
+<title level="m" type="main">Letter from Jesusita Baros Torres to Santos Baros Schubert</title>
+<date when="1962-09-17" instant="false">September 17, 1962</date>
+<extent>3 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Shanahan Collection</repository>
+<idno/>
+</msIdentifier>
+<msContents defective="false">
+<p part="N">3 hand-written pages</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support/>
+<extent>3 pages
+<dimensions unit="mm"><height/><width/></dimensions>
+</extent>
+<condition>
+<p part="N"/></condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="h01" scribe="jbt001" medium="pen"><p part="N">Media: black ink</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote><p part="N"/></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin instant="false"/>
+<provenance/>
+<acquisition/>
+</history>
+</msDesc>
+                
+</sourceDesc>
+</fileDesc>
+        
+<encodingDesc>
+<editorialDecl default="false">
+<correction default="false" status="unknown" method="silent">
+<p part="N"/>
+</correction>
+<normalization default="false" method="silent">
+<p part="N"/>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+        
+<profileDesc>
+<textClass default="false">
+<keywords scheme="original" n="category">
+<term/>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term/>
+</keywords>
+<keywords scheme="original" n="topic">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term/>
+</keywords>
+</textClass>
+<correspDesc default="false">
+<correspAction type="sentBy">
+<persName xml:id="jbt001" instant="false" full="yes">Baros Torres, Jesusita</persName>
+<placeName instant="false" full="yes"/>
+<date type="written" when="1962-09-17" instant="false"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="sbs001" instant="false" full="yes">Baros Schubert, Santos</persName>
+<placeName instant="false" full="yes"/>
+</correspAction>
+<correspContext>
+<ref type="prev" target="shan">Letter from x to y, date</ref>
+<ref type="next" target="shan">Letter from x to y, date</ref>
+</correspContext> 
+</correspDesc>
+</profileDesc>
+        
+<revisionDesc status="draft">
+<change when="2015" who="#af" status="draft">Initial Encoding</change>
+<change when="2014" who="#km" status="draft">Transcription</change>
+            
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>
+            
+<div1 type="letter" xml:lang="es" part="N" org="uniform" sample="complete">
+                
+<pb facs="shan_l.394.jpg"/>
+        
+<fw>page 1.</fw>
+        
+<opener>
+<address><addrLine>ft Lupton Colo</addrLine></address>
+<dateline>Sep,-17,- 1962.</dateline>
+
+<salute>mí muy Querida híja,</salute>
+</opener>
+
+<p part="N">la precen<add instant="false" status="unremarkable">te</add> es para Saludarlos á todos Uds; Deceandoles que esten buenos; así como nosotros estamos. pues Gracías á Díocito Lindo<unclear instant="false">;</unclear> que es tambueno;</p>
+                
+<p part="N">bueno despues de Saludarlos; te dire lo siguiente que tube jente, otra bes bino la Aurelia en esta bes vino <del instant="false" status="unremarkable">el</del> en la mañana y se fue asta en la tarde, tube mucho gusto, y me díjo que iba á venír en Sep 28; porque dise que ya se ba para Albuquerque, new mex; que ba á venir la Tea, tu Saves se yama Dorothea, pero le disen la Tea; y su esposo. y Frances, y la Aurelia; que bienen por ella; para yebarsela, para new mex.</p>
+
+<p part="N">y tambíen te platicare que el
+
+<pb facs="shan_l.396.jpg"/>
+
+<fw>page 2.</fw>
+
+jerry escríbío á <add instant="false" status="unremarkable">&gt;mi</add> no pero á la Helen, y al jessee, dise la Helen le manda unas cartas muy tristes, que lo ponen á lavar traztes; y lo regañan mucho, y asta le dan patadas; pero dise jess, que es porque no ase lo que le mandan; y por eso lo ponen á labar los traztes; y dise que muchos traztes lo ponen en la mañana; como á las 8.A.M. y asta las 3;P.M. de la tarde; y luego para el que es tan flojo; pues se le ase un grande zacrifízío:</p>
+
+<p part="N">bueno tambien te platicare que aquí <add instant="false" status="unremarkable">ya</add> <del instant="false" status="unremarkable">ello</del> elo pues ya no ay tomate, uno que otro que se faboresío abajo de las matas bueno pues nos quedamos sin tomates, pues <add instant="false" status="unremarkable">yo</add> no porque tengo del año pasado; poco no mucho</p>
+
+<pb facs="shan_l.398.jpg"/>
+
+<fw>page 3</fw>
+
+<p part="N">pues te platicare tambíen del papel de la seguro <del instant="false" status="unremarkable">G</del> Socíal Jesus escríví al ecenso tu saves al ecenso del año 1930 tubo que mandar $4.00 porque cobraron por hojear el líbro pues aber que pasa;</p>
+
+<p part="N">ó y tambien te dire que me digas que es lo que quíere el Bílly boy para su día de su Santo que no dilata es en Octubre 2; ¿que no? tu dime.</p>
+
+<closer>                    
+<salute>bueno hija; pues yo creo que esto sera todo por esta ves: muchos recuerdos á los niños; de nosotros y tambien de jess y famylía y max; y de tu mama, que los aprecía y les deceo muchas felecídadez recíví mis Bendícíones de tu mamá</salute>
+<signed>jesusita B. Torres.</signed>
+</closer>
+                
+</div1>
+<div1 type="letter" xml:lang="en" part="N" org="uniform" sample="complete">
+                
+<pb facs="shan_l.394.jpg"/>
+        
+<fw>page 1.</fw>
+        
+<opener>
+<address><addrLine>Ft. Lupton Colorado</addrLine></address>
+<dateline>September 17, 1962.</dateline>
+
+<salute>My dearest daughter,</salute>
+</opener>
+
+<p part="N">this letter is to greet all of you; wishing that you all are well, as we are, thanks to our <term type="informal">loving God</term>, who is so good.</p>
+                
+<p part="N">Well, after greeting you all I will tell you next that I had company the other day. Aurelia came, and this time she came in the morning and stayed until the evening. I was very happy. And she told me that she’s coming on September 28, because she says she’s leaving for Albuquerque, NM. She told me that Tea is coming. You know, her name is Dorothea, but they call her Tea, and her husband, and Frances, and Aurelia, They are coming to take her to NM.</p>
+
+<p part="N">And I will also I tell you that
+
+<pb facs="shan_l.396.jpg"/>
+
+<fw>page 2.</fw>
+
+Jerry wrote. Not to me, but to Helen and Jesse. Helen says that he sends her very sad letters, that they make him do the dishes, that they scold him a lot and even kick him, but Jess says that it’s because he doesn’t do as he is told, and that’s why they make him do dishes. And he <add resp="iv001" instant="false" status="unremarkable">Jerry</add> says that there are many dishes. That they put him to work in the morning, about 8 am, until about 3 pm in the afternoon. And for him, who is so lazy, it feels like it’s a big sacrifice.</p>
+
+<p part="N">Well, I will also tell you that there are no tomatoes left. Only the few that survived under other plants, so we were left without tomatoes. Well not me, because I have some from last year, but not much</p>
+
+<pb facs="shan_l.398.jpg"/>
+
+<fw>page 3</fw>
+
+<p part="N">Well, I will tell you also about the social security document. Jesús wrote to the Census. You know, the 1930 census. He had to send in $4.00 because they charged to look in the book. We’ll see what happens.</p>
+
+<p part="N">Oh, and I will also ask you to tell me what Billy boy wants for his<app loc="1"><rdg> birthday</rdg></app> <app loc="2"><rdg>saint's say</rdg></app> It’s October 2 isn’t it? You tell me.</p>
+
+<closer>                    
+<salute>Well daughter, well I think this wil be all for now. <app loc="1"><rdg>Many regards</rdg></app> <app loc="2"><rdg>Much love</rdg></app> to the kids from us and also from Jess and his family, and from Max. And from your mom, who loves you and who wishes you all much happiness. Receive my blessings, from your mom</salute>
+<signed>Jesusita B. Torres.</signed>
+</closer>
+                
+</div1>
+</body>
+        
+<back/>
+</text>
+</TEI>

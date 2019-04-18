@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="shan_L010.meta">
+<teiHeader type="text">
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">Letter from Shone Villanueva to Jesusita Baros Torres</title>
+<title type="main" xml:lang="es">Carta de Shone Villanueva a Jesusita Baros Torres</title>
+<author>Villanueva, Shone</author>
+<principal xml:id="iv001">Velázquez, Isabel</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name xml:id="jda" full="yes" instant="false">Avelar, Janette D.</name>
+<name xml:id="km" full="yes" instant="false">Mendell, Kate</name>
+<name xml:id="sbg" full="yes" instant="false">Garcia, Sarita B.</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date instant="false">2015</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Family Letters: An analysis of the Personal Correspondence of a Mexican American Family in Western Colorado and Eastern Nebraska in the First Half of the 20th Century</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name full="yes" instant="false">Department of Modern Languages and Literatures</name>
+ <address>
+<addrLine>1111 Oldfather Hall</addrLine>
+<addrLine>660 N 12th</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+<addrLine>modlang2@unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+</address>
+<idno>shan_L010.meta</idno>
+<availability default="false" status="unknown">
+<p part="N">COPYRIGHT STATEMENT TO GO HERE</p>
+</availability>
+</publicationStmt>
+            
+<notesStmt><note anchored="true">Fragment of a letter; Unknown date</note></notesStmt>
+            
+<sourceDesc default="false">
+<bibl default="false" status="draft">
+<author>Villanueva, Shone</author>
+<title level="m" type="main">Letter from Shone Villanueva to Jesusita Baros Torres</title>
+<extent>2 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Shanahan Collection</repository>
+<idno/>
+</msIdentifier>
+<msContents defective="false">
+<p part="N">2 hand-written fragments</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support/>
+<extent>2 fragments
+<dimensions unit="mm"><height/><width/></dimensions>
+</extent>
+<condition>
+<p part="N"/></condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="h01" scribe="sv001" medium="pen"><p part="N">Media: blue ink</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote><p part="N"/></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin instant="false"/>
+<provenance/>
+<acquisition/>
+</history>
+</msDesc>
+                
+</sourceDesc>
+</fileDesc>
+        
+<encodingDesc>
+<editorialDecl default="false">
+<correction default="false" status="unknown" method="silent">
+<p part="N"/>
+</correction>
+<normalization default="false" method="silent">
+<p part="N"/>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+        
+<profileDesc>
+<textClass default="false">
+<keywords scheme="original" n="category">
+<term/>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term/>
+</keywords>
+<keywords scheme="original" n="topic">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term/>
+</keywords>
+</textClass>
+<correspDesc default="false">
+<correspAction type="sentBy">
+<persName xml:id="sv001" instant="false" full="yes">Villanueva, Shone</persName>
+<placeName instant="false" full="yes"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="jbt001" instant="false" full="yes">Baros Torres, Jesusita</persName>
+<placeName instant="false" full="yes"/>
+</correspAction>
+<correspContext>
+<ref type="prev" target="shan">Letter from x to y, date</ref>
+<ref type="next" target="shan">Letter from x to y, date</ref>
+</correspContext> 
+</correspDesc>
+</profileDesc>
+        
+<revisionDesc status="draft">
+<change when="2015" who="#jda" status="draft">Initial Encoding</change>
+<change when="2013" who="#km" status="draft">Transcription</change>
+            
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>
+            
+<div1 type="letter" xml:lang="es" part="N" org="uniform" sample="complete">
+
+<pb facs="shan_l.051.jpg"/>
+
+<p part="N">Sabe que yo to boy a escribir, su hijo de faustine se casa el dia 16 de Abril. Tu te acordaras de el se llama Fermin. Dime si no té has casado. Yo no me e casado. El Charley toda bia esta aqui en albuq. Esta tan gordo. Pienzo que es</p>
+                
+<pb facs="shan_l.050.jpg"/>
+                  
+<closer>
+<salute>Tu Amiga</salute>
+<signed>Shone Villanueva</signed>
+<address><addrLine>812 West Slate Ave</addrLine></address>
+<address><addrLine>Albuquerque,</addrLine></address>
+<address><addrLine>N Mex.</addrLine></address>
+</closer>
+
+<postscript>
+<p part="N">Resibe saludes de La Lucy.</p>
+
+<p part="N">Y tu hermana donde esta hora?</p>
+</postscript>
+                
+</div1>
+
+<div1 type="letter" xml:lang="en" part="N" org="uniform" sample="complete">
+
+<pb facs="shan_l.051.jpg"/>
+
+<p part="N">Know that I’m going to write you. Faustine’s is getting married married on April 16th . You will remember him, his name is Fermin. Tell me if you’ve married. I haven’t. Charley is still here in Albuquerque. He is so fat. I think that</p>
+
+<pb facs="shan_l.050.jpg"/>
+
+<closer>         
+<salute>Your friend</salute>
+<signed>Shone Villanueva</signed>
+<address><addrLine>812 West Slate Ave</addrLine></address>
+<address><addrLine>Albuquerque,</addrLine></address>
+<address><addrLine>New Mexico</addrLine></address>
+</closer>
+
+<postscript>
+<p part="N">Receive greetings from Lucy</p>
+
+<p part="N">And your brother, where is he now?</p>
+</postscript>
+</div1>
+</body>
+        
+<back/>
+</text>
+</TEI>

@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="shan_L084.meta">
+<teiHeader type="text">
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">Letter from Jesusita Baros Torres to Santos Baros Schubert, October 25, 1957</title>
+<title type="main" xml:lang="es">Carta de Jesusita Baros Torres a Santos Baros Schubert, 25 de octubre, 1957</title>
+<author>Baros Torres, Jesusita</author>
+<principal xml:id="iv001">Velázquez, Isabel</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name xml:id="af" full="yes" instant="false">Faxas, Adoni A.</name>
+<name xml:id="km" full="yes" instant="false">Mendell, Kate</name>
+<name xml:id="sbg" full="yes" instant="false">Garcia, Sarita B.</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date instant="false">2015</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Family Letters: An analysis of the Personal Correspondence of a Mexican American Family in Western Colorado and Eastern Nebraska in the First Half of the 20th Century</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name full="yes" instant="false">Department of Modern Languages and Literatures</name>
+ <address>
+<addrLine>1111 Oldfather Hall</addrLine>
+<addrLine>660 N 12th</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+<addrLine>modlang2@unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+</address>
+<idno>shan_L084.meta</idno>
+<availability default="false" status="unknown">
+<p part="N">COPYRIGHT STATEMENT TO GO HERE</p>
+</availability>
+</publicationStmt>
+            
+<notesStmt><note anchored="true"/></notesStmt>
+            
+<sourceDesc default="false">
+<bibl default="false" status="draft">
+<author>Baros Torres, Jesusita</author>
+<title level="m" type="main">Letter from Jesusita Baros Torres to Santos Baros Schubert</title>
+<date when="1957-10-25" instant="false">October 25, 1957</date>
+<extent>3 pages and envelope</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Shanahan Collection</repository>
+<idno/>
+</msIdentifier>
+<msContents defective="false">
+<p part="N">3 hand-written pages and envelope</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support/>
+<extent>3 pages and envelope
+<dimensions unit="mm"><height/><width/></dimensions>
+</extent>
+<condition>
+<p part="N"/></condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="h01" scribe="jbt001" medium="pen"><p part="N">Media: black ink</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote><p part="N"/></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin instant="false"/>
+<provenance/>
+<acquisition/>
+</history>
+</msDesc>
+                
+</sourceDesc>
+</fileDesc>
+        
+<encodingDesc>
+<editorialDecl default="false">
+<correction default="false" status="unknown" method="silent">
+<p part="N"/>
+</correction>
+<normalization default="false" method="silent">
+<p part="N"/>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+        
+<profileDesc>
+<textClass default="false">
+<keywords scheme="original" n="category">
+<term/>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term/>
+</keywords>
+<keywords scheme="original" n="topic">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term/>
+</keywords>
+</textClass>
+<correspDesc default="false">
+<correspAction type="sentBy">
+<persName xml:id="jbt001" instant="false" full="yes">Baros Torres, Jesusita</persName>
+<placeName instant="false" full="yes"/>
+<date type="written" when="1957-10-25" instant="false"/>
+<date type="postmarked" when="1957-10-26" instant="false"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="sbs001" instant="false" full="yes">Baros Schubert, Santos</persName>
+<placeName instant="false" full="yes"/>
+</correspAction>
+<correspContext>
+<ref type="prev" target="shan">Letter from x to y, date</ref>
+<ref type="next" target="shan">Letter from x to y, date</ref>
+</correspContext> 
+</correspDesc>
+</profileDesc>
+        
+<revisionDesc status="draft">
+<change when="2017" who="af" status="draft">Initial Encoding</change>
+<change when="2015" who="af" status="draft">Initial Encoding</change>
+<change when="2014" who="#km" status="draft">Transcription</change>
+            
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>
+            
+<div1 type="letter" xml:lang="es" part="N" org="uniform" sample="complete">
+                
+<pb facs="shan_l.274.jpg"/>
+                
+<opener>
+<address><addrLine>ft Lupton Colo</addrLine></address>
+<dateline>Octu 25,–1957</dateline>
+
+<salute>Querida hija,</salute>
+</opener>
+
+<p part="N">la presente es para saludarla tanto á ti como al Bill y á los muchachos, nosotros estamos bien Gracias á Dios;</p>
+                
+<p part="N">pues max esta poco enfermo de la flu, pues disen que ay mucha enfermeda, por donde quiera; y uds como an estado no sen an enfermado;?</p>
+
+<p part="N">Pues aquí esta el tiempo poco frío, hoy la prímer nebada</p>
+
+<p part="N">díle al Billy que me gusto porque tan síquíera me escrive no le ase que sea en Ingles yo entiendo leer en Ingles lo que no puedo, pues es escrivir y ablarlo; bueno pues al fin nada quiza; pero sí entiendo</p>
+
+<p part="N">el jerry es muy cayado, casí ní
+
+<pb facs="shan_l.276.jpg"/>
+
+me abla; amí no me gusta que sea así; pero sí es así en veces se me ase que es como orguyoso; y ala Kathy no eya es muy díferente;</p>
+
+<p part="N">y ojala y no salgan tus niños así; bueno tambien te dígo que te boy á mandar un regalito haora para tu birthday, que te deseamos toda clase de felecidades bas á complir 35 años hija; Dios te de dar 3 veces, 35, años;</p>
+
+<p part="N">bueno pues ya ase dias que recive tu carta pero como tu sabes que en la casa tiene uno mucho quíaser pero cuando ayga una  cosa importante; no nos agamos tan disimuladas, bueno ojala y ya para <del instant="false" status="unremarkable">yege</del> cuando llege esta esta la Pamela mas <del instant="false" status="unremarkable">ab</del> alibiada; pues así lo
+
+<pb facs="shan_l.277.jpg"/>
+
+lo deceamos muchos;</p>
+
+<p part="N">recuerdos de jess tambien es poco enfermo y la Kathy</p>
+
+<closer>
+<salute>bueno saludes de max, y Helen, jerry, y de mi hija. que te deceo felecidades tu mamá</salute>                    
+<signed>jesusita B. Torres</signed>
+</closer>
+                
+</div1>
+
+<div1 type="envelope" part="N" org="uniform" sample="complete">
+
+<pb facs="shan_l.272.jpg"/>
+
+<ab type="return" part="N">
+<address>
+<addrLine>P.O. Box. 681 Colo</addrLine>
+<addrLine>ft, Lupton</addrLine>
+</address>
+</ab>
+
+<ab type="address" part="N">
+<address>
+<addrLine>Sandra B. Schubert</addrLine>
+<addrLine>1016 South 40th St</addrLine>
+<addrLine>Lincoln Nebr;</addrLine>
+</address>
+</ab>
+
+<ab type="postmark" part="N">
+FORT LUPTON<lb/>
+OCT 26<lb/>
+1 PM<lb/>
+1957<lb/>
+COLO.<lb/>
+</ab>
+
+<figure type="stamp">
+<p part="N"><unclear reason="torn" instant="false"/></p>
+</figure>
+
+</div1>
+
+<div1 type="letter" xml:lang="en" part="N" org="uniform" sample="complete">
+                
+<pb facs="shan_l.274.jpg"/>
+                
+<opener>
+<address><addrLine>Ft. Lupton, Colorado</addrLine></address>
+<dateline>October 25, –1957</dateline>
+
+<salute>Dear daughter,</salute>
+</opener>
+
+<p part="N">This letter is to greet you, as well as Bill and the kids. We are well, thank God.</p>
+                
+<p part="N">Well, Max is a little sick with the flu. They say that there is a lot of illness all over. How are you? Have any of you been sick?</p>
+
+<p part="N">Well, the weather here is a little chilly. We had the first snow today.</p>
+
+<p part="N">Tell Bill that I was happy because at least he writes to me. It doesn’t matter if he writes in English, I can read
+in English, what I can’t do is write or speak it. Well, it may be nothing in the end, but I do understand.</p>
+
+<p part="N">Jerry is very quiet, almost doesn’t
+
+<pb facs="shan_l.276.jpg"/>
+
+speak to me. I don’t like that he is like this, but that’s how he is. Some times I think he is <app loc="1" cert="high"><rdg>aloof</rdg></app> <app loc="2" cert="high"><rdg>proud</rdg></app> <app loc="3" cert="high"><rdg>arrogant</rdg></app>. And Kathy no, she’s very different.</p>
+
+<p part="N">I hope your children don’t turn out <app loc="1"><rdg>like this</rdg></app> <app loc="2"><rdg>like him</rdg></app>. Well, I will also tell you that I’m going to send you a little present for your upcoming birthday, and that we wish you every kind of happiness <add resp="iv001" instant="false" status="unremarkable">now</add> that you are going to turn 35 years old, daughter; <add resp="iv001" instant="false" status="unremarkable">May</add> God grant you 3 times 35 years.</p>
+
+<p part="N">Well, I got your letter several days ago but as you know, one has a lot to do around the house. But when there’s something important <app loc="1" cert="high"><rdg>let’s not dissimulate</rdg></app> <app loc="2" cert="high"><rdg>let us not overlook it</rdg></app>. Well, I hope that Pamela is better when you get this letter, as is
+
+<pb facs="shan_l.277.jpg"/>
+
+our wish.</p>
+
+<p part="N"><app loc="1"><rdg>Regards</rdg></app> <app loc="2"><rdg>Love</rdg></app> from Jess, who is also a little sick, and from Kathy.</p>
+
+<closer>
+<salute>Well, <app loc="1"><rdg>greetings </rdg></app><app loc="2"><rdg>hello</rdg></app> from Max, and Helen, Jerry, and from me, daughter. I wish you happiness, your mom,</salute>       
+<signed>Jesusita B. Torres</signed>
+</closer>
+                
+</div1>
+
+</body>
+        
+<back/>
+</text>
+</TEI>

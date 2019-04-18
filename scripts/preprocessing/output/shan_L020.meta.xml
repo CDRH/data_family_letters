@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="shan_L020.meta">
+<teiHeader type="text">
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">Letter from Guadalupe Flemate to Jesusita Baros Torres</title>
+<title type="main" xml:lang="es">Carta de Guadalupe Flemate a Jesusita Baros Torres</title>
+<author>Flemate, Guadalupe</author>
+<principal xml:id="iv001">Velázquez, Isabel</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name xml:id="jda" full="yes" instant="false">Avelar, Janette D.</name>
+<name xml:id="km" full="yes" instant="false">Mendell, Kate</name>
+<name xml:id="sbg" full="yes" instant="false">Garica, Sarita B.</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date instant="false">2015</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Family Letters: An analysis of the Personal Correspondence of a Mexican American Family in Western Colorado and Eastern Nebraska in the First Half of the 20th Century</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name full="yes" instant="false">Department of Modern Languages and Literatures</name>
+ <address>
+<addrLine>1111 Oldfather Hall</addrLine>
+<addrLine>660 N 12th</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+<addrLine>modlang2@unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+</address>
+<idno>shan_L020.meta</idno>
+<availability default="false" status="unknown">
+<p part="N">COPYRIGHT STATEMENT TO GO HERE</p>
+</availability>
+</publicationStmt>
+            
+<notesStmt><note anchored="true">torn letter; date on letter is listed as September 18th with the year unknown as it was torn off</note></notesStmt>
+            
+<sourceDesc default="false">
+<bibl default="false" status="draft">
+<author>Flemate, Guadalupe</author>
+<title level="m" type="main">Letter from Guadalupe Flemate to Jesusita Baros Torres</title>
+<extent>1 letter</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Shanahan Collection</repository>
+<idno/>
+</msIdentifier>
+<msContents defective="false">
+<p part="N">1 typed letter</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support/>
+<extent>1 letter
+<dimensions unit="mm"><height/><width/></dimensions>
+</extent>
+<condition>
+<p part="N"/></condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="h01" scribe="gf001" medium="pen"><p part="N">Media:black ink</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote><p part="N">Media:black ink</p></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin instant="false"/>
+<provenance/>
+<acquisition/>
+</history>
+</msDesc>
+                
+</sourceDesc>
+</fileDesc>
+        
+<encodingDesc>
+<editorialDecl default="false">
+<correction default="false" status="unknown" method="silent">
+<p part="N"/>
+</correction>
+<normalization default="false" method="silent">
+<p part="N"/>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+        
+<profileDesc>
+<textClass default="false">
+<keywords scheme="original" n="category">
+<term/>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term/>
+</keywords>
+<keywords scheme="original" n="topic">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term/>
+</keywords>
+</textClass><correspDesc default="false">
+<correspAction type="sentBy">
+<persName xml:id="gf001" instant="false" full="yes">Flemate, Guadalupe</persName>
+<placeName instant="false" full="yes"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="jbt001" instant="false" full="yes">Baros Torres, Jesusita</persName>
+<placeName instant="false" full="yes"/>
+</correspAction>
+<correspContext>
+<ref type="prev" target="shan">Letter from x to y, date</ref>
+<ref type="next" target="shan">Letter from x to y, date</ref>
+</correspContext> 
+</correspDesc>
+</profileDesc>
+        
+<revisionDesc status="draft">
+<change when="2015" who="#jda" status="draft">Initial Encoding</change>
+<change when="2014" who="#km" status="draft">Transcription</change>
+            
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>
+            
+<div1 type="letter" xml:lang="es" part="N" org="uniform" sample="complete">
+                
+<pb facs="shan_l.466.jpg"/>
+
+<opener>
+<address><addrLine>M/a. Guadalupe Flemate.</addrLine></address>
+<address><addrLine>Hotal Zaragoza.</addrLine></address>
+<address><addrLine>Juchipila,Zac; septiembre 18 de 1<unclear reason="torn" instant="false">9</unclear></addrLine></address>
+
+<address><addrLine>Sra. Jesusita Baros.</addrLine></address>
+<address><addrLine>P.O. Box# 681</addrLine></address>
+<address><addrLine>Luptón,Colorado.</addrLine></address>
+
+<salute>Muy estimada hermana,</salute>
+</opener>
+
+<p part="N">Esperando que al recibo de la presente est<unclear reason="torn" instant="false"/> tal como yo me encuentro gracias a Dios, aunque u <unclear reason="torn" instant="false"/> Hermana: Me enteré de la que le escribiste a mi <unclear reason="torn" instant="false"/> que veo estas un pco sentida porque ya estaré enfa <unclear reason="torn" instant="false"/> mana lo que pasa es que he estado algo grave, nada m<unclear reason="torn" instant="false"/>co de un dolor que me da muy seguida con la nada y m <unclear reason="torn" instant="false"/> muerte, me dijeron en Guadalajara, que tal vez me cos<unclear reason="torn" instant="false"/>el operarme, y que si me operaba que me veia mas mala <unclear reason="torn" instant="false"/> ajuantara ese dolo el tiempo de Dios quiera tenerme <unclear reason="torn" instant="false"/>do.</p>
+
+<p part="N">Pero sabes que estoy a tus ordenes en lo que pueda Sin mas tu hermana que te aprecia y no te olvida, asi te mando el retrato.</p>
+
+<closer>                    
+<signed>Guadalupe Flemate</signed>
+</closer>
+                
+</div1>
+
+<div1 type="letter" xml:lang="en" part="N" org="uniform" sample="complete">
+                
+<pb facs="shan_l.466.jpg"/>
+
+<opener>
+<address><addrLine>María Guadalupe Flemate.</addrLine></address>
+<address><addrLine>Hotal Zaragoza.</addrLine></address>
+<address><addrLine>Juchipila, Zacatecas; September 18, 1<unclear reason="torn" instant="false">9</unclear></addrLine></address>
+
+<address><addrLine>Mrs. Jesusita Baros.</addrLine></address>
+<address><addrLine>P.O. Box# 681</addrLine></address>
+<address><addrLine>Lupton, Colorado.</addrLine></address>
+
+<salute>Dearest sister:</salute>
+</opener>
+
+<p part="N">I’m hoping that when you receive this <unclear reason="torn" instant="false"/>
+As I am thanks to God, even if <unclear reason="torn" instant="false"/>
+Sister; I found out from the letter you wrote my <unclear reason="torn" instant="false"/>
+That you were a little mad at me because I <unclear reason="torn" instant="false"/>
+ter what is happening is that I’ve been somewhat gravely ill, nothing <unclear reason="torn" instant="false"/>
+days since I returned from Guadalajara, I went to have surgery <unclear reason="torn" instant="false"/>
+co from a pain that I feel very often and without notice <unclear reason="torn" instant="false"/>
+death, they told me in Guadalajara, that it would maybe cause <unclear reason="torn" instant="false"/>
+the surgery, and that I had the surgery that I would get worse <unclear reason="torn" instant="false"/>
+to bear the pain for the remainder of the time that God wants to have me <unclear reason="torn" instant="false"/>
+ld.</p>
+
+<p part="N">But you know that Im at your service in anything I can <unclear reason="torn" instant="false"/>
+With out more to add, your sister who loves you and doesn’t forget you <unclear reason="torn" instant="false"/>
+I’m sending you <add resp="iv001" instant="false" status="unremarkable">I will send you</add><certainty locus="name" cert="high"/> the portrait.</p>
+
+<closer>                    
+<signed>Guadalupe Flemate</signed>
+</closer>
+                
+</div1>
+
+</body>
+        
+<back/>
+</text>
+</TEI>

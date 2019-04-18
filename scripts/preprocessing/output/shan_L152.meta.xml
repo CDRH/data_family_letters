@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="shan_L152.meta">
+<teiHeader type="text">
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">Letter from William F. Schubert to Santos Baros Schubert, August 22, 1962</title>
+<title type="main" xml:lang="es">Carta de William F. Schubert a Santos Baros Schubert, 22 de agosto, 1962</title>
+<author>Schubert, William F.</author>
+<principal xml:id="iv001">Velázquez, Isabel</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name xml:id="af" full="yes" instant="false">Faxas, Adoni A.</name>
+<name xml:id="sbg" full="yes" instant="false">Garcia, Sarita B.</name>
+ <name xml:id="ji" full="yes" instant="false">Isasi, Jennifer</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date instant="false">2016</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Family Letters: An analysis of the Personal Correspondence of a Mexican American Family in Western Colorado and Eastern Nebraska in the First Half of the 20th Century</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name full="yes" instant="false">Department of Modern Languages and Literatures</name>
+ <address>
+<addrLine>1111 Oldfather Hall</addrLine>
+<addrLine>660 N 12th</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+<addrLine>modlang2@unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+</address>
+<idno>shan_L152.meta</idno>
+<availability default="false" status="unknown">
+<p part="N">COPYRIGHT STATEMENT TO GO HERE</p>
+</availability>
+</publicationStmt>
+            
+<notesStmt><note anchored="true"/></notesStmt>
+            
+<sourceDesc default="false">
+<bibl default="false" status="draft">
+<author>Schubert, William F.</author>
+<title level="m" type="main">William F. Schubert to Santos Baros Schubert</title>
+<date when="1962-08-22" instant="false">August 22, 1962</date>
+<extent>1 page</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Shanahan Collection</repository>
+<idno/>
+</msIdentifier>
+<msContents defective="false">
+<p part="N">1 typed page</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support/>
+<extent>1 page
+<dimensions unit="mm"><height/><width/></dimensions>
+</extent>
+<condition>
+<p part="N"/></condition>
+</supportDesc>
+</objectDesc>
+<handDesc>
+<handNote/>
+</handDesc>
+<typeDesc>
+<typeNote><p part="N">Media: black ink</p></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin instant="false"/>
+<provenance/>
+<acquisition/>
+</history>
+</msDesc>
+                
+</sourceDesc>
+</fileDesc>
+        
+<encodingDesc>
+<editorialDecl default="false">
+<correction default="false" status="unknown" method="silent">
+<p part="N"/>
+</correction>
+<normalization default="false" method="silent">
+<p part="N"/>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+        
+<profileDesc>
+<textClass default="false">
+<keywords scheme="original" n="category">
+<term/>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term/>
+</keywords>
+<keywords scheme="original" n="topic">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term/>
+</keywords>
+</textClass>
+<correspDesc default="false">
+<correspAction type="sentBy">
+<persName xml:id="wfs001" instant="false" full="yes">Schubert, William F.</persName>
+<placeName instant="false" full="yes"/>
+<date type="written" when="1962-08-22" instant="false"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="sbs001" instant="false" full="yes">Baros Schubert, Santos</persName>
+<placeName instant="false" full="yes"/>
+</correspAction>
+<correspContext>
+<ref type="prev" target="shan">Letter from x to y, date</ref>
+<ref type="next" target="shan">Letter from x to y, date</ref>
+</correspContext> 
+</correspDesc>
+</profileDesc>
+        
+<revisionDesc status="draft">
+<change when="2016" who="#af" status="draft">Initial Encoding</change>
+<change when="2015" who="#af" status="draft">Transcription</change>
+            
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>
+            
+<div1 type="letter" xml:lang="en" part="N" org="uniform" sample="complete">
+                
+<pb facs="shan_l.552.jpg"/>
+                
+<opener>
+<dateline>Lincoln, Nebr. , Aug. 22, 1962</dateline>
+
+<salute>Darling Sandra&amp;youngsters</salute>
+</opener>
+                
+<p part="N">Just a note to say that I’m real busy at work and that I am getting along alright. I had planned to go to Beatrice on a claim investigation today; but got so much going on here I’ll wait a day or two. Also, need to go to Hastings, Grand Island, but will wait until next week on that.</p>
+
+<p part="N">Last night I got the bedroom doors enameled the second coat; but got called to work before I could get the door frame done so will work on that tonight and have to iron my shirts yet.</p>
+
+<p part="N">Sprayed all the yard with some strong stuff for the webworms last evening; as I didn’t think that it would rain, then, during the night it rained. I don’t know how much.xx</p>
+
+<p part="N">Picked up Elizabeths picture this morning; another one was fairly good; but I didn’t get it; as they have them here for 30 days so you can see them when you get here.</p>
+
+<p part="N">Hope that you ware all well and getting along OK.</p>
+
+<closer>
+<salute>Love</salute>                    
+<signed>Bill</signed>
+</closer>
+                
+</div1>
+ 
+<div1 type="letter" xml:lang="es" part="N" org="uniform" sample="complete">
+
+<pb facs="shan_l.552.jpg"/>
+  
+<opener>
+<dateline>Lincoln, Nebraska, 22 de agosto de 1962</dateline>
+   
+<salute>Querida Sandra y muchachos:</salute>
+</opener> 
+
+<p part="N">Solo una nota para decirles que estoy muy ocupado en el trabajo y que estoy bien. Estaba planeando ir hoy a Beatrice para investigar una reclamación pero tengo mucho que hacer aquí, así que esperaré un día o dos. También necesito ir a Hastings y Grand Island, pero esperaré hasta la próxima semana para eso.</p> 
+
+ <p part="N">Anoche le puse la segunda capa de barniz a las puertas de la recámara, pero me hablaron del trabajo antes de poder barnizar el marco de la puerta, así que trabajaré en eso hoy en la noche, y todavía tengo que planchar mis camisas.</p>
+ 
+<p part="N">Anoche fumigué todo el patio contra los gusanos con un insecticida muy fuerte, porque pensé que no iba a llover, y llovió en la noche. No sé cuánto.xx</p>
+
+<p part="N">Hoy en la mañana recogí la foto de Elizabeth. Hay otra que salió bastante bien, pero no me la traje porque las tienen ahí por 30 días, para que las veas cuando llegues.</p>
+ 
+<p part="N">Ojalá que todos estén bien y llevándose bien.</p> 
+
+ <closer>
+  <salute>Con cariño,</salute>                    
+  <signed>Bill</signed>
+ </closer>
+ 
+</div1>
+ 
+
+</body>
+        
+<back/>
+</text>
+</TEI>

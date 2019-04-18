@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="shan_L221.meta">
+<teiHeader type="text">
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">Letter from Jesusita Baros Torres to Santos Baros Schubert, March 27, 1959</title>
+<title type="main" xml:lang="es">Carta de Jesusita Baros Torres a Santos Baros Schubert, 27 de marzo, 1959</title>
+<author>Baros Torres, Jesusita</author>
+<principal xml:id="iv001">Velázquez, Isabel</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name xml:id="ji" full="yes" instant="false">Isasi, Jennifer</name>
+<name xml:id="sbg" full="yes" instant="false">Garcia, Sarita B.</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date instant="false">2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Family Letters: An analysis of the Personal Correspondence of a Mexican American Family in Western Colorado and Eastern Nebraska in the First Half of the 20th Century</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name full="yes" instant="false">Department of Modern Languages and Literatures</name>
+ <address>
+<addrLine>1111 Oldfather Hall</addrLine>
+<addrLine>660 N 12th</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+<addrLine>modlang2@unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+</address>
+<idno>shan_L221.meta</idno>
+<availability default="false" status="unknown">
+<p part="N">COPYRIGHT STATEMENT TO GO HERE</p>
+</availability>
+</publicationStmt>
+            
+<notesStmt><note anchored="true"/></notesStmt>
+            
+<sourceDesc default="false">
+<bibl default="false" status="draft">
+<author>Baros Torres, Jesusita</author>
+<title level="m" type="main">Letter from Jesusita Baros Torres to Santos Baros Schubert</title>
+<date when="1959-03-27" instant="false">March 27, 1959</date>
+<extent>1 envelope and 2 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Shanahan Collection</repository>
+<idno/>
+</msIdentifier>
+<msContents defective="false">
+<p part="N">1 hand-written envelope and 2 hand-written pages</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support/>
+<extent>1 envelope and 2 pages
+<dimensions unit="mm"><height/><width/></dimensions>
+</extent>
+<condition>
+<p part="N"/></condition>
+</supportDesc>
+</objectDesc>
+<handDesc>
+<handNote><p part="N">Media:</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote><p part="N"/></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin instant="false"/>
+<provenance/>
+<acquisition/>
+</history>
+</msDesc>
+                
+</sourceDesc>
+</fileDesc>
+        
+<encodingDesc>
+<editorialDecl default="false">
+<correction default="false" status="unknown" method="silent">
+<p part="N"/>
+</correction>
+<normalization default="false" method="silent">
+<p part="N"/>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+        
+<profileDesc>
+<textClass default="false">
+<keywords scheme="original" n="category">
+<term/>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term/>
+</keywords>
+<keywords scheme="original" n="topic">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term/>
+</keywords>
+</textClass>
+<correspDesc default="false">
+<correspAction type="sentBy">
+<persName xml:id="jbt001" instant="false" full="yes">Baros Torres, Jesusita</persName>
+<placeName instant="false" full="yes"/>
+<date type="written" when="1959-03-27" instant="false"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="sbs001" instant="false" full="yes">Baros Schubert, Santos</persName>
+<placeName instant="false" full="yes"/>
+</correspAction>
+<correspContext>
+<ref type="prev" target="shan">Letter from x to y, date</ref>
+<ref type="next" target="shan">Letter from x to y, date</ref>
+</correspContext> 
+</correspDesc>
+</profileDesc>
+        
+<revisionDesc status="draft">
+<change when="2017" who="#sbg" status="draft">Initial Encoding</change>
+<change when="2017" who="#ji" status="draft">Transcription</change>
+            
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>
+            
+<div1 type="letter" xml:lang="es" part="N" org="uniform" sample="complete">
+                
+<pb facs="shan_l.792.jpg"/>
+                
+<opener>
+<address><addrLine>ft Lupton Colorado</addrLine></address>
+<dateline>March 27, - 1959</dateline>
+</opener>
+
+<p part="N">Querida hija, la precente es para Saludarlos á todos;</p>
+<p part="N">Felícítadolos con su baby girl;</p>
+<p part="N">le doy Gracías á Díos, que estes bien.</p>
+<p part="N">pues tambíen nosotros estamos Buenos;</p>
+<p part="N">recíbí tu cartíta; ase 2, ó 3, días pero aqui mucha nieve mucha agua y yo pues como soy
+fríolenta, pues no abía salído, asta oy que Sabado de Gloria, maña<add place="above" instant="false" status="unremarkable">na</add>es Domingo Ester Sundy pero la semana que entra boy á la plaza aber que le mando
+al new one baby; girl;</p>
+<p part="N">bítes que sí adívíne, que íba aser un mujersíta, y tambien te acuerdas que cuando nacio el
+Bílly boy, adivine, que íbas á tener baby boy; y mira haora tambien; pues yo tambíen
+tengo mucho gusto que Díos te guarde</p>
+
+<pb facs="shan_l.793.jpg"/>
+
+<p part="N">tus niños y que les de pacíencía para batayar con ellos, tanto tu como Bíll; pues haora
+quíen lo ba á bautízar; hojala, quizíera Bill que lo bautizara jess y Helen y tambien
+quisíeran Jess y Helen como ellos trabajan solo un Sabado; bueno mucho gusto híja;
+saludes para los Kíds Billy, Robert, Pammela, y tu híja; recíve el cariño de tu mamá que
+te deceo mucha buena suerte;</p>
+<p part="N">recuerdos de Max y de mí tu mamá</p> 
+<closer>
+<signed>Jesusita B. Torres</signed>
+</closer>
+
+</div1>
+
+
+<div1 type="letter" xml:lang="en" part="N" org="uniform" sample="complete">
+                
+<pb facs="shan_l.792.jpg"/>
+                
+<opener>
+<address><addrLine>Ft. Lupton, Colorado</addrLine></address>
+<dateline>March 27, - 1959</dateline>
+</opener>
+
+<p part="N">Dear daughter, the present is to greet all of you,</p>
+<p part="N">congratulating you for your baby girl.</p>
+<p part="N">I thank God for keeping you safe.</p>
+<p part="N">We are also doing well.</p>
+<p part="N">I received your little letter, 2 or 3 days ago, but there is a lot of snow and rain and, because I am always cold, I had not been out until today that <add resp="iv001" instant="false" status="unremarkable">is</add> Holy Saturday, tomorrow is Easter Sunday. However, this coming week I am going to the store to see what I can send for the new baby girl.</p>
+<p part="N">Did you see? I guessed you were having a little girl. Do you remember that, when Billy boy was born, I also guessed that you were having a baby boy. And see, now I did it again. Well, I am also very happy. May God keep</p>
+
+<pb facs="shan_l.793.jpg"/>
+
+<p part="N">your children and give you patience to raise them, both you and Bill. Well, who is going to baptize her? I hope Bill would want Jess and Helen to baptize her, and that Jess and Helen would want to do it, but it would have to be on a Saturday, since they both work. Well, I am very happy, daughter. Greetings to the children Billy, Robert, Pamela and you, daughter. Receive your mom's love, who wishes you the best of luck.</p>
+<p part="N">Regards from Max and from me, your mom.</p> 
+<closer>
+<signed>Jesusita B. Torres</signed>
+</closer>
+
+</div1>
+
+<div1 type="envelope" part="N" org="uniform" sample="complete">
+
+<pb facs="shan_l.790.jpg"/>
+
+<ab type="return" part="N">
+<address>
+<addrLine>814 Pacific Ave</addrLine>
+<addrLine>ft Lupton Colo</addrLine>
+</address>
+</ab>
+
+<ab type="address" part="N">
+<address>
+<addrLine>Mrs. W. F. Schubert</addrLine>
+<addrLine>1016 South 40th St</addrLine>
+<addrLine>Lincoln, Nebraska;</addrLine>
+</address>
+</ab>
+
+<ab type="postmark" part="N">
+FORT LUPTON CO<lb/> 
+MAR 30<lb/>
+4:30 PM<lb/>
+1959<lb/>
+</ab>
+
+<figure type="stamp">
+<p part="N"/>
+</figure>
+
+</div1>
+</body>
+        
+<back/>
+</text>
+</TEI>

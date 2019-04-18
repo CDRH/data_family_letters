@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="shan_L007.meta">
+<teiHeader type="text">
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">Letter from Clemente Torres to Maximino Torres, May 28, 1927</title>
+<title type="main" xml:lang="es">Carta de Clemente Torres a Maximino Torres, 28 de mayo, 1927</title>
+<author>Torres, Clemente</author>
+<principal xml:id="iv001">Velázquez, Isabel</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name xml:id="jda" full="yes" instant="false">Avelar, Janette D.</name>
+<name xml:id="iv002" full="yes" instant="false">Velázquez, Isabel</name>
+<name xml:id="sbg" full="yes" instant="false">Garcia, Sarita B.</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date instant="false">2015</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Family Letters: An analysis of the Personal Correspondence of a Mexican American Family in Western Colorado and Eastern Nebraska in the First Half of the 20th Century</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name full="yes" instant="false">Department of Modern Languages and Literatures</name>
+ <address>
+<addrLine>1111 Oldfather Hall</addrLine>
+<addrLine>660 N 12th</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+<addrLine>modlang2@unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+</address>
+<idno>shan_L007.meta</idno>
+<availability default="false" status="unknown">
+<p part="N">COPYRIGHT STATEMENT TO GO HERE</p>
+</availability>
+</publicationStmt>
+            
+<notesStmt><note anchored="true"/></notesStmt>
+            
+<sourceDesc default="false">
+<bibl default="false" status="draft">
+<author>Torres, Clemente</author>
+<title level="m" type="main">Letter from Clemente Torres to Maximino Torres</title>
+<date when="1927-05-28" instant="false">May 28, 1927</date>
+<extent>2 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Shanahan Collection</repository>
+<idno/>
+</msIdentifier>
+<msContents defective="false">
+<p part="N">2 hand-written pages</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support/>
+<extent>2 pages
+<dimensions unit="mm"><height/><width/></dimensions>
+</extent>
+<condition>
+<p part="N"/></condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="h01" scribe="ct001" medium="pen"><p part="N">Media: black ink</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote><p part="N"/></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin instant="false"/>
+<provenance/>
+<acquisition/>
+</history>
+</msDesc>
+                
+</sourceDesc>
+</fileDesc>
+        
+<encodingDesc>
+<editorialDecl default="false">
+<correction default="false" status="unknown" method="silent">
+<p part="N"/>
+</correction>
+<normalization default="false" method="silent">
+<p part="N"/>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+        
+<profileDesc>
+<textClass default="false">
+<keywords scheme="original" n="category">
+<term/>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term/>
+</keywords>
+<keywords scheme="original" n="topic">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term/>
+</keywords>
+</textClass>
+<correspDesc default="false">
+<correspAction type="sentBy">
+<persName xml:id="ct001" instant="false" full="yes">Torres, Clemente</persName>
+<placeName instant="false" full="yes"/>
+<date type="written" when="1927-03-28" instant="false"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="mt001" instant="false" full="yes">Torres, Maximino</persName>
+<placeName instant="false" full="yes"/>
+</correspAction>
+<correspContext>
+<ref type="prev" target="shan">Letter from x to y, date</ref>
+<ref type="next" target="shan">Letter from x to y, date</ref>
+</correspContext> 
+</correspDesc>
+</profileDesc>
+        
+<revisionDesc status="draft">
+<change when="2015" who="#jda" status="draft">Initial Encoding</change>
+<change when="2013" who="#iv002" status="draft">Transcription</change>
+            
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>
+            
+<div1 type="letter" xml:lang="es" part="N" org="uniform" sample="complete">
+                
+<pb facs="shan_l.019.jpg"/>
+
+<opener>
+<address><addrLine>Huapamaacato, Mich;Mex.</addrLine></address>
+<dateline>Mayo 28-1927-</dateline>
+<address><addrLine>Sr. Maxsimino Torrez</addrLine></address>
+<address><addrLine>RockSprings,Wyo.</addrLine></address>
+<salute>Muy querido y nunca holbidado hermano</salute>
+</opener>
+
+<p part="N">congusto y placer derijo las precentes linias para saludarte afectozamente deciando que esta tealle bien como yo lo estoy y en inion de mi tio y su familia A Dios Grasias.</p>
+
+<p part="N">hermano después de saludarte cariñozamente te ago saber que enmipoder son tus gratas de fecha 29 y del mes procsimo pasado y la hotra del corriente mes y enterado de su contenido te digo que la carta quedereguiste adonde yo estaba me la trajo mi tia Lola y la trajo avierta y todas las perzonas estan rrecebidas de tus rrecuerdos que les mandastes y de Blas pues yo le dire cuando lovea y le dare tu direcsion.</p>
+    
+<p part="N">y con respecto ala hotra te digo que pora qui cedice que quieren acer rrebolucion por cuestion de que el govierno no quiere alla nada Exclesiastico y te voyi adesir que eneste Rancho cedice que el govierno quemo acambaro porque encontraron los trajes hose alas sotanas de los <del instant="false" status="unremarkable">trajes</del> padres y aeste Eraclio loiban afusilar y a la Señorita Luisa Magaña tambien pero a Eraclio lo perdonaron porque eran conocidos los delacordada ala Señorita no la encontraron sila encuentranla fusilan sin rremedio y lla te digo esta todo sumamente trabajoso</p>
+    
+<p part="N">y rreferente alo de la lectura voyi aplicarme vastante para enceñarme a ler y ecribir para venirme contigo</p>
+    
+<pb facs="shan_l.020.jpg"/>
+
+<p part="N">y rreferente alo que tu dicesque cete regresaron las cartas bueno acaba desaber dice mitio el por que ceallan de vuelto por que yo desdeque estoyi qui veo que va muy ceguido al correo</p>
+    
+<p part="N">y dice mi tio que cuando veas al mayordomo le digas que esta recebido de su rrecuerdos y que celos rretorna de igual  modo tanto de el como de su familia asico para ladel y dile que dice sicequiere ir y que el te avisara contiempo y que le saludes mucho a Eduardo y muchomas mi allhjado <unclear reason="illegible" instant="false">Sorria.</unclear> y te dice mi tio que cuando veas a Facundo Gonzalez ledigas que sipuede mandarle los $10. Dolares ledes la direcsion.</p>
+    
+<p part="N">hermano dime como esta poraqui de trabajos pues por a lla endonde nosotros estamos esta muy trabajoso para mantenerse uno.</p>
+    
+<closer>
+<salute>y rrecibe saludes de mi tio y de mi tia y de Filomena y de mi tio Antonio y familia y de mi tio Crispin y familia y de tu hermano rrecibe elmas sincere afecto de quien te decea mil y mil felicidades entodo tu</salute>
+<signed>S.S.<lb/>
+Clemente Torrez<lb/></signed>
+</closer>
+
+</div1>
+
+<div1 type="letter" xml:lang="en" part="N" org="uniform" sample="complete">
+                
+<pb facs="shan_l.019.jpg"/>
+
+<opener>
+<address><addrLine>Huapamacato, Michoacan; Mexico</addrLine></address>
+<dateline>May 28-1927-</dateline>
+<address><addrLine>Mr. Maxsimino Torrez</addrLine></address>
+<address><addrLine>Rock Springs, Wyoming</addrLine></address>
+<salute>My dearest and never forgotten brother</salute>
+</opener>
+
+<p part="N">with delight and pleasure I send you these lines to greet you warmly wishing that this letter finds you well, as I am, and with my uncle and his family Thank God.</p>
+
+<p part="N">Brother after greeting you affectionately I let you know that I have in my possession your pleasant letters dated <add resp="iv001" instant="false" status="unremarkable">one</add>on the 29th of last month and the other <add resp="iv001" instant="false" status="unremarkable">dated</add> this month. Having read their contents I tell you that the letter you sent to <app loc="1"><rdg>where I was</rdg></app> <app loc="2"><rdg>my previous address</rdg></app> was brought to me by my aunt Lola and that she brought it open and that everybody received the regards you sent them and about Blas, I will tell him when I see him and give him your address.</p>
+
+<p part="N">And about the other <add resp="iv001" instant="false" status="unremarkable">matter</add> I tell you that it’s said around here that they want to make a revolution because the government doesn’t want anything ecclesiastical over there and will tell you that here in the rancho it’s said that the government burned down Acámbaro because they found the garments <app loc="1"><rdg>this is</rdg></app> <app loc="2"><rdg>I mean</rdg></app> the priests’ cassocks and they were going to execute Eraclio and miss Luisa Magaña too but they forgave Eraclio because <app loc="1" cert="high"><rdg>they</rdg></app> <app loc="2" cert="high"><rdg>his family</rdg></app> <app loc="3" cert="high"><rdg>he</rdg></app> knew someone at the <app loc="1"><rdg>tribunal</rdg></app> <app loc="2"><rdg>jail</rdg></app> and they couldn’t find miss Magaña if they had found her they would have executed her <add resp="iv001" instant="false" status="unremarkable">by firing squad</add> without recourse and I tell you that things are very difficult</p>
+
+<p part="N">About <app loc="1"><rdg>reading</rdg></app> <app loc="2"><rdg>learning to read</rdg></app> I’m going to apply myself very much to teach myself to read and write to come to you
+
+<pb facs="shan_l.020.jpg"/>
+
+and about what you say that the letters were returned to you well my uncle just found out the reason they could have been returned because since I’ve been here I see that he goes to the post office quite often.</p>
+
+<p part="N">And my uncle asks you to tell the mayordomo when you see him that he has received his regards and that he sends his in return as well as those from his family to his and tell him that <add resp="iv001" instant="false" status="unremarkable">my uncle</add> says that he does want to go and that he will let you know ahead of time and that you give his regards to Eduardo and all the more to my godson <certainty locus="name" cert="medium"><desc>Sorria</desc></certainty>. And my uncle says that when you see Facundo González you ask him if he can send him the $10 dollars and he asks that you give him his address.</p>
+
+<p part="N">brother tell me how are jobs here because over there where we are it’s very difficult to support oneself.</p>
+
+<closer><salute>Receive regards from my uncle and my aunt and from Filomena and from my uncle Antonio and his family and from my uncle Crispin and his family and from your brother receive the most sincere affection from him who wishes you one thousand and one thousand <add resp="iv001" instant="false" status="unremarkable">more</add> joys in everything your</salute>
+
+<signed>Faithfully yours,<lb/>
+Clemente Torrez<lb/></signed>
+</closer>
+
+
+</div1>
+</body>
+
+<back/>
+</text>
+</TEI>

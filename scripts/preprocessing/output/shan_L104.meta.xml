@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="shan_L104.meta">
+<teiHeader type="text">
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">Letter from Jesusita Baros Torres to Santos Baros Schubert, January 26, 1960</title>
+<title type="main" xml:lang="es">Carta de Jesusita Baros Torres a Santos Baros Schubert, 26 de enero, 1960</title>
+<author>Baros Torres, Jesusita</author>
+<principal xml:id="iv001">Velázquez, Isabel</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name xml:id="af" full="yes" instant="false">Faxas, Adoni a.</name>
+<name xml:id="km" full="yes" instant="false">Mendell, Kate</name>
+<name xml:id="sbg" full="yes" instant="false">Garcia, Sarita B.</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date instant="false">2015</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Family Letters: An analysis of the Personal Correspondence of a Mexican American Family in Western Colorado and Eastern Nebraska in the First Half of the 20th Century</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name full="yes" instant="false">Department of Modern Languages and Literatures</name>
+ <address>
+<addrLine>1111 Oldfather Hall</addrLine>
+<addrLine>660 N 12th</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+<addrLine>modlang2@unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+</address>
+<idno>shan_L104.meta</idno>
+<availability default="false" status="unknown">
+<p part="N">COPYRIGHT STATEMENT TO GO HERE</p>
+</availability>
+</publicationStmt>
+            
+<notesStmt><note anchored="true"/></notesStmt>
+            
+<sourceDesc default="false">
+<bibl default="false" status="draft">
+<author>Baros Torres, Jesusita</author>
+<title level="m" type="main">Letter from Jesusita Baros Torres to Santos Baros Schubert</title>
+<date when="1960-01-26" instant="false">January 26, 1960</date>
+<extent>2 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Shanahan Collection</repository>
+<idno/>
+</msIdentifier>
+<msContents defective="false">
+<p part="N">2 hand-written pages</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support/>
+<extent>2 pages
+<dimensions unit="mm"><height/><width/></dimensions>
+</extent>
+<condition>
+<p part="N"/></condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="h01" scribe="jbt001" medium="pen"><p part="N">Media: black ink</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote><p part="N"/></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin instant="false"/>
+<provenance/>
+<acquisition/>
+</history>
+</msDesc>
+                
+</sourceDesc>
+</fileDesc>
+        
+<encodingDesc>
+<editorialDecl default="false">
+<correction default="false" status="unknown" method="silent">
+<p part="N"/>
+</correction>
+<normalization default="false" method="silent">
+<p part="N"/>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+        
+<profileDesc>
+<textClass default="false">
+<keywords scheme="original" n="category">
+<term/>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term/>
+</keywords>
+<keywords scheme="original" n="topic">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term/>
+</keywords>
+</textClass>
+<correspDesc default="false">
+<correspAction type="sentBy">
+<persName xml:id="jbt001" instant="false" full="yes">Baros Torres, Jesusita</persName>
+<placeName instant="false" full="yes"/>
+<date type="written" when="1960-01-26" instant="false"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="sbs001" instant="false" full="yes">Baros Schubert, Santos</persName>
+<placeName instant="false" full="yes"/>
+</correspAction>
+<correspContext>
+<ref type="prev" target="shan">Letter from x to y, date</ref>
+<ref type="next" target="shan">Letter from x to y, date</ref>
+</correspContext> 
+</correspDesc>
+</profileDesc>
+        
+<revisionDesc status="draft">
+<change when="2015" who="#af" status="draft">Initial Encoding</change>
+<change when="2014" who="#km" status="draft">Transcription</change>
+            
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>
+            
+<div1 type="letter" xml:lang="es" part="N" org="uniform" sample="complete">
+                
+<pb facs="shan_l.370.jpg"/>
+                
+<opener>
+<address><addrLine>ft Lupton Colo</addrLine></address>
+<dateline>Jan,-26,- 1960</dateline>
+
+<salute>Querida hija,</salute>
+</opener>
+
+<p part="N">la presente es para saludarte tanto á ti como á tu Espozo y á toda los muchachos;</p>
+                
+<p part="N">recívi tu carta con fecha 20. jan; recíví mucho gusto que me escríbas anque sea de cada y cuando.</p>
+ 
+<p part="N">nosotros emos estado bien Gracías á Díos; yo é estado bien, le doy gracías á Díos;</p>
+
+<p part="N">pues tambien aquí á estado mucha nieve y frío pues te platicare que la Frances muy poco la miro, pero cuando la míre le dare tus recuerdos y tambien te platicare que an tenido trabol como disen ase como un mes que Alberto hijo de la Sra Nolasco, tu saves que son dos hermanos Jose y Alberto, pues Alberto mató á la esposa le dio 3, balasos allí mísmo en la casa; y la lebantaron al Hospital pero dísen que ya cuando llego al Hospital ya llego muerta; así es estan tristes; y dejó 5 de família; y tambien te platícare que me dise el Doctor que no es bueno andar uno sin Bresil, tu sabes; Max le nembra tapa chiches;</p>
+
+<p part="N">yo estaba con unas Bolas en los pechos, y díse el Doctr que me ponga siempre Brasil; y no se como se escrive esa palabra; pero te platíco porque tu en veces así andas si ese apretador, dice el Doctr que cuando se ase uno ya vieja como haora estoy yo que se enferma uno de los pechos; que los Benas, y los nervíos, se asen bolas, y duelen mucho; pero estoy descansada;</p>
+
+<p part="N">pues la Helen la mandaron á llamar del trabajo pero ya no quiso ir; pues para mí estubo mejor ella me acarrea para donde quiera; despues que es tan
+
+<pb facs="shan_l.371.jpg"/>
+
+calladita me salío muy buena nuera; bueno ella me yebo á Longmont, á que me pusíeran esos X, Rey. atocante de que yo me sentía mala pues ya no sabía que era amí me dolían los pechos; pero eso sacaron que las Benas y los nervíos se asen Bolas; de modo de haora tengo que trair apretador;</p>
+
+<p part="N">bueno y tambien te platícare que el jerry á saco licensías de ariar el caro; ya sale pa don quiera;</p>
+
+<closer>
+<salute>bueno hija, pues yo creo que esto sera todo por esta ves, muchos recuerdos á los muchachos y á todos al Bill, y la baby dale un Halló<unclear instant="false">;</unclear> por mí; recuerdos para ti de tu mamá;–</salute>                    
+<signed>Jesustia B. Torres</signed>
+<address>
+<addrLine>814, Pacífic ave ft</addrLine>
+<addrLine>Lupton colo.</addrLine>
+</address>
+</closer>
+                
+</div1>
+
+<div1 type="letter" xml:lang="en" part="N" org="uniform" sample="complete">
+                
+<pb facs="shan_l.370.jpg"/>
+                
+<opener>
+<address><addrLine>Ft. Lupton, Colorado</addrLine></address>
+<dateline>January 26, 1960</dateline>
+
+<salute>Dear daughter,</salute>
+</opener>
+
+<p part="N">this letter is to greet you and your husband, and all the kids.</p>
+                
+<p part="N">I received your letter dated January 20th, and was happy you wrote to me, even if it’s only once in a while.</p>
+ 
+<p part="N">We’ve been well, thank God. I’ve been alright, I thank God.</p>
+
+<p part="N">Well, we’ve also had a lot of snow here. Well, I will tell you that I don't see Frances very often, but I will give her <app loc="1"><rdg>your regards</rdg></app> <app loc="2"><rdg>your love</rdg></app> when I see her. I will also tell you that they’ve had trouble, as they say. About a month ago Alberto, Mrs. Nolasco’s son, you know, they’re two brothers, José and Alberto. Well, Alberto killed his wife. He shot her three times right there at home. They picked her up <add resp="iv001" instant="false" status="unremarkable">and took her to</add> the hospital, but they say she was dead when she got here, so they are very sad. <app loc="1"><rdg>And she left behind a family of five</rdg></app> <app loc="2"><rdg>And she left behind five kids</rdg></app>. And I will also tell you that the doctor says that it’s not good to go around without a brassiere, you know, Max calls it <term type="informal" subtype="literal">tittie covering</term>.</p>
+
+<p part="N">I had some knots on my chest and the doctor tells me that I should always use a brassiere. I’m telling you because sometimes you go without an
+<app loc="1" type="literal"><rdg>presser</rdg></app> <app loc="2"><rdg>brassiere</rdg></app>. The doctor says that when you grow old, like I am now, one gets ailments in the breasts, that the veins and the nerves get knoted and hurt a lot. But <add resp="iv001" instant="false" status="unremarkable">now</add> <app loc="1"><rdg>I’m rested</rdg></app> <app loc="2"><rdg>I've rested</rdg></app>.</p>
+
+<p part="N">Well, they called Helen back to work but she didn’t want to go anymore. For me it was better, because she takes me everywhere. <app loc="1"><rdg>Even if she is</rdg></app> <app loc="2"><rdg>Despite the fact that she is</rdg></app>
+
+<pb facs="shan_l.371.jpg"/>
+
+So quiet, she turned out to be a very good daughter in law. Well, she took me to Longmont to have those X rays taken, becuase I didn’t feel well. I didn’t know what it was, but my breasts hurt, so they told me that the veins and the nerves get knoted. So now I have to wear a <app loc="1" type="literal"><rdg>presser</rdg></app> <app loc="2"><rdg>brassiere</rdg></app>.</p>
+
+<p part="N">Well, I will also tell you that Jerry has his license to drive the car and goes out everywhere.</p>
+
+<closer>
+<salute>Well, daughter, I think this will be all for now. <app loc="1"><rdg>Many regards</rdg></app> <app loc="2"><rdg>Much love</rdg></app> for the kids, and everyone, for Bill, and say hello to the baby for me. For you, <app loc="1"><rdg>regards</rdg></app> <app loc="2"><rdg>love</rdg></app> from your mom</salute>                    
+<signed>Jesustia B. Torres</signed>
+<address>
+<addrLine>814, Pacífic ave ft</addrLine>
+<addrLine>Lupton colo.</addrLine>
+</address>
+</closer>
+                
+</div1>
+</body>
+        
+<back/>
+</text>
+</TEI>
