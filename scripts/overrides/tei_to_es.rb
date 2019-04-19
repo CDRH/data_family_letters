@@ -19,7 +19,11 @@ class TeiToEs
     xpaths["subcategory"] = "/TEI/text/body/div1[1]/@type"
     xpaths["text_en"] = "/TEI/text/body/div1[@lang='en']"
     xpaths["text_es"] = "/TEI/text/body/div1[@lang='es']"
-    return xpaths
+    xpaths["titles"] = {
+      "en" => "/TEI/teiHeader/fileDesc/titleStmt/title[@type='main'][@lang='en'][1]",
+      "es" => "/TEI/teiHeader/fileDesc/titleStmt/title[@type='main'][@lang='es'][1]"
+    }
+    xpaths
   end
 
   #################
@@ -56,9 +60,10 @@ class TeiToEs
   #  make sure they follow the custom field naming conventions
   #  *_d, *_i, *_k, *_t
   def assemble_collection_specific
-  #   @json["fieldname_k"] = some_value_or_method
     @json["text_t_en"] = text_en
     @json["text_t_es"] = text_es
+    @json["title_es_k"] = title_es
+    @json["title_sort_es_k"] = title_sort_es
   end
 
   ################
@@ -126,10 +131,30 @@ class TeiToEs
     get_text(@xpaths["text_es"], false)
   end
 
+  # title is english since API is in english
+  def title
+    get_text(@xpaths["titles"]["en"])
+  end
+
+  def title_es
+    get_text(@xpaths["titles"]["es"])
+  end
+
+  # title sort is english since API is in english
+  def title_sort
+    t = title
+    CommonXml.normalize_name(t)
+  end
+
+  def title_sort_es
+    t = title_es
+    # put in lower case and remove some starting words
+    down = t.downcase
+    down.gsub(/^el |^la |^los |^las /, "")
+  end
+
   def uri
     "https://familyletters.unl.edu/#{@id}"
   end
-
-  # TODO text is going to have to be filtered by language field
 
 end
