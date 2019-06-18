@@ -51,8 +51,8 @@
                 <bibl>
                     <author>Arroyo, Rafaela</author>
                     <title level="m" type="main">Letter from Rodolfo Aviña Torres to Clemente Torres</title>
-                    <date when="1952-10-24">August 21, 1919</date>
-                    <extent>2 pages </extent>
+                    <date when="1919-08-21">August 21, 1919</date>
+                    <extent>2 pages</extent>
                 </bibl>
                 <msDesc>
                     <msIdentifier>
@@ -123,12 +123,12 @@
             <correspDesc>
                 <correspAction type="sentBy">
                     <persName xml:id="ravt001">Arroyo, Rafaela</persName>
-                    <placeName/>
+                    <placeName></placeName>
                     <date type="written" when="1919-08-21"/>
                 </correspAction>
                 <correspAction type="deliveredTo">
                     <persName xml:id="mt001">Torres, Maximino</persName>
-                    <placeName/>
+                    <placeName></placeName>
                 </correspAction>
                 <correspContext>
                     <ref type="prev" target="shan">Letter from x to y, date</ref>
