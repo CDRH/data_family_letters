@@ -4,8 +4,8 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main" xml:lang="en">Letter from Jesusita Baros Torres to Santos Baros Schubert, October 29, 1962</title>
-<title type="main" xml:lang="es">Carta de Jesusita Baros Torres a Santos Baros Schubert, 29 de octubre, 1962</title>
+<title type="main" xml:lang="en">Letter from Jesusita Baros Torres to Santos Baros Schubert, October 27, 1962</title>
+<title type="main" xml:lang="es">Carta de Jesusita Baros Torres a Santos Baros Schubert, 27 de octubre, 1962</title>
 <author>Baros Torres, Jesusita</author>
 <principal xml:id="iv001">Velázquez, Isabel</principal>
 <respStmt>
@@ -49,7 +49,7 @@
 <bibl>
 <author>Baros Torres, Jesusita</author>
 <title level="m" type="main">Letter from Jesusita Baros Torres to Santos Baros Schubert</title>
-<date when="1962-10-29">October 29, 1962</date>
+<date when="1962-10-27">October 27, 1962</date>
 <extent>1 envelope and 3 pages</extent>
 </bibl>
 <msDesc>
@@ -123,7 +123,7 @@
 <correspAction type="sentBy">
 <persName xml:id="jbt001">Baros Torres, Jesusita</persName>
 <placeName/>
-<date type="written" when="1962-10-29"/>
+<date type="written" when="1962-10-27"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName xml:id="sbs001">Baros Schubert, Santos</persName>
@@ -166,6 +166,7 @@ díjístes. pues yo no se que mandarle ya estan tan grande que yo no se que mand
 <p>bueno pues haora se ba á yegar tu Brithday, yo te deceo muchos</p>
 
 <pb facs="shan_l.778.jpg"/>
+<fw>page 2.</fw>
 
 <p>dias de estos. que alcanses á conocer tus ñíetos, los hijos de tus nietos seas aguela; y
 <add>tataraguela;</add></p>
