@@ -8,10 +8,13 @@ class FileCsv
         xml.div(class: "image_display")
         xml.h4(data_from_pages(pages, "Title#1", combine: false))
         pages.each do |page|
+          image_name = page["Filename"].include?(".jpg") ? page["Filename"] : "#{page["Filename"]}.jpg"
           xml.div(class: "image_item_display") {
-            xml.p(page["Description#1"])
+            xml.p(page["Description#1"]) if page["Description#1"]
+            xml.p(page["Card Text"]) if page["Card Text"]
+            xml.p(page["Written Text"]) if page["Written Text"]
             xml.img(
-              src: "#{@options["media_base"]}/iiif/2/#{@options["collection"]}%2F#{page["Filename"]}/full/!800,800/0/default.jpg",
+              src: "#{@options["media_base"]}/iiif/2/#{@options["collection"]}%2F#{image_name}/full/!800,800/0/default.jpg",
               class: "display"
             )
           }
@@ -56,7 +59,7 @@ class FileCsv
     groups = @csv.group_by { |r| r["Identifier"] }
     groups.each do |group, rows|
       # skip header row
-      next if group == "Filename"
+      next if group == "Identifier"
 
       id = rows.first["Filename"].sub(".jpg", "")
       items[id] = []
@@ -85,7 +88,12 @@ class FileCsv
     doc["date_not_before"] = standard_date
     doc["date_display"] = data_from_pages(pages, "Date#1", combine: false)
     # doc["date_not_after"]
-    doc["description"] = data_from_pages(pages, "Description#1", combine: true).join(" ")
+
+    # description fields
+    desc = data_from_pages(pages, "Description#1", combine: true).join(" ")
+    text_written = data_from_pages(pages, "Written Text", combine: true).join(" ")
+    text_card = data_from_pages(pages, "Card Text", combine: true).join(" ")
+    doc["description"] = [ desc, text_written, text_card ].flatten.join(" ")
     formats = data_from_pages(pages, "Format#1", combine: true)
     # need to remove (recto) / verso type portions from the format
     formats = formats.map { |f| f[/(\w*) \(\w*\)/, 1] }.uniq
@@ -138,9 +146,8 @@ class FileCsv
     # doc["topics"]
 
     # text field combining
-    desc = data_from_pages(pages, "Description#1", combine: true).join(" ")
     people = doc["people"] ? doc["people"].join(" ") : ""
-    doc["text"] = [ desc, doc["title"], doc["date_display"], people].flatten.join(" ")
+    doc["text"] = [ doc["description"], doc["title"], doc["date_display"], people].flatten.join(" ")
     # TODO the majority of these are in English but will they be translated into spanish??
     doc["text_t_en"] = doc["text"]
 
