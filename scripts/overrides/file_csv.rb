@@ -47,23 +47,21 @@ class FileCsv
   end
 
   # CSV has an entry for each particular page image, although the metadata
-  # itself needs to be groups of them for example, id 1 and id 2 for the front
-  # and back of a postcard need to be indexed as id 1 with metadata from both
-  # (but only the first image), or combined into the HTML view
+  # itself needs to be groups of them for example, filename 1 & 2 are front
+  # and back of a postcard, grouped by the Identifier column
+  # - need to be index as one item in API
+  # - will be combined in the HTML view
   def reconstitute_items
-    # will be a hash of arrays, the first object in the array being the "first" page
     items = {}
-    @csv.each do |row|
-      next if row.header_row?
-      id = row["Filename"].gsub(".jpg", "")
-      rel = row["Relation#1"].gsub(".jpg", "")
-      # if an item has no relation, add it as is
-      # if an item has a relation which doesn't exist, consider this item the first page
-      # if an item has a relation which already exists, add to that relation
-      if present?(rel) && items.key?(rel)
-        items[rel] << row
-      else
-        items[id] = [row]
+    groups = @csv.group_by { |r| r["Identifier"] }
+    groups.each do |group, rows|
+      # skip header row
+      next if group == "Filename"
+
+      id = rows.first["Filename"].sub(".jpg", "")
+      items[id] = []
+      rows.each do |row|
+        items[id] << row
       end
     end
     items
@@ -117,14 +115,21 @@ class FileCsv
     doc["person"] = doc["people"].map { |p| { "name" => p } }
     doc["places"] = data_from_pages(pages, "Coverage#1", combine: false)
     # doc["publisher"]
-    # doc["recipient"]
+    recipient = data_from_pages(pages, "Subject#1", combine: false)
+    doc["recipient"] = [ { "name" => recipient } ] if recipient
     # doc["rights"]
     # doc["rights_holder"]
     # doc["rights_uri"]
     doc["source"] = data_from_pages(pages, "Source#1", combine: false)
     # doc["subjects"]
     # NOTE this should not be multivalued
-    doc["subcategory"] = doc["format"].class == Array ? doc["format"].first : doc["format"]
+    # subcategory for documents should just be documents
+    if self.filename(false) == "documents"
+      doc["subcategory"] = "Document"
+    else
+      f = doc["format"].class == Array ? doc["format"].first : doc["format"]
+      doc["subcategory"] = f
+    end
     # doc["title"] = present?(row["Title#1"]) ? row["Title#1"] : "No Title"
     title = data_from_pages(pages, "Title#1", combine: false)
     doc["title"] = present?(title) ? title : "No Title"
@@ -132,11 +137,11 @@ class FileCsv
     # doc["title_sort"]
     # doc["topics"]
 
-    doc["text"] = data_from_pages(pages, "Description#1", combine: true).join(" ")
-    doc["text"] += doc["title"] if doc["title"]
-    doc["text"] += doc["date_display"] if doc["date_display"]
-    doc["text"] += doc["people"].join(" ") if doc["people"]
-    # TODO the majority of thse are in English but will they be translated into spanish??
+    # text field combining
+    desc = data_from_pages(pages, "Description#1", combine: true).join(" ")
+    people = doc["people"] ? doc["people"].join(" ") : ""
+    doc["text"] = [ desc, doc["title"], doc["date_display"], people].flatten.join(" ")
+    # TODO the majority of these are in English but will they be translated into spanish??
     doc["text_t_en"] = doc["text"]
 
     # doc["uri"]
