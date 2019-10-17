@@ -174,7 +174,7 @@ class TeiToEs
   def title_sort_es
     # put in lower case and remove some starting words
     down = title_es.downcase
-    down.gsub(/^el |^la |^los |^las /, "")
+    down.sub(/^el |^la |^los |^las /, "")
   end
 
   def uri

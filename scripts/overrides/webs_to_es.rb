@@ -15,6 +15,8 @@ class WebsToEs < XmlToEs
   #   @json["fieldname_k"] = some_value_or_method
     @json["text_t_en"] = text_en
     @json["text_t_es"] = text_es
+    @json["title_es_k"] = title_es_k
+    @json["title_sort_es_k"] = title_sort_es_k
   end
 
   def category
@@ -65,14 +67,26 @@ class WebsToEs < XmlToEs
   end
 
   def title
+    en = get_text(@xpaths["title_en"])
+    es = get_text(@xpaths["title_es"])
+
+    en.empty? ? es : en
+  end
+
+  def title_sort
+    CommonXml.normalize_name(title)
+  end
+
+  def title_es_k
     es = get_text(@xpaths["title_es"])
     en = get_text(@xpaths["title_en"])
 
-    if es.empty?
-      en
-    else
-      en.empty? ? es : "#{es} (#{en})"
-    end
+    es.empty? ? en : es
+  end
+
+  def title_sort_es_k
+    down = title_es_k.downcase
+    down.sub(/^el |^la |^los |^las /, "")
   end
 
   def uri
