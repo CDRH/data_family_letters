@@ -6,8 +6,8 @@ class WebsToEs < XmlToEs
       "text_en" => "//div[@lang='en']",
       "text_es" => "//div[@lang='es']",
       # look for more specific heading for title first
-      "title_en" => "//div[@lang='en']/h3|//div[@lang='en']/h2",
-      "title_es" => "//div[@lang='es']/h3|//div[@lang='es']/h2"
+      "title_en" => "//div[@lang='en']/h1",
+      "title_es" => "//div[@lang='es']/h1"
     }
   end
 
@@ -18,7 +18,7 @@ class WebsToEs < XmlToEs
   end
 
   def category
-    "secondary_source"
+    "Secondary Source"
   end
 
   def creator
@@ -34,6 +34,11 @@ class WebsToEs < XmlToEs
     "2019"
   end
 
+  def language
+    # because this site defaults to spanish, consider the original always spanish
+    "es"
+  end
+
   def languages
     # right now the two languages are equally represented
     # although we may want to consider the original language to be spanish
@@ -42,7 +47,13 @@ class WebsToEs < XmlToEs
 
   def subcategory
     # use the id to determine which part of the site this is from
-    @id.split("_").first
+    @id.split("_").first.capitalize
+  end
+
+  # TODO what do we want to do for the "text" field in the API?
+  # should it just be text_en ?
+  def text
+    [text_en, text_es].join(" ")
   end
 
   def text_en
@@ -54,19 +65,32 @@ class WebsToEs < XmlToEs
   end
 
   def title
-    section = subcategory.capitalize
     es = get_text(@xpaths["title_es"])
     en = get_text(@xpaths["title_en"])
 
-    section += " #{es}" if es
-    section += " (#{en})" if en && !en.empty?
-    section
+    if es.empty?
+      en
+    else
+      en.empty? ? es : "#{es} (#{en})"
+    end
   end
 
   def uri
-    # TODO this will always be the spanish version so we
-    # shouldn't link to this via the family letters search results
-    File.join(@options["site_url"], @id.gsub("_", "/"))
+    # the ids are structured like the url
+    # teach_lesson05 -> teach/lesson05
+    # so long as all of the webscraped paths are only
+    # nested one deep, the below should work
+    # otherwise we need to revisit this and subcategory
+    subcat, underscore, final_url_piece = @id.partition("_")
+    File.join(@options["site_url"], subcat, final_url_piece)
+  end
+
+  def uri_data
+    uri
+  end
+
+  def uri_html
+    uri
   end
 
 end

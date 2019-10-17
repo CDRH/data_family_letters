@@ -62,6 +62,8 @@ class TeiToEs
   def assemble_collection_specific
     @json["text_t_en"] = text_en
     @json["text_t_es"] = text_es
+    # no harm in populating these fields but we aren't using them currently
+    # in the rails application
     @json["title_es_k"] = title_es
     @json["title_sort_es_k"] = title_sort_es
   end
@@ -76,24 +78,27 @@ class TeiToEs
   # TODO should we change cather so that writings is undercase?
   def category
     category = get_text(@xpaths["category"])
-    category.length > 0 ? category : "Writings"
+    category.length > 0 ? category.capitalize : "Writings"
   end
 
-  def recipient
-    list = []
-    eles = @xml.xpath(@xpaths["recipient"])
-    eles.each do |p|
-      recip = build_person_obj(p)
-      recip["role"] = "recipient"
-      list << recip
+  def format
+    matched_format = nil
+    # iterate through all the formats until the first one matches
+    @xpaths["formats"].each do |type, xpath|
+      text = get_text(xpath)
+      matched_format = type.capitalize if text && text.length > 0
     end
-    list
+    matched_format
   end
 
-  # TODO should we change cather so that Letters is undercase? plural or singular?
-  def subcategory
-    subcategory = get_text(@xpaths["subcategory"])
-    subcategory = subcategory == "letter" ? "Letters" : subcategory
+  def language
+    lang = get_text(@xpaths["language"])
+    # don't send anything if there's no language
+    lang.empty? ? nil : lang
+  end
+
+  def languages
+    get_list(@xpaths["languages"])
   end
 
   def person
@@ -114,6 +119,17 @@ class TeiToEs
     return list.uniq
   end
 
+  def recipient
+    list = []
+    eles = @xml.xpath(@xpaths["recipient"])
+    eles.each do |p|
+      recip = build_person_obj(p)
+      recip["role"] = "recipient"
+      list << recip
+    end
+    list
+  end
+
   # TODO rights, rights_uri, and rights_holder?
   def rights
     # TODO
@@ -121,6 +137,12 @@ class TeiToEs
 
   def rights_holder
     "Elizabeth Jane and Steve Shanahan of Davey, NE"
+  end
+
+  # TODO should we change cather so that Letters is undercase? plural or singular?
+  def subcategory
+    subcategory = get_text(@xpaths["subcategory"])
+    subcategory = subcategory == "letter" ? "Letters" : subcategory.capitalize
   end
 
   def text_en
@@ -133,23 +155,25 @@ class TeiToEs
 
   # title is english since API is in english
   def title
-    get_text(@xpaths["titles"]["en"])
+    title_label = get_text(@xpaths["titles"]["en"])
+    # default to spanish title if there isn't an english one
+    title_label ? title_label : get_text(@xpaths["titles"]["es"])
   end
 
   def title_es
-    get_text(@xpaths["titles"]["es"])
+    title_label = get_text(@xpaths["titles"]["es"])
+    # default to an english title if there isn't anything for spanish
+    title_label ? title_label : get_text(@xpaths["titles"]["en"])
   end
 
   # title sort is english since API is in english
   def title_sort
-    t = title
-    CommonXml.normalize_name(t)
+    CommonXml.normalize_name(title)
   end
 
   def title_sort_es
-    t = title_es
     # put in lower case and remove some starting words
-    down = t.downcase
+    down = title_es.downcase
     down.gsub(/^el |^la |^los |^las /, "")
   end
 

@@ -96,16 +96,22 @@ class FileCsv
     doc["description"] = [ desc, text_written, text_card ].flatten.join(" ")
     formats = data_from_pages(pages, "Format#1", combine: true)
     # need to remove (recto) / verso type portions from the format
-    formats = formats.map { |f| f[/(\w*) \(\w*\)/, 1] }.uniq
-    doc["format"] = formats.length > 1 ? formats : formats.first
+    formats = formats
+                .map { |f| f[/(.*) ?\((?:front|recto|verso|back)\)/, 1] }
+                .map(&:strip)
+                .map(&:capitalize)
+                .uniq
+    doc["format"] = formats.length > 1 ? formats : [ formats.first ]
     doc["identifier"] = doc["id"]
     # add jpg to the id, since that was removed in a previous step
     # and we only want the image for the very first page involved
     doc["image_id"] = "#{id}.jpg"
     # doc["keywords"]
-    # TODO only eng or N/A, should these be altered to be more useful?
-    # doc["language"]
-    # doc["languages"]
+    # because there aren't languages associated with these items yet
+    # leaving blank so that they don't even appear as "no label" on the site
+    # doc["language"] = "n/a"
+    # doc["languages"] = [ "unknown" ]
+
     doc["medium"] = doc["format"]
     people = [
       "Subject#1",
@@ -140,9 +146,12 @@ class FileCsv
     end
     # doc["title"] = present?(row["Title#1"]) ? row["Title#1"] : "No Title"
     title = data_from_pages(pages, "Title#1", combine: false)
+    # currently title likely english, okay because the API is in English
     doc["title"] = present?(title) ? title : "No Title"
-    # TODO sort title?
-    # doc["title_sort"]
+    doc["title_sort"] = CommonXml.normalize_name(doc["title"])
+    # there is no spanish translation so for now we are just duplicating fields
+    doc["title_es_k"] = doc["title"]
+    doc["title_sort_es_k"] = doc["title_sort"]
     # doc["topics"]
 
     # text field combining
