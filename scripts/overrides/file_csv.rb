@@ -97,7 +97,7 @@ class FileCsv
     formats = data_from_pages(pages, "Format#1", combine: true)
     # need to remove (recto) / verso type portions from the format
     formats = formats
-                .map { |f| f[/(.*) ?\((?:front|recto|verso|back)\)/, 1] }
+                .map { |f| f[/(.*) ?(?:\((?:front|recto|verso|back\)))?/, 1] }
                 .map(&:strip)
                 .map(&:capitalize)
                 .uniq
