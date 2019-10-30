@@ -48,7 +48,7 @@
             
 <sourceDesc>
 <bibl>
-<author>Felipita N. Baca</author>
+<author>Baca, Felipita N.</author>
 <title level="m" type="main">Letter from Felipita N. Baca to Jesusita Baros Torres</title>
 <date when="1939-01-21">January 21, 1939</date>
 <extent>2 pages and envelope</extent>
@@ -123,13 +123,13 @@
 <correspDesc>
 <correspAction type="sentBy">
 <persName xml:id="fnb001">Baca, Felipita N.</persName>
-<placeName/>
+<placeName>Albuquerque, New Mexico</placeName>
 <date type="written" when="1939-01-21"/>
 <date type="postmarked" when="1939-01-21"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName xml:id="jbt001">Baros Torres, Jesusita</persName>
-<placeName/>
+<placeName>Longmont, Colorado</placeName>
 </correspAction>
 <correspContext>
 <ref type="prev" target="shan">Letter from x to y, date</ref>

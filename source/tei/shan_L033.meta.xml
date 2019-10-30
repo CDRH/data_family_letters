@@ -123,12 +123,12 @@
 <correspDesc>
 <correspAction type="sentBy">
 <persName xml:id="fnb001">Baca, Felipita N.</persName>
-<placeName/>
+<placeName>Albuquerque, New Mexico</placeName>
 <date type="postmarked" when="1939-03-18"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName xml:id="jbt001">Baros Torres, Jesusita</persName>
-<placeName/>
+<placeName>Longmont, Colorado</placeName>
 </correspAction>
 <correspContext>
 <ref type="prev" target="shan">Letter from x to y, date</ref>

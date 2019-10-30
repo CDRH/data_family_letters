@@ -123,13 +123,13 @@
 <correspDesc>
 <correspAction type="sentBy">
 <persName xml:id="mm001">Moreno, Mary</persName>
-<placeName/>
+<placeName>Denver, Colorado</placeName>
 <date type="written" when="1939-06-20"/>
 <date type="postmarked" when="1939-06-21"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName xml:id="sbs001">Baros Schubert, Santos</persName>
-<placeName/>
+<placeName>Longmont, Colorado</placeName>
 </correspAction>
 <correspContext>
 <ref type="prev" target="shan">Letter from x to y, date</ref>

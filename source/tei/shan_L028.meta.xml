@@ -123,12 +123,12 @@
 <correspDesc>
 <correspAction type="sentBy">
 <persName xml:id="mf001">Flemate, Margarita</persName>
-<placeName/>
+<placeName>Juchipila, Zacatecas, México</placeName>
 <date type="written" when="1967-10-05"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName xml:id="jbt001">Baros Torres, Jesusita</persName>
-<placeName/>
+<placeName>Fort Lupton, Colorado</placeName>
 </correspAction>
 <correspContext>
 <ref type="prev" target="shan">Letter from x to y, date</ref>
