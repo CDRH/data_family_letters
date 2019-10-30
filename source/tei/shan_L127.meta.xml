@@ -128,25 +128,16 @@
 <correspDesc>
 <correspAction type="sentBy">
 <persName xml:id="hb001">Baros, Helen</persName>
-<placeName/>
+<persName xml:id="jjb001">Baros, Jess Jesús</persName>
+<persName xml:id="mb001">Baros, Mark</persName>
+<placeName>Fort Lupton, Colorado</placeName>
 <date type="written" when="1977-03-16"/>
 <date type="postmarked" when="1977-03-17"/>
 </correspAction>
-<correspAction type="sentBy">
-<persName xml:id="jjb001">Baros, Jess Jesús</persName>
-<placeName/>
-</correspAction>
-<correspAction type="sentBy">
-<persName xml:id="mb001">Baros, Mark</persName>
-<placeName/>
-</correspAction>
 <correspAction type="deliveredTo">
 <persName xml:id="wfs001">Schubert, William F.</persName>
-<placeName/>
-</correspAction>
-<correspAction type="deliveredTo">
 <persName xml:id="sbs001">Baros Schubert, Santos</persName>
-<placeName/>
+<placeName>Lincoln, Nebraska</placeName>
 </correspAction>
 <correspContext>
 <ref type="prev" target="shan">Letter from x to y, date</ref>

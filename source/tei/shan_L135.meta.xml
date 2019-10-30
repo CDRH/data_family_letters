@@ -123,12 +123,12 @@
 <correspDesc>
 <correspAction type="sentBy">
 <persName xml:id="wfs001">Schubert, William F.</persName>
-<placeName/>
+<placeName>Adams, Nebraska</placeName>
 <date type="postmarked" when="1950-09-26"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName xml:id="sbs001">Baros Schubert, Santos</persName>
-<placeName/>
+<placeName>Fort Lupton, Colorado</placeName>
 </correspAction>
 <correspContext>
 <ref type="prev" target="shan">Letter from x to y, date</ref>

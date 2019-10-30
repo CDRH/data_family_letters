@@ -124,17 +124,14 @@
 <correspDesc>
 <correspAction type="sentBy">
 <persName xml:id="wfs001">Schubert, William F.</persName>
-<placeName/>
+<placeName>Lincoln, Nebraska</placeName>
 <date type="written" when="1942-03-17"/>
 <date type="postmarked" when="1942-03-17"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName xml:id="jjs001">Schubert, John Jack</persName>
-<placeName/>
-</correspAction>
-<correspAction type="deliveredTo">
 <persName xml:id="gs001">Schubert, Gwendoly</persName>
-<placeName/>
+<placeName>Palmyra, Nebraska</placeName>
 </correspAction>
 <correspContext>
 <ref type="prev" target="shan">Letter from x to y, date</ref>

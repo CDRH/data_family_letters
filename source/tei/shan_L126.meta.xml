@@ -13,6 +13,7 @@
 <name xml:id="af">Faxas, Adoni A.</name>
 <name xml:id="sbg">Garcia, Sarita</name>
 <name xml:id="ji">Isasi, Jennifer</name> 
+<name xml:id="lkw">Weakly, Laura K.</name>
 </respStmt>
 </titleStmt>
 <editionStmt>
@@ -122,11 +123,11 @@
 <correspDesc>
 <correspAction type="sentBy">
 <persName xml:id="jf001">Flemate, Julia</persName>
-<placeName/>
+<placeName resp="#lkw">Guadalajara, Jalisco, México</placeName>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName xml:id="jbt001">Baros Torres, Jesusita</persName>
-<placeName/>
+<placeName>Fort Lupton, Colorado</placeName>
 </correspAction>
 <correspContext>
 <ref type="prev" target="shan">Letter from x to y, date</ref>
