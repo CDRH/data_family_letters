@@ -122,12 +122,12 @@
 <correspDesc>
 <correspAction type="sentBy">
 <persName xml:id="rh001">Hurtado, Reynaldo</persName>
-<placeName/>
+<placeName>Chicago, Illinois</placeName>
 <date type="postmarked" when="1939-03-26"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName xml:id="mt001">Torres, Maximino</persName>
-<placeName/>
+<placeName>Longmont, Colorado</placeName>
 </correspAction>
 <correspContext>
 <ref type="prev" target="shan">Letter from x to y, date</ref>
