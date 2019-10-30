@@ -122,12 +122,12 @@
 <correspDesc>
 <correspAction type="sentBy">
 <persName xml:id="df001">Flemate, Demetrio</persName>
-<placeName/>
+<placeName>Brentwood, California</placeName>
 <date type="postmarked" when="1939-07-13"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName xml:id="jbt001">Baros Torres, Jesusita</persName>
-<placeName/>
+<placeName>Longmont, Colorado</placeName>
 </correspAction>
 <correspContext>
 <ref type="prev" target="shan">Letter from x to y, date</ref>

@@ -122,12 +122,12 @@
 <correspDesc>
 <correspAction type="sentBy">
 <persName xml:id="ab001">Beltrán, Ascensión</persName>
-<placeName/>
+<placeName>Cuernavaca, Morelos, México</placeName>
 <date type="postmarked" when="1976-02-04"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName xml:id="rn001">Núñez, Ricardo</persName>
-<placeName/>
+<placeName>Fort Lupton, Colorado</placeName>
 </correspAction>
 <correspContext>
 <ref type="prev" target="shan">Letter from x to y, date</ref>

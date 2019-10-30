@@ -124,14 +124,14 @@
 <correspDesc>
 <correspAction type="sentBy">
 <persName xml:id="cep">Parrish, Mrs. C. E.</persName>
-<placeName/>
+<placeName>Bradshaw, Nebraska</placeName>
 <date type="written" when="1958-01-05"/>
 <date type="postmarked" when="1958-01-06"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName xml:id="sbs001">Baros Schubert, Santos</persName>
 <persName xml:id="wfs002">Schubert, William F.</persName>
-<placeName/>
+<placeName>Lincoln, Nebraska</placeName>
 </correspAction>
 <correspContext>
 <ref type="prev" target="shan">Letter from x to y, date</ref>
