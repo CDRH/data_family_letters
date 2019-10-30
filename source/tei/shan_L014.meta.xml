@@ -123,13 +123,13 @@
 <correspDesc>
 <correspAction type="sentBy">
 <persName xml:id="js001">Samaniego, José Jesús</persName>
-<placeName/>
+<placeName>Juchipila, Zacatecas, México</placeName>
 <date type="written" when="1934-12-02"/>
 <date type="postmarked" when="1934-12-05"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName xml:id="jbt001">Baros Torres, Jesusita</persName>
-<placeName/>
+<placeName>Longmont, Colorado</placeName>
 </correspAction>
 <correspContext>
 <ref type="prev" target="shan">Letter from x to y, date</ref>

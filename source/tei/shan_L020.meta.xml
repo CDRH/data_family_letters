@@ -12,7 +12,7 @@
 <resp>transcription and encoding</resp>
 <name xml:id="jda">Avelar, Janette D.</name>
 <name xml:id="km">Mendell, Kate</name>
-<name xml:id="sbg">Garica, Sarita B.</name>
+<name xml:id="sbg">Garcia, Sarita B.</name>
 </respStmt>
 </titleStmt>
 <editionStmt>
@@ -121,11 +121,11 @@
 </textClass><correspDesc>
 <correspAction type="sentBy">
 <persName xml:id="gf001">Flemate, Guadalupe</persName>
-<placeName/>
+<placeName>Juchipila, Zacatecas, México</placeName>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName xml:id="jbt001">Baros Torres, Jesusita</persName>
-<placeName/>
+<placeName>Fort Lupton, Colorado</placeName>
 </correspAction>
 <correspContext>
 <ref type="prev" target="shan">Letter from x to y, date</ref>
