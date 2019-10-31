@@ -12,6 +12,7 @@
 <resp>transcription and encoding</resp>
 <name xml:id="af">Faxas, Adoni A.</name>
 <name xml:id="sbg">Garcia, Sarita B.</name>
+<name xml:id="lkw">Weakly, Laura K.</name>
 </respStmt>
 </titleStmt>
 <editionStmt>
@@ -122,12 +123,12 @@
 <correspDesc>
 <correspAction type="sentBy">
 <persName xml:id="rg001">Gonzalez, Roberto</persName>
-<placeName/>
+<placeName resp="#lkw">Billings, Montana</placeName>
 <date type="postmarked" when="1970-07-01"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName xml:id="mt001">Torres, Maximino</persName>
-<placeName/>
+<placeName>Fort Lupton, Colorado</placeName>
 </correspAction>
 <correspContext>
 <ref type="prev" target="shan">Letter from x to y, date</ref>
