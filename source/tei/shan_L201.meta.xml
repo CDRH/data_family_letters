@@ -124,13 +124,13 @@
 <correspDesc>
 <correspAction type="sentBy">
 <persName xml:id="jbt001">Baros Torres, Jesusita</persName>
-<placeName/>
+<placeName>Fort Lupton, Colorado</placeName>
 <date type="written" when="1961-10-24"/>
 <date type="postmarked" when="1961-10-24"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName xml:id="sbs002">Baros Schubert, Santos</persName>
-<placeName/>
+<placeName>Lincoln, Nebraska</placeName>
 </correspAction>
 <correspContext>
 <ref type="prev" target="shan">Letter from x to y, date</ref>
