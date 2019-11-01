@@ -142,10 +142,9 @@ class TeiToEs
     rights_holder
   end
 
-  # TODO should we change cather so that Letters is undercase? plural or singular?
   def subcategory
     subcategory = get_text(@xpaths["subcategory"])
-    subcategory = subcategory == "letter" ? "Letter" : subcategory.capitalize
+    subcategory == "note" ? "Document" : subcategory.capitalize
   end
 
   def text_en

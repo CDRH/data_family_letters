@@ -116,17 +116,28 @@ class FileCsv
     doc["description"] = [ desc, text_written, text_card ].flatten.join(" ")
 
     formats = data_from_pages(pages, "Format#1", combine: true)
+    # some formats should be altered for search results, but not
+    # changing their original description in the spreadsheets
+    format_map = {
+      "Notebook" => "Handwritten Notes",
+      "Booklet" => "Miscellaneous",
+      "Calendar" => "Miscellaneous",
+      "Journal" => "Miscellaneous",
+      "Lyrics" => "Miscellaneous",
+      "Menu" => "Miscellaneous",
+      "Poster" => "Miscellaneous",
+      "Prescription" => "Miscellaneous",
+      "Religious artifact" => "Miscellaneous",
+      "Stamps" => "Miscellaneous"
+    }
     # need to remove (recto) / verso type portions from the format
     formats = formats
                 .map { |f| f.sub(/ \((?:verso|recto)\)/, "") }
                 .map(&:strip)
                 .map(&:capitalize)
                 .uniq
-    # some formats should be altered for search results, but not
-    # changing their original description in the spreadsheets
-    format_map = {
-      "Notebook" => "Handwritten Notes",
-    }
+                .map { |f| format_map.key?(f) ? format_map[f] : f }
+
     doc["format"] = formats.length > 1 ? formats : [ formats.first ]
 
     doc["identifier"] = id
