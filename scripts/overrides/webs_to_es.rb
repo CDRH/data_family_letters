@@ -20,7 +20,7 @@ class WebsToEs < XmlToEs
   end
 
   def category
-    "Secondary Source"
+    "Site Section"
   end
 
   def creator
@@ -48,8 +48,7 @@ class WebsToEs < XmlToEs
   end
 
   def subcategory
-    # use the id to determine which part of the site this is from
-    @id.split("_").first.capitalize
+    "Site Section"
   end
 
   # TODO what do we want to do for the "text" field in the API?
