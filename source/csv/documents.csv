@@ -1,7 +1,7 @@
 Notes,Filename,Identifier,Title#1,Artist/Creator#1,Recipient,Subject#1,Subject#1$1,Subject#1$3,Subject#1$2,Subject#1$5,Subject#1$4,Subject#1$7,Subject#1$6,Written Text English,Written Text Spanish,Card Text English,Card Text Spanish,Date#1,Format#1,Source#1,Language#1,Relation#1,Place From,Place To
 D1,shan_d.123,1,Will of Jesusita Flemate Barros Tores,,,,,,,,,,,,,,,1957-05-04,Document,"Elizabeth Jane and Steve Shanahan of Davey, NE",es,,,
 D1,shan_d.124,1,,,,,,,,,,,,,,,,,,,,,,
-D2,shan_d.489,2,Official letter,Immigration and Naturalization Service,,,,,,,,,,,,,,1952-07-22,Letter,"Elizabeth Jane and Steve Shanahan of Davey, NE",en,,"Denver, Colorado","Fort Lupton, Colorado"
+D2,shan_d.489,2,Official letter,Immigration and Naturalization Service,,,,,,,,,,,,,,1952-07-22,Document,"Elizabeth Jane and Steve Shanahan of Davey, NE",en,,"Denver, Colorado","Fort Lupton, Colorado"
 D2,shan_d.490,2,,,,,,,,,,,,,,,,,,,,,,
 D3,shan_d.185,3,Postcard,"Salas, Pablita ","Baros Torres, Jesusita",,,,,,,,,,"From Pablita Solas 489 Vine st Coachella California
 
@@ -827,14 +827,14 @@ D58,shan_d.344,58,Receipt from Veterans Administration National Service Life Ins
 D58,shan_d.345,58,,,,,,,,,,,,,,,,,,,,,,
 D59,shan_d.346,59,"Brochure ""This is my share"" 1944 War Fund",,,,,,,,,,,,,,,1944,Document,"Elizabeth Jane and Steve Shanahan of Davey, NE",en,,,
 D59,shan_d.347,59,,,,,,,,,,,,,,,,,,,,,,
-D60,shan_d.348,60,Protective envelope for war rationbook ,,,,,,,,,,,,,,,Unknown,Envelope,"Elizabeth Jane and Steve Shanahan of Davey, NE",en,,,
+D60,shan_d.348,60,Protective envelope for war rationbook ,,,,,,,,,,,,,,,Unknown,Rationing Booklet,"Elizabeth Jane and Steve Shanahan of Davey, NE",en,,,
 D60,shan_d.349,60,,,,,,,,,,,,,,,,,,,,,,
-D61,shan_d.350,61,War ration book,,,,,,,,,,,,,,,Unknown,Book,"Elizabeth Jane and Steve Shanahan of Davey, NE",en,,,
+D61,shan_d.350,61,War ration book,,,,,,,,,,,,,,,Unknown,Rationing Booklet,"Elizabeth Jane and Steve Shanahan of Davey, NE",en,,,
 D61,shan_d.351,61,,,,,,,,,,,,,,,,,,,,,,
-D62,shan_d.353,62,War ration book,,,,,,,,,,,,,,,Unknown,Book,"Elizabeth Jane and Steve Shanahan of Davey, NE",en,,,
+D62,shan_d.353,62,War ration book,,,,,,,,,,,,,,,Unknown,Rationing Booklet,"Elizabeth Jane and Steve Shanahan of Davey, NE",en,,,
 D62,shan_d.354,62,,,,,,,,,,,,,,,,,,,,,,
 D62,shan_d.355,62,,,,,,,,,,,,,,,,,,,,,,
-D63,shan_d.356,63,War ration book,,,,,,,,,,,,,,,Unknown,Book,"Elizabeth Jane and Steve Shanahan of Davey, NE",en,,,
+D63,shan_d.356,63,War ration book,,,,,,,,,,,,,,,Unknown,Rationing Booklet,"Elizabeth Jane and Steve Shanahan of Davey, NE",en,,,
 D63,shan_d.357,63,,,,,,,,,,,,,,,,,,,,,,
 D63,shan_d.358,63,,,,,,,,,,,,,,,,,,,,,,
 D64,shan_d.359,64,Honorable discharge letter,,,,,,,,,,,,,,,1945-11-06,Document,"Elizabeth Jane and Steve Shanahan of Davey, NE",en,,,
@@ -888,10 +888,10 @@ D68,shan_d.369,68,,,,,,,,,,,,"To Santos Barros
 From 
 Delia 
 Anaya",,,,,,,,,,
-D69,shan_d.370,69,War ration book,,,,,,,,,,,,,,,Unknown,Book,"Elizabeth Jane and Steve Shanahan of Davey, NE",en,,,
+D69,shan_d.370,69,War ration book,,,,,,,,,,,,,,,Unknown,Rationing Booklet,"Elizabeth Jane and Steve Shanahan of Davey, NE",en,,,
 D69,shan_d.371,69,,,,,,,,,,,,,,,,,,,,,,
 D69,shan_d.372,69,,,,,,,,,,,,,,,,,,,,,,
-D70,shan_d.373,70,War ration book,,,,,,,,,,,,,,,1942-05-05,Book,"Elizabeth Jane and Steve Shanahan of Davey, NE",en,,,
+D70,shan_d.373,70,War ration book,,,,,,,,,,,,,,,1942-05-05,Rationing Booklet,"Elizabeth Jane and Steve Shanahan of Davey, NE",en,,,
 D70,shan_d.374,70,,,,,,,,,,,,,,,,,,,,,,
 D70,shan_d.375,70,,,,,,,,,,,,,,,,,,,,,,
 D71,shan_d.376,71,Sugar Purchase Certificate,,,,,,,,,,,,,,,1942 (circa),Receipt,"Elizabeth Jane and Steve Shanahan of Davey, NE",en,,,
@@ -1422,7 +1422,7 @@ D198,shan_d.564,146,Payment book ,,,,,,,,,,,,,,,Unknown,Receipt,"Elizabeth Jane 
 D198,shan_d.565,146,,,,,,,,,,,,,,,,,,,,,,
 D199,shan_d.566,147,Denver Area War Chest,,,,,,,,,,,,,,,1945-10-11,Receipt,"Elizabeth Jane and Steve Shanahan of Davey, NE",en,,,
 D199,shan_d.567,147,,,,,,,,,,,,,,,,,,,,,,
-M1,shan_m.001,148,Personal rosary,,,,,,,,,,,,,,,,Religious artifact,"Elizabeth Jane and Steve Shanahan of Davey, NE",,,,
+M1,shan_m.001,148,a,,,,,,,,,,,,,,,,Religious artifact,"Elizabeth Jane and Steve Shanahan of Davey, NE",,,,
 M1,shan_m.002,148,,,,,,,,,,,,,,,,,,,,,,
 M2,shan_m.016,149,Personal journal,,,,,,,,,,,,,,,,Journal,"Elizabeth Jane and Steve Shanahan of Davey, NE",,,,
 M2,shan_m.017,149,,,,,,,,,,,,,,,,,,,,,,

@@ -49,6 +49,14 @@ class FileCsv
     end
   end
 
+  def get_id(number)
+    # construct an id that looks like pattern shan.D001 or shan.P001
+    padded = number.rjust(3, "0")
+    # if not a document, assume a photograph
+    letter = self.filename(false) == "documents" ? "D" : "P"
+    "shan.#{letter}#{padded}"
+  end
+
   # CSV has an entry for each particular page image, although the metadata
   # itself needs to be groups of them for example, filename 1 & 2 are front
   # and back of a postcard, grouped by the Identifier column
@@ -61,7 +69,7 @@ class FileCsv
       # skip header row
       next if group == "Identifier"
 
-      id = rows.first["Filename"].sub(".jpg", "")
+      id = get_id(group)
       items[id] = []
       rows.each do |row|
         items[id] << row
@@ -74,8 +82,8 @@ class FileCsv
   def item_to_es(id, pages)
     doc = {}
 
-    doc["id"] = id
-    doc["category"] = "Images"
+    # the below are fields common to both documents and photographs
+    doc["category"] = "Image"
     doc["collection"] = @options["collection"]
     doc["collection_desc"] = @options["collection_desc"] || @options["collection"]
     # doc["contributor"]
@@ -94,23 +102,40 @@ class FileCsv
     text_written = data_from_pages(pages, "Written Text", combine: true).join(" ")
     text_card = data_from_pages(pages, "Card Text", combine: true).join(" ")
     doc["description"] = [ desc, text_written, text_card ].flatten.join(" ")
+
     formats = data_from_pages(pages, "Format#1", combine: true)
     # need to remove (recto) / verso type portions from the format
     formats = formats
-                .map { |f| f[/(.*) ?(?:\((?:front|recto|verso|back\)))?/, 1] }
+                .map { |f| f.sub(/ \((?:verso|recto)\)/, "") }
                 .map(&:strip)
                 .map(&:capitalize)
                 .uniq
+    # some formats should be altered for search results, but not
+    # changing their original description in the spreadsheets
+    format_map = {
+      "Notebook" => "Handwritten Notes",
+    }
     doc["format"] = formats.length > 1 ? formats : [ formats.first ]
-    doc["identifier"] = doc["id"]
-    # add jpg to the id, since that was removed in a previous step
-    # and we only want the image for the very first page involved
-    doc["image_id"] = "#{id}.jpg"
+
+    doc["identifier"] = id
+
+    first_image = pages.first["Filename"]
+    doc["image_id"] = first_image.include?(".jpg") ? first_image : "#{first_image}.jpg"
     # doc["keywords"]
-    # because there aren't languages associated with these items yet
-    # leaving blank so that they don't even appear as "no label" on the site
-    # doc["language"] = "n/a"
-    # doc["languages"] = [ "unknown" ]
+
+    lang = data_from_pages(pages, "Language#1", combine: true).first
+
+    if lang
+      lang_map = {
+        "eng" => "en",
+        "em" => "en",
+        "esp" => "es",
+        "N/A" => "n/a"
+      }
+      doc["language"] = lang_map.key?(lang) ? lang_map[lang] : lang
+      # multivalued field, these items are only described with one language
+      doc["languages"] = [ doc["language"] ]
+    end
 
     doc["medium"] = doc["format"]
     people = [
@@ -132,18 +157,15 @@ class FileCsv
     recipient = data_from_pages(pages, "Subject#1", combine: false)
     doc["recipient"] = [ { "name" => recipient } ] if recipient
     # doc["rights"]
-    # doc["rights_holder"]
     # doc["rights_uri"]
-    doc["source"] = data_from_pages(pages, "Source#1", combine: false)
+    doc["rights_holder"] = data_from_pages(pages, "Source#1", combine: false)
+
+    # "source" field handled by individual type of item
+
     # doc["subjects"]
-    # NOTE this should not be multivalued
-    # subcategory for documents should just be documents
-    if self.filename(false) == "documents"
-      doc["subcategory"] = "Document"
-    else
-      f = doc["format"].class == Array ? doc["format"].first : doc["format"]
-      doc["subcategory"] = f
-    end
+
+    # "subcategory" field handled by individual type of item
+
     # doc["title"] = present?(row["Title#1"]) ? row["Title#1"] : "No Title"
     title = data_from_pages(pages, "Title#1", combine: false)
     # currently title likely english, okay because the API is in English
@@ -165,7 +187,25 @@ class FileCsv
     doc["uri_data"] = "#{@options["data_base"]}/data/#{@options["collection"]}/csv/#{self.filename}"
     doc["uri_html"] = "#{@options["data_base"]}/data/#{@options["collection"]}/output/#{@options["environment"]}/html/#{id}.html"
     # doc["works"]
+
+    if self.filename(false) == "photographs"
+      item_to_es_photographs(doc, pages)
+    else
+      item_to_es_documents(doc, pages)
+    end
     doc
+  end
+
+  def item_to_es_documents(doc, pages)
+    doc["source"] = doc["rights_holder"]
+    doc["subcategory"] = "Document"
+  end
+
+  def item_to_es_photographs(doc, pages)
+    doc["source"] = "University of Nebraska, Lincoln, Hispanic-Latina/o Heritage Collection"
+    # subcategory
+    f = doc["format"].class == Array ? doc["format"].first : doc["format"]
+    doc["subcategory"] = f
   end
 
   def standardize_date(dirty)
