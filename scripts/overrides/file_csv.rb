@@ -49,11 +49,19 @@ class FileCsv
     end
   end
 
-  def get_id(number)
+  def get_id(item_identifier)
+    if item_identifier[/^\d/]
+      # consider this a photograph
+      letter = "P"
+      number = item_identifier
+    else
+      # this is a document and may have D or M letters associated with it
+      letter = item_identifier[0]
+      number = item_identifier[1..-1]
+    end
     # construct an id that looks like pattern shan.D001 or shan.P001
     padded = number.rjust(3, "0")
-    # if not a document, assume a photograph
-    letter = self.filename(false) == "documents" ? "D" : "P"
+    # puts "shan.#{letter}#{padded}"
     "shan.#{letter}#{padded}"
   end
 
@@ -64,10 +72,14 @@ class FileCsv
   # - will be combined in the HTML view
   def reconstitute_items
     items = {}
-    groups = @csv.group_by { |r| r["Identifier"] }
+    if self.filename(false) == "documents"
+      groups = @csv.group_by { |r| r["Notes"] }
+    else
+      groups = @csv.group_by { |r| r["Identifier"] }
+    end
     groups.each do |group, rows|
       # skip header row
-      next if group == "Identifier"
+      next if group == "Identifier" || group == "Notes"
 
       id = get_id(group)
       items[id] = []
