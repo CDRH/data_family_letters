@@ -75,10 +75,9 @@ class TeiToEs
   # Overrides of default behavior
   # Please see docs/tei_to_es.rb for complete instructions and examples
 
-  # TODO should we change cather so that writings is undercase?
   def category
     category = get_text(@xpaths["category"])
-    category.length > 0 ? category.capitalize : "Writings"
+    category.length > 0 ? category.capitalize : "Writing"
   end
 
   def format
@@ -139,10 +138,14 @@ class TeiToEs
     "Elizabeth Jane and Steve Shanahan of Davey, NE"
   end
 
+  def source
+    rights_holder
+  end
+
   # TODO should we change cather so that Letters is undercase? plural or singular?
   def subcategory
     subcategory = get_text(@xpaths["subcategory"])
-    subcategory = subcategory == "letter" ? "Letters" : subcategory.capitalize
+    subcategory = subcategory == "letter" ? "Letter" : subcategory.capitalize
   end
 
   def text_en
