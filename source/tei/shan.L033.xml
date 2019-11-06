@@ -4,8 +4,8 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main" xml:lang="en">Letter from Felipita N. Baca to Jesusita Baros Torres, March 18, 1939</title>
-<title type="main" xml:lang="es">Carta de Felipita N. Baca a Jesusita Baros Torres, 18 de marzo, 1939</title>
+<title type="main" xml:lang="en">Letter from Felipita N. Baca to Jesusita Baros Torres, March 17, 1939</title>
+<title type="main" xml:lang="es">Carta de Felipita N. Baca a Jesusita Baros Torres, 17 de marzo, 1939</title>
 <author>Felipita N. Baca</author>
 <principal xml:id="iv001">Velázquez, Isabel</principal>
 <respStmt>
@@ -50,7 +50,7 @@
 <bibl>
 <author>Baca, Felipita N.</author>
 <title level="m" type="main">Letter from Felipita N. Baca to Jesusita Barros Torres</title>
-<date when="1939-03-17">March 18, 1939</date>
+<date when="1939-03-17">March 17, 1939</date>
 <extent>2 pages and envelope</extent>
 </bibl>
 <msDesc>
@@ -124,6 +124,7 @@
 <correspAction type="sentBy">
 <persName xml:id="fnb001">Baca, Felipita N.</persName>
 <placeName>Albuquerque, New Mexico</placeName>
+<date type="written" when="1939-03-17"/>
 <date type="postmarked" when="1939-03-18"/>
 </correspAction>
 <correspAction type="deliveredTo">
@@ -153,7 +154,7 @@
                    
 <opener>
 <address><addrLine>Albuquerqu N. Mej.</addrLine></address>
-<dateline>March 19, 1939</dateline>
+<dateline>March 17, 1939</dateline>
 
 <salute>Mrs. Jesusita Barros</salute>
 </opener>
