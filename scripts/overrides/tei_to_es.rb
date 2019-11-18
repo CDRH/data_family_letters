@@ -13,6 +13,7 @@ class TeiToEs
     ]
     xpaths["date_display"] = "/TEI/teiHeader/fileDesc/sourceDesc/bibl/date"
     xpaths["person"] = "//persName"
+    xpaths["places"] = "//placeName"
     xpaths["publisher"] = "/TEI/teiHeader/fileDesc/publicationStmt/publisher"
     xpaths["recipient"] = "/TEI/teiHeader/profileDesc/correspDesc/correspAction[@type='deliveredTo']/persName"
     xpaths["source"] = "/TEI/teiHeader/fileDesc/sourceDesc/mxDesc[1]/msIdentifier/repository"

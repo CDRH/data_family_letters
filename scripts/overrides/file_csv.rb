@@ -119,8 +119,8 @@ class FileCsv
     # some formats should be altered for search results, but not
     # changing their original description in the spreadsheets
     format_map = {
+      "Booklet" => "Document",
       "Notebook" => "Handwritten Notes",
-      "Booklet" => "Miscellaneous",
       "Calendar" => "Miscellaneous",
       "Journal" => "Miscellaneous",
       "Lyrics" => "Miscellaneous",
