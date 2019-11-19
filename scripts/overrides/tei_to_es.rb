@@ -34,7 +34,10 @@ class TeiToEs
   def build_person_obj(personXml)
     xmlid = personXml["id"]
     # collect the parts of the person's name
-    display_name = @personography.xpath("//person[@id='#{xmlid}']/persName[@type='facet']").text
+    personography_name = @personography
+                          .xpath("//person[@id='#{xmlid}']/persName[@type='facet']")
+                          .text
+    display_name = personography_name.empty? ? "[unknown]" : personography_name
     {
       "id" => xmlid,
       "name" => CommonXml.normalize_space(display_name),
