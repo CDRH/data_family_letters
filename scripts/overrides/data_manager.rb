@@ -24,14 +24,20 @@ class Datura::DataManager
 
   def pre_file_preparation
     if @options["scrape_website"]
-      puts "getting list of urls to scrape from #{@options["scrape_endpoint"]}"
-      list_of_pages = open(@options["scrape_endpoint"]) { |f| f.read }
+      url = File.join(@options["site_url"], @options["scrape_endpoint"])
+      puts "getting list of urls to scrape from #{url}"
+      list_of_pages = open(url) { |f| f.read }
       # family letters has urls such as research and en/research
       # representing spanish and english views of the same content
       # so the urls are returned in pairs
       JSON.parse(list_of_pages).each do |pair|
         # share an id for the two files
-        id = URI(pair.first).path[/^(?:\/en)?\/(.*)/, 1].gsub("/", "_")
+        site_url_for_regex = @options["site_url"]
+          .gsub("/", "\/")
+          .gsub(".", "\.")
+        id = pair
+          .first[/^#{site_url_for_regex}\/(.*)/, 1]
+          .gsub("/", "_")
         output_file = "#{@options["collection_dir"]}/source/webs/#{id}.html"
 
         html = build_html(pair)
@@ -43,7 +49,7 @@ class Datura::DataManager
         add or update config/public.yml to use "scrape_website: true"}
     end
   rescue => exception
-    print_error(exception, @options["scrape_endpoint"])
+    print_error(exception, url)
   end
 
   def print_error(e, url)

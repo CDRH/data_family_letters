@@ -6,8 +6,8 @@ class WebsToEs < XmlToEs
       "text_en" => "//div[@lang='en']",
       "text_es" => "//div[@lang='es']",
       # look for more specific heading for title first
-      "title_en" => "//div[@lang='en']/h1",
-      "title_es" => "//div[@lang='es']/h1"
+      "title_en" => "//div[@lang='en']//h1",
+      "title_es" => "//div[@lang='es']//h1"
     }
   end
 

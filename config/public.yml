@@ -13,7 +13,9 @@ development:
   # custom setting for family letters to grab list of urls to index
   # eventually when the website is no longer being edited scrape_website can be
   # set to false or removed and source/webs files can be indexed as is
-  scrape_endpoint: https://cdrhdev1.unl.edu/family_letters/content_pages
+
+  # scrape_endpoint is tacked onto the end of site_url
+  scrape_endpoint: content_pages
   scrape_website: true
 production:
   es_path: https://cdrhapi.unl.edu/elastic
