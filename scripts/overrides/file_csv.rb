@@ -80,6 +80,8 @@ class FileCsv
     groups.each do |group, rows|
       # skip header row
       next if group == "Identifier" || group == "Notes"
+      # skip the border crossing card, which was for internal use only
+      next if group == "D131"
 
       id = get_id(group)
       items[id] = []
