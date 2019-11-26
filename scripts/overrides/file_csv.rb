@@ -205,9 +205,9 @@ class FileCsv
     # TODO the majority of these are in English but will they be translated into spanish??
     doc["text_t_en"] = doc["text"]
 
-    # doc["uri"]
+    doc["uri"] = "#{@options["site_url"]}/item/#{id}"
     # filename in uri_data is coming from the filename of the CSV file, NOT the "Filename" column
-    doc["uri_data"] = "#{@options["data_base"]}/data/#{@options["collection"]}/csv/#{self.filename}"
+    doc["uri_data"] = "#{@options["data_base"]}/data/#{@options["collection"]}/source/csv/#{self.filename}"
     doc["uri_html"] = "#{@options["data_base"]}/data/#{@options["collection"]}/output/#{@options["environment"]}/html/#{id}.html"
     # doc["works"]
 

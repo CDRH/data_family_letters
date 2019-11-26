@@ -184,7 +184,7 @@ class TeiToEs
   end
 
   def uri
-    "https://familyletters.unl.edu/#{@id}"
+    File.join(@options["site_url"], @id)
   end
 
 end
