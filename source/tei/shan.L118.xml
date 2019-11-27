@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="shan_L118.meta">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">Letter from Jesusita Baros Torres to Santos Baros Schubert, November 08, 1967</title>
+<title type="main" xml:lang="es">Carta de Jesusita Baros Torres a Santos Baros Schubert, 08 de noviembre, 1967</title>
+<author>Baros Torres, Jesusita</author>
+<principal xml:id="iv001">Velázquez, Isabel</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name xml:id="af">Faxas, Adoni A.</name>
+<name xml:id="km">Mendell, Kate</name>
+<name xml:id="sbg">Garcia, Sarita B.</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2016</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Family Letters: An analysis of the Personal Correspondence of a Mexican American Family in Western Colorado and Eastern Nebraska in the First Half of the 20th Century</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Department of Modern Languages and Literatures</name>
+ <address>
+<addrLine>1111 Oldfather Hall</addrLine>
+<addrLine>660 N 12th</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+<addrLine>modlang2@unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+</address>
+<idno>shan_L118.meta</idno>
+<availability>
+<p>COPYRIGHT STATEMENT TO GO HERE</p>
+</availability>
+</publicationStmt>
+            
+<notesStmt><note/></notesStmt>
+            
+<sourceDesc>
+<bibl>
+<author>Baros Torres, Jesusita</author>
+<title level="m" type="main">Letter from Jesusita Baros Torres a Santos Baros Schubert</title>
+<date when="1967-11-08">November 8, 1967</date>
+<extent>2 pages and envelope</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Shanahan Collection</repository>
+<idno/>
+</msIdentifier>
+<msContents>
+<p>2 hand-written pages and envelope</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support/>
+<extent>2 pages and envelope
+<dimensions unit="mm"><height/><width/></dimensions>
+</extent>
+<condition>
+<p/></condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="h01" scribe="jbt001" medium="pen"><p>Media: black ink</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote><p/></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin/>
+<provenance/>
+<acquisition/>
+</history>
+</msDesc>
+                
+</sourceDesc>
+</fileDesc>
+        
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p/>
+</correction>
+<normalization>
+<p/>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term/>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term/>
+</keywords>
+<keywords scheme="original" n="topic">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term/>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName xml:id="jbt001">Baros Torres, Jesusita</persName>
+<placeName>Fort Lupton, Colorado</placeName>
+<date type="written" when="1967-11-08"/>
+<date type="postmarked" when="1967-11-13"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="sbs001">Baros Schubert, Santos</persName>
+<placeName>Lincoln, Nebraska</placeName>
+</correspAction>
+<correspContext>
+<ref type="prev" target="shan">Letter from x to y, date</ref>
+<ref type="next" target="shan">Letter from x to y, date</ref>
+</correspContext> 
+</correspDesc>
+</profileDesc>
+        
+<revisionDesc>
+<change when="2016" who="#af">Initial Encoding</change>
+<change when="2014" who="#km">Transcription</change>
+            
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>
+            
+<div1 type="letter" xml:lang="es">
+                
+<pb facs="shan_l.446.jpg"/>
+                
+<opener>
+<address><addrLine>ft Lupton Colo</addrLine></address>
+<dateline>Novem, 8, 1967</dateline>
+
+<salute>Querída mi hija</salute>
+</opener>
+
+<p>la precente es saludarte en companía de tu espozo, y toda la demas familia;</p>
+                
+<p>pues te escrívo estas cuantas linias para desírte que oy este día salí del Hospital 8, novem pues estoy bíen, no mas me siento devel [second ‘e’ is written over] eso es todo, pero yo creo que poco á poco, me boy á sentir mejor, despues.</p>
+
+<p>tambíen te díre que ya tengo como 3, días que comense esta carta, pero pues no la abía acabado pues é tenido mucha jente que á benido á besitarme todos los dias 3, ó 4, vesitas, pero es muy temprano antes que vengan á vesitar estoy acabando este papel para darte muchas Gracias hija que tambíen tu me beniste á vesitar;</p>
+
+<p>pues esto es todo, y en cada y cuando escríveme; no te olbídes</p>
+
+<closer>
+<salute>recuerdos para todos de tu mamá<lb/>                  
+
+<pb facs="shan_l.447.jpg"/>
+
+y max, jess y family;<lb/></salute>
+</closer>
+                
+</div1>
+
+<div1 type="envelope">
+
+<pb facs="shan_l.444.jpg"/>
+
+<ab type="return">
+<address>
+<addrLine>814, Pacific ave</addrLine> 
+<addrLine>ft Lupton Colo,</addrLine> 
+<addrLine>Jesusita Torres</addrLine>
+</address>
+</ab>
+
+<ab type="address">
+<address>
+<addrLine>Mrs Santos Schubert</addrLine> 
+<addrLine>3830. “C” St;</addrLine>
+<addrLine>Lincoln, nebraska 68510</addrLine>
+</address>
+</ab>
+
+<ab type="postmark">
+FORT LUPTON. CO<lb/>
+NOV 13<lb/>
+AM<lb/>
+1967<lb/>
+80221<lb/>
+</ab>
+
+
+<figure type="stamp">
+<p/>
+</figure>
+
+</div1>
+
+<div1 type="letter" xml:lang="en">
+                
+<pb facs="shan_l.446.jpg"/>
+                
+<opener>
+<address><addrLine>Ft.Lupton, Colorado</addrLine></address>
+<dateline>November 8, 1967</dateline>
+
+<salute>My dear daughter,</salute>
+</opener>
+
+<p>this letter is to greet you, your husband and all your family.</p>
+                
+<p>I write these few letters to let you know that I left the hospital today, November 8th. I am alright, only I feel weak, that is all. I think that little by little I will feel better later on.</p>
+
+<p>I will also tell you that I started to write this letter about three days ago and I haven’t finished it because a lot of people have come to visit. Three of four visits everyday. But <add resp="iv001">now</add> it’s very early for visits, so I’m finishing this <app loc="1"><rdg>paper</rdg></app> <app loc="2"><rdg>letter</rdg></app> to thank you for coming to visit me, daughter.</p>
+
+<p>This is all. Write to me once in a while, don’t forget.</p>
+
+<closer>
+<salute><app loc="1"><rdg>Regards </rdg></app><app loc="2"><rdg>love</rdg></app> for all from your mom<lb/>                  
+
+<pb facs="shan_l.447.jpg"/>
+
+and max, Jess and family.<lb/></salute>
+</closer>
+                
+</div1>
+</body>
+        
+<back/>
+</text>
+</TEI>

@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="shan_L199.meta">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">Letter from Jesusita Baros Torres to Santos Baros Schubert, December 7, 1961</title>
+<title type="main" xml:lang="es">Carta de Jesusita Baros Torres a Santos Baros Schubert, 7 de diciembre, 1961</title>
+<author>Baros Torres, Jesusita</author>
+<principal xml:id="iv001">Velázquez, Isabel</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name xml:id="af">Faxas, Adoni A.</name>
+<name xml:id="sr">Reyes, Sara</name>
+<name xml:id="sbg">Garcia, Sarita B.</name>
+ <name xml:id="ji">Isasi, Jennifer</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Family Letters: An analysis of the Personal Correspondence of a Mexican American Family in Western Colorado and Eastern Nebraska in the First Half of the 20th Century</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Department of Modern Languages and Literatures</name>
+ <address>
+<addrLine>1111 Oldfather Hall</addrLine>
+<addrLine>660 N 12th</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+<addrLine>modlang2@unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+</address>
+<idno>shan_L199.meta</idno>
+<availability>
+<p>COPYRIGHT STATEMENT TO GO HERE</p>
+</availability>
+</publicationStmt>
+            
+<notesStmt><note/></notesStmt>
+            
+<sourceDesc>
+<bibl>
+<author>Baros Torres, Jesusita</author>
+<title level="m" type="main">Letter from Jesusita Baros Torres to Santos Baros Schubert</title>
+<date when="1961-12-07">December 7, 1961</date>
+<extent>2 pages and envelope</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Shanahan Collection</repository>
+<idno/>
+</msIdentifier>
+<msContents>
+<p>2 hand-written pages and envelope</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support/>
+<extent>2 pages and envelope
+<dimensions unit="mm"><height/><width/></dimensions>
+</extent>
+<condition>
+<p/></condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="h01" scribe="jbt001" medium="pen"><p>Media: black ink</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote><p/></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin/>
+<provenance/>
+<acquisition/>
+</history>
+</msDesc>
+                
+</sourceDesc>
+</fileDesc>
+        
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p/>
+</correction>
+<normalization>
+<p/>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term/>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term/>
+</keywords>
+<keywords scheme="original" n="topic">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term/>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName xml:id="jbt001">Baros Torres, Jesusita</persName>
+<placeName>Fort Lupton, Colorado</placeName>
+<date type="written" when="1961-12-07"/>
+<date type="postmarked" when="1961-12-07"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="sbs001">Baros Schubert, Santos</persName>
+<placeName>Lincoln, Nebraska</placeName>
+</correspAction>
+<correspContext>
+<ref type="prev" target="shan">Letter from x to y, date</ref>
+<ref type="next" target="shan">Letter from x to y, date</ref>
+</correspContext> 
+</correspDesc>
+</profileDesc>
+        
+<revisionDesc>
+<change when="2017" who="#af">Initial Encoding</change>
+<change when="2015" who="#sr">Transcription</change>
+            
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>
+            
+<div1 type="letter" xml:lang="es">
+                
+<pb facs="shan_l.749.jpg"/>
+                
+<opener>
+<address><addrLine>Ft Lupton Colo</addrLine></address>
+<dateline>Dem 7,- 1961</dateline>
+
+<salute>Querida hija</salute>
+</opener>
+                
+<p>la presen<add>te</add> es para saludarlos á todos siempre esperande que esten bíen pues así son mis deceos yo estoy bíen Gracías á Díos;</p>
+
+<p>te escríbo estas cuantas palabras para decírte en primer lugar que pasesen tu y la famílía muy contentos en esta navidad que ya se nos esta acercando;</p>
+
+<p>pues por hoy te mando este. Parquete contiene unas christmas para la Pamela, y Robert, y la Elizabeth, pues para el Billy boy te mando estos $5.00 dollar síempre con tiempo para que le Compres lo que el quíera;</p>
+
+<p>bueno tu sabes que Helen es la que me yeba siempre
+
+<pb facs="shan_l.750.jpg"/>
+
+á comprar alguna cosa pero haora disen que no tienen que no ban á poder dar nada; de modo que tu sabes, pues áquí en Lupton no ay nada; y por eso te mando Con tiempo estas Cosas.</p>
+
+<p>bueno pues aquí no ay nada de nuevo; todo como síempre no mas que la Frances nolasco ba á tender otro baby, ó y tambíen la Sra grande la mamá esta paralízada; no muebe ní pie ní mano le dan de comer en la voca;</p>
+
+<p>bueno pues asi es la vida; saludes de Jesse y family de nosotros recuerdos para todos;</p>
+
+<closer>
+<salute>de max y tu mamá</salute>                    
+<signed>J.B.T.</signed>
+</closer>
+                
+</div1>
+
+
+<div1 type="letter" xml:lang="en">
+                
+<pb facs="shan_l.749.jpg"/>
+                
+<opener>
+<address><addrLine>Ft. Lupton, Colorado</addrLine></address>
+<dateline>December 7, - 1961</dateline>
+
+<salute>Dear daughter,</salute>
+</opener>
+                
+<p>the following is to greet you all, always hoping that you are well, as my wishes. I am well, thank God.</p>
+
+<p>I am writing you these few words to tell you, first, <add resp="iv001">that I hope</add> that you and your family spend Christmas very happy, now that it is upon us.</p>
+
+<p>Well, today I’m sending you this package with Christmas <add resp="iv001">gifts</add> for Pamela, Robert, and Elizabeth. Well, for Billy I’m sending you these $5 dollars with enough time so that you can buy him whatever he wants.</p>
+
+<p>Well, you know that Helen is the one that always takes me
+
+<pb facs="shan_l.750.jpg"/>
+
+shopping for whatever, but now they say they don’t have <add resp="iv001">money</add>, and that they won’t be able to give gifts. So you know, that here in Lupton there isn’t anything, so I’m sending you these things well in advance.</p>
+
+<p>Well, there aren’t any news here, except that Frances Nolasco is having another baby. Oh, and also that the older lady, the mother, is paralyzed. She can’t move foot or hand, and they have to feed her on the mouth.</p>
+
+<p>Well, such is life. Regards <app loc="1"><rdg>love</rdg></app> from Jesse and his family, and from us, regards <app loc="1"><rdg>love</rdg></app> to all;</p>
+
+<closer>
+<salute>from Max and your mom</salute>                    
+<signed>J.B.T.</signed>
+</closer>
+                
+</div1>
+
+<div1 type="envelope">
+
+<pb facs="shan_l.747.jpg"/>
+
+<ab type="return">
+<address>
+<addrLine>814 Pacific ave</addrLine> 
+<addrLine>ft Lupton Colo</addrLine>
+<addrLine>Jesusita B. Torres</addrLine>
+</address>
+</ab>
+
+<ab type="address">
+<address>
+<addrLine>Mrs W. F Schubert</addrLine>
+<addrLine>1016 South 40th <del>st</del> St</addrLine> 
+<addrLine>Lincoln Nebraska</addrLine>
+</address>
+</ab>
+
+<ab type="postmark">
+FORT LUPTON<lb/>
+DEC 7<lb/> 
+3 PM<lb/> 
+1961<lb/>
+COLO<lb/>
+</ab>
+
+<figure type="stamp">
+<p/>
+</figure>
+
+</div1>
+
+<div1 type="letter" xml:lang="en">
+  
+<pb facs="shan_l.749.jpg"/>
+  
+<opener>
+<address><addrLine>Fort Lupton, Colorado</addrLine></address>
+<dateline>December 7, 1961</dateline>
+   
+<salute>Dear daughter,</salute>
+</opener>
+  
+<p>the following is to greet you all, always hoping that you are well, as my wishes. I am well, thank God.</p>
+ 
+<p>I am writing you these few words to tell you, first, that I hope that you and your family spend Christmas very happy, now that it is upon us.</p> 
+
+<p>Well, today I’m sending you this package with Christmas gifts for Pamela, Robert, and Elizabeth. Well, for Billy I’m sending you these $5 dollars with enough time so that you can buy him whatever he wants.</p>
+ 
+<p>Well,  you know that Helen is the one that always takes me
+
+<pb facs="shan_l.750.jpg"/>
+
+shopping for whatever, but now they say they don’t have <add cert="high" resp="ji">money</add>, and that they won’t be able to give gifts.</p> 
+ 
+<p>So you know, that here in Lupton there isn’t anything, so I’m sending you these things well in advance. Well, there aren’t any news here, except that Frances Nolasco is having another baby. Oh, and also that the older lady, the mother, is paralyzed. She can’t move foot or hand, and they have to feed her on the mouth.</p>
+ 
+<p>Well, such is life. Regards from Jesse and his family, and from us, regards to all;</p> 
+ 
+<closer>
+ <salute>from Max and your mom</salute>                    
+<signed>J.B.T.</signed>
+</closer>
+
+</div1>
+
+</body>
+        
+<back/>
+</text>
+</TEI>

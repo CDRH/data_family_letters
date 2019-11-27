@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="shan_L153.meta">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">Letter from Faustin Villanueva to Jesusita Baros Torres, May 14, 1939</title>
+<title type="main" xml:lang="es">Carta de Faustin Villanueva a Jesusita Baros Torres, 14 de mayo, 1939</title>
+<author>Villanueva, Faustin</author>
+<principal xml:id="iv001">Velázquez, Isabel</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name xml:id="af">Faxas, Adoni A.</name>
+<name xml:id="iv">Velázquez, Isabel</name>
+<name xml:id="sbg">Garcia, Sarita B.</name>
+ <name xml:id="ji">Isasi, Jennifer</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2016</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Family Letters: An analysis of the Personal Correspondence of a Mexican American Family in Western Colorado and Eastern Nebraska in the First Half of the 20th Century</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Department of Modern Languages and Literatures</name>
+ <address>
+<addrLine>1111 Oldfather Hall</addrLine>
+<addrLine>660 N 12th</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+<addrLine>modlang2@unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+</address>
+<idno>shan_L153.meta</idno>
+<availability>
+<p>COPYRIGHT STATEMENT TO GO HERE</p>
+</availability>
+</publicationStmt>
+            
+<notesStmt><note/></notesStmt>
+            
+<sourceDesc>
+<bibl>
+<author>Villanueva, Faustin</author>
+<title level="m" type="main">Letter from Faustin Villanueva to Jesusita Baros Torres</title>
+<date when="1939-05-14">May 14, 1939</date>
+<extent>4 pages and envelope</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Shanahan Collection</repository>
+<idno/>
+</msIdentifier>
+<msContents>
+<p>4 hand-written pages and envelope</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support/>
+<extent>4 pages and envelope
+<dimensions unit="mm"><height/><width/></dimensions>
+</extent>
+<condition>
+<p/></condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="h01" scribe="fv001" medium="pen"><p>Media: pencil</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote><p/></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin/>
+<provenance/>
+<acquisition/>
+</history>
+</msDesc>
+                
+</sourceDesc>
+</fileDesc>
+        
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p/>
+</correction>
+<normalization>
+<p/>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term/>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term/>
+</keywords>
+<keywords scheme="original" n="topic">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term/>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName xml:id="fv001">Villanueva, Faustin</persName>
+<placeName>Albuquerque, New Mexico</placeName>
+<date type="written" when="1939-05-14"/>
+<date type="postmarked" when="1939-05-18"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="jbt001">Baros Torres, Jesusita</persName>
+<placeName>Longmont, Colorado</placeName>
+</correspAction>
+<correspContext>
+<ref type="prev" target="shan">Letter from x to y, date</ref>
+<ref type="next" target="shan">Letter from x to y, date</ref>
+</correspContext> 
+</correspDesc>
+</profileDesc>
+        
+<revisionDesc>
+<change when="2016" who="#af">Initial Encoding</change>
+<change when="2015" who="#iv">Transcription</change>
+            
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>
+            
+<div1 type="letter" xml:lang="es">
+                
+<pb facs="shan_l.556.jpg"/>
+                
+<opener>
+<address><addrLine>Albuquerque n. mex.</addrLine></address>
+<dateline>may.14.1939
+</dateline>
+
+<salute>Mrs. Jesusita Baros.</salute>
+</opener>
+                
+<p>ase días que résiví tu carta en la cual tube muncho gusto al saver que estan Buenos que la salu que yo paso es Buena porlo que Doy Gracas a Díos</p>
+
+<p>hoy ase dos años que te fueits a las 310 PM que me quede solo en el mundo. crying for you pues <unclear reason="illegible" extent="one word">díos</unclear> ase todo <unclear reason="smudged">estó</unclear> pues este es el papel que me mandetes y tembían me díses de
+
+<pb facs="shan_l.557.jpg"/>
+
+<fw>( 2)</fw>
+
+la Rosa de <choice><reg>Vicente</reg><orig>víente</orig></choice> se acaso con un que es Delfin <choice><reg>Montoro</reg><orig>Montorno</orig></choice> pues probe Vicente tenbien Florencio <unclear reason="illegible" extent="one word"/> este apunte de la adelida la de el Viseno Luís. yo <choice><corr>no</corr><sic>mo</sic></choice> <choice><corr>les</corr><sic>los</sic></choice> albo pues a notche mataron a un <choice><corr>vecino</corr><sic>Biseno</sic></choice> miyo en monte carlo en William street pues ora temben te díre que no va jente de aquí para <choice><corr>Colorado</corr><sic>calardo</sic></choice>, naiden el <choice><corr>gobierno</corr><sic>Gorverno</sic></choice> no dega ir jente de este estado para ya ít ís raíning
+
+<pb facs="shan_l.558.jpg"/>
+
+<fw>( 3 )</fw>
+
+very hard, son las 9 de la notche hay <choice><reg>gloomy</reg><orig>bloomy</orig></choice>.</p>
+
+<p>cuando eramos a parke de la 4th street yo creo que tu no te acurdes de nada yo se por que día día estoy a quí y miro tu ratrato yo creo que tu no mires el mio todo <choice><corr>las</corr><sic>lus</sic></choice> <choice><corr>cartas</corr><sic>cartes</sic></choice> que tu me asi escrito yo las tengo todas pues saludos a <choice><corr>la</corr><sic>lu</sic></choice> S y J de el Tío <unclear reason="illegible" extent="one word"/> pude que ya no <choice><corr>acuerden</corr><sic>acurden</sic></choice> de mí pues <unclear reason="illegible" extent="one word">corazon</unclear> te dire que que <choice><corr>va a entrar</corr><sic>va en tríe</sic></choice> la
+
+<pb facs="shan_l.559.jpg"/>
+
+<fw>(4)</fw>
+
+uníon en el shop. Ora pronto esta Bueno es Bueno. pues mí <choice><corr>hermano</corr><sic>hermno</sic></choice> Jose no entra el shop toda via es muy poca jente trabajando el savado <unclear reason="smudged">tubemos</unclear> lay off. 10 personas . <choice><corr>quién</corr><sic>cen</sic></choice> save como se ponga el trabajo pues <unclear reason="illegible" extent="one word">corazon</unclear> no te escribo mas <unclear reason="illegible" extent="three words">esta orta vista</unclear></p>
+
+<closer>
+<salute>Contestas pronto <unclear reason="illegible" extent="one word">corazon</unclear> y saludes a S &amp; J y <unclear reason="illegible" extent="four words">tub resves el Corazon</unclear> de FV contesta <choice><corr>pronto</corr><sic>ponto</sic></choice> <unclear reason="illegible"/></salute>                    
+<signed>Lucía <unclear reason="illegible"/> soy FV</signed>
+</closer>
+
+<postscript>
+<p>816 n new arno<lb/>
+alb n mex.<lb/></p>
+</postscript>
+
+</div1>
+
+<div1 type="envelope">
+
+<pb facs="shan_l.554.jpg"/>
+
+<ab type="return">
+<address>
+<addrLine>816 n new arno</addrLine>
+<addrLine>alb. n mej</addrLine>
+</address>
+</ab>
+
+<ab type="address">
+<address>
+<addrLine>Mrs. Jesusita Baros</addrLine>
+<addrLine>c/o Bill Kennedy Rout 3, Longmont. Colo.</addrLine>
+</address>
+</ab>
+
+<ab type="postmark">
+ALBUQUERQUE<lb/>
+MAY 18<lb/>
+12 M<lb/>
+1939<lb/>
+N. MEX.<lb/>
+</ab>
+
+
+<figure type="stamp">
+<p/>
+</figure>
+
+</div1>
+
+<div1 type="letter" xml:lang="en">
+  
+<pb facs="shan_l.556.jpg"/>
+  
+  <opener>
+   <address><addrLine>Albuquerque, New Mexico</addrLine></address>
+   <dateline>May 14, 1939</dateline>
+   
+   <salute>Sra. Jesusita Baros,</salute>
+  </opener>
+  
+ <p>I got your letter several days ago and was very happy to learn that you are all healthy, for which I thank God.</p>
+<p> Today it’s been two years since you left at 3:10 pm and I was left alone in the world, crying for you. Well, <app cert="high"><rdg>God</rdg></app> does these things. This is the paper you sent me and you also tell me about
+ 
+ <pb facs="shan_l.557.jpg"/>
+ 
+ <fw>(2)</fw>
+ 
+ Vicente’s Rosa, who married a guy named Delfin Montorno <add resp="iv001" cert="high">Montoro</add>, poor Vicente. Also Florencio <unclear reason="illegible" extent="one word"/> this note <add resp="iv001" cert="high">newsclipping</add> about neighbor Luis’ Adelaida. I’m not speaking to them because last night they killed one of my neighbors at the Monte Carlo on Willam Street. Well, I will also tell you that no one from here is going to Colorado. The government is not letting people from this state go over there. Está lloviendo
+
+
+<pb facs="shan_l.558.jpg"/>
+ 
+<fw>(3)</fw>
+ mucho. Hasta ahorita, 9 de la noche, hay hay <app loc="1" cert="low"><rdg>bloomy</rdg></app> <app loc="2" cert="low"><rdg>gloomy.</rdg></app></p>
+
+ <p>When we were at the park on 4 th street I think you don’t remember anythin I do because day after day I’m here and I look at your portrait and I think you don’t look at mine. All your letters that you have written to me I keep them all. Well, regards to S and J from uncle <unclear reason="illegible" extent="one word"/> it’s possible that they won’t remember me. Well, sweetheart, I will tel you that the
+  
+  <pb facs="shan_l.559.jpg"/>
+  
+  <fw>(4)</fw>  
+ 
+ union is coming in to the shop. It will be soon now. It’s all right, it’s good. Well, my brother <app cert="high"><rdg>José</rdg></app> is not in the shop yet. We have very few people working. On Saturday we had layoffs. Ten people. Who knows how things will get at work. Well, sweetheart, I won’t write more until next time.</p>
+
+<closer> 
+<salute>Reply soon sweetheart, and say hello to S &amp; J, and you receive the heart of FV. Write soon <app cert="low"><rdg>J</rdg></app></salute>
+ <signed><app cert="low"><rdg>Lucia</rdg></app> <unclear reason="illegible"/> I am FV</signed>
+</closer>
+ <postscript>
+  <p>816 N New Arno<lb/>
+   Albuquerque, New Mexico<lb/></p>
+ </postscript>
+
+</div1>
+ 
+</body>
+        
+<back/>
+</text>
+</TEI>

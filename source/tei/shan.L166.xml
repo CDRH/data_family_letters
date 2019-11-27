@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="shan_L166.meta">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">Letter from Santos Baros Schubert to William F. Schubert, November 1, 1950</title>
+<title type="main" xml:lang="es">Carta de Santos Baros Schubert a William F. Schubert, 1 de noviembre, 1950</title>
+<author>Baros Schubert, Santos</author>
+<principal xml:id="iv001">Velázquez, Isabel</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name xml:id="km">Mendell, Kate</name>
+<name xml:id="sbg">Garcia, Sarita B.</name>
+ <name xml:id="ji">Isasi, Jennifer</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Family Letters: An analysis of the Personal Correspondence of a Mexican American Family in Western Colorado and Eastern Nebraska in the First Half of the 20th Century</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Department of Modern Languages and Literatures</name>
+ <address>
+<addrLine>1111 Oldfather Hall</addrLine>
+<addrLine>660 N 12th</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+<addrLine>modlang2@unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+</address>
+<idno>shan_L166.meta</idno>
+<availability>
+<p>COPYRIGHT STATEMENT TO GO HERE</p>
+</availability>
+</publicationStmt>
+            
+<notesStmt><note/></notesStmt>
+            
+<sourceDesc>
+<bibl>
+<author>Baros Schubert, Santos</author>
+<title level="m" type="main">Letter from Santos Baros Schubert to William F. Schubert</title>
+<date when="1950-11-01">November 1, 1950</date>
+<extent># pages and envelope</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Shanahan Collection</repository>
+<idno/>
+</msIdentifier>
+<msContents>
+<p>2 hand-written pages and envelope</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support/>
+<extent>2 pages and envelope
+<dimensions unit="mm"><height/><width/></dimensions>
+</extent>
+<condition>
+<p/></condition>
+</supportDesc>
+</objectDesc>
+<handDesc>
+<handNote><p>Media</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote><p/></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin/>
+<provenance/>
+<acquisition/>
+</history>
+</msDesc>
+                
+</sourceDesc>
+</fileDesc>
+        
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p/>
+</correction>
+<normalization>
+<p/>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term/>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term/>
+</keywords>
+<keywords scheme="original" n="topic">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term/>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName xml:id="sbs001">Baros Schubert, Santos</persName>
+<placeName>Lincoln, Nebraska</placeName>
+<date type="written" when="1950-11-01"/>
+<date type="postmark" when="1950-12-12"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="wfs001">Schubert, William F.</persName>
+<placeName>Falls City, Nebraska</placeName>
+</correspAction>
+<correspContext>
+<ref type="prev" target="shan">Letter from x to y, date</ref>
+<ref type="next" target="shan">Letter from x to y, date</ref>
+</correspContext> 
+</correspDesc>
+</profileDesc>
+        
+<revisionDesc>
+<change when="2017" who="#sbg">Initial Encoding</change>
+<change when="2015" who="#km">Transcription</change>
+            
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>
+            
+<div1 type="letter" xml:lang="en">
+                
+<pb facs="shan_l.618.jpg"/>
+                
+<opener>
+<dateline>Nov. 1, 1950</dateline>
+
+<salute>Dearest Bill,</salute>
+</opener>
+
+<p>Just received this special letter. It looks like your orders. That’s what you wanted. So I’m not
+going to call about trailer park.</p>
+
+<p>The old trailer is rented for one month only. Then the fellow wants to talk to you about buying it.
+Wants to make some kind of a deal. He works for a construction company. He has one wife &amp;
+baby boy. They said our trailer was the cleanest trailer they’ve ever seen. I told him it was
+$1,600 I believe he wants to buy it as he came back three times Sunday. He is the only one that
+came Sunday and Monday</p>
+
+<pb facs="shan_l.619.jpg"/>
+
+<p>another fellow came to inquire about it. He wants to see it and is interested in buying a trailer. He has been looking around for one.</p>
+
+<p>I hope you sell the old thing.</p>
+
+<p>Billy's train is broke or something. It won't run any-more. Dale didn't get to see it. Folks left early Sun. you're going to get mad at me and Billy as he climbed on top of your car. I miss you &amp; so does Billy I bet you miss me nagging you. But I love you Bill. And I'm going to try &amp; not nag anymore.</p>
+
+<closer>
+<salute>Faithtfully yours,</salute>                    
+<signed>Sandra</signed>
+</closer>
+
+<postscript><p>P.S. Loads of love and kisses from your wife and son. Am keeping one copy of orders.</p></postscript>
+
+</div1>
+
+<div1 type="envelope">
+
+<pb facs="shan_l.616.jpg"/>
+
+<ab type="return">
+<address>
+<addrLine>Mrs. W. F. Schubert</addrLine>
+<addrLine>2738 Pear St.</addrLine>
+<addrLine>Lincoln 3, Nebr.</addrLine>
+</address>
+</ab>
+
+
+<ab type="address">
+<address>
+<addrLine>Mr. William F. Schubert</addrLine>
+<addrLine>Camp 67</addrLine>
+<addrLine>Falls City, Nebraska</addrLine>
+</address>
+</ab>
+
+<ab type="postmark">
+LINCOLN<lb/>
+DEC 12<lb/>
+5 PM<lb/>
+1950<lb/>
+</ab>
+
+<pb facs="shan_l.617.jpg"/>
+
+<ab type="postmark">
+RECvD FALLS CITY, NEBR<lb/>
+DEC<lb/>
+18<lb/>
+1950<lb/>
+</ab>
+
+<figure type="stamp">
+<p/>
+</figure>
+
+</div1>
+
+<div1 type="letter" xml:lang="es">
+  
+<pb facs="shan_l.618.jpg"/>
+  
+<opener>
+<dateline>1 de noviembre de 1950</dateline>
+   
+<salute>Querido Bill:</salute>
+
+</opener>
+
+<p>Acabo de recibir una carta especial. Parece que son tus órdenes. Es lo que querías. Entonces no voy a llamar al tráiler park</p>
+
+<p>El tráiler viejo está rentado solo por un mes. <app loc="1"><rdg>El hombre</rdg></app> <app loc="2"><rdg>El tipo</rdg></app><app loc="3"><rdg>El señor</rdg></app><app loc="4"><rdg>La persona</rdg></app> quiere hablar contigo porque está interesado en comprarlo. Quiere hacer algún tipo de trato. Trabaja para una compañía constructora y tiene esposa y un bebé. Dijeron que el nuestro es el tráiler más limpio que jamás hayan visto. Le dije que costaba $1,600. Creo que quiere comprarlo, porque el domingo regresó tres veces. Es el único que vino el domingo y el lunes
+
+<pb facs="shan_l.619.jpg"/>
+
+vino otro<app loc="1"><rdg>señor </rdg></app> <app loc="2"><rdg>hombre</rdg></app> <app loc="3"><rdg>persona</rdg></app> <app loc="4"><rdg>individuo</rdg></app> <app loc="5"><rdg>tipo</rdg></app> a preguntar por él. Quiere verlo y está interesado en comprar un tráiler. Ha estado buscando uno.</p>
+
+
+<p>Espero que vendas ese tráiler viejo.</p>
+
+<p>Parece que el tren de Billy se descompuso. Ya no quiere funcionar. Dale no lo alcanzó a ver. Los parientes se fueron el domingo temprano. Te vas a enojar conmigo y con Billy porque se trepó encima de tu carro. Te extraño y Billy también. Apuesto a que no extrañas que te esté regañando, pero te amo, Bill, y voy a tratar de no ser tan gruñona. </p>
+
+<closer>
+<salute>Fielmente tuya, </salute>                    
+<signed>Sandra</signed>
+</closer>
+ 
+ <postscript><p>Mucho amor y besos de tu esposa y tu hijo. Me quedo con una copia de tus órdenes.</p></postscript>
+ 
+ 
+</div1>
+
+</body>
+        
+<back/>
+</text>
+</TEI>

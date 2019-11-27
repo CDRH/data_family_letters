@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="shan_L023.meta">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">Letter from José Jesus Samaniego to Jesusita Baros Torres, January 17, 1940</title>
+<title type="main" xml:lang="es">Carta de José Jesus Samaniego a Jesusita Baros Torres, 17 de enero, 1940</title>
+<author>Samaniego, José Jesus</author>
+<principal xml:id="iv001">Velázquez, Isabel</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name xml:id="jda">Avelar, Janette D.</name>
+<name xml:id="iv002">Velázquez, Isabel</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2015</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Family Letters: An analysis of the Personal Correspondence of a Mexican American Family in Western Colorado and Eastern Nebraska in the First Half of the 20th Century</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Department of Modern Languages and Literatures</name>
+ <address>
+<addrLine>1111 Oldfather Hall</addrLine>
+<addrLine>660 N 12th</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+<addrLine>modlang2@unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+</address>
+<idno>shan_L023.meta</idno>
+<availability>
+<p>COPYRIGHT STATEMENT TO GO HERE</p>
+</availability>
+</publicationStmt>
+            
+<notesStmt><note/></notesStmt>
+            
+<sourceDesc>
+<bibl>
+<author>Samaniego, José Jesus</author>
+<title level="m" type="main">Letter from José Jesus Samaniego to Jesusita Baros Torres</title>
+<date when="1940-01-17">January 17, 1940</date>
+<extent>1 page and envelope</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Shanahan Collection</repository>
+<idno/>
+</msIdentifier>
+<msContents>
+<p>1 typed page and envelope</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support/>
+<extent>1 page and envelope
+<dimensions unit="mm"><height/><width/></dimensions>
+</extent>
+<condition>
+<p/></condition>
+</supportDesc>
+</objectDesc>
+<handDesc>
+<handNote/>
+</handDesc>
+<typeDesc>
+<typeNote><p>Media: black ink</p></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin/>
+<provenance/>
+<acquisition/>
+</history>
+</msDesc>
+                
+</sourceDesc>
+</fileDesc>
+        
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p/>
+</correction>
+<normalization>
+<p/>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term/>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term/>
+</keywords>
+<keywords scheme="original" n="topic">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term/>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName xml:id="js001">Samaniego, Jesus</persName>
+<placeName>Mexicali, Baja California, México</placeName>
+<date type="written" when="1940-01-17"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="jbt001">Baros Torres, Jesusita</persName>
+<placeName>Fort Lupton, Colorado</placeName>
+</correspAction>
+<correspContext>
+<ref type="prev" target="shan">Letter from x to y, date</ref>
+<ref type="next" target="shan">Letter from x to y, date</ref>
+</correspContext> 
+</correspDesc>
+</profileDesc>
+        
+<revisionDesc>
+<change when="2015" who="#jda">Initial Encoding</change>
+<change when="2014" who="#iv002">Transcription</change>
+            
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>
+            
+<div1 type="letter" xml:lang="es">
+                
+<pb facs="shan_l.156.jpg"/>
+                    
+<opener>
+
+<address><addrLine>Mexicali, B.C.</addrLine></address><dateline>a 17 de enero de 1940.</dateline>
+
+<add>Sra. Jesucita Baro.</add>
+
+<salute>Querida mamacita:</salute>
+</opener>
+
+<p>Con todo cariño le escribo la presente para saludarla en unión de todos esperando que se encuentre bien como son mis deseos.</p>
+             
+<p>Después de saludarla le digo que tocante a lo que me dice de la ropa si quiere mandrmela o si quiere mandar el dinero de todos modos es para mí lo mismo.</p>
+
+<p>Pero siempre que no este muy necesitados y no sea graboso.</p>
+
+<p>Yo aquí no he dejado de trabajar y estoy bien en lo que cab<del>l</del>e.</p>
+                
+<closer><salute>Saludes muchos para todos y usted querida mamacita reciba un fuerte abrazo y todo mi cariño.</salute>
+
+<signed>Jesus Zamaniego.</signed>
+</closer>
+                
+</div1>
+
+<div1 type="envelope">
+
+<pb facs="shan_l.154.jpg"/>
+
+<ab type="return">
+<address>
+<addrLine>Jesus Zamaniego.</addrLine>
+<addrLine>Lista Correos.</addrLine>
+<addrLine>Mexicali, B.C.</addrLine>
+</address>
+</ab>
+
+<ab type="address">
+<address>
+<addrLine>Sra. Jesucita Varos.</addrLine>
+<addrLine>P.O. Box 481</addrLine>
+<addrLine>Fort Leupton, Colorado, U.S.A.</addrLine>
+</address>
+</ab>
+
+<ab type="postmark">
+<unclear reason="illegible">MEXICA</unclear><lb/>
+<unclear reason="illegible">ENE</unclear><lb/>
+</ab>
+
+<figure type="stamp">
+<p/>
+</figure>
+
+</div1>
+
+
+<div1 type="letter" xml:lang="en">
+                
+<pb facs="shan_l.156.jpg"/>
+                    
+<opener>
+
+<address><addrLine>Mexicali, B.C.</addrLine></address>
+<dateline>January 17, 1940.</dateline>
+
+<add>Mrs. Jesucita Baro.</add>
+
+<salute>Dear ,</salute>
+</opener>
+
+<p>I write you this letter with all my love to greet you and everyone else <add resp="iv001">in the family</add>, hoping you are well, as is my wish.</p>
+             
+<p>After greeting you I <add resp="iv001">will</add>tell you about what you mention regarding the clothing. If you want to send it to me or if you want to send me the money <add resp="iv001">instead</add>, it’s all the same to me,</p>
+
+<p>but only if <term type="plural">you</term> are not in need and this is not burdensome.</p>
+
+<p>Here, I have not stopped working, and I am well, all things considered.</p>
+                
+<closer><salute>My regards to all and you, dear <app loc="1" type="diminutive"><rdg>mom</rdg></app> <app loc="2"><rdg>mother</rdg></app>, receive a big hug and all my love,</salute>
+
+<signed>Jesus Zamaniego.</signed>
+</closer>
+                
+</div1>
+
+</body>
+        
+<back/>
+</text>
+</TEI>

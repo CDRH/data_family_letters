@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="shan_L164.meta">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">Letter from William F. Schubert to Santos Baros Schubert, January 10, 1953</title>
+<title type="main" xml:lang="es">Carta de William F. Schubert a Santos Baros Schubert. 10 de enero, 1953</title>
+<author>Schubert, William F.</author>
+<principal xml:id="iv001">Velázquez, Isabel</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name xml:id="km">Mendell, Kate</name>
+<name xml:id="sbg">Garcia, Sarita B.</name>
+ <name xml:id="ji">Isasi, Jennifer</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Family Letters: An analysis of the Personal Correspondence of a Mexican American Family in Western Colorado and Eastern Nebraska in the First Half of the 20th Century</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Department of Modern Languages and Literatures</name>
+ <address>
+<addrLine>1111 Oldfather Hall</addrLine>
+<addrLine>660 N 12th</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+<addrLine>modlang2@unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+</address>
+<idno>shan_L164.meta</idno>
+<availability>
+<p>COPYRIGHT STATEMENT TO GO HERE</p>
+</availability>
+</publicationStmt>
+            
+<notesStmt><note/></notesStmt>
+            
+<sourceDesc>
+<bibl>
+<author>Schubert, William F.</author>
+<title level="m" type="main">Letter from William F. Schubert to Santos Baros Schubert</title>
+<date when="1953-01-10">January 10, 1953</date>
+<extent>2 pages and envelope</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Shanahan Collection</repository>
+<idno/>
+</msIdentifier>
+<msContents>
+<p>2 hand-written pages and envelope</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support/>
+<extent>2 pages and envelope
+<dimensions unit="mm"><height/><width/></dimensions>
+</extent>
+<condition>
+<p/></condition>
+</supportDesc>
+</objectDesc>
+<handDesc>
+<handNote><p>Media</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote><p/></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin/>
+<provenance/>
+<acquisition/>
+</history>
+</msDesc>
+                
+</sourceDesc>
+</fileDesc>
+        
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p/>
+</correction>
+<normalization>
+<p/>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term/>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term/>
+</keywords>
+<keywords scheme="original" n="topic">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term/>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName xml:id="wfs001">Schubert, William F.</persName>
+<placeName>Berwyn, Illinois</placeName>
+<date type="written" when="1953-01-10"/>
+<date type="postmark" when="1953-01-10"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="sbs001">Baros Schubert, Santos</persName>
+<placeName>Lincoln, Nebraska</placeName>
+</correspAction>
+<correspContext>
+<ref type="prev" target="shan">Letter from x to y, date</ref>
+<ref type="next" target="shan">Letter from x to y, date</ref>
+</correspContext> 
+</correspDesc>
+</profileDesc>
+        
+<revisionDesc>
+<change when="2017" who="#sbg">Initial Encoding</change>
+<change when="2015" who="#km">Transcription</change>
+            
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>
+            
+<div1 type="letter" xml:lang="en">
+                
+<pb facs="shan_l.610.jpg"/>
+                
+<opener>
+<address><addrLine>Berwyn Illinois</addrLine></address>
+<dateline>January 10, 1953</dateline>
+<time>200AM</time>
+
+<salute>My Darling Sandra, Bill, Bobby + Pamela</salute>
+</opener>
+
+<p>Tonight I am working at a freight house was out most of the time until 1:30. working around—am going out again in a few minutes as I am getting sleepy in here—It’s trying to rain but is above freezing so hope it doesn’t get cold and freeze like the other day.</p>
+
+<p>Hope you can get Pamela baptized this Sunday even thought I won’t be there. We will have to send for her some insurance too. May as well get $1000 worth where we have Billy’s + Bobby’s. Our checks are at the office but I’ll work and get mine Sunday night when I work there where the office is. Will get off as 7:30 Monday morning + get the 11:00 oclock train for home. Sure will be happy to get you up here as I get awful lonesome and really miss you.</p>
+
+<p>Think tomorrow evening I’ll go to see the move “The Greatest Show On Earth.” It’s playing at a Theatre in Berwyn. Only opens Friday Saturday + Sunday. Television is taking the business away from the theatres I guess; must people that have them say they don’t get away from home and stay up late watching the programs</p>
+
+<p>Hope you are all well and ok- I am ok except for my cough.</p>
+
+<pb facs="shan_l.611.jpg"/>
+
+<fw>-2-</fw>
+
+<p>Had a letter from Husfelt, my typist in Roswell, he got transferred in November to Topeka Kans.
+Likes it there a lot better than Walker. He said the <unclear reason="illegible"/> section sure went to pieces after I
+left.</p>
+
+<p>I have to get use to sleeping during the day now as I don’t get home before 8:00 o’clock. This
+morning I am going to get an early train out for Berwyn—Had to work late yesterday morning
+after going to work 21/2 early so I could have the other man show me around.</p>
+
+<p>Will close now and call in to office—will see you</p>
+
+<p>Remember I love you very much</p>
+
+<closer>
+<salute>All my love</salute>                    
+<signed>Bill</signed>
+</closer>
+
+
+</div1>
+
+<div1 type="envelope">
+
+<pb facs="shan_l.608.jpg"/>
+
+<ab type="return">
+<address>
+<addrLine>W. F. Schubert</addrLine>
+<addrLine>3417 So Euclid Ave</addrLine>
+<addrLine>Berwyn, Ill.</addrLine>
+</address>
+</ab>
+
+<ab type="address">
+<address>
+<addrLine>Mrs. Santos B. Schubert</addrLine>
+<addrLine>2738 Pear St.</addrLine>
+<addrLine>Lincoln 3</addrLine>
+<addrLine>Nebraska</addrLine>
+</address>
+</ab>
+
+<ab type="postmark">
+BERWYN, ILL.<lb/>
+JAN 10<lb/>
+1-PM<lb/>
+1953<lb/>
+</ab>
+</div1>
+
+<div1 type="letter" xml:lang="es">
+                
+<pb facs="shan_l.610.jpg"/>
+                
+<opener>
+<address><addrLine>Berwyn   Illinois</addrLine></address>
+<dateline>10 de enero de 1953</dateline>
+<time>200AM</time>
+
+<salute>Queridos Sandra, Bill, Bobby y Pamela:</salute>
+</opener>
+
+<p>Esta noche estoy trabajando en el almacén y estuve trabajando fuera casi todo el tiempo, hasta la
+1:30 de la mañana – volveré a salir en algunos minutos porque aquí me estoy quedando dormido
+–parece que quiere llover, pero la temperatura está por encima del punto de congelación, así que
+espero que no haga tanto frío y no se congele como el otro día.</p>
+
+<p>Ojalá que puedas bautizar a Pamela este domingo aunque yo no pueda estar ahí. También
+tendremos que comprarle un seguro <add resp="iv001">de vida</add>. De una vez deberíamos comprarle cobertura por
+$1000 como tenemos para Billy y para Bobby.</p>
+
+<p> Nuestros cheques están en la oficina, pero yo voy a trabajar y me van a entregar el mío el domingo en la noche que trabaje donde está la oficina. Saldré de trabajar el lunes a las 7:30 de la mañana para alcanzar el tren para ir a casa. Te voy a <app loc="1" cert="high"><rdg>traer acá </rdg></app><app loc="2" cert="high"><rdg>pasaré por ti</rdg></app> <app loc="3" cert="high"><rdg>llegarás</rdg></app> porque me siento muy solo y te extraño mucho.</p>
+
+<p>Creo que mañana en la noche iré a ver la película “The Greatest Show On Earth.” La están dando
+en un cine de Berwyn. Solo la pasan el viernes, sábado y domingo. La televisión le está robando
+los clientes a los cines, supongo. La mayoría de la gente que tiene televisión dice que no sale de
+su casa y se desvelan viendo los programas.</p>
+
+<p>Espero que todos estén bien – yo estoy bien, excepto por mi tos.</p>
+
+<pb facs="shan_l.611.jpg"/>
+
+<fw>-2-</fw>
+
+<p>Recibí carta de Husfelt, mi mecanógrafo en Roswell. En noviembre lo transfirieron a Topeka,
+Kansas. Dice que le gusta mucho más que Walker. Dice que la sección quedó
+hecha una desgracia después de que me fui.</p>
+
+<p>Tengo que acostumbrarme a dormir durante el día porque no llego a casa antes de las 8:00. Hoy
+en la mañana voy a tomar un tren que salga temprano a Berwyn – Ayer en la mañana tuve que
+trabajar hasta tarde después de ir a trabajar 2 ½ <add resp="iv001">más</add> temprano para que el otro <app loc="1" cert="medium"><rdg>hombre </rdg></app><app loc="2" cert="medium"><rdg>empleado</rdg></app><app loc="3" cert="medium"><rdg>persona</rdg></app> pudiera enseñarme todo.</p>
+
+<p>Termino por ahora para reportarme a la oficina – Nos vemos</p>
+
+<p>Recuerda que te quiero mucho</p>
+
+<closer>
+<salute>Todo mi amor</salute>                    
+<signed>Bill</signed>
+</closer>
+
+
+</div1>
+
+</body>
+        
+<back/>
+</text>
+</TEI>

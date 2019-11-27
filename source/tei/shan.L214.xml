@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="shan_L214.meta">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">Letter from Gloria J. Botello to Santos Baros Schubert, December 30, 1976</title>
+<title type="main" xml:lang="es">Carta de Gloria J. Botello a Santos Baros Schubert, 30 de diciembre, 1976</title>
+<author>Botello, Gloria J.</author>
+<principal xml:id="iv001">Velázquez, Isabel</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name xml:id="af">Faxas, Adoni A.</name>
+<name xml:id="ji">Isasi, Jennifer</name>
+<name xml:id="sbg">Garcia, Sarita B.</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Family Letters: An analysis of the Personal Correspondence of a Mexican American Family in Western Colorado and Eastern Nebraska in the First Half of the 20th Century</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Department of Modern Languages and Literatures</name>
+ <address>
+<addrLine>1111 Oldfather Hall</addrLine>
+<addrLine>660 N 12th</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+<addrLine>modlang2@unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+</address>
+<idno>shan_L214.meta</idno>
+<availability>
+<p>COPYRIGHT STATEMENT TO GO HERE</p>
+</availability>
+</publicationStmt>
+            
+<notesStmt><note/></notesStmt>
+            
+<sourceDesc>
+<bibl>
+<author>Botello, Gloria J.</author>
+<title level="m" type="main">Letter from Gloria J. Botello to Santos Baros Schubert</title>
+<date when="1976-12-30">December 30, 1976</date>
+<extent>2 pages and envelope</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Shanahan Collection</repository>
+<idno/>
+</msIdentifier>
+<msContents>
+<p>2 hand-written pages and envelope</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support/>
+<extent>2 pages and envelope
+<dimensions unit="mm"><height/><width/></dimensions>
+</extent>
+<condition>
+<p/></condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="h01" scribe="gjb001" medium="pen"><p>Media: black ink</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote><p/></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin/>
+<provenance/>
+<acquisition/>
+</history>
+</msDesc>
+                
+</sourceDesc>
+</fileDesc>
+        
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p/>
+</correction>
+<normalization>
+<p/>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term/>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term/>
+</keywords>
+<keywords scheme="original" n="topic">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term/>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName xml:id="gjb001">Botello, Gloria J.</persName>
+<placeName>Fort Lupton, Colorado</placeName>
+<date type="written" when="1976-12-30"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="sbs001">Baros Schubert, Santos</persName>
+<placeName>Lincoln, Nebraska</placeName>
+</correspAction>
+<correspContext>
+<ref type="prev" target="shan">Letter from x to y, date</ref>
+<ref type="next" target="shan">Letter from x to y, date</ref>
+</correspContext> 
+</correspDesc>
+</profileDesc>
+        
+<revisionDesc>
+<change when="2017" who="#af">Initial Encoding</change>
+<change when="2017" who="#ji">Transcription</change>
+            
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>
+            
+<div1 type="letter" xml:lang="es">
+                
+<pb facs="shan_l.745.jpg"/>
+                
+<opener>
+<dateline>12/30/76</dateline>
+
+<salute>Mi Muy Estimada Sra.</salute>
+</opener>
+                
+<p>Le escribo estos cuantos renglones con el fin de saludarla en Compañía de su Esposo E hijos deseando esten con salud son mis deseos Nosotros bien Gracias a Dios</p>
+
+<p>Sra. me dio mucho gusto de que se ayga acordado de nosotros muchas gracias por su tarjeta que me mando, dispense que yo no le mande, pero no he podido salir, yo no estoy trabajando aquí estoy en la casa con Don Max me esta pagando 30 dolares por semana, el a estado un poco malo sí se alivia yo creo que voy a trabajar en la florería pero ay sra dentro de unas semanas Primera mente Dios y que se componga Mí esposo esta trabajando en la florería.</p>
+
+<closer>
+<salute>Bueno Sra. Santos saludeme mucho a su Esposo e hijos. y que Pasen un Feliz Año Nuevo
+
+<pb facs="shan_l.746.jpg"/>
+
+son las deseos de su Amiga que la Aprecia.</salute>
+<signed>Gloria G. Botello</signed>
+</closer>
+                
+<postscript>
+<p>Reciban saludos de Silvia  y de mi Esposo. Para todos ustedes</p>
+<p>Sra cuando biene siquera para verla tengo muchas ganas de platicar con usted.</p>
+<p>Saludos de Don Max.</p>
+</postscript>
+
+</div1>
+
+
+<div1 type="letter" xml:lang="en">
+                
+<pb facs="shan_l.745.jpg"/>
+                
+<opener>
+<dateline>12/30/76</dateline>
+
+<salute>My highly esteemed lady <app loc="1"><rdg>Mrs.</rdg></app><app loc="2"><rdg>Madam</rdg></app></salute>
+</opener>
+                
+<p>I am writing you these few lines in order to greet you, together with your husband and children, wishing you well.
+We are well, thank God.</p>
+
+<p>Mrs. I really liked that you remembered us, thank you very much for the postcard that you sent me. Excuse <app loc="1"><rdg>pardon</rdg></app> that I’m not sending you one, but I haven’t been able to go out. I’m not working. I’m here at home with Mr. Max. He’s paying me 30 dollars a week, he has been feeling unwell. If he gets better, I’m going to work in the flower shop, but that will be in a few weeks. God will tell, and only if he gets better. My husband is working in the flower shop.</p>
+
+<closer>
+<salute>Well, Mrs. Santos greet your husband and children for me, and I wish you a Happy New Year.
+
+<pb facs="shan_l.746.jpg"/>
+
+These are the wishes from your friend, that appreciates you.</salute>
+<signed>Gloria G. Botello</signed>
+</closer>
+                
+<postscript>
+<p>Receive greetings from Silvia and from my husband for all of you.</p>
+<p>Mrs. when are you coming so that I can see you. I so wish to speak with you.</p>
+<p>Regards from Mr. Max.</p>
+</postscript>
+
+</div1>
+
+
+<div1 type="envelope">
+
+<pb facs="shan_l.743.jpg"/>
+
+<ab type="return">
+<address>
+<addrLine>Mrs Gloria G. Botello</addrLine>
+<addrLine>814 Pacific Ave</addrLine>
+<addrLine>Fort. Lupton Colorado 80</addrLine>
+</address>
+</ab>
+
+<ab type="address">
+<address>
+<addrLine>Mrs</addrLine>
+<addrLine>Santos. Schubert</addrLine>
+<addrLine>3830 C St.</addrLine>
+<addrLine>Lincoln, <del/> Nebr</addrLine> 
+<addrLine>68510</addrLine>
+</address>
+</ab>
+
+<ab type="postmark">
+FORT LUPTON. CO<lb/>
+DEC <unclear reason="faded"/><lb/>
+1976<lb/>
+80621<lb/>
+</ab>
+
+<figure type="stamp">
+<p/>
+</figure>
+
+<figure type="stamp">
+<p/>
+</figure>
+
+<figure type="stamp">
+<p/>
+</figure>
+
+<figure type="stamp">
+<p/>
+</figure>
+
+<figure type="stamp">
+<p/>
+</figure>
+
+</div1>
+ 
+<div1 type="letter" xml:lang="en">
+ <pb facs="shan_l.745.jpg"/>
+    
+<opener>
+  <dateline>12/30/76</dateline>
+  
+<salute>My highly esteemed Lady,</salute>
+</opener>
+ 
+ <p>I am writing you these few lines in order to greet you, together with your husband
+  and children, wishing you well. We are well, thank God.</p>
+ <p>Mrs. I really liked that you remembered us, thank you very much for the postcard
+  that you sent me. Excuse that I’m not sending you one, but I haven’t been
+  able to go out. I’m not working. I’m here at home with Mr. Max.
+  He’s paying me 30 dollars a week, he has been feeling unwell. If he gets better, I’m
+  going to work in the flower shop, but that will be in a few weeks.
+  Good will tell, and only if he gets better. My husband is working in the flower shop.</p>
+ 
+ <closer>
+  <salute>Well, Mrs. Santos greet your husband and children for me, and I wish you a Happy
+   New Year.
+   
+   
+   <pb facs="shan_l.746.jpg"/>
+   
+   These are the wishes from your friend, that appreciates you.</salute>
+  <signed>Gloria G. Botello</signed>
+ </closer> 
+   
+ <postscript>
+  <p>Receive greetings from Silvia and from my husband for all of you.</p>
+  <p>Mrs. when are you coming so that I can see you. I so wish to speak with you.</p>
+  <p>Regards from Mr. Max.</p>
+ </postscript>
+
+</div1>
+
+</body>
+        
+<back/>
+</text>
+</TEI>

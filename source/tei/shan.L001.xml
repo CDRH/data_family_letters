@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="shan_L001.meta">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main" xml:lang="en">Letter from Rafaela Arroyo viuda de Torres to Maximino Torres, August 21, 1919</title>
+                <title type="main" xml:lang="es">Carta de Rafaela Arroyo viuda de Torres a Maximino Torres, 21 de Agosto, 1919</title>
+                <author>Arroyo, Rafaela</author>
+                <principal xml:id="iv">Velázquez, Isabel</principal>
+                <respStmt>
+                    <resp>transcription and encoding</resp>
+                    <name xml:id="jda">Avelar, Janette D.</name>
+                    <name>Velázquez, Isabel</name>
+                    <name xml:id="sbg">Garcia, Sarita B. </name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2019</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>Family Letters: An analysis of the Personal Correspondence of a Mexican American Family in Western Colorado and Eastern Nebraska in the First Half of the 20th Century</authority>
+                <publisher>University of Nebraska-Lincoln</publisher>
+                <distributor>
+                    <name>Department of Modern Languages and Literatures</name>
+                    <address>
+                       <addrLine>1111 Oldfather Hall</addrLine>
+                       <addrLine>660 N 12th St</addrLine>
+                       <addrLine>University of Nebraska–Lincoln</addrLine>
+                       <addrLine>Lincoln, NE 68588-0315</addrLine>
+                       <addrLine>modlang2@unl.edu</addrLine>
+                   </address>
+                </distributor>
+                <pubPlace>Lincoln, Nebraska</pubPlace>
+                <address>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-0315</addrLine>
+                </address>
+                <idno>shan_L001.meta</idno>
+                <availability>
+                    <p/>
+                    <p/>
+                </availability>
+            </publicationStmt>
+
+            <notesStmt><note/></notesStmt>
+
+            <sourceDesc>
+                <bibl>
+                    <author>Arroyo, Rafaela</author>
+                    <title level="m" type="main">Letter from Rafaela Arroyo viuda de Torres to Maximino Torres</title>
+                    <date when="1919-08-21">August 21, 1919</date>
+                    <extent>2 pages</extent>
+                </bibl>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Shanahan Collection</repository>
+                        <idno/>
+                    </msIdentifier>
+                    <msContents>
+                        <p>2 hand-written pages</p>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support/>
+                                <extent> 2 pages
+                                    <dimensions unit="mm"><height/><width/></dimensions>
+                                </extent>
+                                <condition>
+                                    <p/></condition>
+                                </supportDesc>
+                            </objectDesc>
+                            <handDesc hands="1">
+                                <handNote xml:id="h01" scribe="rat001" medium="pen"><p>Media: blue ink</p></handNote>
+                            </handDesc>
+                            <typeDesc>
+                                <typeNote><p/></typeNote>
+                            </typeDesc>
+                        </physDesc>
+                        <history><origin/>
+                        <provenance/>
+                        <acquisition/>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p/>
+                </correction>
+                <normalization>
+                    <p/>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+
+        <profileDesc>
+            <textClass>
+                <keywords scheme="original" n="category">
+                    <term/>
+                </keywords>
+                <keywords scheme="original" n="subcategory">
+                    <term/>
+                </keywords>
+                <keywords scheme="original" n="topic">
+                    <term/>
+                </keywords>
+                <keywords scheme="lcsh" n="keywords">
+                    <term/>
+                </keywords>
+                <keywords scheme="lcsh" n="people">
+                    <term/>
+                </keywords>
+                <keywords scheme="lcsh" n="places">
+                    <term/>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sentBy">
+                    <persName xml:id="ravt001">Arroyo, Rafaela</persName>
+                    <placeName>Ecuandureo, Michoacán, México</placeName>
+                    <date type="written" when="1919-08-21"/>
+                </correspAction>
+                <correspAction type="deliveredTo">
+                    <persName xml:id="mt001">Torres, Maximino</persName>
+                    <placeName>Knobles, Oklahoma</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="shan">Letter from x to y, date</ref>
+                    <ref type="next" target="shan">Letter from x to y, date</ref>
+                </correspContext>
+            </correspDesc>
+        </profileDesc>
+
+        <revisionDesc>
+            <change when="2019" who="#vnd">Reviewed</change>
+            <change when="2015" who="#jda">Initial Encoding</change>
+            <change when="2014" who="#iv">Transcription</change>
+
+        </revisionDesc>
+    </teiHeader>
+
+    <text>
+        <body>
+
+            <div1 type="letter" xml:lang="es">
+
+                <pb facs="shan_l.001.jpg"/>
+
+                <opener><dateline>Ecuandureo Mich. Agosto 21 de 1919.</dateline>
+                <address><addrLine>Señor Maximino Torres</addrLine>
+                <addrLine>Knobles, Okla.</addrLine></address>
+                <salute>Hijo de mi aprecio:</salute></opener>
+
+                <p>En mi poder, tu carta de 3 de Agosto del presente año, por la cual recibí mucho gusto y estoy enterada de ella.</p>
+
+                <p>Te noticio que tu papa ya fallecio y como me dises que vives muy inconforme por la desconformidad que teníamos yo y el, ya ahora espero estes conforme y como vez con lo que ha pasado ya ahora ya no tengo quién se duela de mí nada más tú.</p>
+
+                <p>te aviso á la vez que ahora estoy muy mortificada por razón á que Teodosio ya no puede ir a Pasímaro porque dicen los mismos de la casa de en case tío Juan que aunque ya murió tu pa papa, pero que quedó Teodocio y que con él se vengarán.</p>
+
+                <p>Tu dime qué es lo que hago con esta mortificación porque esto se comprende que lo dicen para que yo no mueva nada del pedasito de tierra.</p>
+
+                <p>A tu papá no lo vió ni morir tu
+
+                <pb facs="shan_l.002.jpg"/>
+
+                tío Juan y ahora me dicen los hijos de tu tío Juan que haga un papel en el juzgado para que <unclear reason="stain"/> se defienda tu tío Juan en caso de que <unclear reason="torn"/> reclame dicho terrenito, pero yo no muevo nada de eso del terreno hasta que tú vengas</p>
+
+                <p><unclear reason="faded"/> tú ya sabras si selos dejas o lo reclamas, te repito que no te olvides de mí, que yo siempre, a cada paso y á cada hora te estoy encomendando a Dios.</p>
+
+                <p>Recibe cariñosos recuerdos de Teodosio y te recomienda que le digas como esta el pase para <unclear reason="faded"/> porque el aquí no está agusto y á la vez dice que le mandes dinero para su viaje.
+
+                Cariñosos recuerdos de Clemente y muchos abrazos, hermano ahora sí me quedé solo sin mas protección que la tuya pues ya no tengo mas padre más de tú, sit u te olvidas de mí sere perdido porque ya tu vez que yo no puedo trabajar para mi mantención por estar muy chico sí tú y mi mamá <unclear reason="torn"/> de mi sabe dios que sera de mí porque ya vezque Teodosio no me quere. Rcebe saludes y un abrazo de tu mamá.</p>
+
+                <closer>
+                    <signed>Rafaela Arroyo Vda. De Torres</signed></closer>
+                </div1>
+
+                <div1 type="letter" xml:lang="en">
+
+                <pb facs="shan_l.001.jpg"/>
+
+<opener> <dateline>Ecuandureo, Michoacan. August 21, 1919.</dateline>
+<address><addrLine> Mister Maximino Torres</addrLine>
+<addrLine>Knobles, Oklahoma</addrLine></address>
+
+
+                <salute>My beloved son,</salute></opener>
+
+                <p>I have in my hands your letter dated August 3rd of this year, which pleased me greatly and I acknowledge its receipt.</p>
+
+                <p>I inform you that your father passed away and since you tell me that you are very discontent because of the discontentment between me and him, I hope you are now content and as you can see with what has happened I have no one else to care about me but you.</p>
+
+                <p>I inform you also that I am very worried because Teodosio cannot go to Pasímaro anymore because people in uncle Juan’s house are saying that even though your father is dead there is still Teodosio, and that they will take their revenge on him.</p>
+
+                <p>Tell me what I should do about this worry because it’s easy to understand that they say that so that I don’t make a move regarding the small piece of land.</p>
+
+                <p>Your uncle Juan didn’t</p>
+
+                <pb facs="shan_l.002.jpg"/>
+
+                <p>see your father die, and now your uncle’s children are asking me to write a document in court so that your uncle Juan can defend himself in case that <unclear reason="torn"/> claims said land, but I won’t make a move about that land
+                until you come <unclear reason="faded"/> you will know if you leave it to them or you claim it, I just ask you again not to forget me, because I always, at every step and every day am entrusting you to God.</p>
+
+                <p>Receive warm greetings from Teodosio, who asks that you tell him how is the crossing to <unclear reason="faded"/> because he is not happy here, and he also asks that you send him money for his trip.</p>
+
+                <p>Warm greetings from Clemente, and many hugs, brother, now I am alone without more protection than yours because now I have no father but you, and if you forget me I will be lost because as you can see, I cannot work to support myself because I am very young and if you and my mom <unclear reason="torn"/> me, God knows what will become of me because you know that Teodosio doesn’t like me. Receive regards and a hug from your mom.</p>
+                <closer>
+                    <signed>Rafaela Arroyo widow of Torres.</signed>
+                </closer>
+            </div1>
+        </body>
+        <back/>
+    </text>
+</TEI>

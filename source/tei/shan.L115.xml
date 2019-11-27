@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="shan_L115.meta">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">Letter Pamela L. Schubert to Santos Baros Schubert, June 1, 1965</title>
+<title type="main" xml:lang="es">Carta de Pamela L. Schubert a Santos Baros Schubert, 01 de junio, 1965</title>
+<author>Schubert, Pamela L.</author>
+<principal xml:id="iv001">Velázquez, Isabel</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name xml:id="af">Faxas, Adoni A.</name>
+<name xml:id="km">Mendell, Kate</name>
+<name xml:id="sbg">Garcia, Sarita B.</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2016</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Family Letters: An analysis of the Personal Correspondence of a Mexican American Family in Western Colorado and Eastern Nebraska in the First Half of the 20th Century</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Department of Modern Languages and Literatures</name>
+ <address>
+<addrLine>1111 Oldfather Hall</addrLine>
+<addrLine>660 N 12th</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+<addrLine>modlang2@unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+</address>
+<idno>shan_L115.meta</idno>
+<availability>
+<p>COPYRIGHT STATEMENT TO GO HERE</p>
+</availability>
+</publicationStmt>
+            
+<notesStmt><note/></notesStmt>
+            
+<sourceDesc>
+<bibl>
+<author>Schubert, Pamela L.</author>
+<title level="m" type="main">Letter Pamela L. Schubert to Santos Baros Schubert Schubert</title>
+<date when="1964-01-02">January 2, 1964</date>
+<extent>1 page and envelope</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Shanahan Collection</repository>
+<idno/>
+</msIdentifier>
+<msContents>
+<p>1 hand-written page and envelope</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support/>
+<extent>1 page and envelope
+<dimensions unit="mm"><height/><width/></dimensions>
+</extent>
+<condition>
+<p/></condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="h01" scribe="ps001" medium="pen"><p>Media: blue ink</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote><p/></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin/>
+<provenance/>
+<acquisition/>
+</history>
+</msDesc>
+                
+</sourceDesc>
+</fileDesc>
+        
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p/>
+</correction>
+<normalization>
+<p/>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term/>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term/>
+</keywords>
+<keywords scheme="original" n="topic">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term/>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName xml:id="pls001">Schubert, Pamela L.</persName>
+<placeName>Fort Lupton, Colorado</placeName>
+<date type="postmarked" when="1965-06-01"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="sbs001">Baros Schubert, Santos</persName>
+<placeName>Lincoln, Nebraska</placeName>
+</correspAction>
+<correspContext>
+<ref type="prev" target="shan">Letter from x to y, date</ref>
+<ref type="next" target="shan">Letter from x to y, date</ref>
+</correspContext> 
+</correspDesc>
+</profileDesc>
+        
+<revisionDesc>
+<change when="2017" who="#af">Initial Encoding</change>
+<change when="2016" who="#af">Initial Encoding</change>
+<change when="2014" who="#km">Transcription</change>
+            
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>
+            
+<div1 type="letter" xml:lang="en">
+                
+<pb facs="shan_l.434.jpg"/>
+                
+<opener>
+<salute>Dear Mommy,</salute>
+</opener>
+                
+<p>I’ am having lots of fun here. I helped grandma with dishes today and helped her clean her floors it isn’t to cold here but it gets chilly at night. Grandma wanted you to write to her. She is telling me about the things you did when you were little. Tell Janey grandma likes her letters. Did Daddy get back alright. I hope so. Well say hello to everybody for me-</p>
+
+<closer>
+<salute>Your loving daughter,</salute>
+<signed>Pam</signed>
+</closer>
+                
+</div1>
+
+<div1 type="letter" xml:lang="es">
+                
+<pb facs="shan_l.434.jpg"/>
+                
+<opener>
+<salute>Querida mamita:</salute>
+</opener>
+                
+<p>Me estoy divirtiendo mucho. Hoy le ayudé a mi abuelita a lavar los platos y a limpiar los pisos. No hace mucho frío, pero refresca por la noche. Mi abuelita quiere que le escribas. Me está contando las cosas que hacías cuando estabas chiquita. Dile a Janey que a mi abuelita le gustan sus cartas. ¿Papito regresó bien? Espero que sí. Bueno, saluda a todos por mí.</p>
+
+<closer>
+<salute>Con cariño tu hija,</salute>
+<signed>Pam</signed>
+</closer>
+                
+</div1>
+
+
+<div1 type="envelope">
+
+<pb facs="shan_l.432.jpg"/>
+
+<ab type="return">
+<address>
+<addrLine>814 Pacific Avenue</addrLine>
+<addrLine>Fort Lupton Colorado</addrLine>
+</address>
+</ab>
+
+<ab type="address">
+<address>
+<addrLine>Mrs. W. F. Schubert</addrLine> 
+<addrLine>1016 South 40th</addrLine>
+<addrLine>Lincoln, Nebraska 68510</addrLine>
+</address>
+</ab>
+
+<ab type="postmark">
+FORT LUPTON<lb/> 
+JUN 1<lb/>
+PM<lb/>
+1965<lb/>
+COLO.<lb/>
+</ab>
+
+
+<figure type="stamp">
+<p/>
+</figure>
+
+</div1>
+</body>
+        
+<back/>
+</text>
+</TEI>

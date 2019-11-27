@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="shan_L223.meta">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">Letter from Santos Baros Schubert to William F. Schubert, October 10, 1950</title>
+<title type="main" xml:lang="es">Carta de Santos Baros Schubert a William F. Schubert, 10 de octubre, 1950</title>
+<author>Baros Schubert, Santos</author>
+<principal xml:id="iv001">Velázquez, Isabel</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name xml:id="ji">Isasi, Jennifer</name>
+<name xml:id="sbg">Garcia, Sarita B.</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Family Letters: An analysis of the Personal Correspondence of a Mexican American Family in Western Colorado and Eastern Nebraska in the First Half of the 20th Century</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Department of Modern Languages and Literatures</name>
+ <address>
+<addrLine>1111 Oldfather Hall</addrLine>
+<addrLine>660 N 12th</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+<addrLine>modlang2@unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+</address>
+<idno>shan_L223.meta</idno>
+<availability>
+<p>COPYRIGHT STATEMENT TO GO HERE</p>
+</availability>
+</publicationStmt>
+            
+<notesStmt><note/></notesStmt>
+            
+<sourceDesc>
+<bibl>
+<author>Baros Schubert, Santos</author>
+<title level="m" type="main">Letter from Santos Baros Schubert to William F. Schubert</title>
+<date when="1950-10-10">October 10, 1950</date>
+<extent>1 envelope and 4 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Shanahan Collection</repository>
+<idno/>
+</msIdentifier>
+<msContents>
+<p>1 hand-written envelope and 4 hand-written pages</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support/>
+<extent>1 envelope and 4 pages
+<dimensions unit="mm"><height/><width/></dimensions>
+</extent>
+<condition>
+<p/></condition>
+</supportDesc>
+</objectDesc>
+<handDesc>
+<handNote><p>Media:</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote><p/></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin/>
+<provenance/>
+<acquisition/>
+</history>
+</msDesc>
+                
+</sourceDesc>
+</fileDesc>
+        
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p/>
+</correction>
+<normalization>
+<p/>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term/>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term/>
+</keywords>
+<keywords scheme="original" n="topic">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term/>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName xml:id="sbs001">Baros Schubert, Santos</persName>
+<placeName>Fort Lupton, Colorado</placeName>
+<date type="written" when="1950-10-10"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="wfs001">Schubert, William F.</persName>
+<placeName>Rulo, Nebraska</placeName>
+</correspAction>
+<correspContext>
+<ref type="prev" target="shan">Letter from x to y, date</ref>
+<ref type="next" target="shan">Letter from x to y, date</ref>
+</correspContext> 
+</correspDesc>
+</profileDesc>
+        
+<revisionDesc>
+<change when="2017" who="#sbg">Initial Encoding</change>
+<change when="2017" who="#ji">Transcription</change>
+            
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>
+            
+<div1 type="letter" xml:lang="en">
+                
+<pb facs="shan_l.798.jpg"/>
+                
+<opener>
+<dateline>Oct. 10, 1950</dateline>
+<time>7:30PM</time>
+
+<salute>Dearest One,</salute>
+</opener>
+
+<p>How is my precious husband? Your wifie and son are doing o.k. We both went this
+afternoon to the post office and drug store. Found two letters from you. I'm glad that you
+write every day. You know how lazy I'm to write. I hope you don't worry about us.
+Your little boy is playing with pots &amp; pans. Hope he keeps playing until I get thru
+writing.</p>
+<p>Sunday, I didn't have any place to go so Billy &amp; I went to the drug store, had ice-cream,
+then went to the show. Saw "The Outriders" &amp; "Maggie&amp;Jiggs". Billy behaved o.k. We
+also went to see Helen &amp; Jess. Stayed a while.</p>
+
+<pb facs="shan_l.799.jpg"/>
+
+<p>Bill, on this side of the tracks all the lots are $100.00 and on the other side of tracks <hi rend="underline">all</hi> lots are $150.00 That's where Helen &amp; Jess live - only "white" people live there and on this side - Spanish speaking people live. I rather live on the other side. It's closer to town. Jess' house is right by the highway. I'll see what I can do tomorrow.</p>
+<p>No, we didn't can any pickles. They froze. We'd two real cold nights. That was the end of
+<del type="strike">every</del> everything.</p>
+<p>Max is now tapping sugar beets. Mother can't work on account of her leg. She went to
+Denver &amp; saw her Dr. He gave her 2 shots &amp; medicene.</p>
+<pb/>
+<p>You certainly do alot of sleeping. We do, too. We go to bed at 8:PM. Poor Billy looks
+like he's going to catch cold. Have to doctor him tonight. He wants Alkaseltzer.
+It's 8:PM so we better go to bed. Mother &amp; Max are snoring already.
+Goodnight, Sweetheart. We love you &amp; only you. I remain,</p>
+<closer>
+<salute>Faithfully Yours,</salute>
+<signed>Sandra</signed>
+</closer>
+
+<postscript>
+<p>Billy sends you all his love &amp; kisses.</p>
+<p>I'll be ever so happy when we'll be together again. Billy asks for you every night. And you know I miss you.</p>
+<p>I'll write again some day.</p>
+<p>I almost forgot. Do you happen to know where the key to my brown
+
+<pb facs="shan_l.800.jpg"/>
+
+suit case is? If you can find it, please send it. So I can check my suit case. All the keys I
+have belong to the trailer.</p>
+</postscript>
+
+</div1>
+
+
+<div1 type="letter" xml:lang="es">
+                
+<pb facs="shan_l.798.jpg"/>
+                
+<opener>
+<dateline>10 de octubre de 1950</dateline>
+<time>7:30PM</time>
+
+<salute>Querido mío,</salute>
+</opener>
+
+<p>¿Cómo está mi precioso esposo? Tu esposita y tu hijo están bien. Fuimos al correo y a la farmacia hoy en la tarde. Encontré dos cartas tuyas. Me alegra que me escribes todos los días. Ya sabes que soy muy floja para escribir. Espero que no te preocupes por nosotros.
+Tu hijito está jugando con los sartenes y las ollas. Espero que siga jugando hasta que yo termine de escribir.</p>
+<p>El domingo no tenía a dónde ir, así que Billy y yo fuimos a la farmacia, nos comimos un helado y luego fuimos al cine. Vimos "The Outriders" &amp; "Maggie&amp;Jiggs". Billy se portó bien. También fuimos a ver a Helen y a Jess y nos quedamos un rato.</p>
+
+<pb facs="shan_l.799.jpg"/>
+
+<p>Bill, de este lado de las vías del tren los lotes valen $100.00 y del otro lado de las vías todos los lotes valen $150.00. Ahí es donde viven Helen y Jess –ahí solo viven personas ‘blancas’ y de este lado – viven las personas que hablan español. Prefiero vivir del otro
+lado. Está más cerca del pueblo. La casa de Jess está junto a la carretera. Vere qué puedo hacer mañana.</p>
+<p>No, no enfrascamos pickles <app loc="1"><rdg>pepinos</rdg></app>. Se congelaron. Pasamos dos noches muy frías y ahí se acabó todo.</p>
+<p>Max está trabajando en el betabel. Mamá no puede trabajar por su pierna. Fue a Denver a ver al doctor. Le puso dos inyecciones y le dio medicina.</p>
+<pb/>
+<p>Vaya que duermes mucho. Nosotros también. Nos acostamos a las 8:00 pm. Parece que el pobre de Billy se va a resfriar. Tengo que atenderlo hoy en la noche. Quiere un Alkaseltzer. Son las 8:00 pm, así que más vale que nos vayamos a la cama. Mamá y Max ya están roncando. Buenas noches, cariño. Te queremos a ti y solo a ti.</p>
+<closer>
+<salute>Tu fiel esposa,</salute>
+<signed>Sandra</signed>
+</closer>
+
+<postscript>
+<p>Billy te manda todo su amor y besos.</p>
+<p>Estaré muy contenta cuando estemos juntos otra vez. Billy pregunta por ti todas las noches. Y ya sabes que yo te extraño.</p>
+<p>Volveré a escribirte otro día.</p>
+<p>Casi se me olvida: ¿De casualidad sabes dónde está la llave de mi maleta
+
+<pb facs="shan_l.800.jpg"/>
+
+café? Si la encuentras por favor mándamela para poder revisar mi maleta. Todas las
+llaves que tengo son del tráiler.</p>
+</postscript>
+
+</div1>
+
+
+
+<div1 type="envelope">
+
+<pb facs="shan_l.796.jpg"/>
+
+<ab type="address">
+<address>
+<addrLine>Mr. William F. Schubert</addrLine>
+<addrLine>Camp 67</addrLine>
+<addrLine>Rulo, Nebraska</addrLine>
+</address>
+</ab>
+
+<ab type="postmark">
+FORT LUPTON<lb/> 
+OCT 11<lb/>
+5:30 PM<lb/>
+1950<lb/>
+COLO<lb/>
+</ab>
+
+<figure type="stamp">
+<p/>
+</figure>
+
+<pb facs="shan_l.797.jpg"/>
+
+<ab type="return">
+<address>
+<addrLine>Mrs. W. F. Schubert</addrLine>
+<addrLine>P.O. Box 681</addrLine>
+<addrLine>Ft. Lupton, Colo.</addrLine>
+</address>
+</ab>
+
+
+</div1>
+</body>
+        
+<back/>
+</text>
+</TEI>

@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="shan_L144.meta">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">Letter from William F. Schubert to Santos Baros Schubert, October 18, 1950</title>
+<title type="main" xml:lang="es">Carta de William F. Schubert a Santos Baros Schubert, 18 de octubre, 1950</title>
+<author>Schubert, William F.</author>
+<principal xml:id="iv001">Velázquez, Isabel</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name xml:id="af">Faxas, Adoni A.</name>
+<name xml:id="sbg">Garcia, Sarita B.</name>
+<name xml:id="ji">Isasi, Jennifer</name> 
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2016</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Family Letters: An analysis of the Personal Correspondence of a Mexican American Family in Western Colorado and Eastern Nebraska in the First Half of the 20th Century</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Department of Modern Languages and Literatures</name>
+ <address>
+<addrLine>1111 Oldfather Hall</addrLine>
+<addrLine>660 N 12th</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+<addrLine>modlang2@unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+</address>
+<idno>shan_L144.meta</idno>
+<availability>
+<p>COPYRIGHT STATEMENT TO GO HERE</p>
+</availability>
+</publicationStmt>
+            
+<notesStmt><note/></notesStmt>
+            
+<sourceDesc>
+<bibl>
+<author>Schubert, William F.</author>
+<title level="m" type="main">Letter from William F. Schubert to Santos Baros Schubert</title>
+<date when="1950-10-18">October 18, 1950</date>
+<extent>1 page</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Shanahan Collection</repository>
+<idno/>
+</msIdentifier>
+<msContents>
+<p>1 typed page</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support/>
+<extent>1 page
+<dimensions unit="mm"><height/><width/></dimensions>
+</extent>
+<condition>
+<p/></condition>
+</supportDesc>
+</objectDesc>
+<handDesc>
+<handNote/>
+</handDesc>
+<typeDesc>
+<typeNote><p>Media: black ink</p></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin/>
+<provenance/>
+<acquisition/>
+</history>
+</msDesc>
+                
+</sourceDesc>
+</fileDesc>
+        
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p/>
+</correction>
+<normalization>
+<p/>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term/>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term/>
+</keywords>
+<keywords scheme="original" n="topic">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term/>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName xml:id="wfs001">Schubert, William F.</persName>
+<placeName/>
+<date type="written" when="1950-10-18"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="sbs001">Baros Schubert, Santos</persName>
+<placeName/>
+</correspAction>
+<correspContext>
+<ref type="prev" target="shan">Letter from x to y, date</ref>
+<ref type="next" target="shan">Letter from x to y, date</ref>
+</correspContext> 
+</correspDesc>
+</profileDesc>
+        
+<revisionDesc>
+<change when="2016" who="#af">Initial Encoding</change>
+<change when="2014" who="#af">Transcription</change>
+            
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>
+            
+<div1 type="letter" xml:lang="en">
+                
+<pb facs="shan_l.534.jpg"/>
+                
+<opener>
+<address><addrLine>Camp 67</addrLine></address>
+<dateline>18 Oct 1950</dateline>
+
+<salute>My darling wife andson,</salute>
+</opener>
+                
+<p>Received your wonderful letter this afternoon just before I was ready to leave for Lincoln to get your Postal Notes and send them to you; so I am not going to Lincoln. I’ll be in Lincoln Sunday night to see you when you get home. Sure glad not to have to drive to Lincoln and come right back tomorrow. Guess we’ll just wait and see if the Army is going to take me before we buy any lots or anything more. I think that I’ll write Jack and see if he wants to buy our trailer.</p>
+
+<p>Still only have about 55 men as they have really been running the drunks. I had to give my second cook his time tonight as he got drunk after only working 4 days.</p>
+
+<p>The weather has sure been warm. Hotter now then it was last month.</p>
+
+<p>Today I got a new cable on my battery and final ly got the radiator cleaned and the Prestone in it.</p>
+
+<p>Darling I’m really missing you so will be glad to see you Sunday and plan to stay in Lincoln Monday at least part of the day. Will write again tomorrow.</p>
+
+<closer>
+<salute>Always Yours</salute>                    
+<signed>Bill</signed>
+</closer>
+
+<postscript>
+<p>I love you very much –</p>
+</postscript>
+ 
+</div1>
+
+ <div1 type="letter" xml:lang="es">
+  
+  <pb facs="shan_l.534.jpg"/>
+  
+  <opener>
+   <address><addrLine>Campamento 67</addrLine></address>
+   <dateline>18 de Octubre de 1950</dateline>
+   
+   <salute>Mis queridos esposa e hijo:</salute>
+  </opener>
+  
+  <p>Recibí tu maravillosa carta hoy en la tarde justo antes de salir a Lincoln para sacar tus certificados de ahorro y mandártelos, así que no iré a Lincoln. Estaré en Lincoln el domingo en la noche para recibirte cuando llegues a casa. De verdad que me alegra no tener que manejar hasta Lincoln para tener que volver mañana. Creo que tendremos que esperar a ver si el ejército me llama antes de comprar ningún lote o nada más. Creo que le escribiré a Jack para ver si le interesa comprar nuestro tráiler.</p>
+  <p>Todavía tengo solamente como 55 hombres, porque han estado corriendo a los borrachos. Tuve que poner a descansar a mi segundo cocinero hoy en la noche porque se emborrachó después de haber estado trabajando solo cuatro días.</p>
+  <p>Ha hecho mucho calor. Más que el mes pasado.</p>
+  <p>Hoy conseguí un cable nuevo para la batería y por fin hice que me limpiaran el radiador y le puse el Prestone.</p>
+  <p>Querida, te extraño mucho y me alegrará verte domingo. Planeo quedarme el lunes en Lincoln, al menos parte del día. Volveré a escribirte mañana.</p>
+  
+  <closer>
+   <salute>Siempre tuyo</salute>                    
+   <signed>Bill</signed>
+  </closer>
+  
+  <postscript>
+   <p>Te quiero mucho</p>
+  </postscript>
+ </div1>
+
+</body>
+        
+<back/>
+</text>
+</TEI>

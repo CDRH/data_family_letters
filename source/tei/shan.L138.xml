@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="shan_L138.meta">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">Letter from William F. Schubert to Santos Baros Schubert, October 1, 1950</title>
+<title type="main" xml:lang="es">Carta de William F. Schubert a Santos Baros Schubert, 01 de octubre, 1950</title>
+<author>Schubert, William F.</author>
+<principal xml:id="iv001">Velázquez, Isabel</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name xml:id="af">Faxas, Adoni A.</name>
+<name xml:id="sbg">Garcia, Sarita B.</name>
+<name xml:id="ji">Isasi, Jennifer</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2016</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Family Letters: An analysis of the Personal Correspondence of a Mexican American Family in Western Colorado and Eastern Nebraska in the First Half of the 20th Century</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Department of Modern Languages and Literatures</name>
+ <address>
+<addrLine>1111 Oldfather Hall</addrLine>
+<addrLine>660 N 12th</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+<addrLine>modlang2@unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+</address>
+<idno>shan_L138.meta</idno>
+<availability>
+<p>COPYRIGHT STATEMENT TO GO HERE</p>
+</availability>
+</publicationStmt>
+            
+<notesStmt><note/></notesStmt>
+            
+<sourceDesc>
+<bibl>
+<author>Schubert, William F.</author>
+<title level="m" type="main">Letter from William F. Schubert to Santos Baros Schubert</title>
+<date when="1950-10-01">October 1, 1950</date>
+<extent>2 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Shanahan Collection</repository>
+<idno/>
+</msIdentifier>
+<msContents>
+<p>2 hand-written pages</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support/>
+<extent>2 pages
+<dimensions unit="mm"><height/><width/></dimensions>
+</extent>
+<condition>
+<p/></condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="h01" scribe="wfs001" medium="pen"><p>Media: black ink</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote><p/></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin/>
+<provenance/>
+<acquisition/>
+</history>
+</msDesc>
+                
+</sourceDesc>
+</fileDesc>
+        
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p/>
+</correction>
+<normalization>
+<p/>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term/>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term/>
+</keywords>
+<keywords scheme="original" n="topic">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term/>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName xml:id="wfs001">Schubert, William F.</persName>
+<placeName/>
+<date type="written" when="1950-10-01"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="sbs001">Baros Schubert, Santos</persName>
+<placeName/>
+</correspAction>
+<correspContext>
+<ref type="prev" target="shan">Letter from x to y, date</ref>
+<ref type="next" target="shan">Letter from x to y, date</ref>
+</correspContext> 
+</correspDesc>
+</profileDesc>
+        
+<revisionDesc>
+<change when="2016" who="#af">Initial Encoding</change>
+<change when="2014" who="#af">Transcription</change>
+            
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>
+            
+<div1 type="letter" xml:lang="en">
+                
+<pb facs="shan_l.520.jpg"/>
+                
+<opener>
+<dateline>1 Oct 1950</dateline>
+
+<salute>Darling Sandra&amp;Billy –</salute>
+</opener>
+                
+<p>Hope Billy is having a nice birthday – Wish I was there – I sure miss you both – I’m in Lincoln this evening so will send you a letter to let you know I love you – It has rained all day; is 8:30 PM and raining yet – The temperature is down to 53º- Sgt Ruth moved out of the trailer this afternoon but I didn’t get it as there is so much water around it and I would have a job getting it ready so I’ll come back tomorrow and get it pulled over here – Have to get the license plates anyway – Have some of our things ready to move – Yesterday I did the wash, my clothes only, and left them out all night; this morning as I was getting up it started to rain so I ran out and took the clothes into the basement – Have them ready now to take back to camp – I varnished some places again – If I get everything out of here I’ll clean it up and wax the floors. Maybe you’ll have to do some of the work; if camp moves to Rulo Tuesday –</p>
+
+<p>I am going to wait for the Foreman and the Timekeeper is going back with too –</p>
+
+<pb facs="shan_l.521.jpg"/>
+
+<fw>-2-</fw>
+
+<p>Last night two “gandies” got killed by a train at camp – Really was awful – I guess they were drinking or sleeping right between the rails –</p>
+
+<p>The folks got some tomatoes today again – I ate over there tonight and mom poped some popcorn –</p>
+
+<p>I’m sending you a letter from Mrs Parrish – you got Saturday –</p>
+
+<p>Was suppose to get a cook tonight but I didn’t see him at the depot.</p>
+	
+<p>I am closing for now and hope to hear from you tomorrow as I’ve only received two letters from you. Let me know when you plan to come home; or wait until I find out where I am going, better. Write soon –</p>
+
+<closer>
+<salute>Always Yours</salute>                    
+<signed>Bill</signed>
+</closer>
+
+<postscript>
+<p>I miss you,<lb/>
+Love you,<lb/>
+need you<lb/></p>
+</postscript>
+ 
+</div1>
+
+ <div1 type="letter" xml:lang="es">
+  
+  <pb facs="shan_l.520.jpg"/>
+  
+  <opener>
+   <dateline>1 de Octubre de 1950</dateline>
+   
+   <salute>Queridos Sandra y Billy:</salute>
+  </opener>
+  
+  <p>Espero que Billy esté disfrutando su cumpleaños – Cómo me gustaría estar ahí. Los extraño mucho. Hoy en la noche estaré en Lincoln así que te mandaré una carta para decirte que te amo. Ha llovido todo el día; son las 8:30 PM y todavía está lloviendo. La temperatura bajó a 53º. El Sargento Ruth se mudo del tráiler hoy en la tarde, pero no tomé posesión porque hay mucha agua alrededor del tráiler y me daría mucho prepararlo así que regresaré mañana y lo haré jalar hasta acá. De todos modos tengo que sacar las placas. Ya tengo algunas de nuestras cosas listas para moverse. Ayer lavé ropa, la mía solamente, y la tendí afuera toda la noche. Hoy en la mañana que me estaba levantando empezó a llover, así que salí corriendo y metí la ropa al sótano. Ahora ya la tengo lista para llevarla de vuelta al campamento. Volví a barnizar en algunos lugares otra vez. Si saco todo de aquí, podré limpiar y encerar los pisos. Quizá tengas que hacer algo del trabajo, si el campamento se mueve a Rulo el martes.</p>
+
+  <p>Voy a esperar al capataz y el cronometrador va a regresar también.</p>
+  
+  <pb facs="shan_l.521.jpg"/>
+  
+  <fw>-2-</fw>
+  
+  <p>Anoche, el tren mató a dos “gandies” en el campamento. Fue realmente terrible. Creo que estaban tomando o durmiendo entre los rieles.</p>
+  
+  <p>Mis papás consiguieron unos tomates hoy, otra vez. Comí allá esta noche y mamá hizo palomitas.</p>
+  
+  <p>Te estoy mandando una carta de la Señora Parnish que recibiste el sábado.</p>
+  
+  <p>Tenía que recoger a un cocinero hoy en la noche pero no lo vi en la estación.</p>
+  
+  <p>Me despido por ahora y espero saber de ti mañana, porque solamente he recibido dos cartas tuyas. Dime cuando planeas regresar a casa, o mejor, espera hasta que yo sepa a donde iré, que será mejor. Escribe pronto.</p>
+  
+  <closer>
+   <salute>Siempre tuyo</salute>                    
+   <signed>Bill</signed>
+  </closer>
+  
+  <postscript>
+   <p>Te extraño,<lb/>
+    Te amo,<lb/>
+    Te necesito.<lb/></p>
+  </postscript>
+  
+ </div1>
+  
+
+</body>
+        
+<back/>
+</text>
+</TEI>

@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="shan_L065.meta">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">Letter from Jesusita Baros Torres to Demetrio Flemate, August 12, 1939</title>
+<title type="main" xml:lang="es">Carta de Jesusita Baros Torres a Demetrio Flemate, 12 de agosto, 1939</title>
+<author>Baros Torres, Jesusita</author>
+<principal xml:id="iv001">Velázquez, Isabel</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name xml:id="af">Faxas, Adoni A.</name>
+<name xml:id="sbg">Garcia, Sarita B.</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Family Letters: An analysis of the Personal Correspondence of a Mexican American Family in Western Colorado and Eastern Nebraska in the First Half of the 20th Century</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Department of Modern Languages and Literatures</name>
+ <address>
+<addrLine>1111 Oldfather Hall</addrLine>
+<addrLine>660 N 12th</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+<addrLine>modlang2@unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+</address>
+<idno>shan_L065.meta</idno>
+<availability>
+<p>COPYRIGHT STATEMENT TO GO HERE</p>
+</availability>
+</publicationStmt>
+            
+<notesStmt><note/></notesStmt>
+            
+<sourceDesc>
+<bibl>
+<author>Baros Torres, Jesusita</author>
+<title level="m" type="main">Letter from Jesusita Baros Torres to Demetrio Flemate</title>
+<date when="1939-08-12">August 12, 1939</date>
+<extent>envelope</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Shanahan Collection</repository>
+<idno/>
+</msIdentifier>
+<msContents>
+<p>envelope</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support/>
+<extent>envelope
+<dimensions unit="mm"><height/><width/></dimensions>
+</extent>
+<condition>
+<p/></condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="h01" scribe="jbt001" medium="pencil"><p>Media: pencil</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote><p/></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin/>
+<provenance/>
+<acquisition/>
+</history>
+</msDesc>
+                
+</sourceDesc>
+</fileDesc>
+        
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p/>
+</correction>
+<normalization>
+<p/>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term/>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term/>
+</keywords>
+<keywords scheme="original" n="topic">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term/>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName xml:id="jbt001">Baros Torres, Jesusita</persName>
+<placeName>Longmont, Colorado</placeName>
+<date type="postmarked" when="1939-08-12"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="df001">Flemate, Demetrio</persName>
+<placeName>Stockton, California</placeName>
+</correspAction>
+<correspContext>
+<ref type="prev" target="shan">Letter from x to y, date</ref>
+<ref type="next" target="shan">Letter from x to y, date</ref>
+</correspContext> 
+</correspDesc>
+</profileDesc>
+        
+<revisionDesc>
+<change when="2017" who="#af">Initial Encoding</change>
+<change when="2014" who="#af">Transcription</change>
+            
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>
+            
+<div1 type="envelope">
+
+<pb facs="shan_l.132.jpg"/>
+
+<ab type="return">
+<address>
+<addrLine>AFTER FIVE DAYS RETURN TO</addrLine>
+<addrLine>Jesusita. Baros.</addrLine>
+<addrLine>in care B. Kennedy. Rout. 3.</addrLine>
+<addrLine>Longmont Colo.</addrLine>
+</address>
+</ab>
+
+<ab type="address">
+<address>
+<addrLine>Mr Demetrio Flemate</addrLine>
+<addrLine><del>General Delivery</del></addrLine>
+<addrLine><del>Gen Del Brentwood. Calif.</del></addrLine>
+<addrLine>Stockton, Calif</addrLine>
+</address>
+</ab>
+
+<ab type="postmark">
+LONGMONT<lb/>
+AUG 12<lb/>
+1939<lb/>
+2 PM<lb/>
+COLO.<lb/>
+</ab>
+
+<ab type="postmark">
+STOCKTON<lb/>
+AUG 19<lb/>
+530 PM<lb/>
+1939<lb/>
+CALIF.<lb/>
+</ab>
+
+<ab type="postmark">
+STOCKTON<lb/>
+AUG 19<lb/>
+530 PM<lb/>
+1939<lb/>
+CALIF.<lb/>
+</ab>
+
+<figure type="stamp">
+<p/>
+</figure>
+
+<pb facs="shan_l.133.jpg"/>
+
+<ab type="postmark">
+BRENTWOOD<lb/>
+AUG 15<lb/>
+6 PM<lb/>
+1939<lb/>
+CALIF.<lb/>
+</ab>
+
+<ab type="postmark">
+STOCKTON CALIF.<lb/>
+AUG<lb/>
+16<lb/>
+1939<lb/>
+GEN. DEL.<lb/>
+</ab>
+
+</div1>
+</body>
+        
+<back/>
+</text>
+</TEI>

@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="shan_L127.meta">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">Letter from Helen Baros, Jess Jesús Baros, and Mark Baros to William F. Schubert and Santos Baros Schubert, March 16, 1977</title>
+<title type="main" xml:lang="es">Carta de Helen Baros, Jess Jesús Baros y Mark Baros a William F. Schubert y Santos Baros Schubert, 16 de marzo, 1977</title>
+<author>Baros, Helen</author>
+<author>Baros, Jess Jesús</author>
+<author>Baros, Mark</author>
+<principal xml:id="iv001">Velázquez, Isabel</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name xml:id="af">Faxas, Adoni A.</name>
+<name xml:id="km">Mendell, Kate</name>
+<name xml:id="sbg">Garcia, Sarita B.</name>
+<name xml:id="ji">Isasi, Jennifer</name> 
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2016</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Family Letters: An analysis of the Personal Correspondence of a Mexican American Family in Western Colorado and Eastern Nebraska in the First Half of the 20th Century</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Department of Modern Languages and Literatures</name>
+ <address>
+<addrLine>1111 Oldfather Hall</addrLine>
+<addrLine>660 N 12th</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+<addrLine>modlang2@unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+</address>
+<idno>shan_L127.meta</idno>
+<availability>
+<p>COPYRIGHT STATEMENT TO GO HERE</p>
+</availability>
+</publicationStmt>
+            
+<notesStmt><note/></notesStmt>
+            
+<sourceDesc>
+<bibl>
+<author>Baros, Helen</author>
+<author>Baros, Jess Jesús</author>
+<author>Baros, Mark</author>
+<title level="m" type="main">Letter from Helen Baros, Jess Jesús Baros, and Mark Baros to William F. Schubert and Santos Baros Schubert </title>
+<date when="1977-03-16">March 16, 1977</date>
+<extent>1 page and envelope</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Shanahan Collection</repository>
+<idno/>
+</msIdentifier>
+<msContents>
+<p>1 hand-written page and envelope</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support/>
+<extent>1 page and envelope
+<dimensions unit="mm"><height/><width/></dimensions>
+</extent>
+<condition>
+<p/></condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="3">
+<handNote xml:id="h03" scribe="hb001" medium="pen"><p>Media: blue and black ink</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote><p/></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin/>
+<provenance/>
+<acquisition/>
+</history>
+</msDesc>
+                
+</sourceDesc>
+</fileDesc>
+        
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p/>
+</correction>
+<normalization>
+<p/>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term/>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term/>
+</keywords>
+<keywords scheme="original" n="topic">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term/>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName xml:id="hb001">Baros, Helen</persName>
+<persName xml:id="jjb001">Baros, Jess Jesús</persName>
+<persName xml:id="mb001">Baros, Mark</persName>
+<placeName>Fort Lupton, Colorado</placeName>
+<date type="written" when="1977-03-16"/>
+<date type="postmarked" when="1977-03-17"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="wfs001">Schubert, William F.</persName>
+<persName xml:id="sbs001">Baros Schubert, Santos</persName>
+<placeName>Lincoln, Nebraska</placeName>
+</correspAction>
+<correspContext>
+<ref type="prev" target="shan">Letter from x to y, date</ref>
+<ref type="next" target="shan">Letter from x to y, date</ref>
+</correspContext> 
+</correspDesc>
+</profileDesc>
+        
+<revisionDesc>
+<change when="2017" who="#af">Initial Encoding</change>
+<change when="2016" who="#af">Initial Encoding</change>
+<change when="2015" who="#km">Transcription</change>
+            
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>
+ 
+<div1 type="letter" xml:lang="en">
+                
+<pb facs="shan_l.472.jpg"/>
+                
+<opener>
+<dateline>Mar 16, 1977</dateline>
+<address><addrLine>Ft Lupton Colo</addrLine></address>
+
+<address><addrLine>Dear Sandra&amp;Bill,</addrLine></address>
+<salute>Just a few lines hoping this letter finds you and your family in good health, we are all fine in Ft. Lupton,</salute>
+</opener>
+
+<p>Max is doing real well&amp;every thing is running <del>smoo</del> smooth.</p>
+
+<p>I wrote to let you know about Tony Falcon <del>om</del> am enclosing news paper clipping about the incident. also thought you might want to sent Elizabeth a card.</p>
+
+<p>I went to this his Rosary last Monday.</p>
+
+<p>The incident happen when we had a very bad storm, wind, snow blowing in fast. I didn’t go to work for two days. Roads were closed to Denver from Brighton.</p>
+
+<closer>
+<salute>Well by now. Good health to you&amp;God bless you all</salute>
+<signed>Helen&amp;Jess&amp;Mark.</signed>
+</closer>
+
+<postscript>
+<p>P.S. Elizabeth address 5 on the new clipping</p>
+</postscript>
+ 
+</div1>
+
+<div1 type="envelope">
+
+<pb facs="shan_l.470.jpg"/>
+
+<ab type="return">
+<address>
+<addrLine>830 Hoover ave</addrLine>
+<addrLine>Ft Lupton Colo</addrLine>
+<addrLine>80021</addrLine>
+</address>
+</ab>
+
+<ab type="address">
+<address>
+<addrLine>Mr &amp; Mrs Bill Schubert</addrLine>
+<addrLine>3830 “C” St</addrLine>
+<addrLine>Lincoln, Nebraska</addrLine>
+<addrLine>68510</addrLine>
+</address>
+</ab>
+
+<ab type="postmark">
+FORT LUPTON CO<lb/>
+MAR 17<lb/>
+PM<lb/>
+1977<lb/>
+80621<lb/>
+</ab>
+
+
+<figure type="stamp">
+<p/>
+</figure>
+
+<pb facs="shan_l.471.jpg"/>
+
+<ab type="note">
+Telephone<lb/>
+Save 60% over Day rate 11:P.M—8A.M.<lb/>
+or direct distance Dialing Save 35% over day rate 5 P.M. to 11:PM<lb/>
+</ab>
+
+</div1>
+
+
+ <div1 type="letter" xml:lang="es">
+  
+  <pb facs="shan_l.472.jpg"/>
+  
+  <opener>
+   <dateline>16 de marzo de 1977</dateline>
+   <address><addrLine>Fort Lupton, Colorado</addrLine></address>
+   
+   <salute>Queridos Sandra y Bill:</salute>
+  </opener>
+  
+  <p>Solo unas líneas esperando que esta carta los encuentre bien a ustedes y a su familia. Todos estamos bien en Fort Lupton.</p>
+  
+  <p>Max está muy bien y las cosas están funcionando sin problemas.</p>
+  
+  <p>Les escribo para contarles de Tony Falcón. Estoy incluyendo aquí un rccorte de periódico acerca del incidente. También pensé que quizá querrían mandarle una tarjeta a Elizabeth.</p>
+  
+  <p>Yo fui al rosario el lunes pasado.</p>
+  
+  <p>El incidente ocurrió cuando tuvimos una tormenta muy fuerte. El viento y la nieve entraron muy rápido. Yo no fui a trabajar en dos días. Las carreteras estuvieron cerradas de Brighton a Denver.</p>
+  
+  <closer>
+   <salute>Bueno, ahora me despido. Les deseo buena salud y que Dios los bendiga.</salute>
+   <signed>Helen, Jess y Mark.</signed>
+  </closer>
+  
+  <postscript>
+   <p>P.D. La dirección de Elizabeth está en el recorte.</p>
+  </postscript>
+  
+ </div1>
+ 
+
+</body>
+        
+<back/>
+</text>
+</TEI>

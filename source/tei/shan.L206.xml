@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="shan_L206.meta">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">Letter from Jesusita Baros Torres to Santos Baros Schubert, January 3, 1965</title>
+<title type="main" xml:lang="es">Carta de Jesusita Baros Torres a Santos Baros Schubert, 3 de enero, 1965</title>
+<author>Baros Torres, Jesusita</author>
+<principal xml:id="iv001">Velázquez, Isabel</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name xml:id="af">Faxas, Adoni A.</name>
+<name xml:id="iv">Velázquez, Isabel</name>
+<name xml:id="sbg">Garcia, Sarita B.</name>
+ <name xml:id="ji">Isasi, Jennifer</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Family Letters: An analysis of the Personal Correspondence of a Mexican American Family in Western Colorado and Eastern Nebraska in the First Half of the 20th Century</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Department of Modern Languages and Literatures</name>
+ <address>
+<addrLine>1111 Oldfather Hall</addrLine>
+<addrLine>660 N 12th</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+<addrLine>modlang2@unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+</address>
+<idno>shan_L206.meta</idno>
+<availability>
+<p>COPYRIGHT STATEMENT TO GO HERE</p>
+</availability>
+</publicationStmt>
+            
+<notesStmt><note/></notesStmt>
+            
+<sourceDesc>
+<bibl>
+<author>Baros Torres, Jesusita</author>
+<title level="m" type="main">Letter from Jesusita Baros Torres to Santos Baros Schubert</title>
+<date when="1965-01-03">January 3, 1965</date>
+<extent>2 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Shanahan Collection</repository>
+<idno/>
+</msIdentifier>
+<msContents>
+<p>2 hand-written pages</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support/>
+<extent>2 pages
+<dimensions unit="mm"><height/><width/></dimensions>
+</extent>
+<condition>
+<p/></condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="h01" scribe="jbt001" medium="pen"><p>Media: black ink</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote><p/></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin/>
+<provenance/>
+<acquisition/>
+</history>
+</msDesc>
+                
+</sourceDesc>
+</fileDesc>
+        
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p/>
+</correction>
+<normalization>
+<p/>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term/>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term/>
+</keywords>
+<keywords scheme="original" n="topic">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term/>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName xml:id="jbt001">Baros Torres, Jesusita</persName>
+<placeName>Fort Lupton, Colorado</placeName>
+<date type="written" when="1965-01-03"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="sbs001">Baros Schubert, Santos</persName>
+<placeName/>
+</correspAction>
+<correspContext>
+<ref type="prev" target="shan">Letter from x to y, date</ref>
+<ref type="next" target="shan">Letter from x to y, date</ref>
+</correspContext> 
+</correspDesc>
+</profileDesc>
+        
+<revisionDesc>
+<change when="2017" who="#af">Initial Encoding</change>
+<change when="2016" who="#iv">Transcription</change>
+            
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>
+            
+<div1 type="letter" xml:lang="es">
+                
+<pb facs="shan_l.713.jpg"/>
+                
+<opener>
+Happy<lb/>
+new yaer<lb/>
+<address><addrLine>ft Lupton colo</addrLine></address>
+<dateline>jan 3, 1965,</dateline>
+
+<salute>hestimados hijos;</salute>
+</opener>
+                
+<p>la precente es para Saludarlos a todos deceando que esten bíen con Salud; asi como nosotros estamos; Es por lo que le doy Gracias a Díosito,</p>
+
+<p>pues ya se pasaron los Cristmas, y año New tambíen; y yo Esperando que me escríban Uds; sí; recíví el parquete que me mandastes, si nos gustaron <add>mucho</add>, la camísa que le mandastes á Max le quedo muy bíen á su medida; lo mismo el vestido que me mandastes pues tambien me quedo <add>muy bien;</add> muchas Gracías, pero lo que no me gusta; es que ní una card; ni una carta; ní una letra, ní en español, pero ní en ingles; no sean así por favor; pues yo no me siento bíen;</p>
+
+<pb facs="shan_l.714.jpg"/>
+
+<p>no sean tan ingratos con mígo, pues todabía no me é muerto; todavía estoy vívá, pues píenzo mucho; que estaran enfermos; pero sí pienzo que no todos estan al mismo tiempo; así espero que me escríban; y me digan, sí recívíeron, el zarape; y los centavos que les mande; pues yo nunca los olvído; el que agarre esta carta, le suplico que me conteste por favor;</p>
+
+<closer>
+<salute>siempre tu mamá;</salute>                    
+<signed>saludes para todos de max y de 
+jesusita B. Torres,
+814, Pacífic ave
+ft, Lupton Colo;</signed>
+</closer>
+
+<postscript>
+<p>THANKS FOR THE $5.00 GRANDMA,<lb/></p>
+
+<p>$5.00 G<lb/></p>
+</postscript>
+                
+</div1>
+
+<div1 type="letter" xml:lang="en">
+                
+<pb facs="shan_l.713.jpg"/>
+                
+<opener>
+Feliz<lb/>
+Año Nuevo<lb/>
+<address><addrLine>Ft. Lupton, Colorado</addrLine></address>
+<dateline>January 3, 1965,</dateline>
+
+<salute>Dear children,</salute>
+</opener>
+                
+<p>this letter is to greet you wishing you are well and healthy, as we are, for which I thank God.</p>
+
+<p>Well, Christmas has come and gone, and New Years too, and I’m still waiting for you to write to me. I did receive the package you sent, and we did like very much the shirt you sent to Max. It fit him, it was just his size. The same with the dress you sent me, it also fit me
+very well. Thank you. But what I don’t like is that <add resp="iv001">you sent</add> not even a card, not a letter <app loc="1"><rdg>document</rdg></app>, not even a letter <app loc="1"><rdg>grapheme</rdg></app>, not in Spanish or even in English. Don’t be like that please, because I don’t feel well.</p>
+
+<pb facs="shan_l.714.jpg"/>
+
+<p>Don’t be so ingrate with me, because I haven’t died yet. I’m still alive and I keep thinking, wondering if you are ill. But then I ask how can you be <add resp="iv001">all ill</add> at the same time. So, I hope that you will write to me and tell me if you received the sarape and the money I sent, because I never forget you. Whomever picks up this letter, I beg you to reply to me please.</p>
+
+<closer>
+<salute>Always you mother <app loc="1"><rdg>mom</rdg></app></salute>                    
+<signed>Greetings to all from Max and from
+Jesusita B. Torres,
+814, Pacific ave 
+Ft. Lupton Colo;</signed>
+</closer>
+
+<postscript>
+<p>GRACIAS POR LOS $5.00 ABUELITA,<lb/></p>
+
+<p>$5.00 G<lb/></p>
+</postscript>
+                
+</div1>
+
+</body>
+        
+<back/>
+</text>
+</TEI>

@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="shan_L162.meta">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">Letter from William F. Schubert to Santos Baros Schubert, February 11, 1978</title>
+<title type="main" xml:lang="es">Carta de William F. Schubert a Santos Baros Schubert, 11 de febrero, 1978</title>
+<author>Schubert, William F.</author>
+<principal xml:id="iv001">Velázquez, Isabel</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name xml:id="km">Mendell, Kate</name>
+<name xml:id="sbg">Garcia, Sarita B.</name>
+ <name xml:id="ji">Isasi, Jennifer</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Family Letters: An analysis of the Personal Correspondence of a Mexican American Family in Western Colorado and Eastern Nebraska in the First Half of the 20th Century</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Department of Modern Languages and Literatures</name>
+ <address>
+<addrLine>1111 Oldfather Hall</addrLine>
+<addrLine>660 N 12th</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+<addrLine>modlang2@unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+</address>
+<idno>shan_L162.meta</idno>
+<availability>
+<p>COPYRIGHT STATEMENT TO GO HERE</p>
+</availability>
+</publicationStmt>
+            
+<notesStmt><note/></notesStmt>
+            
+<sourceDesc>
+<bibl>
+<author>Schubert, William F.</author>
+<title level="m" type="main">Letter from William F. Schubert to Santos Baros Schubert</title>
+<date when="1978-02-11">February 11, 1978</date>
+<extent>2 hand-written pages and 1 envelope</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Shanahan Collection</repository>
+<idno/>
+</msIdentifier>
+<msContents>
+<p>2 hand-written pages and 1 envelope</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support/>
+<extent>2 hand-written pages and 1 envelope
+<dimensions unit="mm"><height/><width/></dimensions>
+</extent>
+<condition>
+<p/></condition>
+</supportDesc>
+</objectDesc>
+<handDesc>
+<handNote><p>Media:</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote><p/></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin/>
+<provenance/>
+<acquisition/>
+</history>
+</msDesc>
+                
+</sourceDesc>
+</fileDesc>
+        
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p/>
+</correction>
+<normalization>
+<p/>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term/>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term/>
+</keywords>
+<keywords scheme="original" n="topic">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term/>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName xml:id="wfs001">Schubert, William F.</persName>
+<placeName>Fort Lupton, Colorado</placeName>
+<date type="written" when="1978-02-11"/>
+<date type="postmark" when="1978-02-12"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="sbs001">Baros Schubert, Santos</persName>
+<placeName>Lincoln, Nebraska</placeName>
+</correspAction>
+<correspContext>
+<ref type="prev" target="shan">Letter from x to y, date</ref>
+<ref type="next" target="shan">Letter from x to y, date</ref>
+</correspContext> 
+</correspDesc>
+</profileDesc>
+        
+<revisionDesc>
+<change when="2017" who="#sbg">Initial Encoding</change>
+<change when="2015" who="#km">Transcription</change>
+            
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>
+            
+<div1 type="letter" xml:lang="en">
+                
+<pb facs="shan_l.599.jpg"/>
+                
+<opener>
+<address><addrLine>Fort Lupton Colo</addrLine></address>
+<dateline>February 11, 1978</dateline>
+
+<salute>Dear Sandra Jane Pam and Carly</salute>
+</opener>
+<p>I got here at 500/pm your time so did ok—drove about 55-60 except part way about 50—There  was ice on the Highway not too bad to Grand Island but then to about North Platte there was ice—It wasn’t all the way &amp; didn’t look icy but saw a semi truck off the highway &amp; several autos then saw one auto go into the median &amp; almost onto the east bound lanes—Then, Later
+saw in my rear view mirror an auto back of me go into the median —also an auto passed me &amp; right afterwards it went in the ditch on north side of westbound lane There wasn’t any sleet or snow coming down except a few places—No snow on ground in Colo. but there was light snow &amp; shiffs blowing just a little on the road but not enough to get on windshield so was lucky—It is
+sleeting a little now here. I’ll go see if this note</p>
+
+<pb facs="shan_l.601.jpg"/>
+<fw>-2-</fw>
+<p>will go out tonight here—if not I’ll drive to Brighton &amp; eat &amp;mail it.</p>
+<p>Reyna’s baby is in hospital so she wasn’t home so I could get key so will stop about 800/pm. I am in big house for now. Had to start the stove—It’s 20º here but should make it ok. I talked to Josephine don’t think they are going to move as can’t find a house—They would like to rent this if Chavez’s move—someday—I believe we should get more for this big house but will have to
+see— I believe Calderon’s would take good care of all the place if they could stay in back until Chavez’s would move &amp; then, [word crossed out] move in here—Mr. Calderon got a job at the alaskan camper place. They don’t know of anyone to rent #2 (Reynas) house so may not get it rented but will go ahead &amp; try to fix it up</p>
+
+<closer>
+<salute>Love to all</salute>                    
+<signed>Bill-Dad pop Grandpa</signed>
+</closer>
+
+
+</div1>
+
+<div1 type="envelope">
+
+<pb facs="shan_l.597.jpg"/>
+
+<ab type="return">
+<address>
+<addrLine>Bill Schubert</addrLine>
+<addrLine>814 Pacific Ave</addrLine>
+<addrLine>Fort Lupton Colo.</addrLine>
+</address>
+</ab>
+
+<ab type="address">
+<address>
+<addrLine>Mrs. Santos B Schubert &amp; Jane</addrLine>
+<addrLine>3830 C St</addrLine>
+<addrLine>Lincoln Nebr 68510</addrLine>
+</address>
+</ab>
+
+<ab type="postmark">
+BRIGHTON, CO<lb/>
+FEB 12<lb/>
+<unclear reason="illegible"/> PM<lb/>
+1978<lb/>
+806<lb/>
+</ab>
+
+<figure type="stamp">
+<p/>
+</figure>
+
+
+</div1>
+
+<div1 type="letter" xml:lang="es">
+                
+<pb facs="shan_l.599.jpg"/>
+                
+<opener>
+<address><addrLine>Fort Lupton Colo</addrLine></address>
+<dateline>11 de febrero de 1978</dateline>
+
+<salute>Queridas Sandra, Jane, Pam y Carly:</salute>
+</opener>
+<p>Llegué aquí como a las 5:00 de su hora, así que me fue bien –manejé como a 55-60, excepto en un tramo, como a 50 –Había hielo en la carretera. No estaba muy mal hasta Grand Island, pero luego hubo hielo hasta North Platte – No todo el camino, y no se veía el hielo, pero vi un camión que se salió de la carretera + varios carros y luego vi un caro que se subió a la mediana + y casi
+llega a los carriles que van hacia el este – Luego, más tarde, vi en el retrovisor que un carro que venía atrás de mí se subió a la mediana – también me pasó un carro + justo después cayó en la zanja en la parte norte del carril que va hacia el oeste No había hielo ni aguanieve, excepto en unos pocos lugares – <add resp="iv001">Aquí</add> En Colorado no hay nieve, pero nevó un poco + unos cuantos remolinos pequeños en la carretera, pero no suficientes para quedarse en el parabrisas, así que tuve suerte –Aquí está cayendo un poco de aguanieve en estos momentos. Voy a ver si esta nota</p>
+
+<pb facs="shan_l601.jpg"/>
+<fw>-2-</fw>
+
+<p>va a salir hoy en la noche desde aquí – si no, voy a ir hasta Brighton + comer + ponerla en el
+correo.</p>
+
+<p>El bebé de Reyna está en el hospital así que no estaba en casa para que yo recogiera la llave así que voy a pasar como a las 8:00 pm. Por ahora estoy en la casa grande. Tuve que encender la <app loc="1" cert="high"><rdg>estufa</rdg></app> <app loc="2" cert="high"><rdg>chimenea</rdg></app>Estamos como a 20 grados, pero creo que va a estar bien. Hablé con Josephine. No creo que se vayan a mudar porque no encuentran casa – Les gustaría rentar ésta si los Chávez se mudan –algún día – creo que podríamos cobrar más por esta casa tan grande pero tendremos que ver – Creo que los Calderón cuidarían muy bien de todo esto si se pudieran quedar en la parte de atrás hasta que los Chávez se mudaran + luego  mudarse para acá – Al Sr. Calderón le dieron un trabajo en la Alaskan Camper. No conocen a nadie que quiera rentar la casa #2 (La casa de Reyna), así que es posible que no se rente, pero de todas formas la voy a tratar de arreglar</p>
+<closer>
+<salute>Con cariño para todos</salute>                    
+<signed>Bill-Papá, papi, abuelito</signed>
+</closer>
+
+
+</div1>
+</body>
+        
+<back/>
+</text>
+</TEI>

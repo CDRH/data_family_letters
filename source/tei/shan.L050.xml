@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="shan_L050.meta">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">Letter from Guadalupe Flemate Medrano to Santos Baros Schubert, July 26, 1957</title>
+<title type="main" xml:lang="es">Carta de Guadalupe Flemate Medrano a Santos Baros Schubert, 26 de julio, 1957</title>
+<author>Flemate Medrano, Guadalupe</author>
+<principal xml:id="iv001">Velázquez, Isabel</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name xml:id="jda">Avelar, Janette D.</name>
+<name xml:id="km">Mendell, Kate</name>
+<name xml:id="sbg">Garcia, Sarita B.</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2015</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Family Letters: An analysis of the Personal Correspondence of a Mexican American Family in Western Colorado and Eastern Nebraska in the First Half of the 20th Century</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Department of Modern Languages and Literatures</name>
+ <address>
+<addrLine>1111 Oldfather Hall</addrLine>
+<addrLine>660 N 12th</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+<addrLine>modlang2@unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+</address>
+<idno>shan_L050.meta</idno>
+<availability>
+<p>COPYRIGHT STATEMENT TO GO HERE</p>
+</availability>
+</publicationStmt>
+            
+<notesStmt><note/></notesStmt>
+            
+<sourceDesc>
+<bibl>
+<author>Flemate Medrano, Guadalupe</author>
+<title level="m" type="main">Letter from Guadalupe Flemate Medrano to Santos Baros Schubert</title>
+<date when="1957-07-26">July 26, 1957</date>
+<extent>2 pages and envelope</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Shanahan Collection</repository>
+<idno/>
+</msIdentifier>
+<msContents>
+<p>2 hand-written pages and envelope</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support/>
+<extent>2 pages and envelope
+<dimensions unit="mm"><height/><width/></dimensions>
+</extent>
+<condition>
+<p/></condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="h01" scribe="gf001" medium="pen"><p>Media: black ink</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote><p/></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin/>
+<provenance/>
+<acquisition/>
+</history>
+</msDesc>
+                
+</sourceDesc>
+</fileDesc>
+        
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p/>
+</correction>
+<normalization>
+<p/>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term/>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term/>
+</keywords>
+<keywords scheme="original" n="topic">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term/>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName xml:id="gf002">Flemate Medrano, Guadalupe</persName>
+<placeName>Juchipila, Zacatecas, México</placeName>
+<date type="written" when="1957-07-26"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="sbs001">Baros Schubert, Santos</persName>
+<placeName>Lincoln, Nebraska</placeName>
+</correspAction>
+<correspContext>
+<ref type="prev" target="shan">Letter from x to y, date</ref>
+<ref type="next" target="shan">Letter from x to y, date</ref>
+</correspContext> 
+</correspDesc>
+</profileDesc>
+        
+<revisionDesc>
+<change when="2015" who="#jda">Initial Encoding</change>
+<change when="2014" who="#km">Transcription</change>
+            
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>
+            
+<div1 type="letter" xml:lang="es">
+                
+<pb facs="shan_l.246.jpg"/>
+                
+<opener>
+<address><addrLine>juchipila gulio 26 de 1,957</addrLine></address>
+
+<salute>Mrs Sandra B. Schubert</salute>
+</opener>
+
+<p>mi muy es timada prima te mando esta carta aun que no ten El onor de conoserte pero yo quiro platicarte que le pidas a dioz que me aliví por que yo</p>
+
+<p>estoy mala del de sarroyo yo mas vén greo que no es eso so yo créo que tengo mas cosaz por que yo cin to munchas cosas me disen los dotorez que nesecito <unclear reason="illegible">muncho</unclear> curacin ya me an curado pero no me <unclear reason="illegible">alio</unclear> amino me an curado por que mi papá no tiene con que con que semos munchos tine muncho gasto en darnoz de comer esta muy caro to do apenas al can samos a comer yo aveses me cinto muy triste que no ayo que aser por estar en ferma y estar ahorita mi papa tan atrasado mi papa tan vén esta un poco en fermo tan vén te digo que me mandes El Retrato de loz nenez para conoserlos pero no se te ol vide mandameloz para ver loz boy a trar a cuarto año este año no tengo con que con prar mis libroz y mis utilez que nesecito
+
+<pb facs="shan_l.247.jpg"/>
+
+yo quíra aun que meda pena decirte pero la a go un lado y te digo quiro que me ayudes con al go para ante que entre ya tener lodo listo</p>
+
+<closer>                  
+<salute>Recive munchoz saludez de todoz mis er manoz de Candi y Liby y de Chedez y josecito y mímamá</salute>  
+
+<add>y de mí papá y de mi Recive los mas finoz Recuerdoz</add>
+
+<signed>de Guadalupe Flemate Medrano</signed>
+</closer>
+
+<postscript><p>Contestame pronto no se te olvide</p></postscript>
+                
+</div1>
+
+<div1 type="envelope">
+
+<pb facs="shan_l.244.jpg"/>
+
+<ab type="return">
+<address>
+<addrLine>after 10 days Return to</addrLine>
+<addrLine>Guadalupe Flemate Medrano</addrLine>
+<addrLine>Zaragosa 8 Juchipila Zacatecas</addrLine> 
+<addrLine>Mexico</addrLine>
+</address>
+</ab>
+
+<ab type="address">
+<address>
+<addrLine>Sra.</addrLine>
+<addrLine>Sandra B. Schubert</addrLine>
+<addrLine>1016 South 40th St.</addrLine>
+<addrLine>Lincoln, Nebrasca</addrLine>
+<addrLine>U.S.</addrLine>
+</address>
+</ab>
+
+<ab type="postmark">
+<unclear reason="torn"/><lb/>
+ZAC.<lb/>
+</ab>
+
+</div1>
+
+<div1 type="letter" xml:lang="en">
+                
+<pb facs="shan_l.246.jpg"/>
+                
+<opener>
+<address><addrLine>juchipila July 26 1957</addrLine></address>
+
+<salute>Mrs Sandra B. Schubert</salute>
+</opener>
+
+<p>My dear cousin, I send you this letter even though I haven’t had the honor of meeting you. I want to tell you that I beg God to heal me, because</p>
+
+<p><app loc="1"><rdg>I’m ill in my development</rdg></app> <app loc="2"><rdg>There's something wrong with my development</rdg></app>. I think that that’s not it, I think there are other things wrong, because I feel a lot of things. The doctors say that I need a lot of care, and they have <app loc="1"><rdg>seen me</rdg></app> <app loc="2"><rdg>healed me</rdg></app> but I <app loc="1"><rdg>don’t heal</rdg></app> <app loc="2"><rdg>haven't received medical attention</rdg></app> because my dad can’t afford it. We are many and my dad spends a lot to feed us, because everything is very expensive. We barely have enough to eat and I sometimes feel sad because I don’t know what to do because I’m ill and now my dad is so far behind <add resp="iv001">in his financial obligations</add> and has also been ill. I also tell you to please send me the portrait of the babies, so that I can <app loc="1"><rdg>see them</rdg></app> <app loc="2"><rdg>meet them</rdg></app>. Don’t forget to send it so I can see them. I’m starting fourth grade and I don’t have money to buy my books or the school supplies I need
+
+<pb facs="shan_l.247.jpg"/>
+
+I would like, even though it’s embarrassing to tell you, but I set that embarrassment to the side, I would like to ask you to help me <app loc="1"><rdg>with something</rdg></app> <app loc="2"><rdg>some money</rdg></app> to have everything ready before I start <add resp="iv001">school</add></p>
+
+<closer>                  
+<salute>Receive regards from all my siblings, from Candi and Lily, and from Chedez and Josecito, and from my mom</salute>  
+
+<add>and my dad, and from me receive the finest regards</add>
+
+<signed>from Guadalupe Flemate Medrano</signed>
+</closer>
+
+<postscript><p>Answer me soon, don’t forget</p></postscript>
+                
+</div1>
+
+</body>
+        
+<back/>
+</text>
+</TEI>

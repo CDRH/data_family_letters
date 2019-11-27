@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="shan_L224.meta">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">Letter from Santos Baros Schubert to William F. Schubert, October 12, 1950</title>
+<title type="main" xml:lang="es">Carta de Santos Baros Schubert a William F. Schubert, 12 de octubre, 1950</title>
+<author>Baros Schubert, Santos</author>
+<principal xml:id="iv001">Velázquez, Isabel</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name xml:id="ji">Isasi, Jennifer</name>
+<name xml:id="sbg">Garcia, Sarita B.</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Family Letters: An analysis of the Personal Correspondence of a Mexican American Family in Western Colorado and Eastern Nebraska in the First Half of the 20th Century</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Department of Modern Languages and Literatures</name>
+ <address>
+<addrLine>1111 Oldfather Hall</addrLine>
+<addrLine>660 N 12th</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+<addrLine>modlang2@unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+</address>
+<idno>shan_L224.meta</idno>
+<availability>
+<p>COPYRIGHT STATEMENT TO GO HERE</p>
+</availability>
+</publicationStmt>
+            
+<notesStmt><note/></notesStmt>
+            
+<sourceDesc>
+<bibl>
+<author>Baros Schubert, Santos</author>
+<title level="m" type="main">Letter from Santos Baros Schubert to William F. Schubert</title>
+<date when="1950-10-12">October 12, 1950</date>
+<extent>1 envelope and 4 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Shanahan Collection</repository>
+<idno/>
+</msIdentifier>
+<msContents>
+<p>1 hand-written envelope and 4 hand-written pages</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support/>
+<extent>1 envelope and 4 pages
+<dimensions unit="mm"><height/><width/></dimensions>
+</extent>
+<condition>
+<p/></condition>
+</supportDesc>
+</objectDesc>
+<handDesc>
+<handNote><p>Media:</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote><p/></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin/>
+<provenance/>
+<acquisition/>
+</history>
+</msDesc>
+                
+</sourceDesc>
+</fileDesc>
+        
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p/>
+</correction>
+<normalization>
+<p/>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term/>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term/>
+</keywords>
+<keywords scheme="original" n="topic">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term/>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName xml:id="sbs001">Baros Schubert, Santos</persName>
+<placeName>Fort Lupton, Colorado</placeName>
+<date type="written" when="1950-10-12"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="wfs001">Schubert, William F.</persName>
+<placeName>Rulo, Nebraska</placeName>
+</correspAction>
+<correspContext>
+<ref type="prev" target="shan">Letter from x to y, date</ref>
+<ref type="next" target="shan">Letter from x to y, date</ref>
+</correspContext> 
+</correspDesc>
+</profileDesc>
+        
+<revisionDesc>
+<change when="2017" who="#sbg">Initial Encoding</change>
+<change when="2017" who="#ji">Transcription</change>
+            
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>
+            
+<div1 type="letter" xml:lang="en">
+                
+<pb facs="shan_l.803.jpg"/>
+                
+<opener>
+<dateline>Oct. 12, 1950</dateline>
+<dateline>Thurs.</dateline>
+
+<salute>Dearest Bill,</salute>
+</opener>
+
+<p>I went to post office &amp; didn't find any mail.</p>
+<p>Will write you what little information I gathered about the lots. Well, yesterday mother
+and I went to see the lots on different places. I saw 4 lots that I like. They're on a corner.
+Mother wants two &amp; I thought we could <add place="above">buy</add> the other two. I
+think that at least two would be best for us - being that we've two trailers. Anyway we
+went to see the man that's in charge of them lots. Says they cost $125.00 each lot - <hi rend="underline">cash</hi>.And $150.00 if you buy on payments. He sent me to Town Hall or City Hall to inquire
+about <add place="above">them</add> lots, cause I heard that there was alot of red tape to them. And I'd</p>
+
+<pb facs="shan_l.804.jpg"/>
+
+<p>have to go to Greeley to get the abstract to the lots. And I don't know if these lots are
+outside city limits or inside. About the sewer I don't know much - only that it costs
+$12.50 to tap. I think you pay that to the city. I was suppose to find out about these things
+this afternoon but I was too <add place="above">late</add> at the City Hall, close at 3:PM
+I'll go again tomorrow morning. Oh yes, everybody says the lights won't amount too
+much.</p>
+<p>Listen if you're thinking of us spending the Winter here you better not sell the old trailer.
+We can rent it. And if we buy these lots you can send me my postal notes from the bank.
+We can buy them with my money.</p>
+<pb/>
+<p>Billy caught a cold. He's helping mother bring in some wood. He also helped her chase
+the chickens into the chicken house. He likes Max better than mother.</p>
+<p>This is all for this time.</p>
+<p>I'll write again.</p>
+<p>Don't forget we love U. And we're lonesome for you.</p>
+<p>Faithfully yours,</p>
+<p>Sandra</p>
+<lb/>
+<p>Fri. A.M.</p>
+<p>Am at post office. Came to City Hall. Mr. Carlson told <add place="above">me</add> there's no back taxes on them lots. It's inside city limits. There's a sewer there and it costs
+$12.50 to tap $20.00 for the water a year. To <del type="strike">com</del> hook up the pipes
+to the trailers, that costs extra. And he says that eventually you would have to build a</p>
+
+<pb facs="shan_l.805.jpg"/>
+
+<p>house there. And no trailers are allowed here unless they're hooked up to the sewer. I
+have to go to court house in Greeley to find out about the abstract. I think there's no red
+tape to them. Well, shall we buy them or not?</p>
+<p>If we do you better send me my money that I've at the Post office in Denver.
+Billy is here with me. Have to go to Safeway’s.</p>
+<p>Be sure &amp; answer soon &amp; let me know what you think.</p>
+<closer>
+<salute>Lovingly yours,</salute>
+<signed>Sandra</signed>
+</closer>
+
+</div1>
+
+
+<div1 type="letter" xml:lang="es">
+                
+<pb facs="shan_l.803.jpg"/>
+                
+<opener>
+<dateline>12 de octubre de 1950</dateline>
+<dateline>Jueves.</dateline>
+
+<salute>Queridísimo Bill,</salute>
+</opener>
+
+<p>Fui al correo y no encontré carta.</p>
+<p>Te escribo con la poca información que tengo sobre los lotes. Bueno, anoche mamá y yo fuimos a ver los lotes en lugares distintos. Vi cuatro lotes que me gustaron. Están en una esquina. Mamá quiere dos y pensé que nosotros podíamos comprar los otros dos. Creo que por lo menos dos sería lo mejor para nosotros, porque tenemos dos trailers. En fin, fuimos a ver al hombre que está a cargo de los lotes. Dice que cuestan $125.00 cada uno –al contado. Y $150.00 a plazos. Me mandó al ayuntamiento <app loc="1"><rdg>gobierno de la ciudad</rdg></app>a preguntar por ellos, porque oí que
+venían con mucho trámite burocrático, y que tendría que</p>
+
+<pb facs="shan_l.804.jpg"/>
+
+<p>ir a Greeley para pedir el título de propiedad de los lotes. Y no sé si esos lotes están dentro o fuera de los límites de la ciudad. No sé mucho acerca del drenaje –solo que cuesta $12.50 para conectarse. Creo que se le paga a la ciudad. Iba a averiguar todo eso hoy en la tarde, pero llegué tarde al ayunatamiento <app loc="1"><rdg>gobierno de la ciudad</rdg></app>, cierra a las 3:00 pm. Iré ora vez mañana en la mañana. Ah sí, todo el mundo dice que la luz no sería muy cara.</p>
+<p>Mira, si estás pensando que pasemos el invierno aquí mejor no vendas el tráiler viejo. Podríamos rentarlo. Y si compramos estos lotes puedes mandarme mis notas postales del banco. Podemos comprarlos con mi dinero.</p>
+
+<pb/>
+
+<p>Billy se resfrió. Le está ayudando a mamá a meter la leña. También le ayudó a corretear a las gallinas para meterlas al gallinero. Le cae mejor Max que mamá.</p>
+<p>Esto es todo por hoy.</p>
+<p>Volveré a escribirte.</p>
+<p>No te olvides de que te queremos y te extrañamos mucho.</p>
+<p>Fielmente tuya <app loc="1"><rdg>tu fiel esposa</rdg></app></p>
+<p>Sandra</p>
+<lb/>
+<p>Viernes por la mañana</p>
+<p>Vine al ayuntamiento <app loc="1"><rdg>gobierno de la ciudad</rdg></app>. El señor Carlson me dijo que no se deben impuestos por esos lotes. Están dentro de los límites de la ciudad. Hay drenaje y cuesta $12.50
+conectarse y $20.00 al año por el agua. Se paga extra por conectar la tubería hasta los trailers. Dice que eventualmente se tendría que construir ahí</p>
+
+<pb facs="shan_l.805.jpg"/>
+
+<p>una casa. Y que no se permiten trailers a menos de que estén conectados al drenaje. Necesito ir a la corte de Greeley para preguntar por el título. Creo que no hay problemas burocráticos con esos lotes. Bueno, ¿los compramos o no?</p>
+<p>Si los vamos a comprar es mejor que me mandes mi dinero que está en la oficina de correos de Denver. Billy está aquí conmigo. Tengo que ir al Safeway</p>
+<p>Responde pronto y dime qué opinas.</p>
+
+<closer>
+<salute>Amorosamente tuya,</salute>
+<signed>Sandra</signed>
+</closer>
+
+</div1>
+
+<div1 type="envelope">
+
+<pb facs="shan_l.801.jpg"/>
+
+<ab type="address">
+<address>
+<addrLine>Mr. William F. Schubert</addrLine>
+<addrLine>Camp 67</addrLine>
+<addrLine>Rulo, Nebraska</addrLine>
+</address>
+</ab>
+
+<ab type="postmark">
+FORT LUPTON<lb/> 
+OCT 13<lb/>
+5:30 PM<lb/>
+1950<lb/>
+COLO<lb/>
+</ab>
+
+<figure type="stamp">
+<p/>
+</figure>
+
+<pb facs="shan_l.802.jpg"/>
+
+<ab type="return">
+<address>
+<addrLine>Mrs. Sandra B. Schubert</addrLine>
+<addrLine>P. O. Box 681</addrLine>
+<addrLine>Ft. Lupton, Colo.</addrLine>
+</address>
+</ab>
+
+
+</div1>
+</body>
+        
+<back/>
+</text>
+</TEI>

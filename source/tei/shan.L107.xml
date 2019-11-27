@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="shan_L107.meta">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">Letter from Jesusita Baros Torres to Santos Baros Schubert, July 26, 1962</title>
+<title type="main" xml:lang="es">Carta de Jesusita Baros Torres a Santos Baros Schubert, 26 de julio, 1962</title>
+<author>Baros Torres, Jesusita</author>
+<principal xml:id="iv001">Velázquez, Isabel</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name xml:id="af">Faxas, Adoni A.</name>
+<name xml:id="km">Mendell, Kate</name>
+<name xml:id="sbg">Garcia, Sarita B.</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2015</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Family Letters: An analysis of the Personal Correspondence of a Mexican American Family in Western Colorado and Eastern Nebraska in the First Half of the 20th Century</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Department of Modern Languages and Literatures</name>
+ <address>
+<addrLine>1111 Oldfather Hall</addrLine>
+<addrLine>660 N 12th</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+<addrLine>modlang2@unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+</address>
+<idno>shan_l107.meta</idno>
+<availability>
+<p>COPYRIGHT STATEMENT TO GO HERE</p>
+</availability>
+</publicationStmt>
+            
+<notesStmt><note/></notesStmt>
+            
+<sourceDesc>
+<bibl>
+<author>Baros Torres, Jesusita</author>
+<title level="m" type="main">Letter from Jesusita Baros Torres to Santos Baros Schubert</title>
+<date when="1962-07-26">July 26, 1962</date>
+<extent>3 pages and envelope</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Shanahan Collection</repository>
+<idno/>
+</msIdentifier>
+<msContents>
+<p>3 hand-written pages and envelope</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support/>
+<extent>3 pages and envelope
+<dimensions unit="mm"><height/><width/></dimensions>
+</extent>
+<condition>
+<p/></condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="h01" scribe="jbt001" medium="pen"><p>Media: black ink</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote><p/></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin/>
+<provenance/>
+<acquisition/>
+</history>
+</msDesc>
+                
+</sourceDesc>
+</fileDesc>
+        
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p/>
+</correction>
+<normalization>
+<p/>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term/>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term/>
+</keywords>
+<keywords scheme="original" n="topic">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term/>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName xml:id="jbt001">Baros Torres, Jesusita</persName>
+<placeName>Fort Lupton, Colorado</placeName>
+<date type="written" when="1962-07-26"/>
+<date type="postmarked" when="1962-07-26"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="sbs001">Baros Schubert, Santos</persName>
+<placeName>Lincoln, Nebraska</placeName>
+</correspAction>
+<correspContext>
+<ref type="prev" target="shan">Letter from x to y, date</ref>
+<ref type="next" target="shan">Letter from x to y, date</ref>
+</correspContext> 
+</correspDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2015" who="#af">Initial Encoding</change>
+<change when="2014" who="#km">Transcription</change>
+            
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>
+           
+
+<div1 type="letter" xml:lang="es">
+                
+<pb facs="shan_l.388.jpg"/>
+                
+<opener>
+<address><addrLine>ft. Lupton Colo</addrLine></address>
+<dateline>july 26,- 1962</dateline>
+
+
+<salute>Querida hija,</salute>
+</opener>
+
+<p>la precente es para Saludarte, á tí, á todos los muchachos, y al Bill; esperando que esten bien con Salud asi lo Deceo; pues nosotros estamos bien es por lo que le doy Gracía á Díosito Lindo;</p>
+                
+<p>pues reciví tu carta onde <unclear>beo</unclear> que me mandastes el cheke de 2, dollars; pues muchas Gracías; sí lo agradesco en Verda si callo el 15, july el mero día de mí cumple años; pues jesus me regalo una silla; para que me siente <add>en</add> el zacate eso díse el;</p>
+
+<p>buno tambíen te platicare que bino la Augrelia Sanchas tu te recuerdaras la Augrelia
+
+<pb facs="shan_l.390.jpg"/>
+
+<fw>2</fw>
+
+de Albuquerque n. mex. pues haora vive <del>en Albuquer</del> en Denver, la Pancha tu te acordaras; á quelle chiquita que cuando nos benimos tenía como 2, años, pero haora lla esta muy grande muy bonita; dise que trabaja de enfermera por el Govierno; aqui esta en Denver, vino me vesíto un Domingo ya esta muy vieja la Pobre; pues así como yo, ya estamos muy víejas; pues recívi mucho gusto yo; ella me abraso, y lloramos; bueno me díjo que tenía muchas ganas de berte conoser tus muchachos; y tu esposo;</p>
+
+<p>bueno pues hora que vengas díjo que fueramos á pasiarnos á su casa, quiza estara rentando</p>
+
+<pb facs="shan_l.392.jpg"/>
+
+<fw>3</fw>
+
+<p>bueno tambíen te platicare que se empesaron las piscas de fríjol, hora este día 26; pues al fín cuan pi<add>en</add>as en venír me avísas tan siquiera una semana antes; tu saves para saver alistar algo,</p>
+
+<p>bueno pues pues yo pienso que esto sera todo por esta ves muchos recuerdos <add>para</add> Bill, y los muchachos, tanto del jessee, y famílía y del max y de mi tu mamá que mejor deceo berte que escrívírte tu mamá</p> 
+
+<closer>                    
+<salute>Dios te Bendía higa son los deceos de tu mamá</salute>
+<signed>jesusita B. Torres;</signed>
+</closer>
+                
+</div1>
+
+<div1 type="envelope">
+
+<pb facs="shan_l.386.jpg"/>
+
+<ab type="return">
+<address>
+<addrLine><unclear reason="torn"/>14 Pacific ave.</addrLine>
+<addrLine><unclear reason="torn"/>t. Lupton Colo</addrLine>
+</address>
+</ab>
+
+<ab type="address">
+<address>
+<addrLine>Mrs. W. F. Schubert</addrLine>
+<addrLine>1016. South 40th st;</addrLine>
+<addrLine>Lincoln 10. nebraska</addrLine>
+</address>
+</ab>
+
+<ab type="postmark">
+FORT LUPTON<lb/> 
+JUL 26<lb/>
+3 M<lb/>
+1962<lb/>
+COLO<lb/>
+</ab>
+
+<figure type="stamp">
+<p/>
+</figure>
+
+<figure type="stamp">
+<p/>
+</figure>
+
+</div1>
+
+<div1 type="letter" xml:lang="en">
+                
+<pb facs="shan_l.388.jpg"/>
+                
+<opener>
+<address><addrLine>Ft. Lupton, Colorado</addrLine></address>
+<dateline>July 26, 1962</dateline>
+
+<salute>Dear daughter,</salute>
+</opener>
+
+<p>this letter is to greet you, and all the kids and Bill, hoping that you are well, as are my wishes. Well, we are well, for which I thank my <term type="informal">loving God</term>.</p>
+                
+<p>Well, I got your letter in which I read that you sent me a check for two dollars. Thank you, I truly appreciate it. It arrived on July 15th , right on my birthday. Well, Jesús gave me a chair, so that I can sit on the lawn, or so he says.</p>
+
+<p>Well, I will also tell you that Aurelia Sánchez came <add resp="iv001">to visit</add>. You will remember Aurelia
+
+<pb facs="shan_l.390.jpg"/>
+
+<fw>2</fw>
+
+from Albuquerque, New Mexico. Well now she lives in Denver. Pancha, you will remember, that little girl that was about two when we came here is now very big and very pretty. She says that she works as a nurse for the government. She’s here in Denver and came for a visit on a Sunday. She’s quite old, the poor woman, just like me. We are both very old. Well, it made me very happy. She hugged me and we cried. Well, she told me that she’s eager to see you, to meet your kids and your husband.</p>
+
+<p><add resp="iv001">She told me that</add> now that <app loc="1"><rdg>you’re coming</rdg></app> <app loc="1"><rdg>when you come</rdg></app> we should go for a visit to her home, she may be renting</p>
+
+<pb facs="shan_l.392.jpg"/>
+
+<fw>3</fw>
+
+<p>Well, I will also tell you that the bean harvest has started, now on the 26th. In the end, when are you thinking of coming? Let me know at least a week before. You, know, to get things ready.</p>
+
+<p>Well, I think this will be all for now. <app loc="1"><rdg>Many regards</rdg></app> <app loc="2"><rdg>Much love</rdg></app> for Bill and the kids from Jesse and his family, and from Max and from me, your mother, who would much rather see you than write to you</p> 
+
+<closer>                    
+<salute>God bless you, daughter, these are the wishes of your mom,</salute>
+<signed>Jesusita B. Torres</signed>
+</closer>
+                
+</div1>
+</body>
+        
+<back/>
+</text>
+</TEI>

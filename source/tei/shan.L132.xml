@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="shan_L132.meta">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">Letter from William F. Schubert to Santos Baros Schubert, May 9, 1948</title>
+<title type="main" xml:lang="es">Carta de William F. Schubert a Santos Baros Schubert, 09 de mayo, 1948</title>
+<author>Schubert, William F.</author>
+<principal xml:id="iv001">Velázquez, Isabel</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name xml:id="af">Faxas, Adoni A.</name>
+<name xml:id="sbg">Garcia, Sarita B.</name>
+ <name xml:id="ji">Isasi, Jennifer</name> 
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2016</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Family Letters: An analysis of the Personal Correspondence of a Mexican American Family in Western Colorado and Eastern Nebraska in the First Half of the 20th Century</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Department of Modern Languages and Literatures</name>
+ <address>
+<addrLine>1111 Oldfather Hall</addrLine>
+<addrLine>660 N 12th</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+<addrLine>modlang2@unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+</address>
+<idno>shan_L132.meta</idno>
+<availability>
+<p>COPYRIGHT STATEMENT TO GO HERE</p>
+</availability>
+</publicationStmt>
+            
+<notesStmt><note/></notesStmt>
+            
+<sourceDesc>
+<bibl>
+<author>Schubert, William F.</author>
+<title level="m" type="main">Letter from William F. Schubert to Santos Baros Schubert</title>
+<date when="1948-05-09">May 9, 1948</date>
+<extent>2 pages and envelope</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Shanahan Collection</repository>
+<idno/>
+</msIdentifier>
+<msContents>
+<p>2 hand-written pages and envelope</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support/>
+<extent>2 pages and envelope
+<dimensions unit="mm"><height/><width/></dimensions>
+</extent>
+<condition>
+<p/></condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="h01" scribe="wfs001" medium="pen"><p>Media: blue ink</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote><p/></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin/>
+<provenance/>
+<acquisition/>
+</history>
+</msDesc>
+                
+</sourceDesc>
+</fileDesc>
+        
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p/>
+</correction>
+<normalization>
+<p/>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term/>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term/>
+</keywords>
+<keywords scheme="original" n="topic">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term/>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName xml:id="wfs001">Schubert, William F.</persName>
+<placeName>Austin, Texas</placeName>
+<date type="written" when="1948-05-09"/>
+<date type="postmarked" when="1948-05-09"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="sbs001">Baros Schubert, Santos</persName>
+<placeName>Fort Lupton, Colorado</placeName>
+</correspAction>
+<correspContext>
+<ref type="prev" target="shan">Letter from x to y, date</ref>
+<ref type="next" target="shan">Letter from x to y, date</ref>
+</correspContext> 
+</correspDesc>
+</profileDesc>
+        
+<revisionDesc>
+<change when="2016" who="#af">Initial Encoding</change>
+<change when="2014" who="#af">Transcription</change>
+            
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>
+            
+<div1 type="letter" xml:lang="en">
+                
+<pb facs="shan_l.500.jpg"/>
+                
+<opener>
+<address><addrLine>Bergstrom Field</addrLine></address>
+<dateline>9 May 1948</dateline>
+
+<salute>My Darling Santos&amp;Billy –</salute>
+</opener>
+
+<p>I just finished my Sunday breakfast so am going to write; so I can mail it from town today.</p>
+                
+<p>Darling I am really missing you very much. Remember I love you greatly. Hope you are both well – So Billy’s cough better yet? – I am ok –</p>
+
+<p>yesterday, I and two fellows went to Austin; went through the capitol building; saw the University of Texas; looked around the stores and went out to see the Springs’ swimming pool – The fellows I was with didn’t want to walk much so I’m going back to see the rock&amp;flower gardens – The pool at the Springs is beautiful and clean – may go swimming today. We ate dinner and supper at a nice cafe in town for very reasonable prices. There was <del>D</del> a dance at the Service Club last night so we went over but only had a few girls <del>of</del> <add>and</add> most of them came because they had dates with the permanent party men so there was nothing doing there.</p>
+
+<p>This coming week I have four days of training then Friday we get paid&amp;check out so I’ll get in Denver Sunday morning about 8:15 – you can get Jess to drive you in to meet me or I’ll get a bus right on to Lupton, would probably be best. Anyway I’ll be with you and Billy next Sunday.</p>
+
+<pb facs="shan_l.502.jpg"/>
+
+<fw>-2-</fw>
+
+<p>As yet I haven’t had a letter from you as am looking for one tomorrow – Did I tell you that I am getting $1.25 a day for your Quarters, so that will be about $18.75 more than I figured I’d get. Being I have to wait part of the day to get a train when I leave I’m going to buy you and Billy some things – Was going to get them yesterday but thought I might lose or break something –</p>
+
+<p>Sweetheart I love you very very much so remember that – take good care of your-self –</p>
+
+<closer>
+<salute>Always yours<lb/>
+Your husband<lb/></salute>                    
+<signed>Bill</signed>
+</closer>
+
+<postscript>
+<p>Yo te amo mucho mucho</p>
+</postscript>
+ 
+</div1> 
+
+<div1 type="envelope">
+
+<pb facs="shan_l.498.jpg"/>
+
+<ab type="address">
+<address>
+<addrLine>Mrs. Santos B. Schubert</addrLine>
+<addrLine>General Delivery</addrLine>
+<addrLine>Ft. Lupton</addrLine>
+<addrLine>Colorado</addrLine>
+</address>
+</ab>
+
+<ab type="postmark">
+AUSTIN<lb/>
+MAY 9<lb/>
+5 PM<lb/>
+1948<lb/>
+TEX.<lb/>
+</ab>
+
+<pb facs="shan_l.499.jpg"/>
+
+<ab type="postmark">
+FORT LUPTON<lb/>
+MAY 11<lb/>
+9 PM<lb/>
+1948<lb/>
+COLO.<lb/>
+</ab>
+
+</div1>
+
+<div1 type="letter" xml:lang="es">
+                
+<pb facs="shan_l.500.jpg"/>
+                
+<opener>
+<address><addrLine>Base Aérea Bergstrom</addrLine></address>
+<dateline>9 de mayo de 1948</dateline>
+
+<salute>Mis queridos Santos y Billy –</salute>
+</opener>
+
+<p>Acabo de terminar mi desayuno dominical, así que voy a ponerme a escribir esta carta para poder enviarla hoy desde el pueblo.</p>
+                
+<p>Mi amor, te extraño mucho. Recuerda que te amo mucho. Espero que estén bien – ¿Mejoró la tos de Billy? – Yo estoy bien –</p>
+
+<p>Ayer, yo y dos compañeros fuimos a Austin. Entramos al capitolio, vimos la universidad de Texas, curioseamos por las tiendas y fuimos a ver la piscina del manantial. Los compañeros con los que iba no querían caminar mucho, así que voy a volver para ver la roca y las flores del jardín. La piscina del manantial está muy bonita y muy limpia – es posible que hoy vaya a nadar. Comimos y cenamos en una cafetería del pueblo muy buena y a precio muy razonable. Anoche había un <certainty locus="name" cert="medium"><desc>juego</desc></certainty> en el club <add resp="iv001">Service Club</add> así que fuimos, pero solamente había algunas chicas y la mayoría habían ido porque ya tenían cita con los fiesteros de siempre, así que no teníamos nada que hacer allá.</p>
+
+<p>Esta semana que viene tengo cuatro días de entrenamiento y el viernes me pagan y salgo, así que estaré en Denver el domingo en la mañana, como a las 8:15 – Puedes pedirle a Jess que te lleve en el auto para recibirme, o puedo tomar un autobús directamente hasta Lupton. Quizá sea lo mejor. De cualquier forma estaré contigo y con Billy el próximo domingo.</p>
+
+<pb facs="shan_l.502.jpg"/>
+
+<fw>-2-</fw>
+
+<p>A la fecha no he recibido carta tuya, así que espero una mañana – ¿Te conté que me van a dar $1.25 por día por tus <certainty locus="name" cert="medium"><desc>Quarters</desc></certainty>, así que serán $18.75 más de lo que había pensado recibir. Como tengo que esperar parte del día para tomar el tren, cuando me vaya voy a comprar algunas cosas para ti y para Billy – Las iba a comprar ayer, pero pensé que se me podían perder o quebrar o algo –</p>
+
+<p>Cariño, te amo mucho mucho, recuérdalo – Cuídate mucho.</p>
+
+<closer>
+<salute>Siempre tuyo<lb/>
+Tu esposo<lb/></salute>                    
+<signed>Bill</signed>
+</closer>
+
+<postscript>
+<p>I love you very very much</p>
+</postscript>
+ 
+</div1>
+
+</body>
+        
+<back/>
+</text>
+</TEI>

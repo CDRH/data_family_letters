@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="shan_L202.meta">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">Letter from Jesusita Baros Torres to Santos Baros Schubert, February 12, 1963</title>
+<title type="main" xml:lang="es">Carta de Jesusita Baros Torres a Santos Baros Schubert, 12 de febrero, 1963</title>
+<author>Baros Torres, Jesusita</author>
+<principal xml:id="iv001">Velázquez, Isabel</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name xml:id="af">Faxas, Adoni A.</name>
+<name xml:id="iv">Velázquez, Isabel</name>
+<name xml:id="sbg">Garcia, Sarita B.</name>
+ <name xml:id="ji">Isasi, Jennifer</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Family Letters: An analysis of the Personal Correspondence of a Mexican American Family in Western Colorado and Eastern Nebraska in the First Half of the 20th Century</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Department of Modern Languages and Literatures</name>
+ <address>
+<addrLine>1111 Oldfather Hall</addrLine>
+<addrLine>660 N 12th</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+<addrLine>modlang2@unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+</address>
+<idno>shan_L202.meta</idno>
+<availability>
+<p>COPYRIGHT STATEMENT TO GO HERE</p>
+</availability>
+</publicationStmt>
+            
+<notesStmt><note/></notesStmt>
+            
+<sourceDesc>
+<bibl>
+<author>Baros Torres, Jesusita</author>
+<title level="m" type="main">Letter from Jesusita Baros Torres to Santos Baros Schubert</title>
+<date when="1963-02-12">February 12, 1963</date>
+<extent>2 pages and envelope</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Shanahan Collection</repository>
+<idno/>
+</msIdentifier>
+<msContents>
+<p>2 hand-written pages and envelope</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support/>
+<extent>2 pages and envelope
+<dimensions unit="mm"><height/><width/></dimensions>
+</extent>
+<condition>
+<p/></condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="h01" scribe="jbt001" medium="pen"><p>Media: black ink</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote><p/></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin/>
+<provenance/>
+<acquisition/>
+</history>
+</msDesc>
+                
+</sourceDesc>
+</fileDesc>
+        
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p/>
+</correction>
+<normalization>
+<p/>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term/>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term/>
+</keywords>
+<keywords scheme="original" n="topic">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term/>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName xml:id="jbt001">Baros Torres, Jesusita</persName>
+<placeName>Fort Lupton, Colorado</placeName>
+<date type="written" when="1963-02-12"/>
+<date type="postmarked" when="1963-02-12"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="sbs001">Baros Schubert, Santos</persName>
+<placeName>Lincoln, Nebraska</placeName>
+</correspAction>
+<correspContext>
+<ref type="prev" target="shan">Letter from x to y, date</ref>
+<ref type="next" target="shan">Letter from x to y, date</ref>
+</correspContext> 
+</correspDesc>
+</profileDesc>
+        
+<revisionDesc>
+<change when="2017" who="#af">Initial Encoding</change>
+<change when="2016" who="#iv">Transcription</change>
+            
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>
+            
+<div1 type="letter" xml:lang="es">
+                
+<pb facs="shan_l.707.jpg"/>
+                
+<opener>
+<address><addrLine>ft, Lupton Colo</addrLine></address>
+<dateline>Febru 12, – 1963.</dateline>
+
+<salute>Querida hija.</salute>
+</opener>
+                
+<p>La precente es para Saludarlos, á ti, y tu Espozo, y á los muchachos, despues de saludarlos á todos desirte lo síguiente;</p>
+
+<p>que emos estado bien Gracías á Díos; pues recívi tu carta el 28, de jan, pues ese mero día antes de agar la tuya te mande la mia, bueno pues como quiera que sea estoy sabíendo de uds; que estan bien;</p>
+ 
+<p>y tambien te díre que oy este día esta muy bonito el 12, Febru pero duro 1. <add>jan</add> mes mas frío. que abajo 025, pues oy este día es día de su Santo Helen.nacio el 1922. Tambíen ya tíene sus 41, años pues un día platicando me enzeño el acta de nacímiento
+
+<pb facs="shan_l.708.jpg"/>
+
+y el baby marky ba á cumplír un año el 24, de Febru, esta parecído á jesus. pero este niño ba á ser mas príetito, se me ase á mí, muy gordito que esta y ya anda;</p>
+
+<p>bueno la Aurelia; me escríbe y me combida que baya para ya Albuquerque N. Mex. la Frances díse que ba, pues quíen sabe, sí acazo boy yo te escrívo;</p>
+
+<p>bueno híja pues yo pienzo que esto sera todo por esta ves pero tu síempre escríveme, para no estar con pena de Uds; muchos recuerdos para todos en general, y á la Elizabeth dile Halo,</p>
+
+<closer>
+<salute>por mí tu mamá que les desea felecídadez.</salute>                    
+<signed>Por max y jesusita B. Torres;</signed>
+</closer>
+                
+</div1>
+
+
+<div1 type="letter" xml:lang="en">
+                
+<pb facs="shan_l.707.jpg"/>
+                
+<opener>
+<address><addrLine>Ft. Lupton, Colorado</addrLine></address>
+<dateline>February 12, – 1963.</dateline>
+
+<salute>Dear daughter, </salute>
+</opener>
+                
+<p>this letter is to greet you, your husband, and the kids, and after greeting you all tell you the following:</p>
+
+<p>that we’ve been well, thank God. Well <app loc="1" cert="high"><rdg>So</rdg></app> I received your letter on January 28, and that same day, before I got your letter I sent you mine. Well, no matter, I’m hearing from you and finding out that you are well. I will also tell you that today, this day, February 12, is a lovely day. But the cold lasted <app loc="1" cert="high"><rdg>but the cold has been hard</rdg></app> January was the coldest month, below 25 degrees. Well, today is Helen’s birthday. She was born in 1922. She is 41 years old. Well, we were talking one day and she showed me her birth certificate.
+
+<pb facs="shan_l.708.jpg"/>
+
+and baby Marky will be one year old on February 24. He is starting to look like Jesús. But this boy <app loc="1" cert="high"><rdg>this child</rdg></app>will be a little darker, it seems to me. He’s very chubby and is walking already.</p>
+
+<p>Well, Aurelia writes to me [wrote to me] inviting me to go to Albuquerque N. Mex. Frances says that she’s going. I don’t know. If by chance I do go, I’ll write to you.</p>
+
+<p>Well daughter, I think that this will be all for now, but do write to me, so I’m not worried about <term type="plural">you</term>. Many regards <app loc="1"><rdg>much love</rdg></app> for everyone in general, and tell Elizabeth hello for me,</p>
+
+<closer>
+<salute>your mom who wishes you all happiness.</salute>                    
+<signed>For Max <app loc="1"><rdg>In Max’s name</rdg></app> and Jesusita B. Torres</signed>
+</closer>
+                
+</div1>
+
+
+<div1 type="envelope">
+
+<pb facs="shan_l.705.jpg"/>
+
+<ab type="return">
+<address>
+<addrLine>jesusita Torres</addrLine>
+<addrLine>814. Pacífic ave</addrLine>
+<addrLine>ft Lupton colo</addrLine>
+</address>
+</ab>
+
+<ab type="address">
+<address>
+<addrLine>mrs. W. F. Schubert</addrLine>
+<addrLine>1016, South 40th st.</addrLine>
+<addrLine>Lincoln 10, nebraska;</addrLine>
+</address>
+</ab>
+
+<ab type="postmark">
+FORT LUPTON<lb/> 
+FEB 12<lb/>
+4 PM<lb/>
+1963<lb/>
+COLO.<lb/>
+</ab>
+
+<figure type="stamp">
+<p/>
+</figure>
+
+<figure type="stamp">
+<p/>
+</figure>
+
+</div1>
+
+<div1 type="letter" xml:lang="en">
+  
+<pb facs="shan_l.707.jpg"/>
+  
+<opener>
+<address><addrLine>Fort Lupton, Colorado</addrLine></address>
+<dateline>February 12, 1963</dateline>
+   
+<salute>Dear daughter,</salute>
+</opener>
+ 
+<p>this letter is to greet you, your husband, and the kids, and after greeting you all tell you the following:</p>  
+
+<p>that we’ve been well, thank God. Well I received your letter on January 28, and that same day, before I got your letter I sent you mine. Well, no matter, I’m hearing from you and finding out that you are well.</p>
+ 
+<p>I will also tell you that today, this day, February 12, is a lovely day. But the cold lasted <certainty locus="name" cert="high"/><app loc="1"><rdg>but the cold has been hard</rdg></app> January was the coldest month, below 25 degrees <certainty locus="value" cert="low"/> Well, today is Helen’s birthday. She was born in 1922. She is 41 years old. Well, we were talking one day and she showed me her birth certificate
+
+<pb facs="shan_l.708.jpg"/>
+ 
+and baby Marky will be one year old on February 24. He is starting to look like Jesús. But this boy <certainty locus="name" cert="high"/><app loc="1"><rdg>this child</rdg></app> will be a little darker, it seems to me. He’s very chubby and is walking already.</p>
+
+<p>Well, Aurelia wrote to me inviting me to go to Albuquerque N. Mex. Frances says that she’s going. I don’t know. If by chance I do go, I’ll write to you.</p>
+ 
+<p>Well daughter, I think that this will be all for now, but do write to me, so I’m not worried about you. Many regards for everyone in general, and tell Elizabeth hello for me.</p> 
+
+<closer>
+<salute>Your mom who wishes you all happiness.</salute>                    
+<signed>In Max’s name and Jesusita B. Torres</signed>
+</closer>
+ 
+</div1>
+
+</body>
+        
+<back/>
+</text>
+</TEI>

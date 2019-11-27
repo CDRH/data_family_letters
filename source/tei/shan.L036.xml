@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="shan_L036.meta">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">Letter from Maximino Torres to Clemente Torres, June 19, 1939</title>
+<title type="main" xml:lang="es">Carta de Maximino Torres a Clemente Torres, 19 de junio, 1939</title>
+<author>Torres, Maximino</author>
+<principal xml:id="iv001">Velázquez, Isabel</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name xml:id="jda">Avelar, Janette D.</name>
+<name xml:id="km">Mendell, Kate</name>
+<name xml:id="sbg">Garcia, Sarita B.</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2015</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Family Letters: An analysis of the Personal Correspondence of a Mexican American Family in Western Colorado and Eastern Nebraska in the First Half of the 20th Century</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Department of Modern Languages and Literatures</name>
+ <address>
+<addrLine>1111 Oldfather Hall</addrLine>
+<addrLine>660 N 12th</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+<addrLine>modlang2@unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+</address>
+<idno>shan_L036.meta</idno>
+<availability>
+<p>COPYRIGHT STATEMENT TO GO HERE</p>
+</availability>
+</publicationStmt>
+            
+<notesStmt><note/></notesStmt>
+            
+<sourceDesc>
+<bibl>
+<author>Torres, Maximino</author>
+<title level="m" type="main">Letter from Maximino Torres to Clemente Torres</title>
+<date when="1939-06-19">June 19, 1939</date>
+<extent>4 pages and envelope</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Shanahan Collection</repository>
+<idno/>
+</msIdentifier>
+<msContents>
+<p>4 hand-written pages and envelope</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support/>
+<extent>4 pages and envelope
+<dimensions unit="mm"><height/><width/></dimensions>
+</extent>
+<condition>
+<p/></condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="h01" scribe="mt001" medium="pencil"><p>Media: lead/graphite</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote><p/></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin/>
+<provenance/>
+<acquisition/>
+</history>
+</msDesc>
+                
+</sourceDesc>
+</fileDesc>
+        
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p/>
+</correction>
+<normalization>
+<p/>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term/>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term/>
+</keywords>
+<keywords scheme="original" n="topic">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term/>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName xml:id="mt001">Torres, Maximino</persName>
+<placeName>Longmont, Colorado</placeName>
+<date type="written" when="1939-06-19"/>
+<date type="postmarked" when="1939-06-19"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="ct001">Torres, Clemente</persName>
+<placeName>Churintzio, Michoacán, México</placeName>
+</correspAction>
+<correspContext>
+<ref type="prev" target="shan">Letter from x to y, date</ref>
+<ref type="next" target="shan">Letter from x to y, date</ref>
+</correspContext> 
+</correspDesc>
+</profileDesc>
+        
+<revisionDesc>
+<change when="2015" who="#jda">Initial Encoding</change>
+<change when="2014" who="#km">Transcription</change>
+            
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>
+            
+<div1 type="letter" xml:lang="es">
+                
+<pb facs="shan_l.033.jpg"/>
+                
+<opener>
+<fw>1</fw>
+<address><addrLine>Longmont Colo,</addrLine></address>
+<dateline>19 junio 1939.</dateline>
+
+<address><addrLine>Sr.<lb/>
+Clemente Torres<lb/></addrLine></address>
+
+<salute>Muy estimado hermano</salute>
+</opener>
+
+<p>La presente es pa saludarles á todos en General desiando se incuentren con felisida. nosotros estamos bíen  grasias á Dios.</p>
+                
+<p>pues hermano sepues de saludarte á ti á toda tu familia te digo lo siguiente que yo estoy bibiendo aquí con una familia, la Señora es viauda si Dios no Leicensía quiero casarme yo con la Señora, yo te dire asien como pase para mas delante</p>
+
+<pb facs="shan_l.034.jpg"/>
+
+<fw>2</fw>
+
+<p>sabras que la esposa que yo tenía no pudimos bibir agusto, pues atocante de Reynaldo te digo que ya me escribio una carta y yo le conteste haora estoy esperando contestasion no se si me contestara ó no pues hermano de lo que me dises que si me bas á mandar un retrato de toda tu familia pues sería mucho gusto para mí el verte con todos de tu familia. nomas que no se te olbide, yo tambien boy a ser lo posible lo mas pronto que pueda á mandartelo. pues hermano dime sí ya ay Armobil ó carros tu saves que cuando yo</p>
+
+<pb facs="shan_l.035.jpg"/>
+
+<fw>3</fw>
+
+<p>me bine no se usavan y haora é oído desir que ay muchos y dime si ablas con tu padrín Aurílío Sanches para mandarte un papel para que se lo des á el y díme sí no pudites arregalar la direcsión de mí tía Lola en esta no me díses nada de ella.</p>
+
+<closer><salute>Bueno hermano creo que es todo por esta ves dales á todos en General mís recuerdos á tu esposa y tu familia y á tus papás políticos. y de mí rresibe el mas fino rrecuerdo de tu hermano te deseo mil felesidades</salute>
+
+<pb facs="shan_l.036.jpg"/>
+
+<fw>4</fw>
+
+<signed>Mr. Maxcimino Torres</signed>
+<address><addrLine>In care B Kenndy R.3.</addrLine></address> 
+<address><addrLine>Longmont Colo</addrLine></address>
+</closer>
+
+<postscript><p>fabor de pintar su letra mas clara</p></postscript>
+                
+</div1>
+
+<div1 type="envelope" xml:lang="es">
+
+<pb facs="shan_l.031.jpg"/>
+
+<ab type="return">
+<address>
+<addrLine>after 5 days return to</addrLine> 
+<addrLine>max torres in care B.</addrLine>
+<addrLine>Kenndy R.3. LongmontColo</addrLine>
+</address>
+</ab>
+
+<ab type="address">
+<address>
+<addrLine>Mr. Clemente Torres</addrLine> 
+<addrLine>Lista de correos</addrLine> 
+<addrLine>Churintzio Mich</addrLine>
+<addrLine>Mex</addrLine>
+</address>
+</ab>
+
+<ab type="postmark">
+Longmont<lb/>
+JUN19<lb/>
+1939<lb/>
+2PM<lb/>
+Colo.<lb/>
+</ab>
+
+<figure type="stamp">
+<p/>
+</figure>
+
+<ab type="stamp">
+Devuelta al remitente<lb/>
+</ab>
+
+<ab type="stamp">
+RETURNED TO<lb/>
+WRITER<lb/>
+D.D.L.<lb/>
+</ab>
+
+<pb facs="shan_l.032.jpg"/>
+
+<ab type="stamp">
+Non réclamée.<lb/>
+No reclamada.<lb/>
+</ab>
+
+<ab type="postmark">
+CHURINTZIO <lb/>
+24 JUN39 11-<lb/>
+MICH<lb/>
+</ab>
+
+<ab type="postmark">
+CHURITZIO<lb/>
+-1 JUL.3911-30<lb/>
+MICH<lb/>
+</ab>
+
+<ab type="postmark">
+LA PIEDAD<lb/>
+23-JUN39<lb/>
+MICH<lb/>
+</ab>
+
+<ab type="postmark">
+WASHINGTON D.C.<lb/>
+OCT<lb/> 
+11<lb/>
+1939<lb/>
+<unclear reason="illegible"/><lb/>
+</ab>
+
+</div1>
+
+<div1 type="letter" xml:lang="en">
+                
+<pb facs="shan_l.033.jpg"/>
+                
+<opener>
+<fw>1</fw>
+<address><addrLine>Longmont, Colorado</addrLine></address>
+<dateline>June 19, 1939</dateline>
+
+<address><addrLine>Mr.<lb/>
+Clemente Torres<lb/></addrLine></address>
+
+<salute>Very esteemed brother</salute>
+</opener>
+
+<p>this <add resp="#iv001">letter</add> is to greet all of you, hoping that it finds you happy. We are well, thank God.</p>
+                
+<p>Well, brother, after greeting you and your family I proceed to tell you that I am living here with a family. The lady is a widow, and if God grants his permission I want to marry her. I will let you know as soon as it happens, later on</p>
+
+<pb facs="shan_l.034.jpg"/>
+
+<fw>2</fw>
+
+<p><app loc="1"><rdg>You will know </rdg></app><app loc="2"><rdg>I can tell you</rdg></app> that my former wife and I could not live happily together. Well, about Reynaldo, I will tell you that he already wrote me and I replied. I am now waiting for his answer. I don’t know if he will answer me or not. So, brother, you tell me that you are going to send me a photo of your family, it would please me very much to see you with all the members of your family, so don’t forget. I will also make an effort to send you <add resp="iv001">my photo</add> as soon as I can. Well, brother, tell me if there are automobiles or cars <add resp="iv001">there</add>. You know that when I</p>
+
+<pb facs="shan_l.035.jpg"/>
+
+<fw>3</fw>
+
+<p>came there weren’t any, and now I’ve heard it said that there are many, and tell me if you talk to your godfather Aurelio Sánchez, so that I can send you a document to give to him, and tell me if you were able to <add resp="iv001">find out</add> aunt Lola’s address, because you don’t say anything about her in this letter.</p>
+
+<closer><salute>Well brother, I think that this is all for now, give everyone my regards, to your wife and your family, and your in laws. And from me, receive the finest regards from your brother, I wish you a thousand happinesses <app loc="1"><rdg>much happiness</rdg></app></salute>
+
+<pb facs="shan_l.036.jpg"/>
+
+<fw>4</fw>
+
+<signed>Mr. Maxcimino Torres</signed>
+<address><addrLine>In care B Kenndy R.3.</addrLine></address> 
+<address><addrLine>Longmont Colo</addrLine></address>
+</closer>
+
+<postscript><p>Please write more clearly.</p></postscript>
+                
+</div1>
+
+<div1 type="envelope" xml:lang="en">
+
+<pb facs="shan_l.031.jpg"/>
+
+<ab type="return">
+<address>
+<addrLine>after 5 days return to</addrLine> 
+<addrLine>max torres in care B.</addrLine>
+<addrLine>Kenndy R.3. LongmontColo</addrLine>
+</address>
+</ab>
+
+<ab type="address">
+<address>
+<addrLine>Mr. Clemente Torres</addrLine> 
+<addrLine>General delivery</addrLine> 
+<addrLine>Churintzio Mich</addrLine>
+<addrLine>Mex</addrLine>
+</address>
+</ab>
+
+<ab type="postmark">
+Longmont<lb/>
+JUN19<lb/>
+1939<lb/>
+2PM<lb/>
+Colo.<lb/>
+</ab>
+
+<figure type="stamp">
+<p/>
+</figure>
+
+<ab type="stamp">
+Devuelta al remitente<lb/>
+</ab>
+
+<ab type="stamp">
+RETURNED TO<lb/>
+WRITER<lb/>
+D.D.L.<lb/>
+</ab>
+
+<pb facs="shan_l.032.jpg"/>
+
+<ab type="stamp">
+Non réclamée. [Unclaimed, French]<lb/>
+No reclamada. [Unclaimed, Spanish]<lb/>
+</ab>
+
+<ab type="postmark">
+CHURINTZIO <lb/>
+24 JUN39 11-<lb/>
+MICH<lb/>
+</ab>
+
+<ab type="postmark">
+CHURITZIO<lb/>
+-1 JUL.3911-30<lb/>
+MICH<lb/>
+</ab>
+
+<ab type="postmark">
+LA PIEDAD<lb/>
+23-JUN39<lb/>
+MICH<lb/>
+</ab>
+
+<ab type="postmark">
+WASHINGTON D.C.<lb/>
+OCT<lb/> 
+11<lb/>
+1939<lb/>
+<unclear reason="illegible"/><lb/>
+</ab>
+
+</div1>
+
+</body>
+        
+<back/>
+</text>
+</TEI>

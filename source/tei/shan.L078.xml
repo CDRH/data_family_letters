@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="shan_L078.meta">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">Letter from Jesusita Baros Torres to Santos Baros Schubert, February 4, 1957</title>
+<title type="main" xml:lang="es">Carta de Jesusita Baros Torres a Santos Baros Schubert, 4 de febrero, 1957</title>
+<author>Baros Torres, Jesusita</author>
+<principal xml:id="iv001">Velázquez, Isabel</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name xml:id="jda">Avelar, Janette D.</name>
+<name xml:id="km">Mendell, Kate</name>
+<name xml:id="sbg">Garcia, Sarita B.</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2015</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Family Letters: An analysis of the Personal Correspondence of a Mexican American Family in Western Colorado and Eastern Nebraska in the First Half of the 20th Century</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Department of Modern Languages and Literatures</name>
+ <address>
+<addrLine>1111 Oldfather Hall</addrLine>
+<addrLine>660 N 12th</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+<addrLine>modlang2@unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+</address>
+<idno>shan_L078.meta</idno>
+<availability>
+<p>COPYRIGHT STATEMENT TO GO HERE</p>
+</availability>
+</publicationStmt>
+            
+<notesStmt><note/></notesStmt>
+            
+<sourceDesc>
+<bibl>
+<author>Baros Torres, Jesusita</author>
+<title level="m" type="main">Letter from Jesusita Baros Torres to Santos Baros Schubert</title>
+<date when="1957-02-04">February 4, 1957</date>
+<extent>3 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Shanahan Collection</repository>
+<idno/>
+</msIdentifier>
+<msContents>
+<p>3 hand-written pages</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support/>
+<extent>3 pages
+<dimensions unit="mm"><height/><width/></dimensions>
+</extent>
+<condition>
+<p/></condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="h01" scribe="jbt001" medium="pen"><p>Media: black ink</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote><p/></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin/>
+<provenance/>
+<acquisition/>
+</history>
+</msDesc>
+                
+</sourceDesc>
+</fileDesc>
+        
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p/>
+</correction>
+<normalization>
+<p/>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term/>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term/>
+</keywords>
+<keywords scheme="original" n="topic">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term/>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName xml:id="jbt001">Baros Torres, Jesusita</persName>
+<placeName>Fort Lupton, Colorado</placeName>
+<date type="written" when="1957-02-04"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="sbs001">Baros Schubert, Santos</persName>
+<placeName/>
+</correspAction>
+<correspContext>
+<ref type="prev" target="shan">Letter from x to y, date</ref>
+<ref type="next" target="shan">Letter from x to y, date</ref>
+</correspContext> 
+</correspDesc>
+</profileDesc>
+        
+<revisionDesc>
+<change when="2015" who="#jda">Initial Encoding</change>
+<change when="2014" who="#km">Transcription</change>
+            
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>
+            
+<div1 type="letter" xml:lang="es">
+                
+<pb facs="shan_l.240.jpg"/>
+                
+<opener>
+<fw>1</fw>
+<address><addrLine>ft. Lupton Colo</addrLine></address>
+<dateline>4, Febrero, 1957.</dateline>
+
+<salute>Querida hija,</salute>
+</opener>
+
+<p>la precente es para saludarlos á todos tanto á ti, como al Bill, á los niños;</p>
+                
+<p>ya ase dias que reciví esta; yo estaba con pena de Uds; y te escriví y ese dia que fui á echar la <del>cata</del> carta; ese mismo dia aye esta; onde benía los retratos de los niños muchas gracias salieron muy bien yo quisiera tener un retrato de todos de tí, el Bill; y los niños;</p>
+
+<p>me escribío la Betty, y recibí mucho gusto; tan siquiera si acuerda, de mí yo pensaba que no podía escribir en español pero sí sabe;</p>
+
+<p>que bueno, dise que esta trabajando ella y su esposo; y la suegra le cuída los niños;</p>
+
+<p>y tiene muchas ganas de berme;</p>
+
+<pb facs="shan_l.242.jpg"/>
+<fw>2</fw>
+
+<p>ojala y biniera algún día; yo le agredesco mucho; yo ya tan vieja; y sin poder ablar el ingles, pienso que asta se afrentaran, que diran; esta viejá; tonta ní save ablar, nada;</p>
+
+<p>pues yo sí quiero, ablar el ingles. pero no puedo; asta á mí me da pena; bueno Helen es muy buena con migo; ella me á llebado al Doctor; y tambien aversí areģlamos el seguro socíal; aquí biene una bes al mes; quíen sabe quedaron de escribir; bueno y dime como an seguido el Bill, con su enfermeda; yo parese que estoy muy bien no te tardes mucho en escríbirme porque yo tengo pena de ti;</p>
+
+<pb facs="shan_l.243.jpg"/>
+
+<fw>3.</fw>
+
+<p>muchos recuerdos para ti y el Bill y los niños; de jessee y familia; y Max y de mí tu mamá que te deseo, que estes bien vivan agusto, en tu casa, y con tu esposo. aqui cada rato se miran pleitos con los maridos les pegan; y ay ando yo metiendo paz; que feo, que triste; y luego me acuerdo, de Uds; tu nunca me dises nada; ojala y esten bien; es lo que siempre le pido á Dios que ayude tanto <add>á ti</add> con tu esposo, y hijos;</p>
+
+<closer> 
+<salute>tu mamá</salute>    
+               
+<signed>jesusita B. Torres</signed>
+</closer>
+                
+</div1>
+
+<div1 type="letter" xml:lang="en">
+                
+<pb facs="shan_l.240.jpg"/>
+                
+<opener>
+<fw>1</fw>
+<address><addrLine>Ft. Lupton, Colorado</addrLine></address>
+<dateline>February 4, 1957.</dateline>
+
+<salute>Dear daughter,</salute>
+</opener>
+
+<p>this letter is to greet you all: You, Bill and the kids.</p>
+                
+<p>I got your letter several days ago. I was worried about you, so I wrote you, and the day I went to mail the letter, that same day, I found this <add resp="iv001">letter</add> with the photos of the kids. Thank you, they came out very well. I would like to have a photo of all of you: You, Bill and the kids.</p>
+
+<p>Betty wrote to me and it made me very happy. At least she remembers me. I thought she couldn’t write in Spanish, but she does know how.</p>
+
+<p>That’s good. She says that she they are working, her husband and her, and her mother-in-law takes care of the kids;</p>
+
+<p>and she is very eager to see me.</p>
+
+<pb facs="shan_l.242.jpg"/>
+<fw>2</fw>
+
+<p>I wish she would come one day. I appreciate her so. I’m so old and can’t speak English. I think they may even be offended, they may say ‘this foolish old woman doesn’t even know how to speak or anything’.</p>
+
+<p>Well, I do want to speak English, but I can’t. Even I get embarrassed. Well, Helen is very good to me; she has taken me to the doctor, and also, to see if they give me the Social Security. It comes once a month here. Who knows, they promised to write. Well, tell me how is Bill with his illness. I seem to be very well. Don’t take too long to write to me because I worry about you.</p>
+
+<pb facs="shan_l.243.jpg"/>
+
+<fw>3.</fw>
+
+<p><app loc="1"><rdg>Many regards</rdg></app> <app loc="2"><rdg>Warm regards</rdg></app> <app loc="3"><rdg>Much love</rdg></app> to you and to Bill and the kids from Jesse and family; and from Max and from me, your mother who wishes that you are well, and living <app loc="1"><rdg>comfortably</rdg></app> <app loc="2"><rdg>happily</rdg></app> in your home and with your husband. Around here we see fights very often; the husbands hit them, and there I go trying to appease things. How ugly, how sad. And later I think about you. You never tell me anything; I hope you are well. It’s what I always ask from God, that he help you with your husband and your kids.</p>
+
+<closer> 
+<salute>Your mom</salute>    
+               
+<signed>Jesusita B. Torres</signed>
+</closer>
+                
+</div1>
+
+</body>
+        
+<back/>
+</text>
+</TEI>

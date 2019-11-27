@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="shan_L047.meta">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">Letter from Demetrio Flemate to Jesusita Baros Torres, October 18, 1975</title>
+<title type="main" xml:lang="es">Carta de Demetrio Flemate a Jesusita Baros Torres, 18 de octubre, 1975</title>
+<author>Flemate, Demetrio</author>
+<principal xml:id="iv001">Velázquez, Isabel</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name xml:id="jda">Avelar, Janette D.</name>
+<name xml:id="iv002">Velázquez, Isabel</name>
+<name xml:id="sbg">Garcia, Sarita B.</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2015</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Family Letters: An analysis of the Personal Correspondence of a Mexican American Family in Western Colorado and Eastern Nebraska in the First Half of the 20th Century</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Department of Modern Languages and Literatures</name>
+ <address>
+<addrLine>1111 Oldfather Hall</addrLine>
+<addrLine>660 N 12th</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+<addrLine>modlang2@unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+</address>
+<idno>shan_L047.meta</idno>
+<availability>
+<p>COPYRIGHT STATEMENT TO GO HERE</p>
+</availability>
+</publicationStmt>
+            
+<notesStmt><note/></notesStmt>
+            
+<sourceDesc>
+<bibl>
+<author>Flemate, Demetrio</author>
+<title level="m" type="main">Letter from Demetrio Flemate to Jesusita Baros Torres</title>
+<date when="1975-10-18">October 18, 1975</date>
+<extent>2 pages and envelope</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Shanahan Collection</repository>
+<idno/>
+</msIdentifier>
+<msContents>
+<p>2 hand-written pages and envelope</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support/>
+<extent>2 pages and envelope
+<dimensions unit="mm"><height/><width/></dimensions>
+</extent>
+<condition>
+<p/></condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="h01" scribe="df001" medium="pen"><p>Media: blue ink</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote><p/></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin/>
+<provenance/>
+<acquisition/>
+</history>
+</msDesc>
+                
+</sourceDesc>
+</fileDesc>
+        
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p/>
+</correction>
+<normalization>
+<p/>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term/>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term/>
+</keywords>
+<keywords scheme="original" n="topic">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term/>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName xml:id="df001">Flemate, Demetrio</persName>
+<placeName>Los Angeles, California</placeName>
+<date type="written" when="1975-10-18"/>
+<date type="postmarked" when="1975-10-18"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="jbt001">Baros Torres, Jesusita</persName>
+<placeName>Fort Lupton, Colorado</placeName>
+</correspAction>
+<correspContext>
+<ref type="prev" target="shan">Letter from x to y, date</ref>
+<ref type="next" target="shan">Letter from x to y, date</ref>
+</correspContext> 
+</correspDesc>
+</profileDesc>
+        
+<revisionDesc>
+<change when="2015" who="#jda">Initial Encoding</change>
+<change when="2014" who="#iv002">Transcription</change>
+            
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>
+            
+<div1 type="letter" xml:lang="es">
+                
+<pb facs="shan_l.204.jpg"/>
+                
+<opener>
+
+<dateline>10-18-75</dateline>
+
+<salute>Querida Ermana:</salute>
+</opener>
+                
+<p>hoy resibi tu carta en donde me das la cruel noticia que perdiste un pie, de lo que estoy muy triste. pero siquiera ya supe de ti pues ase como 3 años que te escrebí una carta y otra a jesus, y no me las contestaron, entonses pensé que seguro ya te abias muerto. Porque desde que fuiste a Mexico, ya decias que estavas enferma. Yo digo que 100 Dollars entre jesus santos katy y el enfermero que no me acuerdo como se llama no es mucho dinero porque todos estan en mejores condiciones economicas que yo, pero si no se puede ni modo.</p>
+
+<p>yo como tu comprenderas estoy viejo y enfermo de artritis y vivo del O.A.S. o sea de la pension del estado, ultimamente ise mis cuartos o sea que ya –
+
+<pb facs="shan_l.205.jpg"/>
+
+tengo derecho a la pension federal, pero toda via no resibo nada. Eso de Julia Flemate olvidate, porque yá está muy vieja y muy enferma pues es mayor que nosotros. Ademas tendria que pasar legal y eso costaria mucho dinero, yo no se lo que ustedes opinan, pero en mí caso, cuando ya no pueda ní moverme me llevan al Hospital General y no me cuesta nada, si puedes y quieres escribirle a Patricia Medrano</p>
+
+<p>zaragosa 8 juchipila</p>
+
+<p>zacatecas mexico</p>
+
+<p>ella con todo gusto te contestará</p>
+
+<p>por lo pronto aunque sea pidiendo limosna, le pido a Dios que me socorra para ir a verte porque yo se que es la ultima ves que nos vamos a ver en este mundo, asi que fe en Dios y pronto nos volveremos a ver,</p>
+
+<closer> 
+    
+<salute>saludame con todo cariño a Max, y tu el recuerdo mas sincero</salute>   
+            
+<signed>D. Flemate</signed>
+</closer>
+                
+</div1>
+
+<div1 type="envelope">
+
+<pb facs="shan_l.202.jpg"/>
+
+<ab type="return">
+<address>
+<addrLine>Demetrio Flemate</addrLine>
+<addrLine>223 N. Breed st</addrLine>
+<addrLine>Los angeles california</addrLine>
+<addrLine>90033</addrLine>
+</address>
+</ab>
+
+<ab type="address">
+<address>
+<addrLine>Jesusita Torrez</addrLine>
+<addrLine>814 Pacific ave</addrLine>
+<addrLine>Fort Lupton Colorado</addrLine>
+<addrLine>80621</addrLine>
+</address>
+</ab>
+
+<ab type="postmark">
+LOS ANGELES CA 164 006<lb/>
+PM<lb/>
+18 OCT<lb/>
+1975<lb/>
+</ab>
+
+<figure type="stamp">
+<p/>
+</figure>
+
+</div1>
+
+<div1 type="letter" xml:lang="en">
+                
+<pb facs="shan_l.204.jpg"/>
+                
+<opener>
+
+<dateline>10-18-75</dateline>
+
+<salute>Dear sister:</salute>
+</opener>
+                
+<p>Today I received your letter with the cruel news that you have lost your foot, which gave me great sadness. But at least I heard from you, because I wrote a letter to you and another to Jesus about three years ago and received no reply, so I thought for sure that you had died. Because since you went to Mexico, you already said that you were ill. I think that 100 Dollars isn’t a lot of money between Jesus, Santos, Katy and the male nurse, I can’t remember his name, because everyone is in a better economic situation than I, but if it can’t be done, never mind.</p>
+
+<p>I am old and have arthritis, as you will understand, and I live on my O.A.S, which is the state pension. Lately I made my quarters, which means that I –
+
+<pb facs="shan_l.205.jpg"/>
+
+have a right to a federal pension, but I’ve yet to receive anything. Regarding Julia Flemate, forget about it, because she is very old and very ill, because she is older than us. Also, she would have to cross legally, and this costs a lot of money. I do not know what you all think about this, but in my case, when the time comes that I cannot even move, <app loc="1"><rdg>they will take me</rdg></app> <app loc="2"><rdg>I plan for them to take me</rdg></app> to the General Hospital, where it won’t cost me anything. If you can and wish to write to Patricia Medrano</p>
+
+<p>zaragosa 8 juchipila</p>
+
+<p>zacatecas mexico</p>
+
+<p>she will gladly reply.</p>
+
+<p>For now, even if it’s by begging <add resp="iv001">on the streets</add>, I ask God to help me to go to see you, because I know that it will be the last time that we shall see each other in this world. Thus, have faith in God, we will soon see each other.</p>
+
+<closer> 
+    
+<salute>Give warm regards to Max, and you, receive the most sicere regards</salute>   
+            
+<signed>D. Flemate</signed>
+</closer>
+                
+</div1>
+
+</body>
+        
+<back/>
+</text>
+</TEI>

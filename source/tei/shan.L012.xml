@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="shan_L012.meta">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">Letter from Patricia Medrano to Jesusita Baros Torres</title>
+<title type="main" xml:lang="es">Carta de Patricia Medrano a Jesusita Baros Torres</title>
+<author>Medrano, Patricia</author>
+<principal xml:id="iv001">Velázquez, Isabel</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name xml:id="jda">Avelar, Janette D.</name>
+<name xml:id="km">Mendell, Kate</name>
+<name xml:id="sbg">Garcia, Sarita B.</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2015</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Family Letters: An analysis of the Personal Correspondence of a Mexican American Family in Western Colorado and Eastern Nebraska in the First Half of the 20th Century</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Department of Modern Languages and Literatures</name>
+ <address>
+<addrLine>1111 Oldfather Hall</addrLine>
+<addrLine>660 N 12th</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+<addrLine>modlang2@unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+</address>
+<idno>shan_L012.meta</idno>
+<availability>
+<p>COPYRIGHT STATEMENT TO GO HERE</p>
+</availability>
+</publicationStmt>
+            
+<notesStmt><note/></notesStmt>
+            
+<sourceDesc>
+<bibl>
+<author>Medrano, Patricia</author>
+<title level="m" type="main">Letter from R. Patricia Medrano to Jesusita Baros Torres</title>
+<extent>2 pages and envelope</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Shanahan Collection</repository>
+<idno/>
+</msIdentifier>
+<msContents>
+<p>2 hand-written pages and envelope</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support/>
+<extent>2 pages and envelope
+<dimensions unit="mm"><height/><width/></dimensions>
+</extent>
+<condition>
+<p/></condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="h01" scribe="pm001" medium="pen"><p>Media: blue ink</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote><p/></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin/>
+<provenance/>
+<acquisition/>
+</history>
+</msDesc>
+                
+</sourceDesc>
+</fileDesc>
+        
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p/>
+</correction>
+<normalization>
+<p/>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term/>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term/>
+</keywords>
+<keywords scheme="original" n="topic">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term/>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName xml:id="pm001">Medrano, Patricia</persName>
+<placeName>Juchipila, Zacatecas, México</placeName>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="jbt001">Baros Torres, Jesusita</persName>
+<placeName>Fort Lupton, Colorado</placeName>
+</correspAction>
+<correspContext>
+<ref type="prev" target="shan">Letter from x to y, date</ref>
+<ref type="next" target="shan">Letter from x to y, date</ref>
+</correspContext> 
+</correspDesc>
+</profileDesc>
+        
+<revisionDesc>
+<change when="2015" who="#jda">Initial Encoding</change>
+<change when="2013" who="#km">Transcription</change>
+            
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>
+            
+<div1 type="letter" xml:lang="es">
+                
+<pb facs="shan_l.058.jpg"/>
+   
+<opener>
+<address><addrLine>R.P.M</addrLine></address>
+<address><addrLine>Zaragoza #18</addrLine></address>
+<address><addrLine>Juchipila Zac.</addrLine></address>
+
+<address><addrLine>Sra.</addrLine></address>
+<address><addrLine>Jesusita Baros</addrLine></address>
+<address><addrLine>Ft. Lupton Colo.</addrLine></address>
+<dateline>Juchipila, Zac. a 4 de Sep.</dateline>
+
+<salute>Estimada Jesusita</salute></opener>
+
+<p>espero que estés bien como son nuestros mejores deseos. pues acá nosotros bien a Dios gracias.</p>
+
+<p>Después de saludarla le dijo lo siguiente; recibí su carta con fecha 4 de sept. Donde me manda decir, que yo y Demetrio nos casemos, pues yo ya le he dicho a el <del/> le digo que si no se quiere casar conmigo, por mi que lo haga por nuestros hijos pero dice que es igual y no quiere.</p>
+
+<p>fíjese que Dany ya entró al Kinter, y con el Dolar qué le mandó le compré una camisa
+
+<pb facs="shan_l.059.jpg"/>
+
+muchas gracias.</p>
+
+<p>Que bueno que les haiga gustado las postales, bueno, ya no la entretengo reciba saludos de todos y en especial de su aijado Dany,</p>
+
+<closer>
+<salute>sin más despide su cuñada y amiga</salute>
+<signed>Patricia Medrano</signed>
+</closer>
+
+<postscript><p>Contesteme Pronto</p>
+<p>Por Fabor</p>
+<p>Reciba un besito de su aijado Danielito</p></postscript>
+
+</div1>
+
+<div1 type="envelope">
+
+<pb facs="shan_l.056.jpg"/>
+
+<ab type="return">
+<address>
+<addrLine>R. Particia Medrano</addrLine>
+<addrLine>Zaragoza #8</addrLine>
+<addrLine>Juchipila Zac.</addrLine>
+<addrLine>Mex.</addrLine>
+</address>
+</ab>
+
+<ab type="address">
+<address>
+<addrLine>Sra.</addrLine>
+<addrLine>Jesusita Baros Torres</addrLine>
+<addrLine>814 Pacific ave.</addrLine>
+<addrLine>Ft. Lupton Colorado 80621</addrLine>
+<addrLine>E. U. A</addrLine>
+</address>
+</ab>
+
+<ab type="postmark">
+<unclear reason="illegible"/><lb/>
+ZAC.<lb/>
+</ab>
+
+<figure type="stamp">
+<p/>
+</figure>
+
+<ab type="stamp">
+PAR AVION CORRERO AEREO AIR MAIL<lb/>
+</ab>
+
+</div1>
+
+<div1 type="letter" xml:lang="en">
+                
+<pb facs="shan_l.058.jpg"/>
+   
+<opener>
+<address><addrLine>R.P.M</addrLine></address>
+<address><addrLine>Zaragoza #18</addrLine></address>
+<address><addrLine>Juchipila Zacatecas.</addrLine></address>
+
+<address><addrLine>Mrs.</addrLine></address>
+<address><addrLine>Jesusita Baros</addrLine></address>
+<address><addrLine>Ft. Lupton, Colorado</addrLine></address>
+<dateline>Juchipila, Zacatecas September 4</dateline>
+
+<salute>Dear Jesusita</salute></opener>
+
+<p>I hope you are well as are our best wishes. Well, we are all right, thank God.</p>
+
+<p>After greeting you I tell you the following; I received your letter dated September 4 where you tell me that Demetrio and I should marry. Well, I have told him already I tell him that if he doesn’t want to get married for me, he should do it for our children, but he says it’s the same and doesn’t want to.</p>
+
+<p>Let me tell you that Dany started kinder and with the dollar you sent him I bought him a shirt
+
+<pb facs="shan_l.059.jpg"/>
+
+thank you very much.</p>
+
+<p>I’m glad you all liked the postcards, well, I won’t keep you any more, receive regards from everyone and specially from your godson Dany,</p>
+
+<closer>
+<salute>without further ado I’ll say goodbye, your sister in law and friend</salute>
+<signed>Patricia Medrano</signed>
+</closer>
+
+<postscript>
+<p>Write back soon</p>
+<p>Please</p>
+<p>Receive a little kiss from your godson Danielito</p>
+</postscript>
+
+</div1>
+
+</body>
+        
+<back/>
+</text>
+</TEI>

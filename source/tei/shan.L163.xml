@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="shan_L163.meta">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">Letter from Santos Baros Schubert to William F. Schubert, October 4, 1950</title>
+<title type="main" xml:lang="es">Carta de Santos Baros Schubert a William F. Schubert, 4 de octubre, 1950</title>
+<author>Baros Schubert, Santos</author>
+<principal xml:id="iv001">Velázquez, Isabel</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name xml:id="km">Mendell, Kate</name>
+<name xml:id="sbg">Garcia, Sarita B.</name>
+ <name xml:id="ji">Isasi, Jennifer</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Family Letters: An analysis of the Personal Correspondence of a Mexican American Family in Western Colorado and Eastern Nebraska in the First Half of the 20th Century</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Department of Modern Languages and Literatures</name>
+ <address>
+<addrLine>1111 Oldfather Hall</addrLine>
+<addrLine>660 N 12th</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+<addrLine>modlang2@unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+</address>
+<idno>shan_L163.meta</idno>
+<availability>
+<p>COPYRIGHT STATEMENT TO GO HERE</p>
+</availability>
+</publicationStmt>
+            
+<notesStmt><note/></notesStmt>
+            
+<sourceDesc>
+<bibl>
+<author>Baros Schubert, Santos</author>
+<title level="m" type="main">Letter from Santos Baros Schubert to William F. Schubert</title>
+<date when="1950-10-04">October 4, 1950</date>
+<extent>2 pages and envelope</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Shanahan Collection</repository>
+<idno/>
+</msIdentifier>
+<msContents>
+<p>2 hand-written pages and envelope</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support/>
+<extent>2 pages and envelope
+<dimensions unit="mm"><height/><width/></dimensions>
+</extent>
+<condition>
+<p/></condition>
+</supportDesc>
+</objectDesc>
+<handDesc>
+<handNote><p>Media:</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote><p/></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin/>
+<provenance/>
+<acquisition/>
+</history>
+</msDesc>
+                
+</sourceDesc>
+</fileDesc>
+        
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p/>
+</correction>
+<normalization>
+<p/>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term/>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term/>
+</keywords>
+<keywords scheme="original" n="topic">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term/>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName xml:id="sbs001">Baros Schubert, Santos</persName>
+<placeName>Fort Lupton, Colorado</placeName>
+<date type="written" when="1950-10-04"/>
+<date type="postmark" when="1950-10-04"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="wfs001">Schubert, William F.</persName>
+<placeName>Rulo, Nebraska</placeName>
+</correspAction>
+<correspContext>
+<ref type="prev" target="shan">Letter from x to y, date</ref>
+<ref type="next" target="shan">Letter from x to y, date</ref>
+</correspContext> 
+</correspDesc>
+</profileDesc>
+        
+<revisionDesc>
+<change when="2017" who="#sbg">Initial Encoding</change>
+<change when="2015" who="#km">Transcription</change>
+            
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>
+            
+<div1 type="letter" xml:lang="en">
+                
+<pb facs="shan_l.605.jpg"/>
+                
+<opener>
+<address><addrLine/></address>
+<dateline>October 4, 1950</dateline>
+
+<salute>Dearest Bill,</salute>
+</opener>
+<p>I'm going to Denver today for the first time since I been here. I missed the bus this A.M. so have to take one this P.M. Don't matter too much as we're staying overnight in Denver so I can get all my business done.</p>
+
+<p>Well, Billy had a swell birthday <add place="above">Sun</add> we’d chicken dinner &amp; his birthday cake was baked at the bakery I invited Jess &amp; family &amp; Terry &amp; family Terry didn’t come but Jess &amp; family came so Billy had a swell day with the kids. Jess &amp;
+Helen gave him a <unclear reason="illegible">wool</unclear> blue sweater—Terry a gun—Cathy a tractor.</p>
+
+<p>Terry &amp; Johnnie came Mon. night just to bring Billy's gifts a wooden toy &amp; clown pajamas</p>
+
+<pb facs="shan_l.606.jpg"/>
+
+<p>Mother gave us $20.00 for our birthdays.</p>
+
+<p> Marjorie &amp; Jack sent him a yellow &amp; brown sweater And Dale some plastic toys. So he didn’t do so bad.</p>
+
+<p>Thanks for the pickle recipe I’m going to try &amp; go over to your aunts.</p>
+
+<p> I guess I’ll come home about the 22nd it’s on a Sunday. Then Jess can take me to Denver you should charge Sgt. Ruth
+rent for living in our trailer. If he wants his trailer back he can have it. Anyway that’s too much money for the trailer. You can buy a lot here for only $100.00 there’s a place here, it’s a house plus 4 acres for only $7,000. Well, I guess I better eat so I can take the next bus. Sending you all our love from your</p> 
+<pb/>
+<p>son &amp; wife. At nights Billy wants to go home to Daddy.</p>
+
+<closer>
+<salute>Lovingly your Wife,</salute>                    
+<signed>Sandra</signed>
+</closer>
+</div1>
+
+<div1 type="envelope">
+
+<pb facs="shan_l.603.jpg"/>
+
+<ab type="return">
+<address>
+<addrLine>Sandra Schubert</addrLine>
+<addrLine>P.O. Box 681</addrLine>
+<addrLine>Ft. Lupton, Colo</addrLine>
+</address>
+</ab>
+
+<ab type="address">
+<address>
+<addrLine>Mr. William F. Schubert</addrLine>
+<addrLine>Camp 67</addrLine>
+<addrLine><del type="strike">Adams</del>Rulo, Nebraska</addrLine>
+</address>
+</ab>
+
+<ab type="postmark">
+FORT LUPTON<lb/>
+OCT 4<lb/>
+530 PM<lb/>
+1950<lb/>
+COLO<lb/>
+</ab>
+
+<ab type="postmark">
+ADAMS<lb/>
+OCT 5<lb/>
+3 PM<lb/>
+1950<lb/>
+NEBR.<lb/>
+</ab>
+
+<figure type="stamp">
+<p/>
+</figure>
+
+
+</div1>
+
+<div1 type="letter" xml:lang="es">
+                
+<pb facs="shan_l.605.jpg"/>
+                
+<opener>
+<address><addrLine/></address>
+<dateline>4 de octubre de 1950</dateline>
+
+<salute>Querido Bill,</salute>
+</opener>
+
+<p>Voy a ir a Denver por primera vez desde que llegué. Perdí el autobús esta mañana, así
+necesito tomar el de la tarde. No importa mucho porque vamos a quedarnos en Denver
+hasta mañana para alcanzar a hacer todo lo que tengo que hacer.</p>
+
+<p>Bueno, Billy pasó un cumpleaños estupendo. Cenamos pollo y su pastel de cumpleaños
+fue de la panadería. Invité a Jess y a su familia y a Terry y a su familia. Terry no vino,
+pero Jess y su familia sí, así que Billy se divirtió mucho con los niños. Jess y Helen le
+regalaron un suéter azul –Terry le regaló una pistola – Cathy le regaló un tractor.</p>
+
+<p>Terry y Johnnie vinieron el lunes en la noche solo para traerle sus regalos a Billy. Un
+juguete de madera y unas pijamas de payaso.</p>
+
+<pb facs="shan_l.606.jpg"/>
+
+<p>Mamá nos dio $20.00 para nuestros cumpleaños. </p>
+
+<p>Marjorie y Jack le mandaron un suéter
+amarillo y marrón. Dale le regaló unos juguetes de plástico, así que no le fue tan mal.</p>
+
+<p>Gracias por la receta de los pickles. Voy a tratar de visitar a tu tía.</p>
+
+<p> Creo que regreso a casa el día 22 más o menos, que es domingo. Así Jess me puede llevar a Denver. Deberías cobrarle al sargento Ruth por vivir en nuestro remolque. Si quiere que le devuelvas su remolque puedes dárselo. De todas maneras creo que es mucho dinero por ese tráiler. Aquí se puede comprar mucho con solo $100.00. Aquí hay un lugar que incluye una casa y cuatro acres por solo $7,000. Bueno, creo que debo ir a comer para poder tomar el siguiente autobús. Te mando todo el amor de tu</p> 
+<pb/>
+<p>hijo y tu esposa. En las noches Billy quiere irse a casa con papá.</p>
+
+<closer>
+<salute>Con amor, tu esposa,</salute>                    
+<signed>Sandra</signed>
+</closer>
+
+
+</div1>
+
+</body>
+        
+<back/>
+</text>
+</TEI>

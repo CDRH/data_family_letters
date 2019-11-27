@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="shan_L019.meta">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">Letter from Felipita N. Baca to Jesusita Baros Torres, July 31, 1937</title>
+<title type="main" xml:lang="es">Carta de Felipita N. Baca a Jesusita Baros Torres, 31 de julio, 1937</title>
+<author>Baca, Felipita N.</author>
+<principal xml:id="iv001">Velázquez, Isabel</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name xml:id="jda">Avelar, Janette D.</name>
+<name xml:id="km">Mendell, Kate</name>
+<name xml:id="sbg">Garcia, Sarita B.</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2015</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Family Letters: An analysis of the Personal Correspondence of a Mexican American Family in Western Colorado and Eastern Nebraska in the First Half of the 20th Century</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Department of Modern Languages and Literatures</name>
+ <address>
+<addrLine>1111 Oldfather Hall</addrLine>
+<addrLine>660 N 12th</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+<addrLine>modlang2@unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+</address>
+<idno>shan_L019.meta</idno>
+<availability>
+<p>COPYRIGHT STATEMENT TO GO HERE</p>
+</availability>
+</publicationStmt>
+            
+<notesStmt><note/></notesStmt>
+            
+<sourceDesc>
+<bibl>
+<author>Felipita N. Baca</author>
+<title level="m" type="main">Letter from Felipita N. Baca to Jesusita Baros Torres</title>
+<date when="1937-07-31">July 31, 1937</date>
+<extent>2 pages and envelope</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Shanahan Collection</repository>
+<idno/>
+</msIdentifier>
+<msContents>
+<p>2 hand-written pages and envelope</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support/>
+<extent>2 pages and envelope
+<dimensions unit="mm"><height/><width/></dimensions>
+</extent>
+<condition>
+<p/></condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="2">
+<handNote xml:id="h01" scribe="fnb001" medium="pencil"><p>Media: Lead/Graphite</p></handNote>
+<handNote xml:id="h02" scribe="ejs001" medium="pencil"><p>Media: Lead/Graphite</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote><p/></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin/>
+<provenance/>
+<acquisition/>
+</history>
+</msDesc>
+                
+</sourceDesc>
+</fileDesc>
+        
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p/>
+</correction>
+<normalization>
+<p/>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term/>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term/>
+</keywords>
+<keywords scheme="original" n="topic">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term/>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName xml:id="fnb001">Baca, Felipita N.</persName>
+<placeName>Albuquerque, New Mexico</placeName>
+<date type="written" when="1937-07-31"/>
+<date type="postmarked" when="1937-08-02"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="jbt001">Baros Torres, Jesusita</persName>
+<placeName>Denver, Colorado</placeName>
+</correspAction>
+<correspContext>
+<ref type="prev" target="shan">Letter from x to y, date</ref>
+<ref type="next" target="shan">Letter from x to y, date</ref>
+</correspContext> 
+</correspDesc>
+</profileDesc>
+        
+<revisionDesc>
+<change when="2015" who="#jda">Initial Encoding</change>
+<change when="2014" who="#km">Transcription</change>
+            
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>
+            
+<div1 type="letter" xml:lang="es">
+                
+<pb facs="shan_l.078.jpg"/>
+                   
+<opener>
+<address><addrLine>Albuquerque N. Mex.</addrLine></address>
+<dateline>July 31, 1937.</dateline>
+
+<salute>Mi muy estimada Comadre,</salute>
+</opener>
+                
+<p>Esta es en contesta de su muy bien benida carta en la cual tuve mucho gusto al saber de usted y los muchachos.</p>
+
+<p>Esta al despedirse de nosotros nos deja todos buenos Gracias a Dios.</p>
+
+<p>Pues yo estaba muy sentida y muy apenada que porque estaba usted nojada que no mi dijo ni cuando se fue. Yo supe por la jente. Y Don Faustin me manda a disir con la Lionor otro dia que lo incontro. Nosotros a don Faustin no lo emos visto yo le dijo a Ed. que si no le toca verlo y me dise que no. Pues yo tengo mucho gusto que se incuentren con salud por aya.</p>
+
+<pb facs="shan_l.080.jpg"/>
+
+<p>Pero que le dio a usted pa irse tan lejos. Que esta asiend usted aya que se ayo algun (wiso)</p>
+
+<p>Ha; Ha;</p>
+
+<p>Como iso con sus cosas yo no e sabido mas de que la tiene aventada su casa. Pues a la fina an ido 2 veses a la casa y no la ayan nunca.</p>
+
+<p>Pues yo pienso que es todo por esta ves Saludes a la Santos por Nori y a Jesus por Junior. Y de nosotros resciban los mas finos recuerdos todos. Y digame cuando vienen.</p>
+
+<closer>Sin mas su comadre que le desea Felecidadez,
+
+<signed>Felipita N. Baca.</signed>
+<address><addrLine>1018 N. Walter St.</addrLine></address>
+<address><addrLine>Albuqurque N. Mex.</addrLine></address>
+</closer>
+
+</div1>
+
+<div1 type="envelope">
+
+<pb facs="shan_l.076.jpg"/>
+
+<ab type="address">
+<address>
+<addrLine>Mrs. Jesusita Baros</addrLine>
+<addrLine>2115 Arapaho St.</addrLine>
+<addrLine>Denver</addrLine>
+<addrLine>Colorado</addrLine>
+</address>
+</ab>
+
+<ab type="postmark">
+ALBUQUERQUE<lb/>
+Aug 2<lb/>
+3 PM<lb/>
+1937<lb/>
+N. MEX.<lb/>
+</ab>
+
+<figure type="stamp">
+<p/>
+</figure>
+
+<pb facs="shan_l.077.jpg"/>
+
+<p>After 10 days return to Mrs. Eduard Baca 1018 N. Walter St. Albuquerque N. Mex
+Walhter<lb/>
+</p>
+
+</div1>
+
+<div1 type="letter" xml:lang="en">
+                
+<pb facs="shan_l.078.jpg"/>
+                   
+<opener>
+<address><addrLine>Albuquerque, New Mexico</addrLine></address>
+<dateline>July 31, 1937</dateline>
+
+<salute>My highly esteemed Comadre,</salute>
+</opener>
+                
+<p>This <add resp="iv001">letter</add> is in reply to your very welcome letter in which I was happy to hear from you and the
+kids.</p>
+
+<p>This <add resp="iv001">letter</add> leaves us well, thank God.</p>
+
+<p>Well, I was very offended and very embarrassed because <add resp="iv001">I thought that</add> you were so angry that you didn’t even say goodbye when you left. I found out through <add resp="iv001">other</add> people. And Mr. Faustin sent word to me through Leonor when he saw her the other day. We haven’t seen Mr. Faustin, and I ask Ed if he doesn’t see him <add resp="iv001">anymore</add>, and he tells me he doesn’t. Well, I’m very happy that you are well over there.</p>
+
+<pb facs="shan_l.080.jpg"/>
+
+<p>But what got into you to go so far away? What are you doing there? Did you find <app loc="1"><rdg>someone</rdg></app> <app loc="2" cert="low"><rdg>boyfriend</rdg></app> <app loc="3" cert="low"><rdg>suitor</rdg></app> (wiso)  </p>
+
+<p>Ha, Ha.</p>
+
+<p>What did you do with your things? I’ve heard no more about your house than that you left it <app loc="1" cert="low"><rdg>abandoned</rdg></app> <app loc="2" cert="low"><rdg>rented</rdg></app>. They’ve gone twice over to Fina’s and haven’t found her.</p>
+
+<p>Well, I think this is all for now. Give regards to Santos from Nori, and to Jesus from Junior. And from us, receive <add resp="iv001">all of you</add> the finest regards. And tell me when you’re coming.</p>
+
+<closer>Without further ado, your comadre who wishes you happiness,
+
+<signed>Felipita N. Baca.</signed>
+<address><addrLine>1018 N. Walter St.</addrLine></address>
+<address><addrLine>Albuquerque New Mexico</addrLine></address>
+</closer>
+
+</div1>
+
+</body>
+        
+<back/>
+</text>
+</TEI>

@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="shan_L150.meta">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">Letter from William F. Schubert to Santos Baros Schubert, August 16, 1962</title>
+<title type="main" xml:lang="es">Carta de William F. Schubert a Santos Baros Schubert, 16 de agosto, 1962</title>
+<author>Schubert, William F.</author>
+<principal xml:id="iv001">Velázquez, Isabel</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name xml:id="af">Faxas, Adoni A.</name>
+<name xml:id="sbg">Garcia, Sarita B.</name>
+ <name xml:id="ji">Isasi, Jennifer</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2016</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Family Letters: An analysis of the Personal Correspondence of a Mexican American Family in Western Colorado and Eastern Nebraska in the First Half of the 20th Century</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Department of Modern Languages and Literatures</name>
+ <address>
+<addrLine>1111 Oldfather Hall</addrLine>
+<addrLine>660 N 12th</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+<addrLine>modlang2@unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+</address>
+<idno>shan_L150.meta</idno>
+<availability>
+<p>COPYRIGHT STATEMENT TO GO HERE</p>
+</availability>
+</publicationStmt>
+            
+<notesStmt><note/></notesStmt>
+            
+<sourceDesc>
+<bibl>
+<author>Schubert, William F.</author>
+<title level="m" type="main">Letter from William F. Schubert to Santos Baros Schubert</title>
+<date when="1962-08-16">August 16, 1962</date>
+<extent>1 page</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Shanahan Collection</repository>
+<idno/>
+</msIdentifier>
+<msContents>
+<p>1 typed page</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support/>
+<extent>1 page
+<dimensions unit="mm"><height/><width/></dimensions>
+</extent>
+<condition>
+<p/></condition>
+</supportDesc>
+</objectDesc>
+<handDesc>
+<handNote/>
+</handDesc>
+<typeDesc>
+<typeNote><p>Media: black ink</p></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin/>
+<provenance/>
+<acquisition/>
+</history>
+</msDesc>
+                
+</sourceDesc>
+</fileDesc>
+        
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p/>
+</correction>
+<normalization>
+<p/>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term/>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term/>
+</keywords>
+<keywords scheme="original" n="topic">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term/>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName xml:id="wfs001">Schubert, William F.</persName>
+<placeName>Lincoln, Nebraska</placeName>
+<date type="written" when="1962-08-16"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="sbs001">Baros Schubert, Santos</persName>
+<placeName/>
+</correspAction>
+<correspContext>
+<ref type="prev" target="shan">Letter from x to y, date</ref>
+<ref type="next" target="shan">Letter from x to y, date</ref>
+</correspContext> 
+</correspDesc>
+</profileDesc>
+        
+<revisionDesc>
+<change when="2016" who="#af">Initial Encoding</change>
+<change when="2015" who="#af">Transcription</change>
+            
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>
+            
+<div1 type="letter" xml:lang="en">
+                
+<pb facs="shan_l.546.jpg"/>
+                
+<opener>
+<address><addrLine>Lincoln, August 16, 1962</addrLine></address>
+
+<salute>Darling Sandra and children</salute>
+</opener>
+                
+<p>I am not doing much tonight so will drop you a note. It’s about 9:45P and I have to shower yet and go to bed. Have the water on in the back yard now as it is awful dry. Watered some of the roses last night. Jack called about 4:30 today and asked me over for supper. I went to Shopping Center; but didn’t get anything, Wards was suppose to be having a sale. Did go to their service center and get a new blade for the mower.</p>
+
+<p>Last night I got the first coat of paint on the hallway and two walls; then, defrosted the refrigerator. Tomorrow night I’ll either paint or do the laundry; that’s why I’m taking it easy tonight.</p>
+
+<p>I gave Mrs. Meyers and Jack some tomatoes. Frappia’s are gone every evening so havn’t seen them.</p>
+
+<p>Carroll said she and Janet got lettersfrom the girls today and they were real happy about it.</p>
+
+<p>Am busy at work; but nothing serious and hope that it stays that way. The Courts fixed it so there won’t be a railroad strike for the present anyway; so you won’t have to worry about getting home.</p>
+
+<p>Let me know if you need any money or anything.</p>
+
+<p>Drop me a line and let me know how you are doing.</p>
+
+<closer>
+<salute>Love</salute>                    
+<signed>Bill</signed>
+</closer>
+                
+</div1>
+ 
+ <div1 type="letter" xml:lang="es">
+  
+  <pb facs="shan_l.546.jpg"/>
+  
+  <opener>
+   <address><addrLine>Lincoln, 16 de agosto de 1962</addrLine></address>
+   
+   <salute>Queridos Sandra y niños:</salute>
+  </opener> 
+  
+  <p>No estoy haciendo mucho hoy en la noche, así que les escribiré una nota. Son como las 9:45 PM y todavía tengo que ducharme e irme a dormir. Estoy regando el patio de atrás porque está muy seco. Anoche regué algunos de los rosales. Jack llamó hoy como a las 4:30 hoy y me invitó a cenar. Fui al centro comercial, pero no compré nada. Supuestamente iba a haber una venta en <add resp="iv001">Montgomery</add> Wards. Lo que sí hice fue ir a su centro de servicio y compré una nueva cuchilla para la podadora.</p>  
+  
+  <p>Anoche puse la primera capa de pintura en el pasillo y en dos de las paredes y luego descongelé el refrigerador. Mañana en la noche voy a pintar o voy a lavar la ropa, por eso estoy descansando hoy en la noche.</p>
+  
+  <p>Les di algunos de los tomates a Jack y a la señora Meyers. Los Frappia han salido todas las noches, así que no los he visto.</p>
+
+  <p>Carroll me dijo que ella y Janet recibieron carta de las niñas hoy y estaban muy contentas. Estoy ocupado en el trabajo, pero nada serio, y espero que las cosas se queden así. Las cortes dictaminaron que no va a haber huelga en los ferrocarriles, por lo menos por ahora, así que no tendrás que preocuparte por cómo volver a casa.</p>
+  <p>Avísame si necesitas dinero o alguna otra cosa.</p>
+  <p>Escríbeme para saber cómo estás.</p>
+<closer>
+<salute>Con amor,</salute>                    
+<signed>Bill</signed>
+</closer>
+  
+ </div1>  
+  
+</body>
+        
+<back/>
+</text>
+</TEI>

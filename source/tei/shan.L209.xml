@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="shan_L210.meta">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">Letter from Jesusita Baros Torres to Santos Baros Schubert, November 1, 1966</title>
+<title type="main" xml:lang="es">Carta de Jesusita Baros Torres a Santos Baros Schubert, 01 de noviembre, 1966</title>
+<author>Baros Torres, Jesusita</author>
+<principal xml:id="iv001">Velázquez, Isabel</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name xml:id="af">Faxas, Adoni A.</name>
+<name xml:id="ji">Isasi, Jennifer</name>
+<name xml:id="sbg">Garcia, Sarita B.</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Family Letters: An analysis of the Personal Correspondence of a Mexican American Family in Western Colorado and Eastern Nebraska in the First Half of the 20th Century</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Department of Modern Languages and Literatures</name>
+ <address>
+<addrLine>1111 Oldfather Hall</addrLine>
+<addrLine>660 N 12th</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+<addrLine>modlang2@unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+</address>
+<idno>shan_L209.meta</idno>
+<availability>
+<p>COPYRIGHT STATEMENT TO GO HERE</p>
+</availability>
+</publicationStmt>
+            
+<notesStmt><note/></notesStmt>
+            
+<sourceDesc>
+<bibl>
+<author>Baros Torres, Jesusita</author>
+<title level="m" type="main">Letter from Jesusita Baros Torres to Santos Baros Schubert</title>
+<date when="1966-11-01">November 1, 1966</date>
+<extent>1 page and envelope</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Shanahan Collection</repository>
+<idno/>
+</msIdentifier>
+<msContents>
+<p>1 hand-written page and envelope</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support/>
+<extent>1 page and envelope
+<dimensions unit="mm"><height/><width/></dimensions>
+</extent>
+<condition>
+<p/></condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="h01" scribe="jbt001" medium="pen"><p>Media: black ink</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote><p/></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin/>
+<provenance/>
+<acquisition/>
+</history>
+</msDesc>
+                
+</sourceDesc>
+</fileDesc>
+        
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p/>
+</correction>
+<normalization>
+<p/>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term/>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term/>
+</keywords>
+<keywords scheme="original" n="topic">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term/>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName xml:id="jbt001">Baros Torres, Jesusita</persName>
+<placeName>Fort Lupton, Colorado</placeName>
+<date type="written" when="1966-11-01"/>
+<date type="postmarked" when="1966-11-03"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="sbs001">Baros Schubert, Santos</persName>
+<placeName>Lincoln, Nebraska</placeName>
+</correspAction>
+<correspContext>
+<ref type="prev" target="shan">Letter from x to y, date</ref>
+<ref type="next" target="shan">Letter from x to y, date</ref>
+</correspContext> 
+</correspDesc>
+</profileDesc>
+        
+<revisionDesc>
+<change when="2017" who="#af">Initial Encoding</change>
+<change when="2017" who="#ji">Transcription</change>
+            
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>
+            
+<div1 type="letter" xml:lang="es">
+                
+<pb facs="shan_l.723.jpg"/>
+                
+<opener>
+<address><addrLine>ft Lupton Colo</addrLine></address>
+<dateline>Novem 1,- 1966</dateline>
+
+<salute>Querida hija mía,</salute>
+</opener>
+                
+ <p>la precente es para Saludarte tanto á <add>ti</add> como á Bill, y á todos los demas muchachos. Siempre esperando que esten bíen especialmente á ti, que hoy 1 Novem es día de tu Santo; Happy Birthday te deceamos todos nosotros; pues te dire que yo estoy bíen Gracias á Diosito que es tan bueno; pues te platicare que sé me abía olvidado que oy es día de tu; Santo; y como estoy cuidando al Markl, pero anque sea poquito tarde; pero nunca estarde para decírte que recibas muchas Felecidades de parte de Max y de Jess y family, y un fino recuerdo;de tu mamá;</p>
+
+<closer>                  
+<signed>Jesusita Torres;</signed>
+</closer>
+
+<postscript>
+<p><label>P.S.</label>aque te mando estos $5,00</p>
+</postscript>
+                
+</div1>
+
+
+<div1 type="letter" xml:lang="en">
+                
+<pb facs="shan_l.723.jpg"/>
+                
+<opener>
+<address><addrLine>Ft. Lupton Colorado</addrLine></address>
+<dateline>November 1,- 1966</dateline>
+
+<salute>Dear daughter of mine,</salute>
+</opener>
+                
+<p>This letter is to greet both you and Bill, and all the kids. <add resp="iv001">I am</add> Always hoping that you are doing well, in particular you, that today November 1st is your saint’s day <app loc="1"><rdg>birthday</rdg></app> We all wish you a Happy Birthday. Well, I will tell you that I am doing well, thank God, who is so good.</p>
+
+<p>Well, I will tell you that I had forgotten that your Birthday was today. And since I’m looking after Markl, although it is a bit late, it’s never too late to send you many Birthday wishes from Max and Jess and family, and a fine regards <app loc="1"><rdg>much love</rdg></app></p>
+
+<closer>
+<salute>your mom.</salute>                    
+<signed>Jesusita Torres;</signed>
+</closer>
+
+<postscript>
+<p><label>P.D.</label>I’m sending you $5.00 here.</p>
+</postscript>
+                
+</div1>
+
+
+<div1 type="envelope">
+
+<pb facs="shan_l.721.jpg"/>
+
+<ab type="return">
+<address>
+<addrLine>814 Pacific Ave</addrLine>
+<addrLine>ft Lupton Colorado 80621</addrLine>
+<addrLine>Jesusita Torres</addrLine>
+</address>
+</ab>
+
+<ab type="address">
+<address>
+<addrLine>Mrs. Santos Schubert</addrLine>
+<addrLine>3830 C Street</addrLine>
+<addrLine>Lincoln Nebraska, 68510</addrLine>
+</address>
+</ab>
+
+<ab type="postmark">
+FORT LUPTON. CO<lb/> 
+NOV 3<lb/> 
+AM<lb/>
+1966<lb/>
+80621<lb/>
+</ab>
+
+<figure type="stamp">
+<p/>
+</figure>
+
+</div1>
+ 
+ <div1 type="letter" xml:lang="en">
+  
+  <pb facs="shan_l.723.jpg"/>
+  
+  <opener>
+   <address><addrLine>Ft. Lupton, Colorado</addrLine></address>
+   <dateline>November 1, 1966</dateline>
+   
+   <salute>Dear daughter of mine,</salute>
+  </opener>
+  
+  <p>the present is to greet both you and Bill, and all the kids. I am always hoping that you are doing well, in particular you, that today November 1 is your saint’s day. We all wish you a Happy Birthday. Well, I will tell you that I am doing well, thank God, who is so good. Well, I will tell you that I had forgotten that your Birthday was today. And since I’m looking after Markl, although it is a bit late, it’s never too late to send you many Birthday wishes from Max and Jess and family, and a fine regards from your mom.</p>
+ 
+  <closer>                 
+   <signed>Jesusita Torres;</signed>
+  </closer>
+  
+  <postscript>
+   <p><label>P.D.</label>I’m sending you $5,00 here.</p>
+  </postscript>
+  
+</div1>
+ 
+ 
+</body>
+        
+<back/>
+</text>
+</TEI>

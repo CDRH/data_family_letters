@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="shan_L014.meta">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">Letter from José Jesús Samaniego to Jesusita BarosTorres, December 2, 1934</title>
+<title type="main" xml:lang="es">Carta de José Jesús Samaniego a Jesusita Baros Torres, 2 de diciembre, 1934</title>
+<author>Samaniego, José Jesús</author>
+<principal xml:id="iv001">Velázquez, Isabel</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name xml:id="jda">Avelar, Janette D.</name>
+<name xml:id="iv002">Velázquez, Isabel</name>
+<name xml:id="sbg">Garcia, Sarita B.</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2015</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Family Letters: An analysis of the Personal Correspondence of a Mexican American Family in Western Colorado and Eastern Nebraska in the First Half of the 20th Century</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Department of Modern Languages and Literatures</name>
+ <address>
+<addrLine>1111 Oldfather Hall</addrLine>
+<addrLine>660 N 12th</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+<addrLine>modlang2@unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+</address>
+<idno>shan_L014.meta</idno>
+<availability>
+<p>COPYRIGHT STATEMENT TO GO HERE</p>
+</availability>
+</publicationStmt>
+            
+<notesStmt><note/></notesStmt>
+            
+<sourceDesc>
+<bibl>
+<author>Samaniego, José Jesús</author>
+<title level="m" type="main">Letter from Jesús Samaniego to Jesusita Baros Torres</title>
+<date when="1934-12-02">December 2, 1934</date>
+<extent>2 pages and envelope</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Shanahan Collection</repository>
+<idno/>
+</msIdentifier>
+<msContents>
+<p>2 hand-written pages and envelope</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support/>
+<extent>2 pages and envelope
+<dimensions unit="mm"><height/><width/></dimensions>
+</extent>
+<condition>
+<p/></condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="h01" scribe="js001" medium="pen"><p>Media: black ink</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote><p/></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin/>
+<provenance/>
+<acquisition/>
+</history>
+</msDesc>
+                
+</sourceDesc>
+</fileDesc>
+        
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p/>
+</correction>
+<normalization>
+<p/>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term/>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term/>
+</keywords>
+<keywords scheme="original" n="topic">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term/>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName xml:id="js001">Samaniego, José Jesús</persName>
+<placeName>Juchipila, Zacatecas, México</placeName>
+<date type="written" when="1934-12-02"/>
+<date type="postmarked" when="1934-12-05"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="jbt001">Baros Torres, Jesusita</persName>
+<placeName>Longmont, Colorado</placeName>
+</correspAction>
+<correspContext>
+<ref type="prev" target="shan">Letter from x to y, date</ref>
+<ref type="next" target="shan">Letter from x to y, date</ref>
+</correspContext> 
+</correspDesc>
+</profileDesc>
+        
+<revisionDesc>
+<change when="2015" who="#jda">Initial Encoding</change>
+<change when="2013" who="#iv002">Transcription</change>
+            
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>
+            
+<div1 type="letter" xml:lang="es">
+                
+<pb facs="shan_l.054.jpg"/>
+   
+<opener>
+<address><addrLine>juchipila za.</addrLine></address>
+<dateline>Disiembre 2 de 1934</dateline>
+<salute>Sr eliboria Flemate</salute>
+</opener>
+
+<p>mimui atenta y cariñosa madre la presente me sirve para saludarlos desiando sen cuentren bien que la que de mi se despide desta fecha me deja sin nobedad gracias a dios pues mama des pues de saludarlos con el cariño de siempre le digo lo sigente mama con bastante pena meda porque me tarde mucho en contestarle dira que es por falta de boluntad pero no mama no es poreso la berdad es esta enprimer lugar andaballo piscando mis mo <unclear reason="illegible">loncos</unclear> y un dia qüisas anda llo eritado del <unclear reason="illegible">trajo</unclear> y me quite la canasta me pego un dolorsito enla espalda que dure 15 dias en fermo pero lla parese que etoi mejor pues mama de lo que de lo que llo le abia endicado de mi salida y enseguida ud me dise que espereami tio dimetrio llo able connel y me di se a si que el tiene miedo pero si de re pente sele siera la puerta que entonses ase camino
+
+<pb facs="shan_l.055.jpg"/>
+pues mama llo una bes a siendo y obedesiendo lo que ud medise mama lo boï aes perar de aqüi a bril si de aqüi aentonses el no se muebe llo fasil es que llo balla sienpre qüiero de sirle que llo di a qüi el paso como qüiera de a lli para delante ud sabra al cabo llo boi a salir llo solo a mi es posa la boi a dejar com sus padres yes cuanto por a o ra</p>
+                
+<closer>
+<salute>Saludes para chui y Santos re siba saludes de mi esposa y de mi resibalos mas finos recuerdos de suijo que les desea felesidades</salute>
+<signed>J. Jesus Samaniego</signed>
+</closer>
+
+<postscript>
+<p>esta es midireision<lb/>
+calle rosales numero 63</p>
+</postscript>
+
+</div1>
+
+<div1 type="envelope">
+
+<pb facs="shan_l.052.jpg"/>
+
+<ab type="return">
+<address>
+<addrLine>After 10 days Return to</addrLine>
+<addrLine>Jesus Samaniego</addrLine>
+<addrLine>Calle Rosales 63</addrLine>
+<addrLine>Juchipila Zacatecas</addrLine>
+<addrLine>mexico</addrLine>
+</address>
+</ab>
+
+<ab type="address">
+<address>
+<addrLine>Mrs. Jesusita Baros</addrLine>
+<addrLine>in care of Bill Remedy</addrLine>
+<addrLine>Route 3 Longmont Colorado</addrLine>
+<addrLine>U.S.</addrLine>
+</address>
+</ab>
+
+<ab type="postmark">
+<unclear reason="illegible">JUC</unclear><lb/>
+2DIC<unclear reason="illegible"/><lb/>
+ZAC<lb/>
+</ab>
+
+<figure type="stamp">
+<p/>
+</figure>
+
+<pb facs="shan_l.053.jpg"/>
+
+<ab type="postmark">
+AGUASCALIENTES<lb/>
+-5 DIC.33. 2:45<lb/>
+<unclear reason="illegible"/><lb/>
+</ab>
+
+</div1>
+
+<div1 type="letter" xml:lang="en">
+                
+<pb facs="shan_l.054.jpg"/>
+   
+<opener>
+<address><addrLine>Juchipila Zacatecas</addrLine></address>
+<dateline>December 2 1934</dateline>
+<salute>Mrs. Eiboria Flemate</salute>
+</opener>
+
+<p>my kind and loving mother this letter serves me to greet <term type="plural">you</term> wishing <term type="plural">you</term> are well and <add resp="iv001">the letter</add> that is leaving me with today’s date leaves me without news thank God</p> 
+
+<p>well mom after greeting <term type="plural">you</term> with the same love as always I tell you the following mom I am ashamed because I took so long to answer <term type="formal">you</term>.<term type="formal">You</term> will think that it is because of lack of will but it’s not so. The truth is this in the first place I was harvesting my <certainty locus="name" cert="medium"><desc>mo loncos</desc></certainty> and one day maybe I was irritated <app loc="1" cert="medium"><rdg>on the</rdg></app> <app loc="2" cert="medium"><rdg>by the</rdg></app> and I put the basket down and I felt a <add resp="iv001">small</add> pain on my back and I was ill for 15 days but it seems that I am better. Well mom about what I had mentioned about my departure and you told me right away that I should wait for my uncle Demetrio I spoke with him and he tells me this, that he is afraid but that if suddenly the door closes for him that he would then start the journey
+
+<pb facs="shan_l.055.jpg"/>
+
+well mom I do and obey what you say and I’m going to wait for him until April and if he doesn’t move by then I, it’s easy that I go. I always want to tell you that I have taken the step anyway and you will know what to do from there. I will leave alone I am leaving my wife with her parents and it’s all <add resp="iv001"> that I want to tell you</add> for now.</p>
+                
+<closer>
+<salute>Give my regards to Chuy and Santos. Receive my wife’s greetings and from me receive the finest
+regards from your son who wishes <term type="plural">you</term> <app loc="1" cert="high"><rdg>happiness</rdg></app> <app loc="2" cert="high"><rdg>joys</rdg></app></salute>
+<signed>J. Jesus Samaniego</signed>
+</closer>
+
+<postscript>
+<p>This is my address<lb/>
+63 Rosales Street</p>
+</postscript>
+
+</div1>
+
+</body>
+        
+<back/>
+</text>
+</TEI>

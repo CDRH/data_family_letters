@@ -13,13 +13,18 @@ class TeiToEs
     ]
     xpaths["date_display"] = "/TEI/teiHeader/fileDesc/sourceDesc/bibl/date"
     xpaths["person"] = "//persName"
+    xpaths["places"] = "//placeName"
     xpaths["publisher"] = "/TEI/teiHeader/fileDesc/publicationStmt/publisher"
     xpaths["recipient"] = "/TEI/teiHeader/profileDesc/correspDesc/correspAction[@type='deliveredTo']/persName"
     xpaths["source"] = "/TEI/teiHeader/fileDesc/sourceDesc/mxDesc[1]/msIdentifier/repository"
     xpaths["subcategory"] = "/TEI/text/body/div1[1]/@type"
     xpaths["text_en"] = "/TEI/text/body/div1[@lang='en']"
     xpaths["text_es"] = "/TEI/text/body/div1[@lang='es']"
-    return xpaths
+    xpaths["titles"] = {
+      "en" => "/TEI/teiHeader/fileDesc/titleStmt/title[@type='main'][@lang='en'][1]",
+      "es" => "/TEI/teiHeader/fileDesc/titleStmt/title[@type='main'][@lang='es'][1]"
+    }
+    xpaths
   end
 
   #################
@@ -29,7 +34,10 @@ class TeiToEs
   def build_person_obj(personXml)
     xmlid = personXml["id"]
     # collect the parts of the person's name
-    display_name = @personography.xpath("//person[@id='#{xmlid}']/persName[@type='display']").text
+    personography_name = @personography
+                          .xpath("//person[@id='#{xmlid}']/persName[@type='facet']")
+                          .text
+    display_name = personography_name.empty? ? "[unknown]" : personography_name
     {
       "id" => xmlid,
       "name" => CommonXml.normalize_space(display_name),
@@ -56,9 +64,12 @@ class TeiToEs
   #  make sure they follow the custom field naming conventions
   #  *_d, *_i, *_k, *_t
   def assemble_collection_specific
-  #   @json["fieldname_k"] = some_value_or_method
     @json["text_t_en"] = text_en
     @json["text_t_es"] = text_es
+    # no harm in populating these fields but we aren't using them currently
+    # in the rails application
+    @json["title_es_k"] = title_es
+    @json["title_sort_es_k"] = title_sort_es
   end
 
   ################
@@ -68,27 +79,29 @@ class TeiToEs
   # Overrides of default behavior
   # Please see docs/tei_to_es.rb for complete instructions and examples
 
-  # TODO should we change cather so that writings is undercase?
   def category
     category = get_text(@xpaths["category"])
-    category.length > 0 ? category : "Writings"
+    category.length > 0 ? category.capitalize : "Writing"
   end
 
-  def recipient
-    list = []
-    eles = @xml.xpath(@xpaths["recipient"])
-    eles.each do |p|
-      recip = build_person_obj(p)
-      recip["role"] = "recipient"
-      list << recip
+  def format
+    matched_format = nil
+    # iterate through all the formats until the first one matches
+    @xpaths["formats"].each do |type, xpath|
+      text = get_text(xpath)
+      matched_format = type.capitalize if text && text.length > 0
     end
-    list
+    matched_format
   end
 
-  # TODO should we change cather so that Letters is undercase? plural or singular?
-  def subcategory
-    subcategory = get_text(@xpaths["subcategory"])
-    subcategory = subcategory == "letter" ? "Letters" : subcategory
+  def language
+    lang = get_text(@xpaths["language"])
+    # don't send anything if there's no language
+    lang.empty? ? nil : lang
+  end
+
+  def languages
+    get_list(@xpaths["languages"])
   end
 
   def person
@@ -109,6 +122,17 @@ class TeiToEs
     return list.uniq
   end
 
+  def recipient
+    list = []
+    eles = @xml.xpath(@xpaths["recipient"])
+    eles.each do |p|
+      recip = build_person_obj(p)
+      recip["role"] = "recipient"
+      list << recip
+    end
+    list
+  end
+
   # TODO rights, rights_uri, and rights_holder?
   def rights
     # TODO
@@ -116,6 +140,15 @@ class TeiToEs
 
   def rights_holder
     "Elizabeth Jane and Steve Shanahan of Davey, NE"
+  end
+
+  def source
+    rights_holder
+  end
+
+  def subcategory
+    subcategory = get_text(@xpaths["subcategory"])
+    subcategory == "note" ? "Document" : subcategory.capitalize
   end
 
   def text_en
@@ -126,10 +159,32 @@ class TeiToEs
     get_text(@xpaths["text_es"], false)
   end
 
-  def uri
-    "https://familyletters.unl.edu/#{@id}"
+  # title is english since API is in english
+  def title
+    title_label = get_text(@xpaths["titles"]["en"])
+    # default to spanish title if there isn't an english one
+    title_label ? title_label : get_text(@xpaths["titles"]["es"])
   end
 
-  # TODO text is going to have to be filtered by language field
+  def title_es
+    title_label = get_text(@xpaths["titles"]["es"])
+    # default to an english title if there isn't anything for spanish
+    title_label ? title_label : get_text(@xpaths["titles"]["en"])
+  end
+
+  # title sort is english since API is in english
+  def title_sort
+    CommonXml.normalize_name(title)
+  end
+
+  def title_sort_es
+    # put in lower case and remove some starting words
+    down = title_es.downcase
+    down.sub(/^el |^la |^los |^las /, "")
+  end
+
+  def uri
+    File.join(@options["site_url"], @id)
+  end
 
 end

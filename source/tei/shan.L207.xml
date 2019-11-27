@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="shan_L207.meta">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">Letter from Jesusita Baros Torres to Santos Baros Schubert, May 13, 1969</title>
+<title type="main" xml:lang="es">Carta de Jesusita Baros Torres a Santos Baros Schubert, 13 de mayo, 1969</title>
+<author>Baros Torres, Jesusita</author>
+<principal xml:id="iv001">Velázquez, Isabel</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name xml:id="af">Faxas, Adoni A.</name>
+<name xml:id="iv">Velázquez, Isabel</name>
+<name xml:id="sbg">Garcia, Sarita B.</name>
+ <name xml:id="ji">Isasi, Jennifer</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Family Letters: An analysis of the Personal Correspondence of a Mexican American Family in Western Colorado and Eastern Nebraska in the First Half of the 20th Century</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Department of Modern Languages and Literatures</name>
+ <address>
+<addrLine>1111 Oldfather Hall</addrLine>
+<addrLine>660 N 12th</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+<addrLine>modlang2@unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+</address>
+<idno>shan_L207.meta</idno>
+<availability>
+<p>COPYRIGHT STATEMENT TO GO HERE</p>
+</availability>
+</publicationStmt>
+            
+<notesStmt><note/></notesStmt>
+            
+<sourceDesc>
+<bibl>
+<author>Baros Torres, Jesusita</author>
+<title level="m" type="main">Letter from Jesusita Baros Torres to Santos Baros Schubert</title>
+<date when="1969-05-13">May 13, 1969</date>
+<extent>2 pages</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Shanahan Collection</repository>
+<idno/>
+</msIdentifier>
+<msContents>
+<p>2 hand-written pages</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support/>
+<extent>2 pages
+<dimensions unit="mm"><height/><width/></dimensions>
+</extent>
+<condition>
+<p/></condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="h01" scribe="jbt001" medium="pen"><p>Media: black ink</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote><p/></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin/>
+<provenance/>
+<acquisition/>
+</history>
+</msDesc>
+                
+</sourceDesc>
+</fileDesc>
+        
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p/>
+</correction>
+<normalization>
+<p/>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term/>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term/>
+</keywords>
+<keywords scheme="original" n="topic">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term/>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName xml:id="jbt001">Baros Torres, Jesusita</persName>
+<placeName>Fort Lupton, Colorado</placeName>
+<date type="written" when="1969-05-13"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="sbs001">Baros Schubert, Santos</persName>
+<placeName/>
+</correspAction>
+<correspContext>
+<ref type="prev" target="shan">Letter from x to y, date</ref>
+<ref type="next" target="shan">Letter from x to y, date</ref>
+</correspContext> 
+</correspDesc>
+</profileDesc>
+        
+<revisionDesc>
+<change when="2017" who="#af">Initial Encoding</change>
+<change when="2016" who="#iv">Transcription</change>
+            
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>
+            
+<div1 type="letter" xml:lang="es">
+                
+<pb facs="shan_l.738.jpg"/>
+                
+<opener>
+<address><addrLine>ft, Lupton Colo</addrLine></address>
+<dateline>may 13.– 1969</dateline>
+
+<salute>Querida higa,</salute>
+</opener>
+                
+<p>la precente es para Saludarte en compania de tu Espozo y de la demas muchachos mucho gusto al recívír la Mother day Card que tu mandastes, y tambíen la card, que me mando la Pam pues no se inmaginan el gusto que recíví dile que muchas gracias. Díosito que la acompañe siempre eson son mís deceos, para todos Uds;</p>
+
+<p>pues yo é estado poco mala con la operacíon que me isieron pues ya ase desde Octubre 22 – <add>1968</add> que entre al Hospit<add>al</add> y salí en novíembre 17. <add>1969</add> pues ya tengo como 6, meses. y todabía  en cada y cuando me molesta no mas es que me ponga á ser algo y me siento <add>mal</add>; pues max ya no ba á trabagar, porque pues el es el que me ayuda á ser el trabago de la casa y estando sín aser nada no mas acostada pues me síento bíen; sí ago alguna cosa y me siento mala;</p>
+
+<p>tambien te doy las Gracías por el cheke $5.</p>
+
+<pb facs="shan_l.739.jpg"/>
+
+<p>bueno eso estube mejor;</p>
+
+<p>pues te platícare que me Helen que la Kathy ba á benir como en june su Bacasíon para ft, Lupton; y tambíen me digo que el jerry se ba á casar para Septem 20; pues quíen save aber sí no se arepíente como la otro ves, que dígo que íba á casar en New yorke y al fín se bíno y no se caso,</p>
+
+<p>bueno y á uds como les á ído con el Billy, jr, tu no nos platicas nada; bueno pues escríbeme cuando tu puedas pues yo creo que esto sera todo por esta ves, muchos recuerdo al Bíll y á todos los demas díle á Elizabeth que me escriba y recíve saludes del jess y famyla y del max y de mí recíve un fíno amor de tu mamá, que te deceo que Díosito te ayude y te acompañe con tu Espozo y family.</p>
+
+<closer>
+<salute>los deceos de tu mamá</salute>                    
+<signed>jesusita Torres.</signed>
+</closer>
+                
+</div1>
+
+<div1 type="letter" xml:lang="en">
+                
+<pb facs="shan_l.738.jpg"/>
+                
+<opener>
+<address><addrLine>Ft. Lupton, Colorado</addrLine></address>
+<dateline>May 13.– 1969</dateline>
+
+<salute>Dear daughter,</salute>
+</opener>
+                
+<p>This letter is to greet you, together with your husband and the rest of the kids. I was very happy to receive the Mother’s Day card that you sent, and also the card that Pam sent. Well, you can’t imagine how happy they made me. Tell her thank you very much. God keep her always, those are my wishes for all of you.</p>
+
+<p>Well, I’ve been a little sick because of the surgery I had. I went into the hospital on October 22, 1968, and I left on November 17, 1969, so it’s been about six months, and every once in a while it still bothers me. When I start to do something I feel ill, so Max is not going to work because he is the one who helps me with the housework. I feel fine if I’m lying down and not doing anything, but if I do something I feel ill.</p>
+
+<p>Also, I want to thank you for the $5 check.</p>
+
+<pb facs="shan_l.739.jpg"/>
+
+<p>Well, I <app loc="1" cert="high"><rdg>that</rdg></app> was better.</p>
+
+<p>Well, I will tell you that Helen <add resp="iv001">told me</add> that Kathy is coming around June for her vacation, to Ft. Lupton. I will also tell you that she told me that Jerry is getting married on September 20. Well, who knows. Let’s see if he doesn’t get cold feet like last time that he said he was going to get married in New York and in the end he came back and didn’t get married.</p>
+
+<p>So, how are things <app loc="1"><rdg>how have you fared with</rdg></app> Billy Jr.? You don’t tell us anything. Well, write to me when you can. I think this will be all for now. Many regards <app loc="1"><rdg>much love</rdg></app> for Bill and for everyone else. Tell Elizabeth to write to me and receive regards from Jess and his family, and from Max and me. Receive the finest love <app loc="1"><rdg>finest affection</rdg></app> from your mother, who wishes that God help and keep you wand your husband and family.</p>
+
+<closer>
+<salute><add resp="iv001">These are</add>Your mother’s wishes.</salute>                    
+<signed>Jesusita Torres.</signed>
+</closer>
+                
+</div1>
+
+</body>
+        
+<back/>
+</text>
+</TEI>

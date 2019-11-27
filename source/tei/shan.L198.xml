@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="shan_L198.meta">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">Letter from Jesusita Baros Torres to Santos Baros Schubert, April 7, 1961</title>
+<title type="main" xml:lang="es">Carta de Jesusita Baros Torres a Santos Baros Schubert, 07 de abril, 1961</title>
+<author>Baros Torres, Jesusita</author>
+<principal xml:id="iv001">Velázquez, Isabel</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name xml:id="af">Faxas, Adoni A.</name>
+<name xml:id="km">Mendell, Kate</name>
+<name xml:id="sbg">Garcia, Sarita B.</name>
+ <name xml:id="ji">Isasi, Jennifer</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Family Letters: An analysis of the Personal Correspondence of a Mexican American Family in Western Colorado and Eastern Nebraska in the First Half of the 20th Century</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Department of Modern Languages and Literatures</name>
+ <address>
+<addrLine>1111 Oldfather Hall</addrLine>
+<addrLine>660 N 12th</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+<addrLine>modlang2@unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+</address>
+<idno>shan_L198.meta</idno>
+<availability>
+<p>COPYRIGHT STATEMENT TO GO HERE</p>
+</availability>
+</publicationStmt>
+            
+<notesStmt><note/></notesStmt>
+            
+<sourceDesc>
+<bibl>
+<author>Baros Torres, Jesusita</author>
+<title level="m" type="main">Letter from Jesusita Baros Torres to Santos Baros Schubert</title>
+<date when="1961-04-07">April 7, 1961</date>
+<extent>3 pages and envelope</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Shanahan Collection</repository>
+<idno/>
+</msIdentifier>
+<msContents>
+<p>3 hand-written pages and envelope</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support/>
+<extent>3 pages and envelope
+<dimensions unit="mm"><height/><width/></dimensions>
+</extent>
+<condition>
+<p/></condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="h01" scribe="jbt001" medium="pen"><p>Media: blue ink</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote><p/></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin/>
+<provenance/>
+<acquisition/>
+</history>
+</msDesc>
+                
+</sourceDesc>
+</fileDesc>
+        
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p/>
+</correction>
+<normalization>
+<p/>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term/>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term/>
+</keywords>
+<keywords scheme="original" n="topic">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term/>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName xml:id="jbt001">Baros Torres, Jesusita</persName>
+<placeName>Fort Lupton, Colorado</placeName>
+<date type="written" when="1961-04-07"/>
+<date type="postmarked" when="1961-04-08"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="sbs001">Baros Schubert, Santos</persName>
+<placeName>Lincoln, Nebraska</placeName>
+</correspAction>
+<correspContext>
+<ref type="prev" target="shan">Letter from x to y, date</ref>
+<ref type="next" target="shan">Letter from x to y, date</ref>
+</correspContext> 
+</correspDesc>
+</profileDesc>
+        
+<revisionDesc>
+<change when="2017" who="#af">Initial Encoding</change>
+<change when="2015" who="#km">Transcription</change>
+            
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>
+            
+<div1 type="letter" xml:lang="es">
+                
+<pb facs="shan_l.698.jpg"/>
+                
+<opener>
+<address><addrLine>Forth Lupton Colo</addrLine></address>
+<dateline>april 7, - 1961.</dateline>
+
+<salute>Querida hija,</salute>
+</opener>
+                
+<p>la presente es para saludarte, tanto á ti Como á tu esposo y familia, esperando que aygas pasaso bien estos días de la Cuaresma pues nosotros estamos bien con salud Gracias á Dios;</p>
+
+<p>pues como me da gusto, que tu enseñes á tus niños á la religion Catolica; aslos á todos que se confirmen y se confiesen resíban los sacramentos de la Iglesia Catolíca; y tu tambien as tiempo para confesarte y recívir flos sacramentos;</p>
+
+<p>bueno muchas gracias
+
+<pb facs="shan_l.699.jpg"/>
+
+por los retratos que me mandastes, no mas te falto el Billy boy, el no esta, pero todos esta muy bien grandes que estan ya los muchachos;</p>
+
+<p>Ojala y no se te enfermen; se miran muy bien; yo é estado muy bien no me á agarado la pataleta; Bendito Díos; es porlo que le doy Gracias á Díos;</p>
+
+<p>y mira hija te encargo que no te estes mucho sín escrivi<add>r</add> yo me estube desde march 17. para hora es 7, april; pero tu que estas asta 3, meses sín escribír, no creas simpre tengo pena de Uds, tanto que pasa;</p>
+
+<p>bueno pues creo que esto sera todo por esta ves; muchos recuerdos para Bill tu esposo
+
+<pb facs="shan_l.700.jpg"/>
+
+y para Billy boy y para Robert, y Pamela, y para Elizabeth;</p>
+
+<closer>
+<salute>y tu recive el mas fino recuerdo de nosotros Jess y family, Max y tu mamá</salute>                    
+<signed>Jesusita Baros; Torres</signed>
+</closer>
+                
+</div1>
+
+
+<div1 type="letter" xml:lang="en">
+                
+<pb facs="shan_l.698.jpg"/>
+                
+<opener>
+<address><addrLine>Fort Lupton, Colorado</addrLine></address>
+<dateline>April 7, 1961</dateline>
+
+<salute>Dear daughter,</salute>
+</opener>
+                
+<p>this letter is to greet you as well as your husband and family, hoping you’ve spent a good Lent. We are well and healthy, thank God.</p>
+
+<p>Well, how it makes me glad that you are teaching your children about <add resp="iv001">raising your children in</add> the Catholic religion. Take all of them to be confirmed, and to confess, to receive the sacraments of the Catholic Church. And you too, make time to go to confession and to receive the sacraments.</p>
+
+<p>Well, thank you
+
+<pb facs="shan_l.699.jpg"/>
+
+for the portraits that you sent me. The only one missing is Billy Boy. He is not in them, but everyone else came out quite well. The kids are very big.</p>
+
+<p>I hope they don’t get sick. They look great. I’ve been quite well. I haven’t had the tantrum <app loc="1"><rdg>health crisis</rdg></app>, blessed be God. For this I thank God.</p>
+
+<p>And look, I entrust you <app loc="1"><rdg>ask you to</rdg></app> <app loc="2"><rdg>beg of you</rdg></app> not to take too long before writing to me. I have not written since March 17, and today is April 7, but you let up to three months go by without writing, and really, I worry about <term type="plural">you</term>, with so many things happening <app loc="1"><rdg>going on</rdg></app>.</p>
+
+<p>Well, I think this will be all for today. Many regards <app loc="1"><rdg>much love</rdg></app> for Bill, your husband.
+
+<pb facs="shan_l.700.jpg"/>
+
+and for Billy Boy, and for Robert, and Pamela, and for Elizabeth;</p>
+
+<closer>
+<salute>and you, receive the finest regards from us, Jess and his family, Max and your mom</salute>                    
+<signed>Jesusita Baros Torres</signed>
+</closer>
+                
+</div1>
+
+<div1 type="envelope">
+
+<pb facs="shan_l.696.jpg"/>
+
+<ab type="return">
+<address>
+<addrLine>814 Pacífic, ave</addrLine>
+<addrLine>ft Lupton Colo</addrLine>
+<addrLine>Jesusita B. Torres</addrLine>
+</address>
+</ab>
+
+<ab type="address">
+<address>
+<addrLine>Mrs. W. F. Schubert</addrLine>
+<addrLine>1016, South 40th St.</addrLine> 
+<addrLine>Lincoln 10, Nebr;</addrLine>
+</address>
+</ab>
+
+<ab type="postmark">
+FORT LUPTON<lb/> 
+APR 8<lb/>
+4 PM<lb/>
+1961<lb/>
+COLO.<lb/>
+</ab>
+
+<figure type="stamp">
+<p/>
+</figure>
+
+</div1>
+
+<div1 type="letter" xml:lang="en">
+  
+<pb facs="shan_l.698.jpg"/>
+  
+<opener>
+<address><addrLine>Fort Lupton, Colorado</addrLine></address>
+<dateline>April 7, 1961</dateline>
+   
+<salute>Dear daughter,</salute>
+</opener>
+  
+<p>this letter is to greet you as well as your husband and family, hoping you’ve spent a good lent. We are well and healthy, thank God.</p>
+
+<p>Well, how it makes me glad that you are teaching your children about <certainty locus="name" cert="high"/><app loc="1"><rdg>raising your children in</rdg></app> the Catholic religion. Take all of them to be confirmed, and to confess, to receive the sacraments of the Catholic Church. And you too, make time to go to confession and to receive the sacraments.</p>
+
+<p>Well, thank you
+ 
+<pb facs="shan_l.699.jpg"/> 
+
+for the portraits that you sent me. The only one missing is Billy Boy. He is not in them, but everyone else came out quite well. The kids are very big.</p>
+
+<p>I hope they don’t get sick. They look great. I’ve been quite well. I haven’t had the tantrum, blessed be God. For this I thank God.</p>
+
+<p>And look, I entrust you not to take too long before writing to me. I have not written since March 17, and today is April 7, but you let up to three months go by without writing, and really, I worry about you, with so many things going on.</p>
+
+<p>Well, I think this will be all for today. Many regards [much love] for Bill, your husband.
+
+<pb facs="shan_l.700.jpg"/>
+
+and for Billy Boy, and for Robert, and Pamela, and for Elizabeth;</p>
+ 
+<closer>
+<salute>and you, receive the finest regards from us, Jess and his family, Max and your mom</salute>                    
+<signed>Jesusita Baros Torres</signed>
+</closer>
+ 
+</div1>
+
+</body>
+        
+<back/>
+</text>
+</TEI>

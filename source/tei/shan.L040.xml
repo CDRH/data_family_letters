@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="shan_L040.meta">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">Letter from Clemente Torres to Maximino Torres, April 7, 1939</title>
+<title type="main" xml:lang="es">Carta de Clemente Torres a Maximino Torres, 7 de abril, 1939</title>
+<author>Torres, Clemente</author>
+<principal xml:id="iv001">Velázquez, Isabel</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name xml:id="jda">Avelar, Janette D.</name>
+<name xml:id="iv002">Velázquez, Isabel</name>
+<name xml:id="sbg">Garcia, Sarita B.</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2015</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Family Letters: An analysis of the Personal Correspondence of a Mexican American Family in Western Colorado and Eastern Nebraska in the First Half of the 20th Century</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Department of Modern Languages and Literatures</name>
+ <address>
+<addrLine>1111 Oldfather Hall</addrLine>
+<addrLine>660 N 12th</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+<addrLine>modlang2@unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+</address>
+<idno>shan_L040.meta</idno>
+<availability>
+<p>COPYRIGHT STATEMENT TO GO HERE</p>
+</availability>
+</publicationStmt>
+            
+<notesStmt><note/></notesStmt>
+            
+<sourceDesc>
+<bibl>
+<author>Torres, Clemente</author>
+<title level="m" type="main">Letter from Clemente Torres to Maximino Torres</title>
+<date when="1939-04-07">April 7, 1939</date>
+<extent>2 pages and envelope</extent>
+<add>1 fragment</add>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Shanahan Collection</repository>
+<idno/>
+</msIdentifier>
+<msContents>
+<p>2 hand-written pages and envelope</p>
+<p>1 hand-written fragment</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support/>
+<extent>2 pages and envelope
+<add>1 fragment</add>
+<dimensions unit="mm"><height/><width/></dimensions>
+</extent>
+<condition>
+<p/></condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="h01" scribe="ct001" medium="pen"><p>Media: blue ink</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote><p/></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin/>
+<provenance/>
+<acquisition/>
+</history>
+</msDesc>
+                
+</sourceDesc>
+</fileDesc>
+        
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p/>
+</correction>
+<normalization>
+<p/>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term/>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term/>
+</keywords>
+<keywords scheme="original" n="topic">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term/>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName xml:id="ct001">Torres, Clemente</persName>
+<placeName>Churintzio, Michoacán, México</placeName>
+<date type="written" when="1939-04-07"/>
+<date type="postmarked" when="1939-05-10"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="mt001">Torres, Maximino</persName>
+<placeName>Chicago, Illinois</placeName>
+</correspAction>
+<correspContext>
+<ref type="prev" target="shan">Letter from x to y, date</ref>
+<ref type="next" target="shan">Letter from x to y, date</ref>
+</correspContext> 
+</correspDesc>
+</profileDesc>
+        
+<revisionDesc>
+<change when="2015" who="#jda">Initial Encoding</change>
+<change when="2013" who="#iv002">Transcription</change>
+            
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>
+            
+<div1 type="letter" xml:lang="es">
+                
+<pb facs="shan_l.140.jpg"/>
+                
+<opener>
+<address><addrLine>Churintzio mich. a</addrLine></address>
+<dateline>abril a 7 de 1939</dateline>
+
+<address><addrLine>Sr. Maximino Torrez</addrLine></address>
+
+<salute>Muy estimado Hermano de todo mi aprecio y cariño la presente me cribe mada. mas para saludarte y que te incuentres vien son mis deseos y que estes muy contento es lo que yo deseo parati Herrmano</salute>
+</opener>
+                
+<p>des pues de saludarte paso a contestarte tu muy atenta y cariñosa carta donde beo medises que estas sin nobedad. Grasias a Dios</p>
+
+<p>Herrmano de lo que medises que no te contesto. Reynaldo pues no esta bueno pero que bamos .aser talbes que no quiso y de los que medises que procure hotra direxion pues te digo que da ygual para que no te conteste porque el telegrama yega ala casa pero no <unclear reason="illegible">hustante</unclear> tedigo que hase 15 Dias que yego huna carta de el pero con la misma direxcion yo digo esto que estaria bueno que le mandes el telegrama con esta direicion 4614 S. Wentwos <unclear reason="illegible">Ih</unclear> ave.
+
+<pb facs="shan_l.141.jpg"/>
+
+Chicago, Ill.</p>
+
+<p>para <unclear reason="illegible">bercie</unclear> te contestara y de lo que me dises de costantino pues te digo que ya murio y pachita tamien ya murio</p>
+
+<p>y de lo que me preguntas por allala pues el siesta en el Rancho de Paximaro y de lo que me dises que te mande la direicion de Ylarion y Feles pues notela mando por no saberla pero boy ainformar y para la proxima carta telamandare</p>
+
+<p>tamien te ago el encargo que si por casualida teiegas a entrevistar con Reynaldo no te baias adegar enrredar por que tu hasabes como es de prometedor promote mucho y no es nada… y me ases fabor de contestarme tan luego como Recibas esta</p>
+
+<closer>
+
+<salute>Recibe saludes de agapito aviña y de juana aviña y de Consepcion y familia y de mi esposa y de los muchachos. y de mi Recibe los mas cinseros y finos recuerdos de tu Herrmano que berte desea megor que escrevirte</salute> 
+                   
+<signed>Clemente Torrez</signed>
+</closer>
+
+<pb facs="shan_l.142.jpg"/>
+
+<note>4614 S. Wentwar Ih. Ave<lb/>
+Chicago Ill.</note>
+                
+</div1>
+
+<div1 type="envelope">
+
+<pb facs="shan_l.138.jpg"/>
+
+<ab type="return">
+<address>
+<addrLine>Rte.</addrLine>
+<addrLine>Clemente Torres.</addrLine>
+<addrLine>Churintzio Mich</addrLine>
+</address>
+</ab>
+
+<ab type="address">
+<address>
+<addrLine>Sr.</addrLine>
+<addrLine>Maximino Torres</addrLine>
+<addrLine>In care B. Kenndy R. 3</addrLine>
+<addrLine>Longmont Colo.</addrLine>
+<addrLine>E.U.A.</addrLine>
+</address>
+</ab>
+
+<ab type="postmark">
+CHURINTZIO<lb/>
+10 MAY 39 18 30<lb/>
+MICH.<lb/>
+</ab>
+
+<figure type="stamp">
+<p/>
+</figure>
+
+</div1>
+
+<div1 type="letter" xml:lang="en">
+                
+<pb facs="shan_l.140.jpg"/>
+                
+<opener>
+<address><addrLine>Churintzio, Michoacan</addrLine></address>
+<dateline>April 7, 1939</dateline>
+
+<address><addrLine>Mr. Maximino Torrez</addrLine></address>
+
+<salute>My very dear brother <app loc="1"><rdg>holder</rdg></app> <app loc="2"><rdg>owner</rdg></app><app loc="3"><rdg>possessor</rdg></app> of all my esteem and affection this <add resp="iv001">letter</add> serves me to greet you and hope that you are well, as is my wish. That you are very happy is what I wish for you, brother.</salute>
+</opener>
+                
+<p>After greeting you I proceed to answer your kind and affectionate letter where I see you tell me that you are without news, thank God.</p>
+
+<p>Brother, you tell me that Reynaldo did not answer you, and that is not good, but what can we do. Maybe he didn’t want to. About what you ask me, to <app loc="1" cert="high"><rdg>find</rdg></app> <app loc="2" cert="high"><rdg>procure</rdg></app> another address, I tell you that it’s useless, because he <app loc="1"><rdg>won’t answer</rdg></app> <app loc="2"><rdg>may not answer</rdg></app> because the telegram will be delivered to <app loc="1"><rdg>his</rdg></app> <app loc="2"><rdg>the</rdg></app> house but not. I tell you that a letter from him arrived 15 days ago, but with the same address. I think that it would be a good idea that you send him the telegram to this address 4614 S. Wentwos Ih ave.
+
+<pb facs="shan_l.141.jpg"/>
+
+Chicago, Ill.</p>
+
+<p>to see if he replies. And regarding what you ask me about Constantino, I will tell you that he died and Pachita did too.</p>
+
+<p>And about what you ask regarding Ayala, he is at the Patzímaro ranch. And about what you <app loc="1"><rdg>tell </rdg></app><app loc="2"><rdg>ask</rdg></app> me to send you Ylarion and Fele’s address I can’t, because I don’t have it, but I will get it and send it to you in my next letter.</p>
+
+<p>I also ask you that if by chance you talk to Reynaldo don’t let yourself be <app loc="1"><rdg>confused </rdg></app><app loc="2"><rdg>taken in</rdg></app> because you know that he likes to promise, he promises a lot and doesn’t deliver… and please reply as soon as you receive this <add resp="iv001">letter</add></p>
+
+<closer>
+
+<salute>Receive greetings from Agapito Aviña and from Juana Aviña and from Concepción and family, and from my wife and the kids. And receive kind regards from your brother who wishes he could see you better than write to you</salute> 
+                   
+<signed>Clemente Torrez</signed>
+</closer>
+
+<pb facs="shan_l.142.jpg"/>
+
+<note>4614 S. Wentwar Ih. Ave<lb/>
+Chicago Ill.</note>
+                
+</div1>
+
+</body>
+        
+<back/>
+</text>
+</TEI>

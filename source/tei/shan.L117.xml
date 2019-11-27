@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="shan_L117.meta">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">Letter from Jesusita Baros Torres to Santos Baros Schubert, July 20, 1967</title>
+<title type="main" xml:lang="es">Carta de Jesusita Baros Torres a Santos Baros Schubert, 20 de julio, 1967</title>
+<author>Baros Torres, Jesusita</author>
+<principal xml:id="iv001">Velázquez, Isabel</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name xml:id="af">Faxas, Adoni A.</name>
+<name xml:id="km">Mendell, Kate</name>
+<name xml:id="sbg">Garcia, Sarita B.</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2016</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>Family Letters: An analysis of the Personal Correspondence of a Mexican American Family in Western Colorado and Eastern Nebraska in the First Half of the 20th Century</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Department of Modern Languages and Literatures</name>
+ <address>
+<addrLine>1111 Oldfather Hall</addrLine>
+<addrLine>660 N 12th</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+<addrLine>modlang2@unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-0315</addrLine>
+</address>
+<idno>shan_L117.meta</idno>
+<availability>
+<p>COPYRIGHT STATEMENT TO GO HERE</p>
+</availability>
+</publicationStmt>
+            
+<notesStmt><note/></notesStmt>
+            
+<sourceDesc>
+<bibl>
+<author>Baros Torres, Jesusita</author>
+<title level="m" type="main">Letter from Jesusita Baros Torres to Santos Baros Schubert</title>
+<date when="1967-07-20">July 20, 1967</date>
+<extent>2 pages and envelope</extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Shanahan Collection</repository>
+<idno/>
+</msIdentifier>
+<msContents>
+<p>2 hand-written pages and envelope</p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support/>
+<extent>2 pages and envelope
+<dimensions unit="mm"><height/><width/></dimensions>
+</extent>
+<condition>
+<p/></condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="h01" scribe="jbt001" medium="pen"><p>Media: blue ink</p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote><p/></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin/>
+<provenance/>
+<acquisition/>
+</history>
+</msDesc>
+                
+</sourceDesc>
+</fileDesc>
+        
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p/>
+</correction>
+<normalization>
+<p/>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term/>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term/>
+</keywords>
+<keywords scheme="original" n="topic">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term/>
+</keywords>
+</textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName xml:id="jbt001">Baros Torres, Jesusita</persName>
+<placeName>Fort Lupton, Colorado</placeName>
+<date type="written" when="1967-07-20"/>
+<date type="postmarked" when="1967-07-21"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName xml:id="sbs001">Baros Schubert, Santos</persName>
+<placeName>Lincoln, Nebraska</placeName>
+</correspAction>
+<correspContext>
+<ref type="prev" target="shan">Letter from x to y, date</ref>
+<ref type="next" target="shan">Letter from x to y, date</ref>
+</correspContext> 
+</correspDesc>
+</profileDesc>
+        
+<revisionDesc>
+<change when="2016" who="#af">Initial Encoding</change>
+<change when="2014" who="#km">Transcription</change>
+            
+</revisionDesc>
+</teiHeader>
+    
+<text>
+<body>
+            
+<div1 type="letter" xml:lang="es">
+                
+<pb facs="shan_l.440.jpg"/>
+                
+<opener>
+<address><addrLine>ft Lupton Colo</addrLine></address>
+<dateline>july 20,--1967.</dateline>
+
+<salute>Mis Queridos hijas,</salute>
+</opener>
+
+<p>la presente es para Saludarlos á Todos en –especíal á Pamela y á tí Santos and Jane y á todos deceandoles que esten todos bíen,</p>
+                
+<p>pues les díre que nosotros estamos todos bien;</p>
+
+<p>Gracias á Diosito que es tan bueno pues mucho gusto recíbí de ber que se acordaron de mí recíbí el Bírthday Card, y tambien el cheke de $5, pero no me dísen nada ní como les á ido con el tiempo pues dísen que á sido mucho agua para nebraska; lo mismo que á qui tambíen, aquí cayo un fuerte granízo como en las prímeras 2, semanas de june; que se an perdído las cosechas para el lado de Longmont todo la síempre se perdió y las Casas del Techo; por onde quíera se mira que están poninendo Techo;</p>
+
+<p>pues también te platicare que al fín la Mrs. Hezol
+
+<pb facs="shan_l.442.jpg"/>
+
+síempre se fue bíno un hijo de Texas le compro una casa en—Greelly y se la yebo; para Greelly el hombre pues bien era Mexica<add>no</add> disen que el espozo de la Mrs. Hezol era mexicano, y le salieron dos muchas gueras, y el hombre mexica<add>no</add> le mandaron á llamar los chotas porque la querían echar al Hospital</p>
+
+<p>bueno pues escríbeme en cada y cuando no se olviden de nosotros pues te díre que mañana que es 21. me toca y al Hospital; á una cheap com dísen á <add>una</add> exzaminasíon estoy yendo cada 6 meses;</p>
+
+<p>bueno híja pues yo creo que esto será todo por esta bes; y muchos recuerdos á todos en especialmente al Bill y á ti.</p>
+
+<closer>
+<salute>muchas Gracías que Díosito te Bendiga esos son mis grandes deceos, de tu mamá;</salute>                    
+<signed>Jesusita Torres</signed>
+</closer>
+                
+</div1>
+
+<div1 type="envelope">
+
+<pb facs="shan_l.438.jpg"/>
+
+<ab type="return">
+<address>
+<addrLine>Jesusita Torres</addrLine>
+<addrLine>814, Pacific ave</addrLine>
+<addrLine>ft, Lupton Colo. 80621.</addrLine>
+</address>
+</ab>
+
+<ab type="address">
+<address>
+<addrLine>Mrs. Schubert</addrLine>
+<addrLine>3830 “C” Street.</addrLine>
+<addrLine>Lincoln Nebraska 8070.</addrLine>
+</address>
+</ab>
+
+<ab type="postmark">
+FORT LUPTON<lb/> 
+JUL 21<lb/>
+PM<lb/>
+1967<lb/>
+80521<lb/>
+</ab>
+
+<figure type="stamp">
+<p/>
+</figure>
+
+</div1>
+
+<div1 type="letter" xml:lang="en">
+                
+<pb facs="shan_l.440.jpg"/>
+                
+<opener>
+<address><addrLine>Ft. Lupton, Colorado</addrLine></address>
+<dateline>July 20, 1967.</dateline>
+
+<salute>My dear daughters,</salute>
+</opener>
+
+<p>this letter is to greet you all – especially Pamela and you, Santos, and Jane, and wishing that you are all well.</p>
+                
+<p>I will tell you that we are all well,</p>
+
+<p>thanks to <term type="informal">my loving God</term>, who is so good. I was very happy to see that you remembered me. I received the birthday card and the check for $5 as well. But you don’t tell me anything, and nothing about who you’ve fared with the weather. They say it has rained a lot in Nebraska. Here too. We had a strong hailstorm about the first two weeks in June. The harvests were lost around Longmont, and many houses lost their roof. You can see people replacing their roof <app loc="1"><rdg>everywhere </rdg></app> <app loc="2"><rdg>around here</rdg></app></p>
+
+<p>Well, I will tell you that Mrs. Hezol—
+
+<pb facs="shan_l.442.jpg"/>
+
+left after all. One of her sons came from Texas, bought her a house in Greeley and took her away, to Greeley. And well, the man was Mexican, and they say that Mrs. Hezol’s husband was Mexican and she had two blond children. And the Mexican man was called by the police because they wanted to send <add resp="iv001">him</add> <add resp="iv001">her</add> to the hospital.</p>
+
+<p>Well, write to me every once in a while, don’t forget about us. Well, I will tell you that tomorrow is the 21st, and I have to go to the hospital for a cheap <add resp="iv001">check up</add>, as they say, for an examination. I go every six months.</p>
+
+<p>Well, daughter, I think this will be all now, and <app loc="1"><rdg>many regards</rdg></app> <app loc="2"><rdg>much love</rdg></app> for all <add resp="iv001">of you</add> especially for Bill, and for you,</p>
+
+<closer>
+<salute>many thanks. May God bless you, that my greatest wish, from your mom,</salute>                    
+<signed>Jesusita Torres</signed>
+</closer>
+                
+</div1>
+
+
+</body>
+        
+<back/>
+</text>
+</TEI>
