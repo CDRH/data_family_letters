@@ -227,7 +227,7 @@ class FileCsv
   end
 
   def item_to_es_photographs(doc, pages)
-    doc["source"] = "University of Nebraska, Lincoln, Hispanic-Latina/o Heritage Collection"
+    doc["source"] = "Nuestras Historias: The Nebraska Latino Heritage Collection"
     # subcategory
     f = doc["format"].class == Array ? doc["format"].first : doc["format"]
     doc["subcategory"] = f
