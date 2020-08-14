@@ -1,4 +1,7 @@
+require_relative "location_helper.rb"
+
 class FileCsv
+  include LocationHelper
 
   def build_html_from_csv
     items = reconstitute_items
@@ -177,7 +180,6 @@ class FileCsv
     doc["people"] = people.map { |p| data_from_pages(pages, p, combine: true) }.flatten.uniq
     # no role or id for person nested object
     doc["person"] = doc["people"].map { |p| { "name" => p } }
-    doc["places"] = data_from_pages(pages, "Coverage#1", combine: false)
     # doc["publisher"]
     recipient = data_from_pages(pages, "Subject#1", combine: false)
     doc["recipient"] = [ { "name" => recipient } ] if recipient
@@ -228,6 +230,31 @@ class FileCsv
 
   def item_to_es_photographs(doc, pages)
     doc["source"] = "Nuestras Historias: The Nebraska Latino Heritage Collection"
+
+    doc["places"] = data_from_pages(pages, "Coverage#1", combine: false)
+    if doc["places"]
+      loc = @places[doc["places"]]
+      if loc
+        coords = loc["Coordinates"].split(",")
+        doc["spatial"] = [
+          {
+            "title" => loc["Title"],
+            "type" => nil,
+            "place_name" => loc["Place Name"],
+            "coordinates" => {
+              "lat" => coords[1].to_f,
+              "lon" => coords[0].to_f
+            },
+            "city" => loc["City"],
+            "country" => loc["Country"],
+            "state" => loc["State"]
+          }
+        ]
+      else
+        puts "Should have found a standard location for #{doc["places"]}"
+      end
+    end
+
     # subcategory
     f = doc["format"].class == Array ? doc["format"].first : doc["format"]
     doc["subcategory"] = f
@@ -252,6 +279,10 @@ class FileCsv
   # but rather "items" created in reconstitute_items
   def transform_es
     puts "transforming #{self.filename}"
+
+    # read in a list of places so that photographs can be matched against them
+    @places = prepare_places
+
     es_doc = []
     headers = @csv.headers
     items = reconstitute_items

@@ -1,4 +1,7 @@
+require_relative "location_helper.rb"
+
 class TeiToEs
+  include LocationHelper
 
   ################
   #    XPATHS    #
@@ -17,6 +20,7 @@ class TeiToEs
     xpaths["publisher"] = "/TEI/teiHeader/fileDesc/publicationStmt/publisher"
     xpaths["recipient"] = "/TEI/teiHeader/profileDesc/correspDesc/correspAction[@type='deliveredTo']/persName"
     xpaths["source"] = "/TEI/teiHeader/fileDesc/sourceDesc/mxDesc[1]/msIdentifier/repository"
+    xpaths["spatial"] = "//correspDesc/correspAction"
     xpaths["subcategory"] = "/TEI/text/body/div1[1]/@type"
     xpaths["text_en"] = "/TEI/text/body/div1[@lang='en']"
     xpaths["text_es"] = "/TEI/text/body/div1[@lang='es']"
@@ -51,8 +55,12 @@ class TeiToEs
 
   # do something before pulling fields
   def preprocessing
+    path = File.join(@options["collection_dir"], "source/authority")
     # read additional files, alter the @xml, add data structures, etc
-    @personography = read_file "source/authority/shanahan_listperson.xml"
+    @personography = CommonXml.create_xml_object(
+      File.join(path, "shanahan_listperson.xml")
+    )
+    @places = prepare_places
   end
 
   # do something after pulling the fields
@@ -133,6 +141,33 @@ class TeiToEs
 
   def source
     rights_holder
+  end
+
+  def spatial
+    get_elements(@xpaths["spatial"]).map do |ele|
+      place = get_text("placeName", xml: ele)
+      action = get_text("@type", xml: ele)
+      # only map things that are either origin or destination
+      type = "origin" if action == "sentBy"
+      type = "destination" if action == "deliveredTo"
+      next if !type
+      loc = @places[place]
+      if loc
+        coords = loc["Coordinates"].split(",")
+        {
+          "title" => loc["Title"],
+          "type" => type,
+          "place_name" => loc["Place Name"],
+          "coordinates" => {
+            "lat" => coords[1].to_f,
+            "lon" => coords[0].to_f,
+          },
+          "city" => loc["City"],
+          "country" => loc["Country"],
+          "state" => loc["State"]
+        }
+      end
+    end
   end
 
   def subcategory
