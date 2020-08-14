@@ -12,6 +12,7 @@
 <resp>transcription and encoding</resp>
 <name xml:id="af">Faxas, Adoni A.</name>
 <name xml:id="sbg">Garcia, Sarita B.</name>
+<name xml:id="jvd">Dussault, Jessica V.</name>
 </respStmt>
 </titleStmt>
 <editionStmt>
@@ -120,8 +121,8 @@
 </keywords>
 </textClass>
 <correspDesc>
-<correspAction type="a002">
-<persName xml:id="ini">Anderson, Mrs.</persName>
+<correspAction type="sentBy">
+<persName xml:id="a002">Anderson, Mrs.</persName>
 <placeName>Lincoln, Nebraska</placeName>
 <date type="written" when="1952-11-19"/>
 </correspAction>
@@ -137,9 +138,10 @@
 </profileDesc>
         
 <revisionDesc>
+<change when="2020" who="#jvd">Fix typo in correspAction</change>
 <change when="2017" who="#af">Initial Encoding</change>
 <change when="2014" who="#af">Transcription</change>
-            
+
 </revisionDesc>
 </teiHeader>
     
