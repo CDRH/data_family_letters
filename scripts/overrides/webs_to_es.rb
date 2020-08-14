@@ -29,7 +29,7 @@ class WebsToEs < XmlToEs
   end
 
   def date(before=true)
-    CommonXml.date_standardize("2019", before)
+    Datura::Helpers.date_standardize("2019", before)
   end
 
   def date_display
@@ -73,7 +73,7 @@ class WebsToEs < XmlToEs
   end
 
   def title_sort
-    CommonXml.normalize_name(title)
+    Datura::Helpers.normalize_name(title)
   end
 
   def title_es_k

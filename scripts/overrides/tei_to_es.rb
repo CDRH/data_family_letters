@@ -40,7 +40,7 @@ class TeiToEs
     display_name = personography_name.empty? ? "[unknown]" : personography_name
     {
       "id" => xmlid,
-      "name" => CommonXml.normalize_space(display_name),
+      "name" => Datura::Helpers.normalize_space(display_name),
       "role" => ""
     }
   end
@@ -122,17 +122,6 @@ class TeiToEs
     return list.uniq
   end
 
-  def recipient
-    list = []
-    eles = @xml.xpath(@xpaths["recipient"])
-    eles.each do |p|
-      recip = build_person_obj(p)
-      recip["role"] = "recipient"
-      list << recip
-    end
-    list
-  end
-
   # TODO rights, rights_uri, and rights_holder?
   def rights
     # TODO
@@ -152,11 +141,11 @@ class TeiToEs
   end
 
   def text_en
-    get_text(@xpaths["text_en"], false)
+    get_text(@xpaths["text_en"])
   end
 
   def text_es
-    get_text(@xpaths["text_es"], false)
+    get_text(@xpaths["text_es"])
   end
 
   # title is english since API is in english
@@ -174,7 +163,7 @@ class TeiToEs
 
   # title sort is english since API is in english
   def title_sort
-    CommonXml.normalize_name(title)
+    Datura::Helpers.normalize_name(title)
   end
 
   def title_sort_es

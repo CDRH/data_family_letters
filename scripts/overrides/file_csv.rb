@@ -30,7 +30,7 @@ class FileCsv
   # combine: false returns a string from the FIRST page only (and potentially a warning)
   # combine: true returns an array for flexibility of how it is treated on the other end
   def data_from_pages(pages, field, combine: false)
-    data = pages.map { |p| CommonXml.normalize_space(p[field]) if present?(p[field]) }
+    data = pages.map { |p| Datura::Helpers.normalize_space(p[field]) if present?(p[field]) }
     data = data.compact.uniq
     if combine
       # returns an array if combine is requested
@@ -195,7 +195,7 @@ class FileCsv
     title = data_from_pages(pages, "Title#1", combine: false)
     # currently title likely english, okay because the API is in English
     doc["title"] = present?(title) ? title : "No Title"
-    doc["title_sort"] = CommonXml.normalize_name(doc["title"])
+    doc["title_sort"] = Datura::Helpers.normalize_name(doc["title"])
     # there is no spanish translation so for now we are just duplicating fields
     doc["title_es_k"] = doc["title"]
     doc["title_sort_es_k"] = doc["title_sort"]
@@ -244,7 +244,7 @@ class FileCsv
       if scrubbed[/\d{4}-\d{4}/]
         scrubbed = scrubbed[/^\d{4}/]
       end
-      CommonXml.date_standardize(scrubbed)
+      Datura::Helpers.date_standardize(scrubbed)
     end
   end
 
