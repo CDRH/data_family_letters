@@ -89,9 +89,9 @@ class TeiToEs
   end
 
   def language
-    lang = get_text(@xpaths["language"])
+    lang = get_list(@xpaths["language"])
     # don't send anything if there's no language
-    lang.empty? ? nil : lang
+    lang.empty? ? nil : lang.first
   end
 
   def languages
