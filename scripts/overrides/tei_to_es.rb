@@ -49,10 +49,6 @@ class TeiToEs
     }
   end
 
-  def read_file(path)
-    CommonXml.create_xml_object("#{@options["collection_dir"]}/#{path}")
-  end
-
   # do something before pulling fields
   def preprocessing
     path = File.join(@options["collection_dir"], "source/authority")
@@ -90,16 +86,6 @@ class TeiToEs
   def category
     category = get_text(@xpaths["category"])
     category.length > 0 ? category.capitalize : "Writing"
-  end
-
-  def format
-    matched_format = nil
-    # iterate through all the formats until the first one matches
-    @xpaths["formats"].each do |type, xpath|
-      text = get_text(xpath)
-      matched_format = type.capitalize if text && text.length > 0
-    end
-    matched_format
   end
 
   def language

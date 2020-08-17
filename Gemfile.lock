@@ -1,7 +1,7 @@
 GIT
   remote: https://github.com/CDRH/datura.git
-  revision: e3dbc4f3f1460932a4823b7ce8a8cceff4e3e093
-  tag: v0.1.6
+  revision: 8e0710af4dcd7a6f3efa06f6ba3d166f92ad4099
+  branch: feature/fields
   specs:
     datura (0.1.6)
       colorize (~> 0.8.1)
