@@ -35,6 +35,20 @@ class TeiToEs
   #    GENERAL    #
   #################
 
+  def text_spacer(xpath)
+    all_text = []
+    all_text += text_additional
+    text_eles = @xml.xpath(xpath)
+    text_eles.each do |t|
+      t.traverse do |node|
+        if node.class == Nokogiri::XML::Text
+          all_text << Datura::Helpers.normalize_space(node.text)
+        end
+      end
+    end
+    all_text.join(" ")
+  end
+
   def build_person_obj(personXml)
     xmlid = personXml["id"]
     # collect the parts of the person's name
@@ -161,22 +175,16 @@ class TeiToEs
     subcategory == "note" ? "Document" : subcategory.capitalize
   end
 
+  def text
+    text_spacer(@xpaths["text"])
+  end
+
   def text_en
-    get_text(@xpaths["text_en"])
+    text_spacer(@xpaths["text_en"])
   end
 
   def text_es
-    all_text = []
-    all_text += text_additional
-    text_eles = @xml.xpath(@xpaths["text_es"])
-    text_eles.each do |t|
-      t.traverse do |node|
-        if node.class == Nokogiri::XML::Text
-          all_text << Datura::Helpers.normalize_space(node.text)
-        end
-      end
-    end
-    all_text.join(" ")
+    text_spacer(@xpaths["text_es"])
   end
 
   # title is english since API is in english
