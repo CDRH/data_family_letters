@@ -166,7 +166,17 @@ class TeiToEs
   end
 
   def text_es
-    get_text(@xpaths["text_es"])
+    all_text = []
+    all_text += text_additional
+    text_eles = @xml.xpath(@xpaths["text_es"])
+    text_eles.each do |t|
+      t.traverse do |node|
+        if node.class == Nokogiri::XML::Text
+          all_text << Datura::Helpers.normalize_space(node.text)
+        end
+      end
+    end
+    all_text.join(" ")
   end
 
   # title is english since API is in english
