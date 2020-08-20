@@ -35,6 +35,14 @@ class TeiToEs
   #    GENERAL    #
   #################
 
+  def text_additional
+    # Note: Override this per collection if you need additional
+    # searchable fields or information for collections
+    # just make sure you return an array at the end!
+
+    [  ]
+  end
+
   def text_spacer(xpath)
     all_text = []
     all_text += text_additional
