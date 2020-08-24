@@ -8,9 +8,15 @@ class Letter
   end
 
   def decade
+    dec = 0
     if @item["date"]
-      @item["date"][/^\d{4}/]
+      year = @item["date"][/^\d{4}/]
+      if year
+        y = year.to_i
+        dec = y - (y % 10)
+      end
     end
+    dec
   end
 
   def destination
