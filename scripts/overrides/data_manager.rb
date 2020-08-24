@@ -65,7 +65,8 @@ class Datura::DataManager
         add or update config/public.yml to use "scrape_website: true"}
     end
 
-    if @options["api_request"] && @options["format"].include?("api_location")
+    if @options["api_request"] &&
+        (!@options["format"] || @options["format"].include?("api_location"))
       api_location_request
     else
       puts %{Files in source/api_location are not being refreshed from the API
