@@ -17,6 +17,7 @@ development:
   es_path: https://cdrhdev1.unl.edu/elastic
   es_index: cdrhapidev-v1
   site_url: https://cdrhdev1.unl.edu/family_letters
+  api_endpoint: https://cdrhdev1.unl.edu/api/v1/collection/family_letters/items
 production:
   es_path: https://cdrhapi.unl.edu/elastic
   es_index: cdrhapi-v1
