@@ -2865,32 +2865,6 @@
   },
   {
     "date": "1945-05-01",
-    "identifier": "shan.P266",
-    "title_es_k": "Santos Baros Schubert and Julia Gomez",
-    "date_display": "1945-05",
-    "language": "en",
-    "title": "Santos Baros Schubert and Julia Gomez",
-    "spatial": [
-      {
-        "place_name": null,
-        "country": "United States of America",
-        "city": "Erie",
-        "coordinates": {
-          "lon": -105.05,
-          "lat": 40.05
-        },
-        "state": "Colorado",
-        "title": "Erie, Colorado",
-        "type": null
-      }
-    ],
-    "category": "Image",
-    "subcategory": "Photograph",
-    "highlight": {
-    }
-  },
-  {
-    "date": "1945-05-01",
     "identifier": "shan.P073",
     "title_es_k": "William F. Schubert",
     "date_display": "1945-05",
@@ -2907,6 +2881,32 @@
         },
         "state": "New York",
         "title": "New York, New York",
+        "type": null
+      }
+    ],
+    "category": "Image",
+    "subcategory": "Photograph",
+    "highlight": {
+    }
+  },
+  {
+    "date": "1945-05-01",
+    "identifier": "shan.P266",
+    "title_es_k": "Santos Baros Schubert and Julia Gomez",
+    "date_display": "1945-05",
+    "language": "en",
+    "title": "Santos Baros Schubert and Julia Gomez",
+    "spatial": [
+      {
+        "place_name": null,
+        "country": "United States of America",
+        "city": "Erie",
+        "coordinates": {
+          "lon": -105.05,
+          "lat": 40.05
+        },
+        "state": "Colorado",
+        "title": "Erie, Colorado",
         "type": null
       }
     ],
@@ -3383,32 +3383,6 @@
   },
   {
     "date": "1948-05-01",
-    "identifier": "shan.P083",
-    "title_es_k": "House of Yesterday",
-    "date_display": "1948-05",
-    "language": "en",
-    "title": "House of Yesterday",
-    "spatial": [
-      {
-        "place_name": null,
-        "country": "United States of America",
-        "city": "Hastings",
-        "coordinates": {
-          "lon": -98.38,
-          "lat": 40.58
-        },
-        "state": "Nebraska",
-        "title": "Hastings, Nebraska",
-        "type": null
-      }
-    ],
-    "category": "Image",
-    "subcategory": "Photograph",
-    "highlight": {
-    }
-  },
-  {
-    "date": "1948-05-01",
     "identifier": "shan.P058",
     "title_es_k": "Santos Baros Schubert and William F. Schubert",
     "date_display": "1948-05",
@@ -3425,6 +3399,32 @@
         },
         "state": "Colorado",
         "title": "Manitou Springs, Colorado",
+        "type": null
+      }
+    ],
+    "category": "Image",
+    "subcategory": "Photograph",
+    "highlight": {
+    }
+  },
+  {
+    "date": "1948-05-01",
+    "identifier": "shan.P083",
+    "title_es_k": "House of Yesterday",
+    "date_display": "1948-05",
+    "language": "en",
+    "title": "House of Yesterday",
+    "spatial": [
+      {
+        "place_name": null,
+        "country": "United States of America",
+        "city": "Hastings",
+        "coordinates": {
+          "lon": -98.38,
+          "lat": 40.58
+        },
+        "state": "Nebraska",
+        "title": "Hastings, Nebraska",
         "type": null
       }
     ],
@@ -8999,6 +8999,32 @@
   },
   {
     "date": null,
+    "identifier": "shan.P072",
+    "title_es_k": "William F. Schubert",
+    "date_display": null,
+    "language": "en",
+    "title": "William F. Schubert",
+    "spatial": [
+      {
+        "place_name": null,
+        "country": "United States of America",
+        "city": "Palmyra",
+        "coordinates": {
+          "lon": -96.38,
+          "lat": 40.7
+        },
+        "state": "Nebraska",
+        "title": "Palmyra, Nebraska",
+        "type": null
+      }
+    ],
+    "category": "Image",
+    "subcategory": "Photograph",
+    "highlight": {
+    }
+  },
+  {
+    "date": null,
     "identifier": "shan.P095",
     "title_es_k": "Santos Baros Schubert and Betty Baca",
     "date_display": null,
@@ -9155,32 +9181,6 @@
   },
   {
     "date": null,
-    "identifier": "shan.P072",
-    "title_es_k": "William F. Schubert",
-    "date_display": null,
-    "language": "en",
-    "title": "William F. Schubert",
-    "spatial": [
-      {
-        "place_name": null,
-        "country": "United States of America",
-        "city": "Palmyra",
-        "coordinates": {
-          "lon": -96.38,
-          "lat": 40.7
-        },
-        "state": "Nebraska",
-        "title": "Palmyra, Nebraska",
-        "type": null
-      }
-    ],
-    "category": "Image",
-    "subcategory": "Photograph",
-    "highlight": {
-    }
-  },
-  {
-    "date": null,
     "identifier": "shan.L195",
     "title_es_k": "Nota de Jesusita Baros Torres",
     "date_display": "",
@@ -9196,39 +9196,27 @@
   },
   {
     "date": null,
-    "identifier": "shan.L178",
-    "title_es_k": "Sobre de Nemecio Samaniego a Jesusita Baros Torres",
-    "date_display": "",
-    "language": null,
-    "title": "Envelope from Nemecio Samaniego to Jesusita Baros Torres",
+    "identifier": "shan.P084",
+    "title_es_k": "Elizabeth J. Shanahan, Rodney Schubert, Gwendoly Schubert and Robert S. Schubert",
+    "date_display": null,
+    "language": "n/a",
+    "title": "Elizabeth J. Shanahan, Rodney Schubert, Gwendoly Schubert and Robert S. Schubert",
     "spatial": [
       {
         "place_name": null,
-        "country": "México",
-        "city": "Juchipila",
-        "coordinates": {
-          "lon": -103.11,
-          "lat": 21.41
-        },
-        "state": "Zacatecas",
-        "title": "Juchipila, Zacatecas, México",
-        "type": "origin"
-      },
-      {
-        "place_name": "Fort Lupton",
         "country": "United States of America",
-        "city": "Fort Lupton",
+        "city": "Hastings",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -98.38,
+          "lat": 40.58
         },
-        "state": "Colorado",
-        "title": "Fort Lupton, Colorado",
-        "type": "destination"
+        "state": "Nebraska",
+        "title": "Hastings, Nebraska",
+        "type": null
       }
     ],
-    "category": "Writing",
-    "subcategory": "Envelope",
+    "category": "Image",
+    "subcategory": "Photograph",
     "highlight": {
     }
   },
@@ -9339,27 +9327,39 @@
   },
   {
     "date": null,
-    "identifier": "shan.P084",
-    "title_es_k": "Elizabeth J. Shanahan, Rodney Schubert, Gwendoly Schubert and Robert S. Schubert",
-    "date_display": null,
-    "language": "n/a",
-    "title": "Elizabeth J. Shanahan, Rodney Schubert, Gwendoly Schubert and Robert S. Schubert",
+    "identifier": "shan.L178",
+    "title_es_k": "Sobre de Nemecio Samaniego a Jesusita Baros Torres",
+    "date_display": "",
+    "language": null,
+    "title": "Envelope from Nemecio Samaniego to Jesusita Baros Torres",
     "spatial": [
       {
         "place_name": null,
-        "country": "United States of America",
-        "city": "Hastings",
+        "country": "México",
+        "city": "Juchipila",
         "coordinates": {
-          "lon": -98.38,
-          "lat": 40.58
+          "lon": -103.11,
+          "lat": 21.41
         },
-        "state": "Nebraska",
-        "title": "Hastings, Nebraska",
-        "type": null
+        "state": "Zacatecas",
+        "title": "Juchipila, Zacatecas, México",
+        "type": "origin"
+      },
+      {
+        "place_name": "Fort Lupton",
+        "country": "United States of America",
+        "city": "Fort Lupton",
+        "coordinates": {
+          "lon": -104.81,
+          "lat": 40.08
+        },
+        "state": "Colorado",
+        "title": "Fort Lupton, Colorado",
+        "type": "destination"
       }
     ],
-    "category": "Image",
-    "subcategory": "Photograph",
+    "category": "Writing",
+    "subcategory": "Envelope",
     "highlight": {
     }
   },
@@ -9403,21 +9403,6 @@
   },
   {
     "date": null,
-    "identifier": "shan.L052",
-    "title_es_k": "Nota de Jesusita Baros Torres",
-    "date_display": "",
-    "language": "es",
-    "title": "Note by Jesusita Baros Torres",
-    "spatial": [
-
-    ],
-    "category": "Writing",
-    "subcategory": "Document",
-    "highlight": {
-    }
-  },
-  {
-    "date": null,
     "identifier": "shan.L126",
     "title_es_k": "Carta de Julia Flemate a Jesusita Baros Torres",
     "date_display": "",
@@ -9456,6 +9441,21 @@
   },
   {
     "date": null,
+    "identifier": "shan.L052",
+    "title_es_k": "Nota de Jesusita Baros Torres",
+    "date_display": "",
+    "language": "es",
+    "title": "Note by Jesusita Baros Torres",
+    "spatial": [
+
+    ],
+    "category": "Writing",
+    "subcategory": "Document",
+    "highlight": {
+    }
+  },
+  {
+    "date": null,
     "identifier": "shan.L123",
     "title_es_k": "Sobre de William F. Schubert y Santos Baros Schubert",
     "date_display": "",
@@ -9477,6 +9477,32 @@
     ],
     "category": "Writing",
     "subcategory": "Envelope",
+    "highlight": {
+    }
+  },
+  {
+    "date": null,
+    "identifier": "shan.P102",
+    "title_es_k": "Jesusita Baros Torres, Jess Jesús Baros and Santos Baros Schubert",
+    "date_display": null,
+    "language": "en",
+    "title": "Jesusita Baros Torres, Jess Jesús Baros and Santos Baros Schubert",
+    "spatial": [
+      {
+        "place_name": null,
+        "country": "United States of America",
+        "city": "Denver",
+        "coordinates": {
+          "lon": -104.99,
+          "lat": 39.73
+        },
+        "state": "Colorado",
+        "title": "Denver, Colorado",
+        "type": null
+      }
+    ],
+    "category": "Image",
+    "subcategory": "Photograph",
     "highlight": {
     }
   },
@@ -9560,22 +9586,48 @@
   },
   {
     "date": null,
-    "identifier": "shan.P239",
-    "title_es_k": "Santos Baros Schubert, William D. Schubert and Roger Dale Pearcy",
+    "identifier": "shan.P126",
+    "title_es_k": "Helen Baros and Jess Jesús Baros",
     "date_display": null,
-    "language": "n/a",
-    "title": "Santos Baros Schubert, William D. Schubert and Roger Dale Pearcy",
+    "language": "en",
+    "title": "Helen Baros and Jess Jesús Baros",
     "spatial": [
       {
         "place_name": null,
         "country": "United States of America",
-        "city": "Lincoln",
+        "city": null,
         "coordinates": {
-          "lon": -96.7,
-          "lat": 40.81
+          "lon": -105.78,
+          "lat": 39.55
         },
-        "state": "Nebraska",
-        "title": "Lincoln, Nebraska",
+        "state": "Colorado",
+        "title": "Colorado",
+        "type": null
+      }
+    ],
+    "category": "Image",
+    "subcategory": "Photograph",
+    "highlight": {
+    }
+  },
+  {
+    "date": null,
+    "identifier": "shan.P127",
+    "title_es_k": "Lilian, Santos Baros Schubert, Helen Baros, Jess Jesús Baros and two unknown groomsmen",
+    "date_display": null,
+    "language": "en",
+    "title": "Lilian, Santos Baros Schubert, Helen Baros, Jess Jesús Baros and two unknown groomsmen",
+    "spatial": [
+      {
+        "place_name": null,
+        "country": "United States of America",
+        "city": null,
+        "coordinates": {
+          "lon": -105.78,
+          "lat": 39.55
+        },
+        "state": "Colorado",
+        "title": "Colorado",
         "type": null
       }
     ],
@@ -9638,74 +9690,22 @@
   },
   {
     "date": null,
-    "identifier": "shan.P102",
-    "title_es_k": "Jesusita Baros Torres, Jess Jesús Baros and Santos Baros Schubert",
+    "identifier": "shan.P239",
+    "title_es_k": "Santos Baros Schubert, William D. Schubert and Roger Dale Pearcy",
     "date_display": null,
-    "language": "en",
-    "title": "Jesusita Baros Torres, Jess Jesús Baros and Santos Baros Schubert",
+    "language": "n/a",
+    "title": "Santos Baros Schubert, William D. Schubert and Roger Dale Pearcy",
     "spatial": [
       {
         "place_name": null,
         "country": "United States of America",
-        "city": "Denver",
+        "city": "Lincoln",
         "coordinates": {
-          "lon": -104.99,
-          "lat": 39.73
+          "lon": -96.7,
+          "lat": 40.81
         },
-        "state": "Colorado",
-        "title": "Denver, Colorado",
-        "type": null
-      }
-    ],
-    "category": "Image",
-    "subcategory": "Photograph",
-    "highlight": {
-    }
-  },
-  {
-    "date": null,
-    "identifier": "shan.P126",
-    "title_es_k": "Helen Baros and Jess Jesús Baros",
-    "date_display": null,
-    "language": "en",
-    "title": "Helen Baros and Jess Jesús Baros",
-    "spatial": [
-      {
-        "place_name": null,
-        "country": "United States of America",
-        "city": null,
-        "coordinates": {
-          "lon": -105.78,
-          "lat": 39.55
-        },
-        "state": "Colorado",
-        "title": "Colorado",
-        "type": null
-      }
-    ],
-    "category": "Image",
-    "subcategory": "Photograph",
-    "highlight": {
-    }
-  },
-  {
-    "date": null,
-    "identifier": "shan.P127",
-    "title_es_k": "Lilian, Santos Baros Schubert, Helen Baros, Jess Jesús Baros and two unknown groomsmen",
-    "date_display": null,
-    "language": "en",
-    "title": "Lilian, Santos Baros Schubert, Helen Baros, Jess Jesús Baros and two unknown groomsmen",
-    "spatial": [
-      {
-        "place_name": null,
-        "country": "United States of America",
-        "city": null,
-        "coordinates": {
-          "lon": -105.78,
-          "lat": 39.55
-        },
-        "state": "Colorado",
-        "title": "Colorado",
+        "state": "Nebraska",
+        "title": "Lincoln, Nebraska",
         "type": null
       }
     ],
@@ -9769,32 +9769,6 @@
   },
   {
     "date": null,
-    "identifier": "shan.P113",
-    "title_es_k": "Jesusita Baros Torres",
-    "date_display": null,
-    "language": "en",
-    "title": "Jesusita Baros Torres",
-    "spatial": [
-      {
-        "place_name": null,
-        "country": "United States of America",
-        "city": "Denver",
-        "coordinates": {
-          "lon": -104.99,
-          "lat": 39.73
-        },
-        "state": "Colorado",
-        "title": "Denver, Colorado",
-        "type": null
-      }
-    ],
-    "category": "Image",
-    "subcategory": "Photograph",
-    "highlight": {
-    }
-  },
-  {
-    "date": null,
     "identifier": "shan.P099",
     "title_es_k": "Guadalupe Flemate and an unknown woman",
     "date_display": null,
@@ -9811,6 +9785,32 @@
         },
         "state": "Zacatecas",
         "title": "Juchipila, Zacatecas, México",
+        "type": null
+      }
+    ],
+    "category": "Image",
+    "subcategory": "Photograph",
+    "highlight": {
+    }
+  },
+  {
+    "date": null,
+    "identifier": "shan.P113",
+    "title_es_k": "Jesusita Baros Torres",
+    "date_display": null,
+    "language": "en",
+    "title": "Jesusita Baros Torres",
+    "spatial": [
+      {
+        "place_name": null,
+        "country": "United States of America",
+        "city": "Denver",
+        "coordinates": {
+          "lon": -104.99,
+          "lat": 39.73
+        },
+        "state": "Colorado",
+        "title": "Denver, Colorado",
         "type": null
       }
     ],
@@ -9941,60 +9941,6 @@
   },
   {
     "date": null,
-    "identifier": "shan.L020",
-    "title_es_k": "Carta de Guadalupe Flemate a Jesusita Baros Torres",
-    "date_display": "",
-    "language": "es",
-    "title": "Letter from Guadalupe Flemate to Jesusita Baros Torres",
-    "spatial": [
-      {
-        "place_name": null,
-        "country": "México",
-        "city": "Juchipila",
-        "coordinates": {
-          "lon": -103.11,
-          "lat": 21.41
-        },
-        "state": "Zacatecas",
-        "title": "Juchipila, Zacatecas, México",
-        "type": "origin"
-      },
-      {
-        "place_name": "Fort Lupton",
-        "country": "United States of America",
-        "city": "Fort Lupton",
-        "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
-        },
-        "state": "Colorado",
-        "title": "Fort Lupton, Colorado",
-        "type": "destination"
-      }
-    ],
-    "category": "Writing",
-    "subcategory": "Letter",
-    "highlight": {
-    }
-  },
-  {
-    "date": null,
-    "identifier": "shan.L169",
-    "title_es_k": "Carta de Victoria Aviña de Torres a Jesusita Baros Torres",
-    "date_display": "",
-    "language": "es",
-    "title": "Letter from Victoria Aviña de Torres to Jesusita Baros Torres",
-    "spatial": [
-      null,
-      null
-    ],
-    "category": "Writing",
-    "subcategory": "Letter",
-    "highlight": {
-    }
-  },
-  {
-    "date": null,
     "identifier": "shan.L010",
     "title_es_k": "Carta de Shone Villanueva a Jesusita Baros Torres",
     "date_display": "",
@@ -10060,12 +10006,24 @@
   },
   {
     "date": null,
-    "identifier": "shan.P001",
-    "title_es_k": "Jesusita Baros Torres",
-    "date_display": null,
-    "language": "en",
-    "title": "Jesusita Baros Torres",
+    "identifier": "shan.L020",
+    "title_es_k": "Carta de Guadalupe Flemate a Jesusita Baros Torres",
+    "date_display": "",
+    "language": "es",
+    "title": "Letter from Guadalupe Flemate to Jesusita Baros Torres",
     "spatial": [
+      {
+        "place_name": null,
+        "country": "México",
+        "city": "Juchipila",
+        "coordinates": {
+          "lon": -103.11,
+          "lat": 21.41
+        },
+        "state": "Zacatecas",
+        "title": "Juchipila, Zacatecas, México",
+        "type": "origin"
+      },
       {
         "place_name": "Fort Lupton",
         "country": "United States of America",
@@ -10076,37 +10034,65 @@
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
-        "type": null
+        "type": "destination"
       }
     ],
-    "category": "Image",
-    "subcategory": "Photograph",
+    "category": "Writing",
+    "subcategory": "Letter",
     "highlight": {
     }
   },
   {
     "date": null,
-    "identifier": "shan.P045",
-    "title_es_k": "Mary Muñoz",
-    "date_display": null,
-    "language": "en",
-    "title": "Mary Muñoz",
+    "identifier": "shan.L169",
+    "title_es_k": "Carta de Victoria Aviña de Torres a Jesusita Baros Torres",
+    "date_display": "",
+    "language": "es",
+    "title": "Letter from Victoria Aviña de Torres to Jesusita Baros Torres",
+    "spatial": [
+      null,
+      null
+    ],
+    "category": "Writing",
+    "subcategory": "Letter",
+    "highlight": {
+    }
+  },
+  {
+    "date": null,
+    "identifier": "shan.L012",
+    "title_es_k": "Carta de Patricia Medrano a Jesusita Baros Torres",
+    "date_display": "",
+    "language": "es",
+    "title": "Letter from Patricia Medrano to Jesusita Baros Torres",
     "spatial": [
       {
         "place_name": null,
-        "country": "United States of America",
-        "city": "Denver",
+        "country": "México",
+        "city": "Juchipila",
         "coordinates": {
-          "lon": -104.99,
-          "lat": 39.73
+          "lon": -103.11,
+          "lat": 21.41
+        },
+        "state": "Zacatecas",
+        "title": "Juchipila, Zacatecas, México",
+        "type": "origin"
+      },
+      {
+        "place_name": "Fort Lupton",
+        "country": "United States of America",
+        "city": "Fort Lupton",
+        "coordinates": {
+          "lon": -104.81,
+          "lat": 40.08
         },
         "state": "Colorado",
-        "title": "Denver, Colorado",
-        "type": null
+        "title": "Fort Lupton, Colorado",
+        "type": "destination"
       }
     ],
-    "category": "Image",
-    "subcategory": "Photograph",
+    "category": "Writing",
+    "subcategory": "Letter",
     "highlight": {
     }
   },
@@ -10190,24 +10176,38 @@
   },
   {
     "date": null,
-    "identifier": "shan.L012",
-    "title_es_k": "Carta de Patricia Medrano a Jesusita Baros Torres",
-    "date_display": "",
-    "language": "es",
-    "title": "Letter from Patricia Medrano to Jesusita Baros Torres",
+    "identifier": "shan.P045",
+    "title_es_k": "Mary Muñoz",
+    "date_display": null,
+    "language": "en",
+    "title": "Mary Muñoz",
     "spatial": [
       {
         "place_name": null,
-        "country": "México",
-        "city": "Juchipila",
+        "country": "United States of America",
+        "city": "Denver",
         "coordinates": {
-          "lon": -103.11,
-          "lat": 21.41
+          "lon": -104.99,
+          "lat": 39.73
         },
-        "state": "Zacatecas",
-        "title": "Juchipila, Zacatecas, México",
-        "type": "origin"
-      },
+        "state": "Colorado",
+        "title": "Denver, Colorado",
+        "type": null
+      }
+    ],
+    "category": "Image",
+    "subcategory": "Photograph",
+    "highlight": {
+    }
+  },
+  {
+    "date": null,
+    "identifier": "shan.P001",
+    "title_es_k": "Jesusita Baros Torres",
+    "date_display": null,
+    "language": "en",
+    "title": "Jesusita Baros Torres",
+    "spatial": [
       {
         "place_name": "Fort Lupton",
         "country": "United States of America",
@@ -10218,11 +10218,11 @@
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
-        "type": "destination"
+        "type": null
       }
     ],
-    "category": "Writing",
-    "subcategory": "Letter",
+    "category": "Image",
+    "subcategory": "Photograph",
     "highlight": {
     }
   }

@@ -14,6 +14,8 @@ class FileCustom < FileType
   def transform_es
   end
 
+  # little bit of a cheat in order to make a custom output format
+  # using the HTML transformation step
   def transform_html
     puts "transforming API results into geoJSON"
 
@@ -28,10 +30,10 @@ class FileCustom < FileType
 
     create_photographs
 
-    create_city_densities_destination
-    create_city_densities_origin
-    create_letter_route
+    # get a set of all the letters
+    @items = @file.select { |item| item["subcategory"] == "Letter" }
 
+    create_all_letters
     create_letters_by_decade
     # just send something blank back to datura
     # to make it happy
@@ -48,8 +50,7 @@ class FileCustom < FileType
   # letter.destination ]
   # letter_method
   #   "origin" or "destination"
-  def aggregate_city_densities(letter_method)
-    items = @file.select { |item| item["subcategory"] == "Letter" }
+  def aggregate_city_densities(letter_method, items)
     cities_total = {}
 
     # create a feature for each city and increase a count prop
@@ -85,8 +86,7 @@ class FileCustom < FileType
   end
 
 
-  def aggregate_letter_routes_by_route
-    items = @file.select { |item| item["subcategory"] == "Letter" }
+  def aggregate_letter_routes(items)
     # holds city_from|city_to with pipe delineator
     routes_total = {}
 
@@ -106,8 +106,8 @@ class FileCustom < FileType
       if routes_total.key?(key)
         props = routes_total[key]["properties"]
         props["count"] += 1
-        props["es"] += 1
-        props["en"] += 1
+        props["es"] += es
+        props["en"] += en
         props["letters"] << letter.properties
       else
         routes_total[key] = {
@@ -126,34 +126,31 @@ class FileCustom < FileType
     routes_total
   end
 
-  def create_city_densities_destination
-    features = aggregate_city_densities("destination")
-    json = {
-      "type" => "FeatureCollection",
-      "features" => features.values
-    }
-    write_geojson("city_to.json", json)
-  end
-
-  def create_city_densities_origin
-    features = aggregate_city_densities("origin")
-    json = {
-      "type" => "FeatureCollection",
-      "features" => features.values
-    }
-    write_geojson("city_from.json", json)
-  end
-
-  def create_letter_route
-    routes_total = aggregate_letter_routes_by_route
-    json = {
-      "type" => "FeatureCollection",
-      "features" => routes_total.values
-    }
-    write_geojson("routes_all.json", json)
+  def create_all_letters
+    # routes
+    routes_total = aggregate_letter_routes(@items)
+    wrap_collection(routes_total.values, "routes.json")
+    # destination
+    features = aggregate_city_densities("destination", @items)
+    wrap_collection(features.values, "destination.json")
+    # origin
+    features = aggregate_city_densities("origin", @items)
+    wrap_collection(features.values, "origin.json")
   end
 
   def create_letters_by_decade
+    decades = @items.group_by { |item| Letter.new(item).decade }
+    decades.each do |year, items|
+      # now group each decade by routes
+      routes_total = aggregate_letter_routes(items)
+      wrap_collection(routes_total.values, "#{year}_routes.json")
+      # destination
+      dest = aggregate_city_densities("destination", items)
+      wrap_collection(dest.values, "#{year}_destination.json")
+      # origin
+      origin = aggregate_city_densities("origin", items)
+      wrap_collection(origin.values, "#{year}_origin.json")
+    end
   end
 
   def create_photographs
@@ -162,11 +159,15 @@ class FileCustom < FileType
       photo = Photograph.new(item)
       photo.feature
     end
+    wrap_collection(features, "photographs.json")
+  end
+
+  def wrap_collection(features, filename)
     geojson = {
       "type" => "FeatureCollection",
       "features" => features
     }
-    write_geojson("photographs.json", geojson)
+    write_geojson(filename, geojson)
   end
 
   def write_geojson(filename, contents)
