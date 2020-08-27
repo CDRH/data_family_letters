@@ -35,6 +35,7 @@ class FileCustom < FileType
 
     create_all_letters
     create_letters_by_decade
+    create_letters_by_location
     # just send something blank back to datura
     # to make it happy
     {}
@@ -58,33 +59,17 @@ class FileCustom < FileType
       letter = Letter.new(item)
       type = letter.send(letter_method)
       next if !type
-
       place = type["title"]
-      es = (item["language"]) == "es" ? 1 : 0
-      en = item["language"] == "en" ? 1 : 0
-      if !cities_total.key?(place)
-        cities_total[place] = {
-          "type" => "Feature",
-          "properties" => {
-            "count" => 1,
-            "es" => es,
-            "en" => en,
-            "location" => place,
-            "letters" => [ letter.properties ]
-          },
-          "geometry" => letter.send("#{letter_method}_geometry")
-        }
-      else
-        props = cities_total[place]["properties"]
-        props["count"] += 1
-        props["es"] += es
-        props["en"] += en
-        props["letters"] << letter.properties
-      end
+      push_letter_to_hash(
+        cities_total,
+        letter,
+        "#{letter_method}_geometry",
+        place,
+        item
+      )
     end
     cities_total
   end
-
 
   def aggregate_letter_routes(items)
     # holds city_from|city_to with pipe delineator
@@ -99,31 +84,35 @@ class FileCustom < FileType
 
       place_from = origin["title"]
       place_to = dest["title"]
-      key = "#{place_from}|#{place_to}"
+      key = "#{place_from} to #{place_to}"
 
-      es = (item["language"]) == "es" ? 1 : 0
-      en = item["language"] == "en" ? 1 : 0
-      if routes_total.key?(key)
-        props = routes_total[key]["properties"]
-        props["count"] += 1
-        props["es"] += es
-        props["en"] += en
-        props["letters"] << letter.properties
-      else
-        routes_total[key] = {
-          "type" => "Feature",
-          "properties" => {
-            "count" => 1,
-            "es" => es,
-            "en" => en,
-            "location" => "#{place_from} to #{place_to}",
-            "letters" => [ letter.properties ]
-          },
-          "geometry" => letter.route_geometry
-        }
-      end
+      push_letter_to_hash(
+        routes_total,
+        letter,
+        "route_geometry",
+        key,
+        item
+      )
     end
     routes_total
+  end
+
+  def aggregate_letter_routes_by_location(letter_method, country: nil, state: nil)
+    # first we need to filter out any letters that are not relevant
+    # aka: if letter_method is "destination" and state is "Colorado" we only
+    # want letters being sent to Colorado
+    placename = country || state
+    items = @items.select do |i|
+      i["spatial"].any? do |s|
+        next if !s
+        if country
+          s["country"] == country && s["type"] == letter_method
+        elsif state
+          s["state"] == state && s["type"] == letter_method
+        end
+      end
+    end
+    aggregate_letter_routes(items)
   end
 
   def create_all_letters
@@ -153,6 +142,29 @@ class FileCustom < FileType
     end
   end
 
+  def create_letters_by_location
+    # from mexico
+    mex_from = aggregate_letter_routes_by_location("origin", country: "México")
+    wrap_collection(mex_from.values, "Mexico_origin_routes.json")
+    # there are not very many letters to mexico, so skipping it
+
+    # from colorado
+    co_from = aggregate_letter_routes_by_location("origin", state: "Colorado")
+    wrap_collection(co_from.values, "Colorado_origin_routes.json")
+
+    # to colorado
+    co_to = aggregate_letter_routes_by_location("destination", state: "Colorado")
+    wrap_collection(co_to.values, "Colorado_destination_routes.json")
+
+    # from nebraska
+    ne_from = aggregate_letter_routes_by_location("origin", state: "Nebraska")
+    wrap_collection(ne_from.values, "Nebraska_origin_routes.json")
+
+    # to nebraska
+    ne_to = aggregate_letter_routes_by_location("destination", state: "Nebraska")
+    wrap_collection(ne_to.values, "Nebraska_destination_routes.json")
+  end
+
   def create_photographs
     items = @file.select { |item| item["subcategory"] == "Photograph" }
     features = items.map do |item|
@@ -160,6 +172,32 @@ class FileCustom < FileType
       photo.feature
     end
     wrap_collection(features, "photographs.json")
+  end
+
+  # either create a new Feature or alter the properties
+  # of an existing one to push onto a hash aggregating them
+  def push_letter_to_hash(agg, letter, geometry, place, item)
+    es = (item["language"]) == "es" ? 1 : 0
+    en = item["language"] == "en" ? 1 : 0
+    if !agg.key?(place)
+      agg[place] = {
+        "type" => "Feature",
+        "properties" => {
+          "count" => 1,
+          "es" => es,
+          "en" => en,
+          "location" => place,
+          "letters" => [ letter.properties ]
+        },
+        "geometry" => letter.send(geometry)
+      }
+    else
+      props = agg[place]["properties"]
+      props["count"] += 1
+      props["es"] += es
+      props["en"] += en
+      props["letters"] << letter.properties
+    end
   end
 
   def wrap_collection(features, filename)
