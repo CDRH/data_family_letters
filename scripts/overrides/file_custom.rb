@@ -143,10 +143,21 @@ class FileCustom < FileType
   end
 
   def create_letters_by_location
-    # from mexico
-    mex_from = aggregate_letter_routes_by_location("origin", country: "México")
-    wrap_collection(mex_from.values, "Mexico_origin_routes.json")
-    # there are not very many letters to mexico, so skipping it
+    # from Michoacán
+    mic_from = aggregate_letter_routes_by_location("origin", state: "Michoacán")
+    wrap_collection(mic_from.values, "Michoacan_origin_routes.json")
+
+    # to Michoacán
+    mic_to = aggregate_letter_routes_by_location("destination", state: "Michoacán")
+    wrap_collection(mic_to.values, "Michoacan_destination_routes.json")
+
+    # from zacatecas
+    zac_from = aggregate_letter_routes_by_location("origin", state: "Zacatecas")
+    wrap_collection(zac_from.values, "Zacatecas_origin_routes.json")
+
+    # to zacatecas
+    zac_to = aggregate_letter_routes_by_location("destination", state: "Zacatecas")
+    wrap_collection(zac_to.values, "Zacatecas_destination_routes.json")
 
     # from colorado
     co_from = aggregate_letter_routes_by_location("origin", state: "Colorado")
