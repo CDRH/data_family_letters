@@ -65,7 +65,8 @@ class FileCustom < FileType
         letter,
         "#{letter_method}_geometry",
         place,
-        item
+        item,
+        locations: [place]
       )
     end
     cities_total
@@ -84,14 +85,15 @@ class FileCustom < FileType
 
       place_from = origin["title"]
       place_to = dest["title"]
-      key = "#{place_from} to #{place_to}"
+      key = [place_from, place_to].join("|")
 
       push_letter_to_hash(
         routes_total,
         letter,
         "route_geometry",
         key,
-        item
+        item,
+        locations: [place_from, place_to]
       )
     end
     routes_total
@@ -155,9 +157,9 @@ class FileCustom < FileType
     zac_from = aggregate_letter_routes_by_location("origin", state: "Zacatecas")
     wrap_collection(zac_from.values, "Zacatecas_origin_routes.json")
 
-    # to zacatecas
-    zac_to = aggregate_letter_routes_by_location("destination", state: "Zacatecas")
-    wrap_collection(zac_to.values, "Zacatecas_destination_routes.json")
+    # to zacatecas (no letters currently)
+    # zac_to = aggregate_letter_routes_by_location("destination", state: "Zacatecas")
+    # wrap_collection(zac_to.values, "Zacatecas_destination_routes.json")
 
     # from colorado
     co_from = aggregate_letter_routes_by_location("origin", state: "Colorado")
@@ -187,23 +189,23 @@ class FileCustom < FileType
 
   # either create a new Feature or alter the properties
   # of an existing one to push onto a hash aggregating them
-  def push_letter_to_hash(agg, letter, geometry, place, item)
+  def push_letter_to_hash(agg, letter, geometry, key, item, locations: [])
     es = (item["language"]) == "es" ? 1 : 0
     en = item["language"] == "en" ? 1 : 0
-    if !agg.key?(place)
-      agg[place] = {
+    if !agg.key?(key)
+      agg[key] = {
         "type" => "Feature",
         "properties" => {
           "count" => 1,
           "es" => es,
           "en" => en,
-          "location" => place,
+          "locations" => locations,
           "letters" => [ letter.properties ]
         },
         "geometry" => letter.send(geometry)
       }
     else
-      props = agg[place]["properties"]
+      props = agg[key]["properties"]
       props["count"] += 1
       props["es"] += es
       props["en"] += en

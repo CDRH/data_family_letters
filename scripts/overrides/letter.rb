@@ -51,13 +51,10 @@ class Letter
   end
 
   def properties
+    # can be used to return lots of properties like title, date, language
+    # but ultimately this functionality was pared down to just identifier
     {
-      "title" => @item["title"],
-      "title_es" => @item["title_es_k"],
-      "identifier" => @item["identifier"],
-      "date" => @item["date"],
-      "decade" => decade,
-      "language" => @item["language"]
+      "identifier" => @item["identifier"]
     }
   end
 
