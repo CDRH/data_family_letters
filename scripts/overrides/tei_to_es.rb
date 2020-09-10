@@ -139,7 +139,7 @@ class TeiToEs
       next if !type
       loc = @places[place]
       if loc
-        coords = loc["Coordinates"].split(",")
+        coords = loc["Coordinates (long/lat)"].split(",")
         {
           "title" => loc["Title"],
           "type" => type,

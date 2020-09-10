@@ -17,14 +17,6 @@ class Photograph
     end
   end
 
-  def feature
-    {
-      "type" => "Feature",
-      "properties" => properties,
-      "geometry" => draw_point
-    }
-  end
-
   def location
     if @item["spatial"]
       s = @item["spatial"].first
@@ -34,13 +26,7 @@ class Photograph
 
   def properties
     {
-      "identifier" => @item["identifier"],
-      "title" => @item["title"],
-      "title_es" => @item["title_es_k"],
-      "date" => @item["date"],
-      "date_display" => @item["date_display"],
-      "image_id" => @item["image_id"],
-      "location" => location
+      "identifier" => @item["identifier"]
     }
   end
 

@@ -235,7 +235,7 @@ class FileCsv
     if doc["places"]
       loc = @places[doc["places"]]
       if loc
-        coords = loc["Coordinates"].split(",")
+        coords = loc["Coordinates (long/lat)"].split(",")
         doc["spatial"] = [
           {
             "title" => loc["Title"],

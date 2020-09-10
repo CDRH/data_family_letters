@@ -178,13 +178,32 @@ class FileCustom < FileType
     wrap_collection(ne_to.values, "Nebraska_destination_routes.json")
   end
 
+  # nearly the exact same as push_letter_to_hash functionality
+  # except that we don't need languages for photos
+  # but can consider combining if desired
   def create_photographs
     items = @file.select { |item| item["subcategory"] == "Photograph" }
-    features = items.map do |item|
+    cities = {}
+    items.map do |item|
       photo = Photograph.new(item)
-      photo.feature
+      key = photo.location
+      if !cities.key?(key)
+        cities[key] = {
+          "type" => "Feature",
+          "properties" => {
+            "count" => 1,
+            "locations" => [ key ],
+            "photos" => [ photo.properties ]
+          },
+          "geometry" => photo.draw_point
+        }
+      else
+        props = cities[key]["properties"]
+        props["count"] += 1
+        props["photos"] << photo.properties
+      end
     end
-    wrap_collection(features, "photographs.json")
+    wrap_collection(cities.values, "photographs.json")
   end
 
   # either create a new Feature or alter the properties
