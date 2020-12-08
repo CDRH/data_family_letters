@@ -1,63 +1,63 @@
-Title,Coordinates (long/lat),Notes,Place Name,City,State,Country
-"Adams, Nebraska","-96.5095,40.4611",,,Adams,Nebraska,United States of America
-"Albuquerque, New Mexico","-106.6504,35.0844",,,Albuquerque,New Mexico,United States of America
-"Austin, Texas","-97.7431,30.2672",,,Austin,Texas,United States of America
-"Basin, Wyoming","-108.0390,44.3800",,,Basin,Wyoming,United States of America
-"Berwyn, Illinois","-87.7937,41.8506",,,Berwyn,Illinois,United States of America
-"Billings, Montana","-108.5007,45.7833",,,Billings,Montana,United States of America
-"Bradshaw, Nebraska","-97.7473,40.8841",,,Bradshaw,Nebraska,United States of America
-"Brentwood, California","-121.6958,37.9319",,,Brentwood,California,United States of America
-"Brighton, Colorado","-104.8205,39.9853",,,Brighton,Colorado,United States of America
-"Calvillo, Aguascalientes, México","-102.7186,21.8468",,,Calvillo,Aguascalientes,México
-"Camp Butner, North Carolina","-78.7914,36.2085",,Camp Butner,,North Carolina,United States of America
-"Camp Carson, Colorado","-104.7849,38.7457",,Camp Carson,,Colorado,United States of America
-"Chicago, Illinois","-87.6298,41.8781",,,Chicago,Illinois,United States of America
-"Churintzio, Michoacán, México","-102.0654,20.1503",,,Churintzio,Michoacán,México
-"City Park, Denver, Colorado","-104.9501,39.7438",,City Park,Denver,Colorado,United States of America
-Colorado,"-105.7821,39.5501",,,,Colorado,United States of America
-"Cuernavaca, Morelos, México","-99.2216,18.9242",,,Cuernavaca,Morelos,México
-"Del Ray, California","-119.5937,36.6591",,,Del Ray,California,United States of America
-"Denver, Colorado","-104.9903,39.7392",,,Denver,Colorado,United States of America
-"Ecuandureo, Michoacán, México","-102.1945,20.1615",,,Ecuandureo,Michoacán,México
-"Erie, Colorado","-105.0500,40.0503",,,Erie,Colorado,United States of America
-"Falls City, Nebraska","-95.6019,40.0608",,,Falls City,Nebraska,United States of America
-"Fort Lupton, Colorado","-104.8130,40.0847",,Fort Lupton,Fort Lupton,Colorado,United States of America
-France,"2.2137,46.2276","""somewhere in France""",,,,France
-"Garden of the Gods, Colorado Springs, Colorado","-104.8698,38.8784",,Garden of the Gods,Colorado Springs,Colorado,United States of America
-"Glendale, California","-118.2551,34.1425",,,Glendale,California,United States of America
-"Guadalajara, Jalisco, México","-103.3496,20.6597",,,Guadalajara,Jalisco,México
-"Hastings, Nebraska","-98.3899,40.5863",,,Hastings,Nebraska,United States of America
-"Havelock, Nebraska","-96.6291,40.8517",Left separate from Lincoln.,,Havelock,Nebraska,United States of America
-"Huapamacato, Michoacán, México","-102.0818,20.1228",,,Huapamacato,Michoacán,México
-Illinois,"-89.3975,40.6331",,,,Illinois,United States of America
-Italy,"12.5674,41.8719",,,,,Italy
-"Juchipila, Zacatecas, México","-103.1175,21.4121",,,Juchipila,Zacatecas,México
-"Knobles, Oklahoma","-76.5042,40.8775",,,Knobles,Oklahoma,United States of America
-"La Grange, Illinois","-87.8692,41.8050",,,La Grange,Illinois,United States of America
-"Lincoln, Nebraska","-96.7026,40.8136",,,Lincoln,Nebraska,United States of America
-"Lompoc, California","-120.4579,34.6392",,,Lompoc,California,United States of America
-"Longmont, Colorado","-105.1019,40.1672",,,Longmont,Colorado,United States of America
-"Los Angeles, California","-118.2437,34.0522",,,Los Angeles,California,United States of America
-"Manitou Springs, Colorado","-104.9128,38.8576",,,Manitou Springs,Colorado,United States of America
-"Matamoros, Tamaulipas, México","-97.5027,25.8690",,,Matamoros,Tamaulipas,México
-"Mexicali, Baja California, México","-115.4523,32.6245",,,Mexicali,Baja California,México
-México,"-102.5528,23.6345",,,México,,México
-"México City, México","-99.1332,19.4326",,,México City,,México
-"New York, New York","-74.0060,40.7128",,,New York,New York,United States of America
-"Oceanside, California","-117.3796,33.1959",,,Oceanside,California,United States of America
-"Palmyra, Nebraska","-96.3899,40.7043",,,Palmyra,Nebraska,United States of America
-"Phoenix, Arizona","-112.0740,33.4484",,,Phoenix,Arizona,United States of America
-"Rock Springs, Wyoming","-109.2029,41.5875",,,Rock Springs,Wyoming,United States of America
-"Rocky Mountain National Park, Colorado","-105.6836,40.3428",,Rocky Mountain National Park,,Colorado,United States of America
-"Roswell, New Mexico","-104.5230,33.3943",,,Roswell,New Mexico,United States of America
-"Rulo, Nebraska","-95.4293,40.0525",,,Rulo,Nebraska,United States of America
-"Sacramento, California","-121.4944,38.5816",,,Sacramento,California,United States of America
-"San Diego, California","-117.1611,32.7157",,,San Diego,California,United States of America
-"Sandia Mountains, Albuquerque, New Mexico","-106.4506,35.2037",,Sandia Mountains,Albuquerque,New Mexico,United States of America
-"Socorro, New Mexico","-106.8914,34.0584",,,Socorro,New Mexico,United States of America
-"Stockton, California","-121.2908,37.9577",,,Stockton,California,United States of America
-"Thornton, California","-121.4239,38.2262",,,Thornton,California,United States of America
-"Tucson, Arizona","-110.9747,32.2226",,,Tucson,Arizona,United States of America
-"White Sands, Colorado","-106.3257,32.7872",,,White Sands,Colorado,United States of America
-"Yosemite National Park, Sierra Nevada, California","-119.5383,37.8651",,"Yosemite National Park, Sierra Nevadas",,California,United States of America
-"Zacatecas, México","-102.5832,22.7709",,,,Zacatecas,México
+Title,Longitude,Latitude,Notes,Place Name,City,State,Country
+"Adams, Nebraska",-96.5095,40.4611,,,Adams,Nebraska,United States of America
+"Albuquerque, New Mexico",-106.6504,35.0844,,,Albuquerque,New Mexico,United States of America
+"Austin, Texas",-97.7431,30.2672,,,Austin,Texas,United States of America
+"Basin, Wyoming",-108.039,44.38,,,Basin,Wyoming,United States of America
+"Berwyn, Illinois",-87.7937,41.8506,,,Berwyn,Illinois,United States of America
+"Billings, Montana",-108.5007,45.7833,,,Billings,Montana,United States of America
+"Bradshaw, Nebraska",-97.7473,40.8841,,,Bradshaw,Nebraska,United States of America
+"Brentwood, California",-121.6958,37.9319,,,Brentwood,California,United States of America
+"Brighton, Colorado",-104.8205,39.9853,,,Brighton,Colorado,United States of America
+"Calvillo, Aguascalientes, México",-102.718606,21.84712183,,,Calvillo,Aguascalientes,México
+"Camp Butner, North Carolina",-78.7914,36.2085,,Camp Butner,,North Carolina,United States of America
+"Camp Carson, Colorado",-104.7849,38.7457,,Camp Carson,,Colorado,United States of America
+"Chicago, Illinois",-87.6298,41.8781,,,Chicago,Illinois,United States of America
+"Churintzio, Michoacán, México",-102.0657864,20.15837329,,,Churintzio,Michoacán,México
+"City Park, Denver, Colorado",-104.9501,39.7438,,City Park,Denver,Colorado,United States of America
+Colorado,-105.7821,39.5501,,,,Colorado,United States of America
+"Cuernavaca, Morelos, México",-99.23601916,18.91703802,,,Cuernavaca,Morelos,México
+"Del Ray, California",-119.5937,36.6591,,,Del Ray,California,United States of America
+"Denver, Colorado",-104.9903,39.7392,,,Denver,Colorado,United States of America
+"Ecuandureo, Michoacán, México",-102.1946038,20.163398137317337,,,Ecuandureo,Michoacán,México
+"Erie, Colorado",-105.05,40.0503,,,Erie,Colorado,United States of America
+"Falls City, Nebraska",-95.6019,40.0608,,,Falls City,Nebraska,United States of America
+"Fort Lupton, Colorado",-104.813,40.0847,,Fort Lupton,Fort Lupton,Colorado,United States of America
+France,-0.854997656,49.36674089,"""somewhere in France""",,,,France
+"Garden of the Gods, Colorado Springs, Colorado",-104.8698,38.8784,,Garden of the Gods,Colorado Springs,Colorado,United States of America
+"Glendale, California",-118.2551,34.1425,,,Glendale,California,United States of America
+"Guadalajara, Jalisco, México",-103.347745,20.67778988,,,Guadalajara,Jalisco,México
+"Hastings, Nebraska",-98.3899,40.5863,,,Hastings,Nebraska,United States of America
+"Havelock, Nebraska",-96.6291,40.8517,Left separate from Lincoln.,,Havelock,Nebraska,United States of America
+"Huapamacato, Michoacán, México",-102.0814848,20.12116395,,,Huapamacato,Michoacán,México
+Illinois,-89.3975,40.6331,,,,Illinois,United States of America
+Italy,14.76072427,40.68643877,,,,,Italy
+"Juchipila, Zacatecas, México",-103.1187551,21.41242983,,,Juchipila,Zacatecas,México
+"Knobles, Oklahoma",-76.5042,40.8775,,,Knobles,Oklahoma,United States of America
+"La Grange, Illinois",-87.8692,41.805,,,La Grange,Illinois,United States of America
+"Lincoln, Nebraska",-96.7026,40.8136,,,Lincoln,Nebraska,United States of America
+"Lompoc, California",-120.4579,34.6392,,,Lompoc,California,United States of America
+"Longmont, Colorado",-105.1019,40.1672,,,Longmont,Colorado,United States of America
+"Los Angeles, California",-118.2437,34.0522,,,Los Angeles,California,United States of America
+"Manitou Springs, Colorado",-104.9128,38.8576,,,Manitou Springs,Colorado,United States of America
+"Matamoros, Tamaulipas, México",-97.50458683,25.88316978,,,Matamoros,Tamaulipas,México
+"Mexicali, Baja California, México",-115.4749784,32.64017354,,,Mexicali,Baja California,México
+México,-102.5528,23.6345,,,México,,México
+"México City, México",-99.13323228,19.43276076,,,México City,,México
+"New York, New York",-74.006,40.7128,,,New York,New York,United States of America
+"Oceanside, California",-117.3796,33.1959,,,Oceanside,California,United States of America
+"Palmyra, Nebraska",-96.3899,40.7043,,,Palmyra,Nebraska,United States of America
+"Phoenix, Arizona",-112.074,33.4484,,,Phoenix,Arizona,United States of America
+"Rock Springs, Wyoming",-109.2029,41.5875,,,Rock Springs,Wyoming,United States of America
+"Rocky Mountain National Park, Colorado",-105.6836,40.3428,,Rocky Mountain National Park,,Colorado,United States of America
+"Roswell, New Mexico",-104.523,33.3943,,,Roswell,New Mexico,United States of America
+"Rulo, Nebraska",-95.4293,40.0525,,,Rulo,Nebraska,United States of America
+"Sacramento, California",-121.4944,38.5816,,,Sacramento,California,United States of America
+"San Diego, California",-117.1611,32.7157,,,San Diego,California,United States of America
+"Sandia Mountains, Albuquerque, New Mexico",-106.4506,35.2037,,Sandia Mountains,Albuquerque,New Mexico,United States of America
+"Socorro, New Mexico",-106.8914,34.0584,,,Socorro,New Mexico,United States of America
+"Stockton, California",-121.2908,37.9577,,,Stockton,California,United States of America
+"Thornton, California",-121.4239,38.2262,,,Thornton,California,United States of America
+"Tucson, Arizona",-110.9747,32.2226,,,Tucson,Arizona,United States of America
+"White Sands, Colorado",-106.3257,32.7872,,,White Sands,Colorado,United States of America
+"Yosemite National Park, Sierra Nevada, California",-119.5383,37.8651,,"Yosemite National Park, Sierra Nevadas",,California,United States of America
+"Zacatecas, México",-102.51327,22.75333066,,,,Zacatecas,México

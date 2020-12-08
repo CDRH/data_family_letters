@@ -139,14 +139,13 @@ class TeiToEs
       next if !type
       loc = @places[place]
       if loc
-        coords = loc["Coordinates (long/lat)"].split(",")
         {
           "title" => loc["Title"],
           "type" => type,
           "place_name" => loc["Place Name"],
           "coordinates" => {
-            "lat" => coords[1].to_f,
-            "lon" => coords[0].to_f,
+            "lat" => loc["Latitude"].to_f,
+            "lon" => loc["Longitude"].to_f,
           },
           "city" => loc["City"],
           "country" => loc["Country"],

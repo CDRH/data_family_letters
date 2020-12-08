@@ -12,8 +12,8 @@
         "country": "México",
         "city": null,
         "coordinates": {
-          "lon": -102.58,
-          "lat": 22.77
+          "lon": -102.5832,
+          "lat": 22.7709
         },
         "state": "Zacatecas",
         "title": "Zacatecas, México",
@@ -38,8 +38,8 @@
         "country": "México",
         "city": "Ecuandureo",
         "coordinates": {
-          "lon": -102.19,
-          "lat": 20.16
+          "lon": -102.1946038,
+          "lat": 20.163398137317337
         },
         "state": "Michoacán",
         "title": "Ecuandureo, Michoacán, México",
@@ -50,8 +50,8 @@
         "country": "United States of America",
         "city": "Knobles",
         "coordinates": {
-          "lon": -76.5,
-          "lat": 40.87
+          "lon": -76.5042,
+          "lat": 40.8775
         },
         "state": "Oklahoma",
         "title": "Knobles, Oklahoma",
@@ -76,8 +76,8 @@
         "country": "United States of America",
         "city": "Albuquerque",
         "coordinates": {
-          "lon": -106.65,
-          "lat": 35.08
+          "lon": -106.6504,
+          "lat": 35.0844
         },
         "state": "New Mexico",
         "title": "Albuquerque, New Mexico",
@@ -102,8 +102,8 @@
         "country": "United States of America",
         "city": "Rock Springs",
         "coordinates": {
-          "lon": -109.2,
-          "lat": 41.58
+          "lon": -109.2029,
+          "lat": 41.5875
         },
         "state": "Wyoming",
         "title": "Rock Springs, Wyoming",
@@ -129,8 +129,8 @@
         "country": "United States of America",
         "city": "Rock Springs",
         "coordinates": {
-          "lon": -109.2,
-          "lat": 41.58
+          "lon": -109.2029,
+          "lat": 41.5875
         },
         "state": "Wyoming",
         "title": "Rock Springs, Wyoming",
@@ -141,8 +141,8 @@
         "country": "México",
         "city": "Ecuandureo",
         "coordinates": {
-          "lon": -102.19,
-          "lat": 20.16
+          "lon": -102.1946038,
+          "lat": 20.163398137317337
         },
         "state": "Michoacán",
         "title": "Ecuandureo, Michoacán, México",
@@ -167,8 +167,8 @@
         "country": "México",
         "city": "Huapamacato",
         "coordinates": {
-          "lon": -102.08,
-          "lat": 20.12
+          "lon": -102.0814848,
+          "lat": 20.12116395
         },
         "state": "Michoacán",
         "title": "Huapamacato, Michoacán, México",
@@ -179,8 +179,8 @@
         "country": "United States of America",
         "city": "Rock Springs",
         "coordinates": {
-          "lon": -109.2,
-          "lat": 41.58
+          "lon": -109.2029,
+          "lat": 41.5875
         },
         "state": "Wyoming",
         "title": "Rock Springs, Wyoming",
@@ -205,8 +205,8 @@
         "country": "México",
         "city": "Huapamacato",
         "coordinates": {
-          "lon": -102.08,
-          "lat": 20.12
+          "lon": -102.0814848,
+          "lat": 20.12116395
         },
         "state": "Michoacán",
         "title": "Huapamacato, Michoacán, México",
@@ -217,8 +217,8 @@
         "country": "United States of America",
         "city": "Rock Springs",
         "coordinates": {
-          "lon": -109.2,
-          "lat": 41.58
+          "lon": -109.2029,
+          "lat": 41.5875
         },
         "state": "Wyoming",
         "title": "Rock Springs, Wyoming",
@@ -259,8 +259,8 @@
         "country": "México",
         "city": "Huapamacato",
         "coordinates": {
-          "lon": -102.08,
-          "lat": 20.12
+          "lon": -102.0814848,
+          "lat": 20.12116395
         },
         "state": "Michoacán",
         "title": "Huapamacato, Michoacán, México",
@@ -271,8 +271,8 @@
         "country": "United States of America",
         "city": "Rock Springs",
         "coordinates": {
-          "lon": -109.2,
-          "lat": 41.58
+          "lon": -109.2029,
+          "lat": 41.5875
         },
         "state": "Wyoming",
         "title": "Rock Springs, Wyoming",
@@ -297,8 +297,8 @@
         "country": "México",
         "city": "Huapamacato",
         "coordinates": {
-          "lon": -102.08,
-          "lat": 20.12
+          "lon": -102.0814848,
+          "lat": 20.12116395
         },
         "state": "Michoacán",
         "title": "Huapamacato, Michoacán, México",
@@ -309,8 +309,8 @@
         "country": "United States of America",
         "city": "Rock Springs",
         "coordinates": {
-          "lon": -109.2,
-          "lat": 41.58
+          "lon": -109.2029,
+          "lat": 41.5875
         },
         "state": "Wyoming",
         "title": "Rock Springs, Wyoming",
@@ -335,8 +335,8 @@
         "country": "United States of America",
         "city": "Albuquerque",
         "coordinates": {
-          "lon": -106.65,
-          "lat": 35.08
+          "lon": -106.6504,
+          "lat": 35.0844
         },
         "state": "New Mexico",
         "title": "Albuquerque, New Mexico",
@@ -361,8 +361,8 @@
         "country": "United States of America",
         "city": "Albuquerque",
         "coordinates": {
-          "lon": -106.65,
-          "lat": 35.08
+          "lon": -106.6504,
+          "lat": 35.0844
         },
         "state": "New Mexico",
         "title": "Albuquerque, New Mexico",
@@ -387,8 +387,8 @@
         "country": "United States of America",
         "city": "Albuquerque",
         "coordinates": {
-          "lon": -106.65,
-          "lat": 35.08
+          "lon": -106.6504,
+          "lat": 35.0844
         },
         "state": "New Mexico",
         "title": "Albuquerque, New Mexico",
@@ -413,8 +413,8 @@
         "country": "United States of America",
         "city": "Albuquerque",
         "coordinates": {
-          "lon": -106.65,
-          "lat": 35.08
+          "lon": -106.6504,
+          "lat": 35.0844
         },
         "state": "New Mexico",
         "title": "Albuquerque, New Mexico",
@@ -439,8 +439,8 @@
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
-          "lon": -103.11,
-          "lat": 21.41
+          "lon": -103.1187551,
+          "lat": 21.41242983
         },
         "state": "Zacatecas",
         "title": "Juchipila, Zacatecas, México",
@@ -451,8 +451,8 @@
         "country": "United States of America",
         "city": "Longmont",
         "coordinates": {
-          "lon": -105.1,
-          "lat": 40.16
+          "lon": -105.1019,
+          "lat": 40.1672
         },
         "state": "Colorado",
         "title": "Longmont, Colorado",
@@ -477,8 +477,8 @@
         "country": "United States of America",
         "city": "Albuquerque",
         "coordinates": {
-          "lon": -106.65,
-          "lat": 35.08
+          "lon": -106.6504,
+          "lat": 35.0844
         },
         "state": "New Mexico",
         "title": "Albuquerque, New Mexico",
@@ -503,8 +503,8 @@
         "country": "United States of America",
         "city": "Albuquerque",
         "coordinates": {
-          "lon": -106.65,
-          "lat": 35.08
+          "lon": -106.6504,
+          "lat": 35.0844
         },
         "state": "New Mexico",
         "title": "Albuquerque, New Mexico",
@@ -515,7 +515,7 @@
         "country": "United States of America",
         "city": "Basin",
         "coordinates": {
-          "lon": -108.03,
+          "lon": -108.039,
           "lat": 44.38
         },
         "state": "Wyoming",
@@ -541,8 +541,8 @@
         "country": "United States of America",
         "city": "Albuquerque",
         "coordinates": {
-          "lon": -106.65,
-          "lat": 35.08
+          "lon": -106.6504,
+          "lat": 35.0844
         },
         "state": "New Mexico",
         "title": "Albuquerque, New Mexico",
@@ -567,8 +567,8 @@
         "country": "United States of America",
         "city": "Albuquerque",
         "coordinates": {
-          "lon": -106.65,
-          "lat": 35.08
+          "lon": -106.6504,
+          "lat": 35.0844
         },
         "state": "New Mexico",
         "title": "Albuquerque, New Mexico",
@@ -593,7 +593,7 @@
         "country": "United States of America",
         "city": "Basin",
         "coordinates": {
-          "lon": -108.03,
+          "lon": -108.039,
           "lat": 44.38
         },
         "state": "Wyoming",
@@ -619,7 +619,7 @@
         "country": "United States of America",
         "city": "Basin",
         "coordinates": {
-          "lon": -108.03,
+          "lon": -108.039,
           "lat": 44.38
         },
         "state": "Wyoming",
@@ -645,8 +645,8 @@
         "country": "United States of America",
         "city": "Albuquerque",
         "coordinates": {
-          "lon": -106.65,
-          "lat": 35.08
+          "lon": -106.6504,
+          "lat": 35.0844
         },
         "state": "New Mexico",
         "title": "Albuquerque, New Mexico",
@@ -657,8 +657,8 @@
         "country": "United States of America",
         "city": "Denver",
         "coordinates": {
-          "lon": -104.99,
-          "lat": 39.73
+          "lon": -104.9903,
+          "lat": 39.7392
         },
         "state": "Colorado",
         "title": "Denver, Colorado",
@@ -683,8 +683,8 @@
         "country": "United States of America",
         "city": "Albuquerque",
         "coordinates": {
-          "lon": -106.65,
-          "lat": 35.08
+          "lon": -106.6504,
+          "lat": 35.0844
         },
         "state": "New Mexico",
         "title": "Albuquerque, New Mexico",
@@ -695,8 +695,8 @@
         "country": "United States of America",
         "city": "Denver",
         "coordinates": {
-          "lon": -104.99,
-          "lat": 39.73
+          "lon": -104.9903,
+          "lat": 39.7392
         },
         "state": "Colorado",
         "title": "Denver, Colorado",
@@ -721,8 +721,8 @@
         "country": "United States of America",
         "city": "Albuquerque",
         "coordinates": {
-          "lon": -106.65,
-          "lat": 35.08
+          "lon": -106.6504,
+          "lat": 35.0844
         },
         "state": "New Mexico",
         "title": "Albuquerque, New Mexico",
@@ -733,8 +733,8 @@
         "country": "United States of America",
         "city": "Denver",
         "coordinates": {
-          "lon": -104.99,
-          "lat": 39.73
+          "lon": -104.9903,
+          "lat": 39.7392
         },
         "state": "Colorado",
         "title": "Denver, Colorado",
@@ -759,8 +759,8 @@
         "country": "United States of America",
         "city": "Albuquerque",
         "coordinates": {
-          "lon": -106.65,
-          "lat": 35.08
+          "lon": -106.6504,
+          "lat": 35.0844
         },
         "state": "New Mexico",
         "title": "Albuquerque, New Mexico",
@@ -771,8 +771,8 @@
         "country": "United States of America",
         "city": "Denver",
         "coordinates": {
-          "lon": -104.99,
-          "lat": 39.73
+          "lon": -104.9903,
+          "lat": 39.7392
         },
         "state": "Colorado",
         "title": "Denver, Colorado",
@@ -797,8 +797,8 @@
         "country": "United States of America",
         "city": "Albuquerque",
         "coordinates": {
-          "lon": -106.65,
-          "lat": 35.08
+          "lon": -106.6504,
+          "lat": 35.0844
         },
         "state": "New Mexico",
         "title": "Albuquerque, New Mexico",
@@ -809,8 +809,8 @@
         "country": "United States of America",
         "city": "Denver",
         "coordinates": {
-          "lon": -104.99,
-          "lat": 39.73
+          "lon": -104.9903,
+          "lat": 39.7392
         },
         "state": "Colorado",
         "title": "Denver, Colorado",
@@ -835,8 +835,8 @@
         "country": "United States of America",
         "city": "Albuquerque",
         "coordinates": {
-          "lon": -106.65,
-          "lat": 35.08
+          "lon": -106.6504,
+          "lat": 35.0844
         },
         "state": "New Mexico",
         "title": "Albuquerque, New Mexico",
@@ -861,8 +861,8 @@
         "country": "United States of America",
         "city": "Albuquerque",
         "coordinates": {
-          "lon": -106.65,
-          "lat": 35.08
+          "lon": -106.6504,
+          "lat": 35.0844
         },
         "state": "New Mexico",
         "title": "Albuquerque, New Mexico",
@@ -873,8 +873,8 @@
         "country": "United States of America",
         "city": "Denver",
         "coordinates": {
-          "lon": -104.99,
-          "lat": 39.73
+          "lon": -104.9903,
+          "lat": 39.7392
         },
         "state": "Colorado",
         "title": "Denver, Colorado",
@@ -899,8 +899,8 @@
         "country": "United States of America",
         "city": "Albuquerque",
         "coordinates": {
-          "lon": -106.65,
-          "lat": 35.08
+          "lon": -106.6504,
+          "lat": 35.0844
         },
         "state": "New Mexico",
         "title": "Albuquerque, New Mexico",
@@ -911,8 +911,8 @@
         "country": "United States of America",
         "city": "Denver",
         "coordinates": {
-          "lon": -104.99,
-          "lat": 39.73
+          "lon": -104.9903,
+          "lat": 39.7392
         },
         "state": "Colorado",
         "title": "Denver, Colorado",
@@ -937,8 +937,8 @@
         "country": "México",
         "city": "Calvillo",
         "coordinates": {
-          "lon": -102.71,
-          "lat": 21.84
+          "lon": -102.718606,
+          "lat": 21.84712183
         },
         "state": "Aguascalientes",
         "title": "Calvillo, Aguascalientes, México",
@@ -949,8 +949,8 @@
         "country": "United States of America",
         "city": "Denver",
         "coordinates": {
-          "lon": -104.99,
-          "lat": 39.73
+          "lon": -104.9903,
+          "lat": 39.7392
         },
         "state": "Colorado",
         "title": "Denver, Colorado",
@@ -975,8 +975,8 @@
         "country": "United States of America",
         "city": "Albuquerque",
         "coordinates": {
-          "lon": -106.65,
-          "lat": 35.08
+          "lon": -106.6504,
+          "lat": 35.0844
         },
         "state": "New Mexico",
         "title": "Albuquerque, New Mexico",
@@ -1001,8 +1001,8 @@
         "country": "United States of America",
         "city": "Albuquerque",
         "coordinates": {
-          "lon": -106.65,
-          "lat": 35.08
+          "lon": -106.6504,
+          "lat": 35.0844
         },
         "state": "New Mexico",
         "title": "Albuquerque, New Mexico",
@@ -1013,8 +1013,8 @@
         "country": "United States of America",
         "city": "Denver",
         "coordinates": {
-          "lon": -104.99,
-          "lat": 39.73
+          "lon": -104.9903,
+          "lat": 39.7392
         },
         "state": "Colorado",
         "title": "Denver, Colorado",
@@ -1039,8 +1039,8 @@
         "country": "United States of America",
         "city": "Albuquerque",
         "coordinates": {
-          "lon": -106.65,
-          "lat": 35.08
+          "lon": -106.6504,
+          "lat": 35.0844
         },
         "state": "New Mexico",
         "title": "Albuquerque, New Mexico",
@@ -1065,8 +1065,8 @@
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
-          "lon": -103.11,
-          "lat": 21.41
+          "lon": -103.1187551,
+          "lat": 21.41242983
         },
         "state": "Zacatecas",
         "title": "Juchipila, Zacatecas, México",
@@ -1077,8 +1077,8 @@
         "country": "United States of America",
         "city": "Longmont",
         "coordinates": {
-          "lon": -105.1,
-          "lat": 40.16
+          "lon": -105.1019,
+          "lat": 40.1672
         },
         "state": "Colorado",
         "title": "Longmont, Colorado",
@@ -1103,8 +1103,8 @@
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
-          "lon": -103.11,
-          "lat": 21.41
+          "lon": -103.1187551,
+          "lat": 21.41242983
         },
         "state": "Zacatecas",
         "title": "Juchipila, Zacatecas, México",
@@ -1115,8 +1115,8 @@
         "country": "United States of America",
         "city": "Longmont",
         "coordinates": {
-          "lon": -105.1,
-          "lat": 40.16
+          "lon": -105.1019,
+          "lat": 40.1672
         },
         "state": "Colorado",
         "title": "Longmont, Colorado",
@@ -1141,8 +1141,8 @@
         "country": "United States of America",
         "city": "Denver",
         "coordinates": {
-          "lon": -104.99,
-          "lat": 39.73
+          "lon": -104.9903,
+          "lat": 39.7392
         },
         "state": "Colorado",
         "title": "Denver, Colorado",
@@ -1167,8 +1167,8 @@
         "country": "United States of America",
         "city": "Brighton",
         "coordinates": {
-          "lon": -104.82,
-          "lat": 39.98
+          "lon": -104.8205,
+          "lat": 39.9853
         },
         "state": "Colorado",
         "title": "Brighton, Colorado",
@@ -1193,8 +1193,8 @@
         "country": "United States of America",
         "city": "Albuquerque",
         "coordinates": {
-          "lon": -106.65,
-          "lat": 35.08
+          "lon": -106.6504,
+          "lat": 35.0844
         },
         "state": "New Mexico",
         "title": "Albuquerque, New Mexico",
@@ -1205,8 +1205,8 @@
         "country": "United States of America",
         "city": "Longmont",
         "coordinates": {
-          "lon": -105.1,
-          "lat": 40.16
+          "lon": -105.1019,
+          "lat": 40.1672
         },
         "state": "Colorado",
         "title": "Longmont, Colorado",
@@ -1231,8 +1231,8 @@
         "country": "México",
         "city": "Huapamacato",
         "coordinates": {
-          "lon": -102.08,
-          "lat": 20.12
+          "lon": -102.0814848,
+          "lat": 20.12116395
         },
         "state": "Michoacán",
         "title": "Huapamacato, Michoacán, México",
@@ -1243,8 +1243,8 @@
         "country": "United States of America",
         "city": "Longmont",
         "coordinates": {
-          "lon": -105.1,
-          "lat": 40.16
+          "lon": -105.1019,
+          "lat": 40.1672
         },
         "state": "Colorado",
         "title": "Longmont, Colorado",
@@ -1269,8 +1269,8 @@
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
-          "lon": -103.11,
-          "lat": 21.41
+          "lon": -103.1187551,
+          "lat": 21.41242983
         },
         "state": "Zacatecas",
         "title": "Juchipila, Zacatecas, México",
@@ -1281,8 +1281,8 @@
         "country": "United States of America",
         "city": "Longmont",
         "coordinates": {
-          "lon": -105.1,
-          "lat": 40.16
+          "lon": -105.1019,
+          "lat": 40.1672
         },
         "state": "Colorado",
         "title": "Longmont, Colorado",
@@ -1307,8 +1307,8 @@
         "country": "United States of America",
         "city": "Albuquerque",
         "coordinates": {
-          "lon": -106.65,
-          "lat": 35.08
+          "lon": -106.6504,
+          "lat": 35.0844
         },
         "state": "New Mexico",
         "title": "Albuquerque, New Mexico",
@@ -1319,8 +1319,8 @@
         "country": "United States of America",
         "city": "Longmont",
         "coordinates": {
-          "lon": -105.1,
-          "lat": 40.16
+          "lon": -105.1019,
+          "lat": 40.1672
         },
         "state": "Colorado",
         "title": "Longmont, Colorado",
@@ -1345,8 +1345,8 @@
         "country": "United States of America",
         "city": "Albuquerque",
         "coordinates": {
-          "lon": -106.65,
-          "lat": 35.08
+          "lon": -106.6504,
+          "lat": 35.0844
         },
         "state": "New Mexico",
         "title": "Albuquerque, New Mexico",
@@ -1357,8 +1357,8 @@
         "country": "United States of America",
         "city": "Longmont",
         "coordinates": {
-          "lon": -105.1,
-          "lat": 40.16
+          "lon": -105.1019,
+          "lat": 40.1672
         },
         "state": "Colorado",
         "title": "Longmont, Colorado",
@@ -1383,8 +1383,8 @@
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
-          "lon": -103.11,
-          "lat": 21.41
+          "lon": -103.1187551,
+          "lat": 21.41242983
         },
         "state": "Zacatecas",
         "title": "Juchipila, Zacatecas, México",
@@ -1395,8 +1395,8 @@
         "country": "United States of America",
         "city": "Longmont",
         "coordinates": {
-          "lon": -105.1,
-          "lat": 40.16
+          "lon": -105.1019,
+          "lat": 40.1672
         },
         "state": "Colorado",
         "title": "Longmont, Colorado",
@@ -1421,8 +1421,8 @@
         "country": "United States of America",
         "city": "Albuquerque",
         "coordinates": {
-          "lon": -106.65,
-          "lat": 35.08
+          "lon": -106.6504,
+          "lat": 35.0844
         },
         "state": "New Mexico",
         "title": "Albuquerque, New Mexico",
@@ -1433,8 +1433,8 @@
         "country": "United States of America",
         "city": "Longmont",
         "coordinates": {
-          "lon": -105.1,
-          "lat": 40.16
+          "lon": -105.1019,
+          "lat": 40.1672
         },
         "state": "Colorado",
         "title": "Longmont, Colorado",
@@ -1459,8 +1459,8 @@
         "country": "México",
         "city": "Churintzio",
         "coordinates": {
-          "lon": -102.06,
-          "lat": 20.15
+          "lon": -102.0657864,
+          "lat": 20.15837329
         },
         "state": "Michoacán",
         "title": "Churintzio, Michoacán, México",
@@ -1471,8 +1471,8 @@
         "country": "United States of America",
         "city": "Longmont",
         "coordinates": {
-          "lon": -105.1,
-          "lat": 40.16
+          "lon": -105.1019,
+          "lat": 40.1672
         },
         "state": "Colorado",
         "title": "Longmont, Colorado",
@@ -1497,8 +1497,8 @@
         "country": "United States of America",
         "city": "Chicago",
         "coordinates": {
-          "lon": -87.62,
-          "lat": 41.87
+          "lon": -87.6298,
+          "lat": 41.8781
         },
         "state": "Illinois",
         "title": "Chicago, Illinois",
@@ -1509,8 +1509,8 @@
         "country": "United States of America",
         "city": "Longmont",
         "coordinates": {
-          "lon": -105.1,
-          "lat": 40.16
+          "lon": -105.1019,
+          "lat": 40.1672
         },
         "state": "Colorado",
         "title": "Longmont, Colorado",
@@ -1535,8 +1535,8 @@
         "country": "México",
         "city": "Churintzio",
         "coordinates": {
-          "lon": -102.06,
-          "lat": 20.15
+          "lon": -102.0657864,
+          "lat": 20.15837329
         },
         "state": "Michoacán",
         "title": "Churintzio, Michoacán, México",
@@ -1547,8 +1547,8 @@
         "country": "United States of America",
         "city": "Chicago",
         "coordinates": {
-          "lon": -87.62,
-          "lat": 41.87
+          "lon": -87.6298,
+          "lat": 41.8781
         },
         "state": "Illinois",
         "title": "Chicago, Illinois",
@@ -1573,8 +1573,8 @@
         "country": "United States of America",
         "city": "Albuquerque",
         "coordinates": {
-          "lon": -106.65,
-          "lat": 35.08
+          "lon": -106.6504,
+          "lat": 35.0844
         },
         "state": "New Mexico",
         "title": "Albuquerque, New Mexico",
@@ -1585,8 +1585,8 @@
         "country": "United States of America",
         "city": "Longmont",
         "coordinates": {
-          "lon": -105.1,
-          "lat": 40.16
+          "lon": -105.1019,
+          "lat": 40.1672
         },
         "state": "Colorado",
         "title": "Longmont, Colorado",
@@ -1611,8 +1611,8 @@
         "country": "United States of America",
         "city": "Albuquerque",
         "coordinates": {
-          "lon": -106.65,
-          "lat": 35.08
+          "lon": -106.6504,
+          "lat": 35.0844
         },
         "state": "New Mexico",
         "title": "Albuquerque, New Mexico",
@@ -1623,8 +1623,8 @@
         "country": "United States of America",
         "city": "Longmont",
         "coordinates": {
-          "lon": -105.1,
-          "lat": 40.16
+          "lon": -105.1019,
+          "lat": 40.1672
         },
         "state": "Colorado",
         "title": "Longmont, Colorado",
@@ -1649,8 +1649,8 @@
         "country": "United States of America",
         "city": "Brentwood",
         "coordinates": {
-          "lon": -121.69,
-          "lat": 37.93
+          "lon": -121.6958,
+          "lat": 37.9319
         },
         "state": "California",
         "title": "Brentwood, California",
@@ -1661,8 +1661,8 @@
         "country": "United States of America",
         "city": "Longmont",
         "coordinates": {
-          "lon": -105.1,
-          "lat": 40.16
+          "lon": -105.1019,
+          "lat": 40.1672
         },
         "state": "Colorado",
         "title": "Longmont, Colorado",
@@ -1687,8 +1687,8 @@
         "country": "United States of America",
         "city": "Longmont",
         "coordinates": {
-          "lon": -105.1,
-          "lat": 40.16
+          "lon": -105.1019,
+          "lat": 40.1672
         },
         "state": "Colorado",
         "title": "Longmont, Colorado",
@@ -1699,8 +1699,8 @@
         "country": "México",
         "city": "Churintzio",
         "coordinates": {
-          "lon": -102.06,
-          "lat": 20.15
+          "lon": -102.0657864,
+          "lat": 20.15837329
         },
         "state": "Michoacán",
         "title": "Churintzio, Michoacán, México",
@@ -1725,8 +1725,8 @@
         "country": "United States of America",
         "city": "Denver",
         "coordinates": {
-          "lon": -104.99,
-          "lat": 39.73
+          "lon": -104.9903,
+          "lat": 39.7392
         },
         "state": "Colorado",
         "title": "Denver, Colorado",
@@ -1737,8 +1737,8 @@
         "country": "United States of America",
         "city": "Longmont",
         "coordinates": {
-          "lon": -105.1,
-          "lat": 40.16
+          "lon": -105.1019,
+          "lat": 40.1672
         },
         "state": "Colorado",
         "title": "Longmont, Colorado",
@@ -1763,8 +1763,8 @@
         "country": "United States of America",
         "city": "Denver",
         "coordinates": {
-          "lon": -104.99,
-          "lat": 39.73
+          "lon": -104.9903,
+          "lat": 39.7392
         },
         "state": "Colorado",
         "title": "Denver, Colorado",
@@ -1789,8 +1789,8 @@
         "country": "United States of America",
         "city": "Brentwood",
         "coordinates": {
-          "lon": -121.69,
-          "lat": 37.93
+          "lon": -121.6958,
+          "lat": 37.9319
         },
         "state": "California",
         "title": "Brentwood, California",
@@ -1801,8 +1801,8 @@
         "country": "United States of America",
         "city": "Longmont",
         "coordinates": {
-          "lon": -105.1,
-          "lat": 40.16
+          "lon": -105.1019,
+          "lat": 40.1672
         },
         "state": "Colorado",
         "title": "Longmont, Colorado",
@@ -1827,8 +1827,8 @@
         "country": "United States of America",
         "city": "Longmont",
         "coordinates": {
-          "lon": -105.1,
-          "lat": 40.16
+          "lon": -105.1019,
+          "lat": 40.1672
         },
         "state": "Colorado",
         "title": "Longmont, Colorado",
@@ -1839,8 +1839,8 @@
         "country": "United States of America",
         "city": "Stockton",
         "coordinates": {
-          "lon": -121.29,
-          "lat": 37.95
+          "lon": -121.2908,
+          "lat": 37.9577
         },
         "state": "California",
         "title": "Stockton, California",
@@ -1865,8 +1865,8 @@
         "country": "United States of America",
         "city": "Chicago",
         "coordinates": {
-          "lon": -87.62,
-          "lat": 41.87
+          "lon": -87.6298,
+          "lat": 41.8781
         },
         "state": "Illinois",
         "title": "Chicago, Illinois",
@@ -1877,8 +1877,8 @@
         "country": "United States of America",
         "city": "Longmont",
         "coordinates": {
-          "lon": -105.1,
-          "lat": 40.16
+          "lon": -105.1019,
+          "lat": 40.1672
         },
         "state": "Colorado",
         "title": "Longmont, Colorado",
@@ -1903,8 +1903,8 @@
         "country": "United States of America",
         "city": "Albuquerque",
         "coordinates": {
-          "lon": -106.65,
-          "lat": 35.08
+          "lon": -106.6504,
+          "lat": 35.0844
         },
         "state": "New Mexico",
         "title": "Albuquerque, New Mexico",
@@ -1915,8 +1915,8 @@
         "country": "United States of America",
         "city": "Longmont",
         "coordinates": {
-          "lon": -105.1,
-          "lat": 40.16
+          "lon": -105.1019,
+          "lat": 40.1672
         },
         "state": "Colorado",
         "title": "Longmont, Colorado",
@@ -1941,8 +1941,8 @@
         "country": "México",
         "city": "México",
         "coordinates": {
-          "lon": -102.55,
-          "lat": 23.63
+          "lon": -102.5528,
+          "lat": 23.6345
         },
         "state": null,
         "title": "México",
@@ -1967,8 +1967,8 @@
         "country": "México",
         "city": "México City",
         "coordinates": {
-          "lon": -99.13,
-          "lat": 19.43
+          "lon": -99.1332,
+          "lat": 19.4326
         },
         "state": null,
         "title": "México City, México",
@@ -1993,8 +1993,8 @@
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
-          "lon": -103.11,
-          "lat": 21.41
+          "lon": -103.1187551,
+          "lat": 21.41242983
         },
         "state": "Zacatecas",
         "title": "Juchipila, Zacatecas, México",
@@ -2005,8 +2005,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -2031,8 +2031,8 @@
         "country": "México",
         "city": "Mexicali",
         "coordinates": {
-          "lon": -115.45,
-          "lat": 32.62
+          "lon": -115.4749784,
+          "lat": 32.64017354
         },
         "state": "Baja California",
         "title": "Mexicali, Baja California, México",
@@ -2043,8 +2043,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -2069,8 +2069,8 @@
         "country": "United States of America",
         "city": "Longmont",
         "coordinates": {
-          "lon": -105.1,
-          "lat": 40.16
+          "lon": -105.1019,
+          "lat": 40.1672
         },
         "state": "Colorado",
         "title": "Longmont, Colorado",
@@ -2081,8 +2081,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -2107,8 +2107,8 @@
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
-          "lon": -103.11,
-          "lat": 21.41
+          "lon": -103.1187551,
+          "lat": 21.41242983
         },
         "state": "Zacatecas",
         "title": "Juchipila, Zacatecas, México",
@@ -2119,8 +2119,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -2145,8 +2145,8 @@
         "country": "United States of America",
         "city": "Thornton",
         "coordinates": {
-          "lon": -121.42,
-          "lat": 38.22
+          "lon": -121.4239,
+          "lat": 38.2262
         },
         "state": "California",
         "title": "Thornton, California",
@@ -2157,8 +2157,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -2183,8 +2183,8 @@
         "country": "United States of America",
         "city": null,
         "coordinates": {
-          "lon": -105.68,
-          "lat": 40.34
+          "lon": -105.6836,
+          "lat": 40.3428
         },
         "state": "Colorado",
         "title": "Rocky Mountain National Park, Colorado",
@@ -2209,8 +2209,8 @@
         "country": "United States of America",
         "city": "Brighton",
         "coordinates": {
-          "lon": -104.82,
-          "lat": 39.98
+          "lon": -104.8205,
+          "lat": 39.9853
         },
         "state": "Colorado",
         "title": "Brighton, Colorado",
@@ -2235,8 +2235,8 @@
         "country": "United States of America",
         "city": null,
         "coordinates": {
-          "lon": -105.68,
-          "lat": 40.34
+          "lon": -105.6836,
+          "lat": 40.3428
         },
         "state": "Colorado",
         "title": "Rocky Mountain National Park, Colorado",
@@ -2261,8 +2261,8 @@
         "country": "United States of America",
         "city": "Brighton",
         "coordinates": {
-          "lon": -104.82,
-          "lat": 39.98
+          "lon": -104.8205,
+          "lat": 39.9853
         },
         "state": "Colorado",
         "title": "Brighton, Colorado",
@@ -2287,8 +2287,8 @@
         "country": "United States of America",
         "city": null,
         "coordinates": {
-          "lon": -89.39,
-          "lat": 40.63
+          "lon": -89.3975,
+          "lat": 40.6331
         },
         "state": "Illinois",
         "title": "Illinois",
@@ -2314,7 +2314,7 @@
         "city": "Erie",
         "coordinates": {
           "lon": -105.05,
-          "lat": 40.05
+          "lat": 40.0503
         },
         "state": "Colorado",
         "title": "Erie, Colorado",
@@ -2325,8 +2325,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -2351,8 +2351,8 @@
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
-          "lon": -96.7,
-          "lat": 40.81
+          "lon": -96.7026,
+          "lat": 40.8136
         },
         "state": "Nebraska",
         "title": "Lincoln, Nebraska",
@@ -2363,8 +2363,8 @@
         "country": "United States of America",
         "city": "Palmyra",
         "coordinates": {
-          "lon": -96.38,
-          "lat": 40.7
+          "lon": -96.3899,
+          "lat": 40.7043
         },
         "state": "Nebraska",
         "title": "Palmyra, Nebraska",
@@ -2389,8 +2389,8 @@
         "country": "United States of America",
         "city": "Socorro",
         "coordinates": {
-          "lon": -106.89,
-          "lat": 34.05
+          "lon": -106.8914,
+          "lat": 34.0584
         },
         "state": "New Mexico",
         "title": "Socorro, New Mexico",
@@ -2416,8 +2416,8 @@
         "country": "United States of America",
         "city": "Denver",
         "coordinates": {
-          "lon": -104.99,
-          "lat": 39.73
+          "lon": -104.9903,
+          "lat": 39.7392
         },
         "state": "Colorado",
         "title": "Denver, Colorado",
@@ -2442,8 +2442,8 @@
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
-          "lon": -103.11,
-          "lat": 21.41
+          "lon": -103.1187551,
+          "lat": 21.41242983
         },
         "state": "Zacatecas",
         "title": "Juchipila, Zacatecas, México",
@@ -2454,8 +2454,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -2480,8 +2480,8 @@
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
-          "lon": -103.11,
-          "lat": 21.41
+          "lon": -103.1187551,
+          "lat": 21.41242983
         },
         "state": "Zacatecas",
         "title": "Juchipila, Zacatecas, México",
@@ -2492,8 +2492,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -2518,8 +2518,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -2544,8 +2544,8 @@
         "country": "United States of America",
         "city": null,
         "coordinates": {
-          "lon": -87.52,
-          "lat": 38.35
+          "lon": -104.7849,
+          "lat": 38.7457
         },
         "state": "Colorado",
         "title": "Camp Carson, Colorado",
@@ -2570,8 +2570,8 @@
         "country": "México",
         "city": "Huapamacato",
         "coordinates": {
-          "lon": -102.08,
-          "lat": 20.12
+          "lon": -102.0814848,
+          "lat": 20.12116395
         },
         "state": "Michoacán",
         "title": "Huapamacato, Michoacán, México",
@@ -2582,8 +2582,8 @@
         "country": "United States of America",
         "city": "Denver",
         "coordinates": {
-          "lon": -104.99,
-          "lat": 39.73
+          "lon": -104.9903,
+          "lat": 39.7392
         },
         "state": "Colorado",
         "title": "Denver, Colorado",
@@ -2608,8 +2608,8 @@
         "country": "México",
         "city": "Churintzio",
         "coordinates": {
-          "lon": -102.06,
-          "lat": 20.15
+          "lon": -102.0657864,
+          "lat": 20.15837329
         },
         "state": "Michoacán",
         "title": "Churintzio, Michoacán, México",
@@ -2620,8 +2620,8 @@
         "country": "United States of America",
         "city": "Denver",
         "coordinates": {
-          "lon": -104.99,
-          "lat": 39.73
+          "lon": -104.9903,
+          "lat": 39.7392
         },
         "state": "Colorado",
         "title": "Denver, Colorado",
@@ -2646,8 +2646,8 @@
         "country": "United States of America",
         "city": "Denver",
         "coordinates": {
-          "lon": -104.99,
-          "lat": 39.73
+          "lon": -104.9903,
+          "lat": 39.7392
         },
         "state": "Colorado",
         "title": "Denver, Colorado",
@@ -2672,8 +2672,8 @@
         "country": "United States of America",
         "city": null,
         "coordinates": {
-          "lon": -87.52,
-          "lat": 38.35
+          "lon": -104.7849,
+          "lat": 38.7457
         },
         "state": "Colorado",
         "title": "Camp Carson, Colorado",
@@ -2698,8 +2698,8 @@
         "country": "United States of America",
         "city": "San Diego",
         "coordinates": {
-          "lon": -117.16,
-          "lat": 32.71
+          "lon": -117.1611,
+          "lat": 32.7157
         },
         "state": "California",
         "title": "San Diego, California",
@@ -2710,8 +2710,8 @@
         "country": "United States of America",
         "city": "Denver",
         "coordinates": {
-          "lon": -104.99,
-          "lat": 39.73
+          "lon": -104.9903,
+          "lat": 39.7392
         },
         "state": "Colorado",
         "title": "Denver, Colorado",
@@ -2736,8 +2736,8 @@
         "country": "United States of America",
         "city": "Oceanside",
         "coordinates": {
-          "lon": -117.37,
-          "lat": 33.19
+          "lon": -117.3796,
+          "lat": 33.1959
         },
         "state": "California",
         "title": "Oceanside, California",
@@ -2748,8 +2748,8 @@
         "country": "United States of America",
         "city": "Denver",
         "coordinates": {
-          "lon": -104.99,
-          "lat": 39.73
+          "lon": -104.9903,
+          "lat": 39.7392
         },
         "state": "Colorado",
         "title": "Denver, Colorado",
@@ -2774,8 +2774,8 @@
         "country": "México",
         "city": "Huapamacato",
         "coordinates": {
-          "lon": -102.08,
-          "lat": 20.12
+          "lon": -102.0814848,
+          "lat": 20.12116395
         },
         "state": "Michoacán",
         "title": "Huapamacato, Michoacán, México",
@@ -2786,8 +2786,8 @@
         "country": "United States of America",
         "city": "Denver",
         "coordinates": {
-          "lon": -104.99,
-          "lat": 39.73
+          "lon": -104.9903,
+          "lat": 39.7392
         },
         "state": "Colorado",
         "title": "Denver, Colorado",
@@ -2812,8 +2812,8 @@
         "country": "Italy",
         "city": null,
         "coordinates": {
-          "lon": 12.56,
-          "lat": 41.87
+          "lon": 12.5674,
+          "lat": 41.8719
         },
         "state": null,
         "title": "Italy",
@@ -2838,8 +2838,8 @@
         "country": "France",
         "city": null,
         "coordinates": {
-          "lon": 2.2137,
-          "lat": 46.22
+          "lon": -0.854997656,
+          "lat": 49.36674089
         },
         "state": null,
         "title": "France",
@@ -2850,8 +2850,8 @@
         "country": "United States of America",
         "city": "Denver",
         "coordinates": {
-          "lon": -104.99,
-          "lat": 39.73
+          "lon": -104.9903,
+          "lat": 39.7392
         },
         "state": "Colorado",
         "title": "Denver, Colorado",
@@ -2876,8 +2876,8 @@
         "country": "United States of America",
         "city": "New York",
         "coordinates": {
-          "lon": -74.0,
-          "lat": 40.71
+          "lon": -74.006,
+          "lat": 40.7128
         },
         "state": "New York",
         "title": "New York, New York",
@@ -2903,7 +2903,7 @@
         "city": "Erie",
         "coordinates": {
           "lon": -105.05,
-          "lat": 40.05
+          "lat": 40.0503
         },
         "state": "Colorado",
         "title": "Erie, Colorado",
@@ -2928,8 +2928,8 @@
         "country": "United States of America",
         "city": "Sacramento",
         "coordinates": {
-          "lon": -121.49,
-          "lat": 38.58
+          "lon": -121.4944,
+          "lat": 38.5816
         },
         "state": "California",
         "title": "Sacramento, California",
@@ -2954,8 +2954,8 @@
         "country": "United States of America",
         "city": "Denver",
         "coordinates": {
-          "lon": -104.99,
-          "lat": 39.73
+          "lon": -104.9903,
+          "lat": 39.7392
         },
         "state": "Colorado",
         "title": "Denver, Colorado",
@@ -2980,8 +2980,8 @@
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
-          "lon": -96.7,
-          "lat": 40.81
+          "lon": -96.7026,
+          "lat": 40.8136
         },
         "state": "Nebraska",
         "title": "Lincoln, Nebraska",
@@ -3006,8 +3006,8 @@
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
-          "lon": -96.7,
-          "lat": 40.81
+          "lon": -96.7026,
+          "lat": 40.8136
         },
         "state": "Nebraska",
         "title": "Lincoln, Nebraska",
@@ -3032,8 +3032,8 @@
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
-          "lon": -96.7,
-          "lat": 40.81
+          "lon": -96.7026,
+          "lat": 40.8136
         },
         "state": "Nebraska",
         "title": "Lincoln, Nebraska",
@@ -3058,8 +3058,8 @@
         "country": "United States of America",
         "city": "Denver",
         "coordinates": {
-          "lon": -104.99,
-          "lat": 39.73
+          "lon": -104.9903,
+          "lat": 39.7392
         },
         "state": "Colorado",
         "title": "Denver, Colorado",
@@ -3084,8 +3084,8 @@
         "country": "United States of America",
         "city": "Denver",
         "coordinates": {
-          "lon": -104.99,
-          "lat": 39.73
+          "lon": -104.9903,
+          "lat": 39.7392
         },
         "state": "Colorado",
         "title": "Denver, Colorado",
@@ -3110,8 +3110,8 @@
         "country": "United States of America",
         "city": "Denver",
         "coordinates": {
-          "lon": -104.99,
-          "lat": 39.73
+          "lon": -104.9903,
+          "lat": 39.7392
         },
         "state": "Colorado",
         "title": "Denver, Colorado",
@@ -3136,8 +3136,8 @@
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
-          "lon": -96.7,
-          "lat": 40.81
+          "lon": -96.7026,
+          "lat": 40.8136
         },
         "state": "Nebraska",
         "title": "Lincoln, Nebraska",
@@ -3162,8 +3162,8 @@
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
-          "lon": -96.7,
-          "lat": 40.81
+          "lon": -96.7026,
+          "lat": 40.8136
         },
         "state": "Nebraska",
         "title": "Lincoln, Nebraska",
@@ -3188,8 +3188,8 @@
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
-          "lon": -96.7,
-          "lat": 40.81
+          "lon": -96.7026,
+          "lat": 40.8136
         },
         "state": "Nebraska",
         "title": "Lincoln, Nebraska",
@@ -3214,8 +3214,8 @@
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
-          "lon": -103.11,
-          "lat": 21.41
+          "lon": -103.1175,
+          "lat": 21.4121
         },
         "state": "Zacatecas",
         "title": "Juchipila, Zacatecas, México",
@@ -3240,8 +3240,8 @@
         "country": "United States of America",
         "city": "Denver",
         "coordinates": {
-          "lon": -104.99,
-          "lat": 39.73
+          "lon": -104.9903,
+          "lat": 39.7392
         },
         "state": "Colorado",
         "title": "Denver, Colorado",
@@ -3266,8 +3266,8 @@
         "country": "United States of America",
         "city": "Denver",
         "coordinates": {
-          "lon": -104.95,
-          "lat": 39.74
+          "lon": -104.9501,
+          "lat": 39.7438
         },
         "state": "Colorado",
         "title": "City Park, Denver, Colorado",
@@ -3292,8 +3292,8 @@
         "country": "United States of America",
         "city": null,
         "coordinates": {
-          "lon": -119.53,
-          "lat": 37.86
+          "lon": -119.5383,
+          "lat": 37.8651
         },
         "state": "California",
         "title": "Yosemite National Park, Sierra Nevada, California",
@@ -3318,8 +3318,8 @@
         "country": "United States of America",
         "city": "Havelock",
         "coordinates": {
-          "lon": -96.62,
-          "lat": 40.85
+          "lon": -96.6291,
+          "lat": 40.8517
         },
         "state": "Nebraska",
         "title": "Havelock, Nebraska",
@@ -3330,8 +3330,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -3356,8 +3356,8 @@
         "country": "United States of America",
         "city": "Havelock",
         "coordinates": {
-          "lon": -96.62,
-          "lat": 40.85
+          "lon": -96.6291,
+          "lat": 40.8517
         },
         "state": "Nebraska",
         "title": "Havelock, Nebraska",
@@ -3368,8 +3368,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -3394,8 +3394,8 @@
         "country": "United States of America",
         "city": "Manitou Springs",
         "coordinates": {
-          "lon": -104.91,
-          "lat": 38.85
+          "lon": -104.9128,
+          "lat": 38.8576
         },
         "state": "Colorado",
         "title": "Manitou Springs, Colorado",
@@ -3420,8 +3420,8 @@
         "country": "United States of America",
         "city": "Hastings",
         "coordinates": {
-          "lon": -98.38,
-          "lat": 40.58
+          "lon": -98.3899,
+          "lat": 40.5863
         },
         "state": "Nebraska",
         "title": "Hastings, Nebraska",
@@ -3446,8 +3446,8 @@
         "country": "United States of America",
         "city": "Manitou Springs",
         "coordinates": {
-          "lon": -104.91,
-          "lat": 38.85
+          "lon": -104.9128,
+          "lat": 38.8576
         },
         "state": "Colorado",
         "title": "Manitou Springs, Colorado",
@@ -3472,8 +3472,8 @@
         "country": "United States of America",
         "city": "Austin",
         "coordinates": {
-          "lon": -97.74,
-          "lat": 30.26
+          "lon": -97.7431,
+          "lat": 30.2672
         },
         "state": "Texas",
         "title": "Austin, Texas",
@@ -3484,8 +3484,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -3510,8 +3510,8 @@
         "country": "United States of America",
         "city": "Austin",
         "coordinates": {
-          "lon": -97.74,
-          "lat": 30.26
+          "lon": -97.7431,
+          "lat": 30.2672
         },
         "state": "Texas",
         "title": "Austin, Texas",
@@ -3522,8 +3522,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -3548,8 +3548,8 @@
         "country": "México",
         "city": "Huapamacato",
         "coordinates": {
-          "lon": -102.08,
-          "lat": 20.12
+          "lon": -102.0814848,
+          "lat": 20.12116395
         },
         "state": "Michoacán",
         "title": "Huapamacato, Michoacán, México",
@@ -3560,8 +3560,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -3586,8 +3586,8 @@
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
-          "lon": -96.7,
-          "lat": 40.81
+          "lon": -96.7026,
+          "lat": 40.8136
         },
         "state": "Nebraska",
         "title": "Lincoln, Nebraska",
@@ -3612,8 +3612,8 @@
         "country": "United States of America",
         "city": "Havelock",
         "coordinates": {
-          "lon": -96.62,
-          "lat": 40.85
+          "lon": -96.6291,
+          "lat": 40.8517
         },
         "state": "Nebraska",
         "title": "Havelock, Nebraska",
@@ -3624,8 +3624,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -3650,8 +3650,8 @@
         "country": "United States of America",
         "city": null,
         "coordinates": {
-          "lon": -78.79,
-          "lat": 36.2
+          "lon": -78.7914,
+          "lat": 36.2085
         },
         "state": "North Carolina",
         "title": "Camp Butner, North Carolina",
@@ -3676,8 +3676,8 @@
         "country": "United States of America",
         "city": "Brighton",
         "coordinates": {
-          "lon": -104.82,
-          "lat": 39.98
+          "lon": -104.8205,
+          "lat": 39.9853
         },
         "state": "Colorado",
         "title": "Brighton, Colorado",
@@ -3702,8 +3702,8 @@
         "country": "United States of America",
         "city": "White Sands",
         "coordinates": {
-          "lon": -106.32,
-          "lat": 32.78
+          "lon": -106.3257,
+          "lat": 32.7872
         },
         "state": "Colorado",
         "title": "White Sands, Colorado",
@@ -3728,8 +3728,8 @@
         "country": "United States of America",
         "city": "Adams",
         "coordinates": {
-          "lon": -96.5,
-          "lat": 40.46
+          "lon": -96.5095,
+          "lat": 40.4611
         },
         "state": "Nebraska",
         "title": "Adams, Nebraska",
@@ -3755,8 +3755,8 @@
         "country": "United States of America",
         "city": "Adams",
         "coordinates": {
-          "lon": -96.5,
-          "lat": 40.46
+          "lon": -96.5095,
+          "lat": 40.4611
         },
         "state": "Nebraska",
         "title": "Adams, Nebraska",
@@ -3767,8 +3767,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -3793,8 +3793,8 @@
         "country": "United States of America",
         "city": "Adams",
         "coordinates": {
-          "lon": -96.5,
-          "lat": 40.46
+          "lon": -96.5095,
+          "lat": 40.4611
         },
         "state": "Nebraska",
         "title": "Adams, Nebraska",
@@ -3836,8 +3836,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -3848,8 +3848,8 @@
         "country": "United States of America",
         "city": "Rulo",
         "coordinates": {
-          "lon": -95.42,
-          "lat": 40.05
+          "lon": -95.4293,
+          "lat": 40.0525
         },
         "state": "Nebraska",
         "title": "Rulo, Nebraska",
@@ -3874,8 +3874,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -3886,8 +3886,8 @@
         "country": "United States of America",
         "city": "Rulo",
         "coordinates": {
-          "lon": -95.42,
-          "lat": 40.05
+          "lon": -95.4293,
+          "lat": 40.0525
         },
         "state": "Nebraska",
         "title": "Rulo, Nebraska",
@@ -3912,8 +3912,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -3924,8 +3924,8 @@
         "country": "United States of America",
         "city": "Rulo",
         "coordinates": {
-          "lon": -95.42,
-          "lat": 40.05
+          "lon": -95.4293,
+          "lat": 40.0525
         },
         "state": "Nebraska",
         "title": "Rulo, Nebraska",
@@ -3950,8 +3950,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -3962,8 +3962,8 @@
         "country": "United States of America",
         "city": "Rulo",
         "coordinates": {
-          "lon": -95.42,
-          "lat": 40.05
+          "lon": -95.4293,
+          "lat": 40.0525
         },
         "state": "Nebraska",
         "title": "Rulo, Nebraska",
@@ -4036,8 +4036,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -4048,8 +4048,8 @@
         "country": "United States of America",
         "city": "Rulo",
         "coordinates": {
-          "lon": -95.42,
-          "lat": 40.05
+          "lon": -95.4293,
+          "lat": 40.0525
         },
         "state": "Nebraska",
         "title": "Rulo, Nebraska",
@@ -4154,8 +4154,8 @@
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
-          "lon": -96.7,
-          "lat": 40.81
+          "lon": -96.7026,
+          "lat": 40.8136
         },
         "state": "Nebraska",
         "title": "Lincoln, Nebraska",
@@ -4166,8 +4166,8 @@
         "country": "United States of America",
         "city": "Falls City",
         "coordinates": {
-          "lon": -95.6,
-          "lat": 40.06
+          "lon": -95.6019,
+          "lat": 40.0608
         },
         "state": "Nebraska",
         "title": "Falls City, Nebraska",
@@ -4208,11 +4208,37 @@
         "country": "United States of America",
         "city": "Roswell",
         "coordinates": {
-          "lon": -104.52,
-          "lat": 33.39
+          "lon": -104.523,
+          "lat": 33.3943
         },
         "state": "New Mexico",
         "title": "Roswell, New Mexico",
+        "type": null
+      }
+    ],
+    "category": "Image",
+    "subcategory": "Photograph",
+    "highlight": {
+    }
+  },
+  {
+    "date": "1951-06-01",
+    "identifier": "shan.P061",
+    "title_es_k": "Santos Baros Schubert and William F. Schubert",
+    "date_display": "1951-06",
+    "language": "en",
+    "title": "Santos Baros Schubert and William F. Schubert",
+    "spatial": [
+      {
+        "place_name": null,
+        "country": "United States of America",
+        "city": "Albuquerque",
+        "coordinates": {
+          "lon": -106.6504,
+          "lat": 35.0844
+        },
+        "state": "New Mexico",
+        "title": "Albuquerque, New Mexico",
         "type": null
       }
     ],
@@ -4234,8 +4260,8 @@
         "country": "México",
         "city": "Mexicali",
         "coordinates": {
-          "lon": -115.45,
-          "lat": 32.62
+          "lon": -115.4749784,
+          "lat": 32.64017354
         },
         "state": "Baja California",
         "title": "Mexicali, Baja California, México",
@@ -4246,8 +4272,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -4272,8 +4298,8 @@
         "country": "United States of America",
         "city": "Del Ray",
         "coordinates": {
-          "lon": -119.59,
-          "lat": 36.65
+          "lon": -119.5937,
+          "lat": 36.6591
         },
         "state": "California",
         "title": "Del Ray, California",
@@ -4284,8 +4310,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -4310,8 +4336,8 @@
         "country": "México",
         "city": "Churintzio",
         "coordinates": {
-          "lon": -102.06,
-          "lat": 20.15
+          "lon": -102.0657864,
+          "lat": 20.15837329
         },
         "state": "Michoacán",
         "title": "Churintzio, Michoacán, México",
@@ -4322,8 +4348,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -4348,8 +4374,8 @@
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
-          "lon": -103.11,
-          "lat": 21.41
+          "lon": -103.1187551,
+          "lat": 21.41242983
         },
         "state": "Zacatecas",
         "title": "Juchipila, Zacatecas, México",
@@ -4360,8 +4386,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -4386,8 +4412,8 @@
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
-          "lon": -103.11,
-          "lat": 21.41
+          "lon": -103.1187551,
+          "lat": 21.41242983
         },
         "state": "Zacatecas",
         "title": "Juchipila, Zacatecas, México",
@@ -4398,8 +4424,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -4440,8 +4466,8 @@
         "country": "México",
         "city": "Churintzio",
         "coordinates": {
-          "lon": -102.06,
-          "lat": 20.15
+          "lon": -102.0657864,
+          "lat": 20.15837329
         },
         "state": "Michoacán",
         "title": "Churintzio, Michoacán, México",
@@ -4452,8 +4478,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -4478,8 +4504,8 @@
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
-          "lon": -96.7,
-          "lat": 40.81
+          "lon": -96.7026,
+          "lat": 40.8136
         },
         "state": "Nebraska",
         "title": "Lincoln, Nebraska",
@@ -4490,8 +4516,8 @@
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
-          "lon": -96.7,
-          "lat": 40.81
+          "lon": -96.7026,
+          "lat": 40.8136
         },
         "state": "Nebraska",
         "title": "Lincoln, Nebraska",
@@ -4516,8 +4542,8 @@
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
-          "lon": -103.11,
-          "lat": 21.41
+          "lon": -103.1187551,
+          "lat": 21.41242983
         },
         "state": "Zacatecas",
         "title": "Juchipila, Zacatecas, México",
@@ -4528,8 +4554,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -4554,8 +4580,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -4566,8 +4592,8 @@
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
-          "lon": -96.7,
-          "lat": 40.81
+          "lon": -96.7026,
+          "lat": 40.8136
         },
         "state": "Nebraska",
         "title": "Lincoln, Nebraska",
@@ -4592,8 +4618,8 @@
         "country": "United States of America",
         "city": "Berwyn",
         "coordinates": {
-          "lon": -87.79,
-          "lat": 41.85
+          "lon": -87.7937,
+          "lat": 41.8506
         },
         "state": "Illinois",
         "title": "Berwyn, Illinois",
@@ -4604,8 +4630,8 @@
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
-          "lon": -96.7,
-          "lat": 40.81
+          "lon": -96.7026,
+          "lat": 40.8136
         },
         "state": "Nebraska",
         "title": "Lincoln, Nebraska",
@@ -4630,8 +4656,8 @@
         "country": "United States of America",
         "city": "Berwyn",
         "coordinates": {
-          "lon": -87.79,
-          "lat": 41.85
+          "lon": -87.7937,
+          "lat": 41.8506
         },
         "state": "Illinois",
         "title": "Berwyn, Illinois",
@@ -4642,8 +4668,8 @@
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
-          "lon": -96.7,
-          "lat": 40.81
+          "lon": -96.7026,
+          "lat": 40.8136
         },
         "state": "Nebraska",
         "title": "Lincoln, Nebraska",
@@ -4668,8 +4694,8 @@
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
-          "lon": -103.11,
-          "lat": 21.41
+          "lon": -103.1187551,
+          "lat": 21.41242983
         },
         "state": "Zacatecas",
         "title": "Juchipila, Zacatecas, México",
@@ -4680,8 +4706,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -4706,8 +4732,8 @@
         "country": "United States of America",
         "city": "La Grange",
         "coordinates": {
-          "lon": -74.04,
-          "lat": 45.25
+          "lon": -87.8692,
+          "lat": 41.805
         },
         "state": "Illinois",
         "title": "La Grange, Illinois",
@@ -4747,8 +4773,8 @@
         "country": "United States of America",
         "city": "La Grange",
         "coordinates": {
-          "lon": -74.04,
-          "lat": 45.25
+          "lon": -87.8692,
+          "lat": 41.805
         },
         "state": "Illinois",
         "title": "La Grange, Illinois",
@@ -4773,8 +4799,8 @@
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
-          "lon": -103.11,
-          "lat": 21.41
+          "lon": -103.1175,
+          "lat": 21.4121
         },
         "state": "Zacatecas",
         "title": "Juchipila, Zacatecas, México",
@@ -4799,8 +4825,8 @@
         "country": "United States of America",
         "city": "La Grange",
         "coordinates": {
-          "lon": -74.04,
-          "lat": 45.25
+          "lon": -87.8692,
+          "lat": 41.805
         },
         "state": "Illinois",
         "title": "La Grange, Illinois",
@@ -4826,8 +4852,8 @@
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
-          "lon": -103.11,
-          "lat": 21.41
+          "lon": -103.1187551,
+          "lat": 21.41242983
         },
         "state": "Zacatecas",
         "title": "Juchipila, Zacatecas, México",
@@ -4838,8 +4864,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -4864,8 +4890,8 @@
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
-          "lon": -103.11,
-          "lat": 21.41
+          "lon": -103.1187551,
+          "lat": 21.41242983
         },
         "state": "Zacatecas",
         "title": "Juchipila, Zacatecas, México",
@@ -4876,8 +4902,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -4902,8 +4928,8 @@
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
-          "lon": -103.11,
-          "lat": 21.41
+          "lon": -103.1187551,
+          "lat": 21.41242983
         },
         "state": "Zacatecas",
         "title": "Juchipila, Zacatecas, México",
@@ -4914,8 +4940,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -4940,8 +4966,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -4967,8 +4993,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -4994,8 +5020,8 @@
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
-          "lon": -103.11,
-          "lat": 21.41
+          "lon": -103.1175,
+          "lat": 21.4121
         },
         "state": "Zacatecas",
         "title": "Juchipila, Zacatecas, México",
@@ -5020,8 +5046,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -5047,8 +5073,8 @@
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
-          "lon": -103.11,
-          "lat": 21.41
+          "lon": -103.1175,
+          "lat": 21.4121
         },
         "state": "Zacatecas",
         "title": "Juchipila, Zacatecas, México",
@@ -5073,8 +5099,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -5100,8 +5126,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -5127,8 +5153,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -5154,8 +5180,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -5166,8 +5192,8 @@
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
-          "lon": -96.7,
-          "lat": 40.81
+          "lon": -96.7026,
+          "lat": 40.8136
         },
         "state": "Nebraska",
         "title": "Lincoln, Nebraska",
@@ -5192,8 +5218,8 @@
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
-          "lon": -103.11,
-          "lat": 21.41
+          "lon": -103.1187551,
+          "lat": 21.41242983
         },
         "state": "Zacatecas",
         "title": "Juchipila, Zacatecas, México",
@@ -5204,8 +5230,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -5230,8 +5256,8 @@
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
-          "lon": -103.11,
-          "lat": 21.41
+          "lon": -103.1187551,
+          "lat": 21.41242983
         },
         "state": "Zacatecas",
         "title": "Juchipila, Zacatecas, México",
@@ -5242,8 +5268,8 @@
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
-          "lon": -96.7,
-          "lat": 40.81
+          "lon": -96.7026,
+          "lat": 40.8136
         },
         "state": "Nebraska",
         "title": "Lincoln, Nebraska",
@@ -5268,8 +5294,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -5280,8 +5306,8 @@
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
-          "lon": -96.7,
-          "lat": 40.81
+          "lon": -96.7026,
+          "lat": 40.8136
         },
         "state": "Nebraska",
         "title": "Lincoln, Nebraska",
@@ -5306,8 +5332,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -5318,8 +5344,8 @@
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
-          "lon": -96.7,
-          "lat": 40.81
+          "lon": -96.7026,
+          "lat": 40.8136
         },
         "state": "Nebraska",
         "title": "Lincoln, Nebraska",
@@ -5344,8 +5370,8 @@
         "country": "United States of America",
         "city": "Denver",
         "coordinates": {
-          "lon": -104.99,
-          "lat": 39.73
+          "lon": -104.9903,
+          "lat": 39.7392
         },
         "state": "Colorado",
         "title": "Denver, Colorado",
@@ -5356,8 +5382,8 @@
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
-          "lon": -96.7,
-          "lat": 40.81
+          "lon": -96.7026,
+          "lat": 40.8136
         },
         "state": "Nebraska",
         "title": "Lincoln, Nebraska",
@@ -5382,8 +5408,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -5394,8 +5420,8 @@
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
-          "lon": -96.7,
-          "lat": 40.81
+          "lon": -96.7026,
+          "lat": 40.8136
         },
         "state": "Nebraska",
         "title": "Lincoln, Nebraska",
@@ -5420,8 +5446,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -5432,8 +5458,8 @@
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
-          "lon": -96.7,
-          "lat": 40.81
+          "lon": -96.7026,
+          "lat": 40.8136
         },
         "state": "Nebraska",
         "title": "Lincoln, Nebraska",
@@ -5458,8 +5484,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -5470,8 +5496,8 @@
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
-          "lon": -96.7,
-          "lat": 40.81
+          "lon": -96.7026,
+          "lat": 40.8136
         },
         "state": "Nebraska",
         "title": "Lincoln, Nebraska",
@@ -5496,8 +5522,8 @@
         "country": "United States of America",
         "city": "Bradshaw",
         "coordinates": {
-          "lon": -97.74,
-          "lat": 40.88
+          "lon": -97.7473,
+          "lat": 40.8841
         },
         "state": "Nebraska",
         "title": "Bradshaw, Nebraska",
@@ -5508,8 +5534,8 @@
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
-          "lon": -96.7,
-          "lat": 40.81
+          "lon": -96.7026,
+          "lat": 40.8136
         },
         "state": "Nebraska",
         "title": "Lincoln, Nebraska",
@@ -5534,8 +5560,8 @@
         "country": "United States of America",
         "city": "Phoenix",
         "coordinates": {
-          "lon": -112.07,
-          "lat": 33.44
+          "lon": -112.074,
+          "lat": 33.4484
         },
         "state": "Arizona",
         "title": "Phoenix, Arizona",
@@ -5546,8 +5572,8 @@
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
-          "lon": -96.7,
-          "lat": 40.81
+          "lon": -96.7026,
+          "lat": 40.8136
         },
         "state": "Nebraska",
         "title": "Lincoln, Nebraska",
@@ -5572,8 +5598,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -5584,8 +5610,8 @@
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
-          "lon": -96.7,
-          "lat": 40.81
+          "lon": -96.7026,
+          "lat": 40.8136
         },
         "state": "Nebraska",
         "title": "Lincoln, Nebraska",
@@ -5610,8 +5636,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -5622,8 +5648,8 @@
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
-          "lon": -96.7,
-          "lat": 40.81
+          "lon": -96.7026,
+          "lat": 40.8136
         },
         "state": "Nebraska",
         "title": "Lincoln, Nebraska",
@@ -5648,8 +5674,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -5660,8 +5686,8 @@
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
-          "lon": -96.7,
-          "lat": 40.81
+          "lon": -96.7026,
+          "lat": 40.8136
         },
         "state": "Nebraska",
         "title": "Lincoln, Nebraska",
@@ -5686,8 +5712,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -5698,8 +5724,8 @@
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
-          "lon": -96.7,
-          "lat": 40.81
+          "lon": -96.7026,
+          "lat": 40.8136
         },
         "state": "Nebraska",
         "title": "Lincoln, Nebraska",
@@ -5724,8 +5750,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -5751,8 +5777,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -5778,8 +5804,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -5805,8 +5831,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -5817,8 +5843,8 @@
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
-          "lon": -96.7,
-          "lat": 40.81
+          "lon": -96.7026,
+          "lat": 40.8136
         },
         "state": "Nebraska",
         "title": "Lincoln, Nebraska",
@@ -5843,8 +5869,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -5855,8 +5881,8 @@
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
-          "lon": -96.7,
-          "lat": 40.81
+          "lon": -96.7026,
+          "lat": 40.8136
         },
         "state": "Nebraska",
         "title": "Lincoln, Nebraska",
@@ -5881,8 +5907,8 @@
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
-          "lon": -103.11,
-          "lat": 21.41
+          "lon": -103.1187551,
+          "lat": 21.41242983
         },
         "state": "Zacatecas",
         "title": "Juchipila, Zacatecas, México",
@@ -5893,8 +5919,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -5919,8 +5945,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -5946,8 +5972,8 @@
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
-          "lon": -103.11,
-          "lat": 21.41
+          "lon": -103.1187551,
+          "lat": 21.41242983
         },
         "state": "Zacatecas",
         "title": "Juchipila, Zacatecas, México",
@@ -5958,8 +5984,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -5984,8 +6010,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -5996,8 +6022,8 @@
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
-          "lon": -96.7,
-          "lat": 40.81
+          "lon": -96.7026,
+          "lat": 40.8136
         },
         "state": "Nebraska",
         "title": "Lincoln, Nebraska",
@@ -6022,8 +6048,8 @@
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
-          "lon": -103.11,
-          "lat": 21.41
+          "lon": -103.1187551,
+          "lat": 21.41242983
         },
         "state": "Zacatecas",
         "title": "Juchipila, Zacatecas, México",
@@ -6034,8 +6060,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -6060,8 +6086,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -6072,8 +6098,8 @@
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
-          "lon": -96.7,
-          "lat": 40.81
+          "lon": -96.7026,
+          "lat": 40.8136
         },
         "state": "Nebraska",
         "title": "Lincoln, Nebraska",
@@ -6098,8 +6124,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -6110,8 +6136,8 @@
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
-          "lon": -96.7,
-          "lat": 40.81
+          "lon": -96.7026,
+          "lat": 40.8136
         },
         "state": "Nebraska",
         "title": "Lincoln, Nebraska",
@@ -6136,8 +6162,8 @@
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
-          "lon": -96.7,
-          "lat": 40.81
+          "lon": -96.7026,
+          "lat": 40.8136
         },
         "state": "Nebraska",
         "title": "Lincoln, Nebraska",
@@ -6162,8 +6188,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -6174,8 +6200,8 @@
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
-          "lon": -96.7,
-          "lat": 40.81
+          "lon": -96.7026,
+          "lat": 40.8136
         },
         "state": "Nebraska",
         "title": "Lincoln, Nebraska",
@@ -6200,8 +6226,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -6212,8 +6238,8 @@
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
-          "lon": -96.7,
-          "lat": 40.81
+          "lon": -96.7026,
+          "lat": 40.8136
         },
         "state": "Nebraska",
         "title": "Lincoln, Nebraska",
@@ -6238,8 +6264,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -6250,8 +6276,8 @@
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
-          "lon": -96.7,
-          "lat": 40.81
+          "lon": -96.7026,
+          "lat": 40.8136
         },
         "state": "Nebraska",
         "title": "Lincoln, Nebraska",
@@ -6276,8 +6302,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -6288,8 +6314,8 @@
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
-          "lon": -96.7,
-          "lat": 40.81
+          "lon": -96.7026,
+          "lat": 40.8136
         },
         "state": "Nebraska",
         "title": "Lincoln, Nebraska",
@@ -6314,8 +6340,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -6341,8 +6367,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -6353,8 +6379,8 @@
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
-          "lon": -96.7,
-          "lat": 40.81
+          "lon": -96.7026,
+          "lat": 40.8136
         },
         "state": "Nebraska",
         "title": "Lincoln, Nebraska",
@@ -6379,8 +6405,8 @@
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
-          "lon": -103.11,
-          "lat": 21.41
+          "lon": -103.1187551,
+          "lat": 21.41242983
         },
         "state": "Zacatecas",
         "title": "Juchipila, Zacatecas, México",
@@ -6391,8 +6417,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -6417,8 +6443,8 @@
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
-          "lon": -103.11,
-          "lat": 21.41
+          "lon": -103.1187551,
+          "lat": 21.41242983
         },
         "state": "Zacatecas",
         "title": "Juchipila, Zacatecas, México",
@@ -6429,8 +6455,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -6455,8 +6481,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -6482,8 +6508,8 @@
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
-          "lon": -96.7,
-          "lat": 40.81
+          "lon": -96.7026,
+          "lat": 40.8136
         },
         "state": "Nebraska",
         "title": "Lincoln, Nebraska",
@@ -6509,8 +6535,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -6521,8 +6547,8 @@
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
-          "lon": -96.7,
-          "lat": 40.81
+          "lon": -96.7026,
+          "lat": 40.8136
         },
         "state": "Nebraska",
         "title": "Lincoln, Nebraska",
@@ -6547,8 +6573,8 @@
         "country": "México",
         "city": "México",
         "coordinates": {
-          "lon": -102.55,
-          "lat": 23.63
+          "lon": -102.5528,
+          "lat": 23.6345
         },
         "state": null,
         "title": "México",
@@ -6573,8 +6599,8 @@
         "country": "México",
         "city": "México",
         "coordinates": {
-          "lon": -102.55,
-          "lat": 23.63
+          "lon": -102.5528,
+          "lat": 23.6345
         },
         "state": null,
         "title": "México",
@@ -6599,8 +6625,8 @@
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
-          "lon": -96.7,
-          "lat": 40.81
+          "lon": -96.7026,
+          "lat": 40.8136
         },
         "state": "Nebraska",
         "title": "Lincoln, Nebraska",
@@ -6625,8 +6651,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -6637,8 +6663,8 @@
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
-          "lon": -96.7,
-          "lat": 40.81
+          "lon": -96.7026,
+          "lat": 40.8136
         },
         "state": "Nebraska",
         "title": "Lincoln, Nebraska",
@@ -6663,8 +6689,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -6675,8 +6701,8 @@
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
-          "lon": -96.7,
-          "lat": 40.81
+          "lon": -96.7026,
+          "lat": 40.8136
         },
         "state": "Nebraska",
         "title": "Lincoln, Nebraska",
@@ -6701,8 +6727,8 @@
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
-          "lon": -103.11,
-          "lat": 21.41
+          "lon": -103.1187551,
+          "lat": 21.41242983
         },
         "state": "Zacatecas",
         "title": "Juchipila, Zacatecas, México",
@@ -6713,8 +6739,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -6739,8 +6765,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -6751,8 +6777,8 @@
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
-          "lon": -96.7,
-          "lat": 40.81
+          "lon": -96.7026,
+          "lat": 40.8136
         },
         "state": "Nebraska",
         "title": "Lincoln, Nebraska",
@@ -6777,8 +6803,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -6789,8 +6815,8 @@
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
-          "lon": -96.7,
-          "lat": 40.81
+          "lon": -96.7026,
+          "lat": 40.8136
         },
         "state": "Nebraska",
         "title": "Lincoln, Nebraska",
@@ -6815,8 +6841,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -6827,8 +6853,8 @@
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
-          "lon": -96.7,
-          "lat": 40.81
+          "lon": -96.7026,
+          "lat": 40.8136
         },
         "state": "Nebraska",
         "title": "Lincoln, Nebraska",
@@ -6853,8 +6879,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -6865,8 +6891,8 @@
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
-          "lon": -96.7,
-          "lat": 40.81
+          "lon": -96.7026,
+          "lat": 40.8136
         },
         "state": "Nebraska",
         "title": "Lincoln, Nebraska",
@@ -6891,8 +6917,8 @@
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
-          "lon": -96.7,
-          "lat": 40.81
+          "lon": -96.7026,
+          "lat": 40.8136
         },
         "state": "Nebraska",
         "title": "Lincoln, Nebraska",
@@ -6918,8 +6944,8 @@
         "country": "United States of America",
         "city": "Albuquerque",
         "coordinates": {
-          "lon": -106.65,
-          "lat": 35.08
+          "lon": -106.6504,
+          "lat": 35.0844
         },
         "state": "New Mexico",
         "title": "Albuquerque, New Mexico",
@@ -6946,8 +6972,8 @@
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
-          "lon": -96.7,
-          "lat": 40.81
+          "lon": -96.7026,
+          "lat": 40.8136
         },
         "state": "Nebraska",
         "title": "Lincoln, Nebraska",
@@ -6973,8 +6999,8 @@
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
-          "lon": -96.7,
-          "lat": 40.81
+          "lon": -96.7026,
+          "lat": 40.8136
         },
         "state": "Nebraska",
         "title": "Lincoln, Nebraska",
@@ -6985,8 +7011,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -7011,8 +7037,8 @@
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
-          "lon": -96.7,
-          "lat": 40.81
+          "lon": -96.7026,
+          "lat": 40.8136
         },
         "state": "Nebraska",
         "title": "Lincoln, Nebraska",
@@ -7038,8 +7064,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -7065,8 +7091,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -7077,8 +7103,8 @@
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
-          "lon": -96.7,
-          "lat": 40.81
+          "lon": -96.7026,
+          "lat": 40.8136
         },
         "state": "Nebraska",
         "title": "Lincoln, Nebraska",
@@ -7103,8 +7129,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -7130,8 +7156,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -7142,8 +7168,8 @@
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
-          "lon": -96.7,
-          "lat": 40.81
+          "lon": -96.7026,
+          "lat": 40.8136
         },
         "state": "Nebraska",
         "title": "Lincoln, Nebraska",
@@ -7168,8 +7194,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -7180,8 +7206,8 @@
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
-          "lon": -96.7,
-          "lat": 40.81
+          "lon": -96.7026,
+          "lat": 40.8136
         },
         "state": "Nebraska",
         "title": "Lincoln, Nebraska",
@@ -7206,8 +7232,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -7218,8 +7244,8 @@
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
-          "lon": -96.7,
-          "lat": 40.81
+          "lon": -96.7026,
+          "lat": 40.8136
         },
         "state": "Nebraska",
         "title": "Lincoln, Nebraska",
@@ -7244,8 +7270,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -7256,8 +7282,8 @@
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
-          "lon": -96.7,
-          "lat": 40.81
+          "lon": -96.7026,
+          "lat": 40.8136
         },
         "state": "Nebraska",
         "title": "Lincoln, Nebraska",
@@ -7282,8 +7308,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -7294,8 +7320,8 @@
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
-          "lon": -96.7,
-          "lat": 40.81
+          "lon": -96.7026,
+          "lat": 40.8136
         },
         "state": "Nebraska",
         "title": "Lincoln, Nebraska",
@@ -7320,8 +7346,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -7347,8 +7373,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -7359,8 +7385,8 @@
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
-          "lon": -96.7,
-          "lat": 40.81
+          "lon": -96.7026,
+          "lat": 40.8136
         },
         "state": "Nebraska",
         "title": "Lincoln, Nebraska",
@@ -7385,8 +7411,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -7412,8 +7438,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -7438,8 +7464,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -7465,8 +7491,8 @@
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
-          "lon": -103.11,
-          "lat": 21.41
+          "lon": -103.1187551,
+          "lat": 21.41242983
         },
         "state": "Zacatecas",
         "title": "Juchipila, Zacatecas, México",
@@ -7477,8 +7503,8 @@
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
-          "lon": -96.7,
-          "lat": 40.81
+          "lon": -96.7026,
+          "lat": 40.8136
         },
         "state": "Nebraska",
         "title": "Lincoln, Nebraska",
@@ -7503,8 +7529,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -7515,8 +7541,8 @@
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
-          "lon": -96.7,
-          "lat": 40.81
+          "lon": -96.7026,
+          "lat": 40.8136
         },
         "state": "Nebraska",
         "title": "Lincoln, Nebraska",
@@ -7541,8 +7567,8 @@
         "country": "México",
         "city": "Mexicali",
         "coordinates": {
-          "lon": -115.45,
-          "lat": 32.62
+          "lon": -115.4749784,
+          "lat": 32.64017354
         },
         "state": "Baja California",
         "title": "Mexicali, Baja California, México",
@@ -7553,8 +7579,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -7579,8 +7605,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -7606,8 +7632,8 @@
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
-          "lon": -103.11,
-          "lat": 21.41
+          "lon": -103.1175,
+          "lat": 21.4121
         },
         "state": "Zacatecas",
         "title": "Juchipila, Zacatecas, México",
@@ -7632,8 +7658,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -7644,8 +7670,8 @@
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
-          "lon": -96.7,
-          "lat": 40.81
+          "lon": -96.7026,
+          "lat": 40.8136
         },
         "state": "Nebraska",
         "title": "Lincoln, Nebraska",
@@ -7670,8 +7696,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -7682,8 +7708,8 @@
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
-          "lon": -96.7,
-          "lat": 40.81
+          "lon": -96.7026,
+          "lat": 40.8136
         },
         "state": "Nebraska",
         "title": "Lincoln, Nebraska",
@@ -7708,8 +7734,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -7735,8 +7761,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -7747,8 +7773,8 @@
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
-          "lon": -96.7,
-          "lat": 40.81
+          "lon": -96.7026,
+          "lat": 40.8136
         },
         "state": "Nebraska",
         "title": "Lincoln, Nebraska",
@@ -7773,8 +7799,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -7785,8 +7811,8 @@
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
-          "lon": -96.7,
-          "lat": 40.81
+          "lon": -96.7026,
+          "lat": 40.8136
         },
         "state": "Nebraska",
         "title": "Lincoln, Nebraska",
@@ -7811,8 +7837,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -7838,8 +7864,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -7850,8 +7876,8 @@
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
-          "lon": -96.7,
-          "lat": 40.81
+          "lon": -96.7026,
+          "lat": 40.8136
         },
         "state": "Nebraska",
         "title": "Lincoln, Nebraska",
@@ -7876,8 +7902,8 @@
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
-          "lon": -103.11,
-          "lat": 21.41
+          "lon": -103.1187551,
+          "lat": 21.41242983
         },
         "state": "Zacatecas",
         "title": "Juchipila, Zacatecas, México",
@@ -7888,8 +7914,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -7914,8 +7940,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -7926,8 +7952,8 @@
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
-          "lon": -96.7,
-          "lat": 40.81
+          "lon": -96.7026,
+          "lat": 40.8136
         },
         "state": "Nebraska",
         "title": "Lincoln, Nebraska",
@@ -7952,8 +7978,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -7979,8 +8005,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -7991,8 +8017,8 @@
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
-          "lon": -96.7,
-          "lat": 40.81
+          "lon": -96.7026,
+          "lat": 40.8136
         },
         "state": "Nebraska",
         "title": "Lincoln, Nebraska",
@@ -8017,8 +8043,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -8029,8 +8055,8 @@
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
-          "lon": -96.7,
-          "lat": 40.81
+          "lon": -96.7026,
+          "lat": 40.8136
         },
         "state": "Nebraska",
         "title": "Lincoln, Nebraska",
@@ -8055,8 +8081,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -8067,8 +8093,8 @@
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
-          "lon": -96.7,
-          "lat": 40.81
+          "lon": -96.7026,
+          "lat": 40.8136
         },
         "state": "Nebraska",
         "title": "Lincoln, Nebraska",
@@ -8093,8 +8119,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -8105,8 +8131,8 @@
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
-          "lon": -96.7,
-          "lat": 40.81
+          "lon": -96.7026,
+          "lat": 40.8136
         },
         "state": "Nebraska",
         "title": "Lincoln, Nebraska",
@@ -8147,8 +8173,8 @@
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
-          "lon": -103.11,
-          "lat": 21.41
+          "lon": -103.1187551,
+          "lat": 21.41242983
         },
         "state": "Zacatecas",
         "title": "Juchipila, Zacatecas, México",
@@ -8159,8 +8185,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -8185,8 +8211,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -8197,8 +8223,8 @@
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
-          "lon": -96.7,
-          "lat": 40.81
+          "lon": -96.7026,
+          "lat": 40.8136
         },
         "state": "Nebraska",
         "title": "Lincoln, Nebraska",
@@ -8223,8 +8249,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -8250,8 +8276,8 @@
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
-          "lon": -103.11,
-          "lat": 21.41
+          "lon": -103.1187551,
+          "lat": 21.41242983
         },
         "state": "Zacatecas",
         "title": "Juchipila, Zacatecas, México",
@@ -8262,8 +8288,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -8288,8 +8314,8 @@
         "country": "United States of America",
         "city": "Los Angeles",
         "coordinates": {
-          "lon": -118.24,
-          "lat": 34.05
+          "lon": -118.2437,
+          "lat": 34.0522
         },
         "state": "California",
         "title": "Los Angeles, California",
@@ -8300,8 +8326,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -8326,8 +8352,8 @@
         "country": "United States of America",
         "city": "Billings",
         "coordinates": {
-          "lon": -108.5,
-          "lat": 45.78
+          "lon": -108.5007,
+          "lat": 45.7833
         },
         "state": "Montana",
         "title": "Billings, Montana",
@@ -8338,8 +8364,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -8364,8 +8390,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -8376,8 +8402,8 @@
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
-          "lon": -96.7,
-          "lat": 40.81
+          "lon": -96.7026,
+          "lat": 40.8136
         },
         "state": "Nebraska",
         "title": "Lincoln, Nebraska",
@@ -8418,8 +8444,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -8430,8 +8456,8 @@
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
-          "lon": -96.7,
-          "lat": 40.81
+          "lon": -96.7026,
+          "lat": 40.8136
         },
         "state": "Nebraska",
         "title": "Lincoln, Nebraska",
@@ -8472,8 +8498,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -8484,8 +8510,8 @@
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
-          "lon": -96.7,
-          "lat": 40.81
+          "lon": -96.7026,
+          "lat": 40.8136
         },
         "state": "Nebraska",
         "title": "Lincoln, Nebraska",
@@ -8510,8 +8536,8 @@
         "country": "United States of America",
         "city": "Tucson",
         "coordinates": {
-          "lon": -110.97,
-          "lat": 32.22
+          "lon": -110.9747,
+          "lat": 32.2226
         },
         "state": "Arizona",
         "title": "Tucson, Arizona",
@@ -8522,8 +8548,8 @@
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
-          "lon": -96.7,
-          "lat": 40.81
+          "lon": -96.7026,
+          "lat": 40.8136
         },
         "state": "Nebraska",
         "title": "Lincoln, Nebraska",
@@ -8548,8 +8574,8 @@
         "country": "United States of America",
         "city": "Los Angeles",
         "coordinates": {
-          "lon": -118.24,
-          "lat": 34.05
+          "lon": -118.2437,
+          "lat": 34.0522
         },
         "state": "California",
         "title": "Los Angeles, California",
@@ -8560,8 +8586,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -8586,8 +8612,8 @@
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
-          "lon": -103.11,
-          "lat": 21.41
+          "lon": -103.1187551,
+          "lat": 21.41242983
         },
         "state": "Zacatecas",
         "title": "Juchipila, Zacatecas, México",
@@ -8598,8 +8624,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -8624,8 +8650,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -8651,8 +8677,8 @@
         "country": "México",
         "city": "Cuernavaca",
         "coordinates": {
-          "lon": -99.22,
-          "lat": 18.92
+          "lon": -99.23601916,
+          "lat": 18.91703802
         },
         "state": "Morelos",
         "title": "Cuernavaca, Morelos, México",
@@ -8663,8 +8689,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -8689,8 +8715,8 @@
         "country": "United States of America",
         "city": "Tucson",
         "coordinates": {
-          "lon": -110.97,
-          "lat": 32.22
+          "lon": -110.9747,
+          "lat": 32.2226
         },
         "state": "Arizona",
         "title": "Tucson, Arizona",
@@ -8701,8 +8727,8 @@
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
-          "lon": -96.7,
-          "lat": 40.81
+          "lon": -96.7026,
+          "lat": 40.8136
         },
         "state": "Nebraska",
         "title": "Lincoln, Nebraska",
@@ -8727,8 +8753,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -8739,8 +8765,8 @@
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
-          "lon": -96.7,
-          "lat": 40.81
+          "lon": -96.7026,
+          "lat": 40.8136
         },
         "state": "Nebraska",
         "title": "Lincoln, Nebraska",
@@ -8765,8 +8791,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -8777,8 +8803,8 @@
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
-          "lon": -96.7,
-          "lat": 40.81
+          "lon": -96.7026,
+          "lat": 40.8136
         },
         "state": "Nebraska",
         "title": "Lincoln, Nebraska",
@@ -8803,8 +8829,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -8815,8 +8841,8 @@
         "country": "México",
         "city": "Mexicali",
         "coordinates": {
-          "lon": -115.45,
-          "lat": 32.62
+          "lon": -115.4749784,
+          "lat": 32.64017354
         },
         "state": "Baja California",
         "title": "Mexicali, Baja California, México",
@@ -8841,8 +8867,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -8867,8 +8893,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -8879,8 +8905,8 @@
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
-          "lon": -96.7,
-          "lat": 40.81
+          "lon": -96.7026,
+          "lat": 40.8136
         },
         "state": "Nebraska",
         "title": "Lincoln, Nebraska",
@@ -8905,8 +8931,8 @@
         "country": "United States of America",
         "city": "Albuquerque",
         "coordinates": {
-          "lon": -106.65,
-          "lat": 35.08
+          "lon": -106.6504,
+          "lat": 35.0844
         },
         "state": "New Mexico",
         "title": "Albuquerque, New Mexico",
@@ -8917,8 +8943,8 @@
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
-          "lon": -96.7,
-          "lat": 40.81
+          "lon": -96.7026,
+          "lat": 40.8136
         },
         "state": "Nebraska",
         "title": "Lincoln, Nebraska",
@@ -8943,8 +8969,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -8984,11 +9010,63 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
+        "type": null
+      }
+    ],
+    "category": "Image",
+    "subcategory": "Photograph",
+    "highlight": {
+    }
+  },
+  {
+    "date": null,
+    "identifier": "shan.P155",
+    "title_es_k": "Santos Baros Schubert and unknown woman",
+    "date_display": null,
+    "language": "n/a",
+    "title": "Santos Baros Schubert and unknown woman",
+    "spatial": [
+      {
+        "place_name": null,
+        "country": "United States of America",
+        "city": "Denver",
+        "coordinates": {
+          "lon": -104.9903,
+          "lat": 39.7392
+        },
+        "state": "Colorado",
+        "title": "Denver, Colorado",
+        "type": null
+      }
+    ],
+    "category": "Image",
+    "subcategory": "Photograph",
+    "highlight": {
+    }
+  },
+  {
+    "date": null,
+    "identifier": "shan.P238",
+    "title_es_k": "Sarah and unknown woman",
+    "date_display": null,
+    "language": "n/a",
+    "title": "Sarah and unknown woman",
+    "spatial": [
+      {
+        "place_name": null,
+        "country": "United States of America",
+        "city": "Glendale",
+        "coordinates": {
+          "lon": -118.2551,
+          "lat": 34.1425
+        },
+        "state": "California",
+        "title": "Glendale, California",
         "type": null
       }
     ],
@@ -9010,8 +9088,8 @@
         "country": "United States of America",
         "city": "Palmyra",
         "coordinates": {
-          "lon": -96.38,
-          "lat": 40.7
+          "lon": -96.3899,
+          "lat": 40.7043
         },
         "state": "Nebraska",
         "title": "Palmyra, Nebraska",
@@ -9036,8 +9114,8 @@
         "country": "United States of America",
         "city": "Denver",
         "coordinates": {
-          "lon": -104.99,
-          "lat": 39.73
+          "lon": -104.9903,
+          "lat": 39.7392
         },
         "state": "Colorado",
         "title": "Denver, Colorado",
@@ -9062,8 +9140,8 @@
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
-          "lon": -103.11,
-          "lat": 21.41
+          "lon": -103.1175,
+          "lat": 21.4121
         },
         "state": "Zacatecas",
         "title": "Juchipila, Zacatecas, México",
@@ -9088,7 +9166,7 @@
         "country": "United States of America",
         "city": "Basin",
         "coordinates": {
-          "lon": -108.03,
+          "lon": -108.039,
           "lat": 44.38
         },
         "state": "Wyoming",
@@ -9114,63 +9192,11 @@
         "country": "United States of America",
         "city": "Lompoc",
         "coordinates": {
-          "lon": -120.45,
-          "lat": 34.63
+          "lon": -120.4579,
+          "lat": 34.6392
         },
         "state": "California",
         "title": "Lompoc, California",
-        "type": null
-      }
-    ],
-    "category": "Image",
-    "subcategory": "Photograph",
-    "highlight": {
-    }
-  },
-  {
-    "date": null,
-    "identifier": "shan.P155",
-    "title_es_k": "Santos Baros Schubert and unknown woman",
-    "date_display": null,
-    "language": "n/a",
-    "title": "Santos Baros Schubert and unknown woman",
-    "spatial": [
-      {
-        "place_name": null,
-        "country": "United States of America",
-        "city": "Denver",
-        "coordinates": {
-          "lon": -104.99,
-          "lat": 39.73
-        },
-        "state": "Colorado",
-        "title": "Denver, Colorado",
-        "type": null
-      }
-    ],
-    "category": "Image",
-    "subcategory": "Photograph",
-    "highlight": {
-    }
-  },
-  {
-    "date": null,
-    "identifier": "shan.P238",
-    "title_es_k": "Sarah and unknown woman",
-    "date_display": null,
-    "language": "n/a",
-    "title": "Sarah and unknown woman",
-    "spatial": [
-      {
-        "place_name": null,
-        "country": "United States of America",
-        "city": "Glendale",
-        "coordinates": {
-          "lon": -118.25,
-          "lat": 34.14
-        },
-        "state": "California",
-        "title": "Glendale, California",
         "type": null
       }
     ],
@@ -9207,8 +9233,8 @@
         "country": "United States of America",
         "city": "Hastings",
         "coordinates": {
-          "lon": -98.38,
-          "lat": 40.58
+          "lon": -98.3899,
+          "lat": 40.5863
         },
         "state": "Nebraska",
         "title": "Hastings, Nebraska",
@@ -9233,8 +9259,8 @@
         "country": "México",
         "city": "Guadalajara",
         "coordinates": {
-          "lon": -103.34,
-          "lat": 20.65
+          "lon": -103.3496,
+          "lat": 20.6597
         },
         "state": "Jalisco",
         "title": "Guadalajara, Jalisco, México",
@@ -9259,8 +9285,8 @@
         "country": "United States of America",
         "city": null,
         "coordinates": {
-          "lon": -105.78,
-          "lat": 39.55
+          "lon": -105.7821,
+          "lat": 39.5501
         },
         "state": "Colorado",
         "title": "Colorado",
@@ -9285,8 +9311,8 @@
         "country": "United States of America",
         "city": null,
         "coordinates": {
-          "lon": -105.78,
-          "lat": 39.55
+          "lon": -105.7821,
+          "lat": 39.5501
         },
         "state": "Colorado",
         "title": "Colorado",
@@ -9295,33 +9321,6 @@
     ],
     "category": "Image",
     "subcategory": "Photograph",
-    "highlight": {
-    }
-  },
-  {
-    "date": null,
-    "identifier": "shan.L077",
-    "title_es_k": "Carta de Jesusita Baros Torres a Santos Baros Schubert",
-    "date_display": "",
-    "language": "es",
-    "title": "Letter from Jesusita Baros Torres to Santos Baros Schubert",
-    "spatial": [
-      {
-        "place_name": "Fort Lupton",
-        "country": "United States of America",
-        "city": "Fort Lupton",
-        "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
-        },
-        "state": "Colorado",
-        "title": "Fort Lupton, Colorado",
-        "type": "origin"
-      },
-      null
-    ],
-    "category": "Writing",
-    "subcategory": "Letter",
     "highlight": {
     }
   },
@@ -9338,8 +9337,8 @@
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
-          "lon": -103.11,
-          "lat": 21.41
+          "lon": -103.1187551,
+          "lat": 21.41242983
         },
         "state": "Zacatecas",
         "title": "Juchipila, Zacatecas, México",
@@ -9350,8 +9349,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -9360,6 +9359,33 @@
     ],
     "category": "Writing",
     "subcategory": "Envelope",
+    "highlight": {
+    }
+  },
+  {
+    "date": null,
+    "identifier": "shan.L077",
+    "title_es_k": "Carta de Jesusita Baros Torres a Santos Baros Schubert",
+    "date_display": "",
+    "language": "es",
+    "title": "Letter from Jesusita Baros Torres to Santos Baros Schubert",
+    "spatial": [
+      {
+        "place_name": "Fort Lupton",
+        "country": "United States of America",
+        "city": "Fort Lupton",
+        "coordinates": {
+          "lon": -104.813,
+          "lat": 40.0847
+        },
+        "state": "Colorado",
+        "title": "Fort Lupton, Colorado",
+        "type": "origin"
+      },
+      null
+    ],
+    "category": "Writing",
+    "subcategory": "Letter",
     "highlight": {
     }
   },
@@ -9376,8 +9402,8 @@
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
-          "lon": -103.11,
-          "lat": 21.41
+          "lon": -103.1187551,
+          "lat": 21.41242983
         },
         "state": "Zacatecas",
         "title": "Juchipila, Zacatecas, México",
@@ -9388,8 +9414,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -9414,8 +9440,8 @@
         "country": "México",
         "city": "Guadalajara",
         "coordinates": {
-          "lon": -103.34,
-          "lat": 20.65
+          "lon": -103.347745,
+          "lat": 20.67778988
         },
         "state": "Jalisco",
         "title": "Guadalajara, Jalisco, México",
@@ -9426,8 +9452,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -9467,8 +9493,8 @@
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
-          "lon": -96.7,
-          "lat": 40.81
+          "lon": -96.7026,
+          "lat": 40.8136
         },
         "state": "Nebraska",
         "title": "Lincoln, Nebraska",
@@ -9477,162 +9503,6 @@
     ],
     "category": "Writing",
     "subcategory": "Envelope",
-    "highlight": {
-    }
-  },
-  {
-    "date": null,
-    "identifier": "shan.P102",
-    "title_es_k": "Jesusita Baros Torres, Jess Jesús Baros and Santos Baros Schubert",
-    "date_display": null,
-    "language": "en",
-    "title": "Jesusita Baros Torres, Jess Jesús Baros and Santos Baros Schubert",
-    "spatial": [
-      {
-        "place_name": null,
-        "country": "United States of America",
-        "city": "Denver",
-        "coordinates": {
-          "lon": -104.99,
-          "lat": 39.73
-        },
-        "state": "Colorado",
-        "title": "Denver, Colorado",
-        "type": null
-      }
-    ],
-    "category": "Image",
-    "subcategory": "Photograph",
-    "highlight": {
-    }
-  },
-  {
-    "date": null,
-    "identifier": "shan.P114",
-    "title_es_k": "Santos Baros Schubert; Jess Jesús Baros; Jesusita Baros Torres",
-    "date_display": null,
-    "language": "en",
-    "title": "Santos Baros Schubert; Jess Jesús Baros; Jesusita Baros Torres",
-    "spatial": [
-      {
-        "place_name": null,
-        "country": "United States of America",
-        "city": "Albuquerque",
-        "coordinates": {
-          "lon": -106.65,
-          "lat": 35.08
-        },
-        "state": "New Mexico",
-        "title": "Albuquerque, New Mexico",
-        "type": null
-      }
-    ],
-    "category": "Image",
-    "subcategory": "Photograph",
-    "highlight": {
-    }
-  },
-  {
-    "date": null,
-    "identifier": "shan.P115",
-    "title_es_k": "Santos Baros Schubert and Jess Jesús Baros",
-    "date_display": null,
-    "language": "n/a",
-    "title": "Santos Baros Schubert and Jess Jesús Baros",
-    "spatial": [
-      {
-        "place_name": null,
-        "country": "United States of America",
-        "city": "Albuquerque",
-        "coordinates": {
-          "lon": -106.65,
-          "lat": 35.08
-        },
-        "state": "New Mexico",
-        "title": "Albuquerque, New Mexico",
-        "type": null
-      }
-    ],
-    "category": "Image",
-    "subcategory": "Photograph",
-    "highlight": {
-    }
-  },
-  {
-    "date": null,
-    "identifier": "shan.P123",
-    "title_es_k": "Templo de la H. Matamoros",
-    "date_display": null,
-    "language": "es",
-    "title": "Templo de la H. Matamoros",
-    "spatial": [
-      {
-        "place_name": null,
-        "country": "México",
-        "city": "Matamoros",
-        "coordinates": {
-          "lon": -97.5,
-          "lat": 25.86
-        },
-        "state": "Tamaulipas",
-        "title": "Matamoros, Tamaulipas, México",
-        "type": null
-      }
-    ],
-    "category": "Image",
-    "subcategory": "Photograph",
-    "highlight": {
-    }
-  },
-  {
-    "date": null,
-    "identifier": "shan.P126",
-    "title_es_k": "Helen Baros and Jess Jesús Baros",
-    "date_display": null,
-    "language": "en",
-    "title": "Helen Baros and Jess Jesús Baros",
-    "spatial": [
-      {
-        "place_name": null,
-        "country": "United States of America",
-        "city": null,
-        "coordinates": {
-          "lon": -105.78,
-          "lat": 39.55
-        },
-        "state": "Colorado",
-        "title": "Colorado",
-        "type": null
-      }
-    ],
-    "category": "Image",
-    "subcategory": "Photograph",
-    "highlight": {
-    }
-  },
-  {
-    "date": null,
-    "identifier": "shan.P127",
-    "title_es_k": "Lilian, Santos Baros Schubert, Helen Baros, Jess Jesús Baros and two unknown groomsmen",
-    "date_display": null,
-    "language": "en",
-    "title": "Lilian, Santos Baros Schubert, Helen Baros, Jess Jesús Baros and two unknown groomsmen",
-    "spatial": [
-      {
-        "place_name": null,
-        "country": "United States of America",
-        "city": null,
-        "coordinates": {
-          "lon": -105.78,
-          "lat": 39.55
-        },
-        "state": "Colorado",
-        "title": "Colorado",
-        "type": null
-      }
-    ],
-    "category": "Image",
-    "subcategory": "Photograph",
     "highlight": {
     }
   },
@@ -9649,8 +9519,8 @@
         "country": "United States of America",
         "city": "Colorado Springs",
         "coordinates": {
-          "lon": -104.86,
-          "lat": 38.87
+          "lon": -104.8698,
+          "lat": 38.8784
         },
         "state": "Colorado",
         "title": "Garden of the Gods, Colorado Springs, Colorado",
@@ -9675,11 +9545,167 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
+        "type": null
+      }
+    ],
+    "category": "Image",
+    "subcategory": "Photograph",
+    "highlight": {
+    }
+  },
+  {
+    "date": null,
+    "identifier": "shan.P102",
+    "title_es_k": "Jesusita Baros Torres, Jess Jesús Baros and Santos Baros Schubert",
+    "date_display": null,
+    "language": "en",
+    "title": "Jesusita Baros Torres, Jess Jesús Baros and Santos Baros Schubert",
+    "spatial": [
+      {
+        "place_name": null,
+        "country": "United States of America",
+        "city": "Denver",
+        "coordinates": {
+          "lon": -104.9903,
+          "lat": 39.7392
+        },
+        "state": "Colorado",
+        "title": "Denver, Colorado",
+        "type": null
+      }
+    ],
+    "category": "Image",
+    "subcategory": "Photograph",
+    "highlight": {
+    }
+  },
+  {
+    "date": null,
+    "identifier": "shan.P114",
+    "title_es_k": "Santos Baros Schubert; Jess Jesús Baros; Jesusita Baros Torres",
+    "date_display": null,
+    "language": "en",
+    "title": "Santos Baros Schubert; Jess Jesús Baros; Jesusita Baros Torres",
+    "spatial": [
+      {
+        "place_name": null,
+        "country": "United States of America",
+        "city": "Albuquerque",
+        "coordinates": {
+          "lon": -106.6504,
+          "lat": 35.0844
+        },
+        "state": "New Mexico",
+        "title": "Albuquerque, New Mexico",
+        "type": null
+      }
+    ],
+    "category": "Image",
+    "subcategory": "Photograph",
+    "highlight": {
+    }
+  },
+  {
+    "date": null,
+    "identifier": "shan.P115",
+    "title_es_k": "Santos Baros Schubert and Jess Jesús Baros",
+    "date_display": null,
+    "language": "n/a",
+    "title": "Santos Baros Schubert and Jess Jesús Baros",
+    "spatial": [
+      {
+        "place_name": null,
+        "country": "United States of America",
+        "city": "Albuquerque",
+        "coordinates": {
+          "lon": -106.6504,
+          "lat": 35.0844
+        },
+        "state": "New Mexico",
+        "title": "Albuquerque, New Mexico",
+        "type": null
+      }
+    ],
+    "category": "Image",
+    "subcategory": "Photograph",
+    "highlight": {
+    }
+  },
+  {
+    "date": null,
+    "identifier": "shan.P123",
+    "title_es_k": "Templo de la H. Matamoros",
+    "date_display": null,
+    "language": "es",
+    "title": "Templo de la H. Matamoros",
+    "spatial": [
+      {
+        "place_name": null,
+        "country": "México",
+        "city": "Matamoros",
+        "coordinates": {
+          "lon": -97.5027,
+          "lat": 25.869
+        },
+        "state": "Tamaulipas",
+        "title": "Matamoros, Tamaulipas, México",
+        "type": null
+      }
+    ],
+    "category": "Image",
+    "subcategory": "Photograph",
+    "highlight": {
+    }
+  },
+  {
+    "date": null,
+    "identifier": "shan.P126",
+    "title_es_k": "Helen Baros and Jess Jesús Baros",
+    "date_display": null,
+    "language": "en",
+    "title": "Helen Baros and Jess Jesús Baros",
+    "spatial": [
+      {
+        "place_name": null,
+        "country": "United States of America",
+        "city": null,
+        "coordinates": {
+          "lon": -105.7821,
+          "lat": 39.5501
+        },
+        "state": "Colorado",
+        "title": "Colorado",
+        "type": null
+      }
+    ],
+    "category": "Image",
+    "subcategory": "Photograph",
+    "highlight": {
+    }
+  },
+  {
+    "date": null,
+    "identifier": "shan.P127",
+    "title_es_k": "Lilian, Santos Baros Schubert, Helen Baros, Jess Jesús Baros and two unknown groomsmen",
+    "date_display": null,
+    "language": "en",
+    "title": "Lilian, Santos Baros Schubert, Helen Baros, Jess Jesús Baros and two unknown groomsmen",
+    "spatial": [
+      {
+        "place_name": null,
+        "country": "United States of America",
+        "city": null,
+        "coordinates": {
+          "lon": -105.7821,
+          "lat": 39.5501
+        },
+        "state": "Colorado",
+        "title": "Colorado",
         "type": null
       }
     ],
@@ -9701,8 +9727,8 @@
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
-          "lon": -96.7,
-          "lat": 40.81
+          "lon": -96.7026,
+          "lat": 40.8136
         },
         "state": "Nebraska",
         "title": "Lincoln, Nebraska",
@@ -9728,8 +9754,8 @@
         "country": "United States of America",
         "city": "Longmont",
         "coordinates": {
-          "lon": -105.1,
-          "lat": 40.16
+          "lon": -105.1019,
+          "lat": 40.1672
         },
         "state": "Colorado",
         "title": "Longmont, Colorado",
@@ -9738,32 +9764,6 @@
     ],
     "category": "Writing",
     "subcategory": "Envelope",
-    "highlight": {
-    }
-  },
-  {
-    "date": null,
-    "identifier": "shan.P111",
-    "title_es_k": "José de Jesus Flemate",
-    "date_display": null,
-    "language": "es",
-    "title": "José de Jesus Flemate",
-    "spatial": [
-      {
-        "place_name": null,
-        "country": "México",
-        "city": "Juchipila",
-        "coordinates": {
-          "lon": -103.11,
-          "lat": 21.41
-        },
-        "state": "Zacatecas",
-        "title": "Juchipila, Zacatecas, México",
-        "type": null
-      }
-    ],
-    "category": "Image",
-    "subcategory": "Photograph",
     "highlight": {
     }
   },
@@ -9780,8 +9780,34 @@
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
-          "lon": -103.11,
-          "lat": 21.41
+          "lon": -103.1175,
+          "lat": 21.4121
+        },
+        "state": "Zacatecas",
+        "title": "Juchipila, Zacatecas, México",
+        "type": null
+      }
+    ],
+    "category": "Image",
+    "subcategory": "Photograph",
+    "highlight": {
+    }
+  },
+  {
+    "date": null,
+    "identifier": "shan.P111",
+    "title_es_k": "José de Jesus Flemate",
+    "date_display": null,
+    "language": "es",
+    "title": "José de Jesus Flemate",
+    "spatial": [
+      {
+        "place_name": null,
+        "country": "México",
+        "city": "Juchipila",
+        "coordinates": {
+          "lon": -103.1175,
+          "lat": 21.4121
         },
         "state": "Zacatecas",
         "title": "Juchipila, Zacatecas, México",
@@ -9806,8 +9832,8 @@
         "country": "United States of America",
         "city": "Denver",
         "coordinates": {
-          "lon": -104.99,
-          "lat": 39.73
+          "lon": -104.9903,
+          "lat": 39.7392
         },
         "state": "Colorado",
         "title": "Denver, Colorado",
@@ -9832,8 +9858,8 @@
         "country": "United States of America",
         "city": null,
         "coordinates": {
-          "lon": -87.52,
-          "lat": 38.35
+          "lon": -104.7849,
+          "lat": 38.7457
         },
         "state": "Colorado",
         "title": "Camp Carson, Colorado",
@@ -9858,8 +9884,8 @@
         "country": "United States of America",
         "city": "Denver",
         "coordinates": {
-          "lon": -104.99,
-          "lat": 39.73
+          "lon": -104.9903,
+          "lat": 39.7392
         },
         "state": "Colorado",
         "title": "Denver, Colorado",
@@ -9884,8 +9910,8 @@
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
-          "lon": -103.11,
-          "lat": 21.41
+          "lon": -103.1175,
+          "lat": 21.4121
         },
         "state": "Zacatecas",
         "title": "Juchipila, Zacatecas, México",
@@ -9894,33 +9920,6 @@
     ],
     "category": "Image",
     "subcategory": "Photograph",
-    "highlight": {
-    }
-  },
-  {
-    "date": null,
-    "identifier": "shan.L066",
-    "title_es_k": "Carta de Desconocido a Nemecio Samaniego",
-    "date_display": "",
-    "language": "es",
-    "title": "Letter from Unknown to Nemecio Samaniego",
-    "spatial": [
-      null,
-      {
-        "place_name": null,
-        "country": "México",
-        "city": "Juchipila",
-        "coordinates": {
-          "lon": -103.11,
-          "lat": 21.41
-        },
-        "state": "Zacatecas",
-        "title": "Juchipila, Zacatecas, México",
-        "type": "destination"
-      }
-    ],
-    "category": "Writing",
-    "subcategory": "Letter",
     "highlight": {
     }
   },
@@ -9941,6 +9940,71 @@
   },
   {
     "date": null,
+    "identifier": "shan.L066",
+    "title_es_k": "Carta de Desconocido a Nemecio Samaniego",
+    "date_display": "",
+    "language": "es",
+    "title": "Letter from Unknown to Nemecio Samaniego",
+    "spatial": [
+      null,
+      {
+        "place_name": null,
+        "country": "México",
+        "city": "Juchipila",
+        "coordinates": {
+          "lon": -103.1187551,
+          "lat": 21.41242983
+        },
+        "state": "Zacatecas",
+        "title": "Juchipila, Zacatecas, México",
+        "type": "destination"
+      }
+    ],
+    "category": "Writing",
+    "subcategory": "Letter",
+    "highlight": {
+    }
+  },
+  {
+    "date": null,
+    "identifier": "shan.L020",
+    "title_es_k": "Carta de Guadalupe Flemate a Jesusita Baros Torres",
+    "date_display": "",
+    "language": "es",
+    "title": "Letter from Guadalupe Flemate to Jesusita Baros Torres",
+    "spatial": [
+      {
+        "place_name": null,
+        "country": "México",
+        "city": "Juchipila",
+        "coordinates": {
+          "lon": -103.1187551,
+          "lat": 21.41242983
+        },
+        "state": "Zacatecas",
+        "title": "Juchipila, Zacatecas, México",
+        "type": "origin"
+      },
+      {
+        "place_name": "Fort Lupton",
+        "country": "United States of America",
+        "city": "Fort Lupton",
+        "coordinates": {
+          "lon": -104.813,
+          "lat": 40.0847
+        },
+        "state": "Colorado",
+        "title": "Fort Lupton, Colorado",
+        "type": "destination"
+      }
+    ],
+    "category": "Writing",
+    "subcategory": "Letter",
+    "highlight": {
+    }
+  },
+  {
+    "date": null,
     "identifier": "shan.L010",
     "title_es_k": "Carta de Shone Villanueva a Jesusita Baros Torres",
     "date_display": "",
@@ -9952,8 +10016,8 @@
         "country": "United States of America",
         "city": "Albuquerque",
         "coordinates": {
-          "lon": -106.65,
-          "lat": 35.08
+          "lon": -106.6504,
+          "lat": 35.0844
         },
         "state": "New Mexico",
         "title": "Albuquerque, New Mexico",
@@ -9979,8 +10043,8 @@
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
-          "lon": -103.11,
-          "lat": 21.41
+          "lon": -103.1187551,
+          "lat": 21.41242983
         },
         "state": "Zacatecas",
         "title": "Juchipila, Zacatecas, México",
@@ -9991,8 +10055,8 @@
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
@@ -10001,44 +10065,6 @@
     ],
     "category": "Writing",
     "subcategory": "Envelope",
-    "highlight": {
-    }
-  },
-  {
-    "date": null,
-    "identifier": "shan.L020",
-    "title_es_k": "Carta de Guadalupe Flemate a Jesusita Baros Torres",
-    "date_display": "",
-    "language": "es",
-    "title": "Letter from Guadalupe Flemate to Jesusita Baros Torres",
-    "spatial": [
-      {
-        "place_name": null,
-        "country": "México",
-        "city": "Juchipila",
-        "coordinates": {
-          "lon": -103.11,
-          "lat": 21.41
-        },
-        "state": "Zacatecas",
-        "title": "Juchipila, Zacatecas, México",
-        "type": "origin"
-      },
-      {
-        "place_name": "Fort Lupton",
-        "country": "United States of America",
-        "city": "Fort Lupton",
-        "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
-        },
-        "state": "Colorado",
-        "title": "Fort Lupton, Colorado",
-        "type": "destination"
-      }
-    ],
-    "category": "Writing",
-    "subcategory": "Letter",
     "highlight": {
     }
   },
@@ -10060,39 +10086,53 @@
   },
   {
     "date": null,
-    "identifier": "shan.L012",
-    "title_es_k": "Carta de Patricia Medrano a Jesusita Baros Torres",
-    "date_display": "",
-    "language": "es",
-    "title": "Letter from Patricia Medrano to Jesusita Baros Torres",
+    "identifier": "shan.P001",
+    "title_es_k": "Jesusita Baros Torres",
+    "date_display": null,
+    "language": "en",
+    "title": "Jesusita Baros Torres",
     "spatial": [
-      {
-        "place_name": null,
-        "country": "México",
-        "city": "Juchipila",
-        "coordinates": {
-          "lon": -103.11,
-          "lat": 21.41
-        },
-        "state": "Zacatecas",
-        "title": "Juchipila, Zacatecas, México",
-        "type": "origin"
-      },
       {
         "place_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
-        "type": "destination"
+        "type": null
       }
     ],
-    "category": "Writing",
-    "subcategory": "Letter",
+    "category": "Image",
+    "subcategory": "Photograph",
+    "highlight": {
+    }
+  },
+  {
+    "date": null,
+    "identifier": "shan.P045",
+    "title_es_k": "Mary Muñoz",
+    "date_display": null,
+    "language": "en",
+    "title": "Mary Muñoz",
+    "spatial": [
+      {
+        "place_name": null,
+        "country": "United States of America",
+        "city": "Denver",
+        "coordinates": {
+          "lon": -104.9903,
+          "lat": 39.7392
+        },
+        "state": "Colorado",
+        "title": "Denver, Colorado",
+        "type": null
+      }
+    ],
+    "category": "Image",
+    "subcategory": "Photograph",
     "highlight": {
     }
   },
@@ -10109,8 +10149,8 @@
         "country": "United States of America",
         "city": "Denver",
         "coordinates": {
-          "lon": -104.99,
-          "lat": 39.73
+          "lon": -104.9903,
+          "lat": 39.7392
         },
         "state": "Colorado",
         "title": "Denver, Colorado",
@@ -10135,8 +10175,8 @@
         "country": "United States of America",
         "city": "Albuquerque",
         "coordinates": {
-          "lon": -106.65,
-          "lat": 35.08
+          "lon": -106.6504,
+          "lat": 35.0844
         },
         "state": "New Mexico",
         "title": "Albuquerque, New Mexico",
@@ -10161,8 +10201,8 @@
         "country": "United States of America",
         "city": null,
         "coordinates": {
-          "lon": -105.78,
-          "lat": 39.55
+          "lon": -105.7821,
+          "lat": 39.5501
         },
         "state": "Colorado",
         "title": "Colorado",
@@ -10176,53 +10216,39 @@
   },
   {
     "date": null,
-    "identifier": "shan.P045",
-    "title_es_k": "Mary Muñoz",
-    "date_display": null,
-    "language": "en",
-    "title": "Mary Muñoz",
+    "identifier": "shan.L012",
+    "title_es_k": "Carta de Patricia Medrano a Jesusita Baros Torres",
+    "date_display": "",
+    "language": "es",
+    "title": "Letter from Patricia Medrano to Jesusita Baros Torres",
     "spatial": [
       {
         "place_name": null,
-        "country": "United States of America",
-        "city": "Denver",
+        "country": "México",
+        "city": "Juchipila",
         "coordinates": {
-          "lon": -104.99,
-          "lat": 39.73
+          "lon": -103.1187551,
+          "lat": 21.41242983
         },
-        "state": "Colorado",
-        "title": "Denver, Colorado",
-        "type": null
-      }
-    ],
-    "category": "Image",
-    "subcategory": "Photograph",
-    "highlight": {
-    }
-  },
-  {
-    "date": null,
-    "identifier": "shan.P001",
-    "title_es_k": "Jesusita Baros Torres",
-    "date_display": null,
-    "language": "en",
-    "title": "Jesusita Baros Torres",
-    "spatial": [
+        "state": "Zacatecas",
+        "title": "Juchipila, Zacatecas, México",
+        "type": "origin"
+      },
       {
         "place_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
-          "lon": -104.81,
-          "lat": 40.08
+          "lon": -104.813,
+          "lat": 40.0847
         },
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
-        "type": null
+        "type": "destination"
       }
     ],
-    "category": "Image",
-    "subcategory": "Photograph",
+    "category": "Writing",
+    "subcategory": "Letter",
     "highlight": {
     }
   }
