@@ -8,11 +8,16 @@ default:
   # scrape_endpoint is tacked onto the end of site_url
   scrape_endpoint: content_pages
   scrape_website: true
+  # download location-centric API results which will later
+  # for use with the api_json format to create geoJSON
+  api_request: true
+  api_endpoint: https://cdrhapi.unl.edu/v1/collection/family_letters/items
 development:
   data_base: https://cdrhdev1.unl.edu/media
   es_path: https://cdrhdev1.unl.edu/elastic
   es_index: cdrhapidev-v1
   site_url: https://cdrhdev1.unl.edu/family_letters
+  api_endpoint: https://cdrhdev1.unl.edu/api/v1/collection/family_letters/items
 production:
   es_path: https://cdrhapi.unl.edu/elastic
   es_index: cdrhapi-v1
