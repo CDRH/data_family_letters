@@ -11,13 +11,13 @@
                 <respStmt>
                     <resp>transcription and encoding</resp>
                     <name xml:id="jda">Avelar, Janette D.</name>
-                    <name xml:id="iv001">Velázquez, Isabel</name>
+                    <name>Velázquez, Isabel</name>
                     <name xml:id="sbg">Garcia, Sarita B. </name>
                 </respStmt>
             </titleStmt>
             <editionStmt>
                 <edition>
-                    <date>2015</date>
+                    <date>2019</date>
                 </edition>
             </editionStmt>
             <publicationStmt>
@@ -138,8 +138,9 @@
         </profileDesc>
 
         <revisionDesc>
+            <change when="2019" who="#vnd">Reviewed</change>
             <change when="2015" who="#jda">Initial Encoding</change>
-            <change when="2014" who="#iv002">Transcription</change>
+            <change when="2014" who="#iv">Transcription</change>
 
         </revisionDesc>
     </teiHeader>
@@ -214,6 +215,5 @@
                 </closer>
             </div1>
         </body>
-        <back/>
     </text>
 </TEI>
