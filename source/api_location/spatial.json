@@ -12,8 +12,8 @@
         "country": "México",
         "city": null,
         "coordinates": {
-          "lon": -102.5832,
-          "lat": 22.7709
+          "lon": -102.51327,
+          "lat": 22.75333066
         },
         "state": "Zacatecas",
         "title": "Zacatecas, México",
@@ -38,8 +38,8 @@
         "country": "México",
         "city": "Ecuandureo",
         "coordinates": {
-          "lon": -102.1945,
-          "lat": 20.1615
+          "lon": -102.1946038,
+          "lat": 20.163398137317337
         },
         "state": "Michoacán",
         "title": "Ecuandureo, Michoacán, México",
@@ -141,8 +141,8 @@
         "country": "México",
         "city": "Ecuandureo",
         "coordinates": {
-          "lon": -102.1945,
-          "lat": 20.1615
+          "lon": -102.1946038,
+          "lat": 20.163398137317337
         },
         "state": "Michoacán",
         "title": "Ecuandureo, Michoacán, México",
@@ -167,8 +167,8 @@
         "country": "México",
         "city": "Huapamacato",
         "coordinates": {
-          "lon": -102.0818,
-          "lat": 20.1228
+          "lon": -102.0814848,
+          "lat": 20.12116395
         },
         "state": "Michoacán",
         "title": "Huapamacato, Michoacán, México",
@@ -205,8 +205,8 @@
         "country": "México",
         "city": "Huapamacato",
         "coordinates": {
-          "lon": -102.0818,
-          "lat": 20.1228
+          "lon": -102.0814848,
+          "lat": 20.12116395
         },
         "state": "Michoacán",
         "title": "Huapamacato, Michoacán, México",
@@ -259,8 +259,8 @@
         "country": "México",
         "city": "Huapamacato",
         "coordinates": {
-          "lon": -102.0818,
-          "lat": 20.1228
+          "lon": -102.0814848,
+          "lat": 20.12116395
         },
         "state": "Michoacán",
         "title": "Huapamacato, Michoacán, México",
@@ -297,8 +297,8 @@
         "country": "México",
         "city": "Huapamacato",
         "coordinates": {
-          "lon": -102.0818,
-          "lat": 20.1228
+          "lon": -102.0814848,
+          "lat": 20.12116395
         },
         "state": "Michoacán",
         "title": "Huapamacato, Michoacán, México",
@@ -439,8 +439,8 @@
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
-          "lon": -103.1175,
-          "lat": 21.4121
+          "lon": -103.1187551,
+          "lat": 21.41242983
         },
         "state": "Zacatecas",
         "title": "Juchipila, Zacatecas, México",
@@ -937,8 +937,8 @@
         "country": "México",
         "city": "Calvillo",
         "coordinates": {
-          "lon": -102.7186,
-          "lat": 21.8468
+          "lon": -102.718606,
+          "lat": 21.84712183
         },
         "state": "Aguascalientes",
         "title": "Calvillo, Aguascalientes, México",
@@ -1065,8 +1065,8 @@
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
-          "lon": -103.1175,
-          "lat": 21.4121
+          "lon": -103.1187551,
+          "lat": 21.41242983
         },
         "state": "Zacatecas",
         "title": "Juchipila, Zacatecas, México",
@@ -1103,8 +1103,8 @@
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
-          "lon": -103.1175,
-          "lat": 21.4121
+          "lon": -103.1187551,
+          "lat": 21.41242983
         },
         "state": "Zacatecas",
         "title": "Juchipila, Zacatecas, México",
@@ -1231,8 +1231,8 @@
         "country": "México",
         "city": "Huapamacato",
         "coordinates": {
-          "lon": -102.0818,
-          "lat": 20.1228
+          "lon": -102.0814848,
+          "lat": 20.12116395
         },
         "state": "Michoacán",
         "title": "Huapamacato, Michoacán, México",
@@ -1269,8 +1269,8 @@
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
-          "lon": -103.1175,
-          "lat": 21.4121
+          "lon": -103.1187551,
+          "lat": 21.41242983
         },
         "state": "Zacatecas",
         "title": "Juchipila, Zacatecas, México",
@@ -1383,8 +1383,8 @@
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
-          "lon": -103.1175,
-          "lat": 21.4121
+          "lon": -103.1187551,
+          "lat": 21.41242983
         },
         "state": "Zacatecas",
         "title": "Juchipila, Zacatecas, México",
@@ -1459,8 +1459,8 @@
         "country": "México",
         "city": "Churintzio",
         "coordinates": {
-          "lon": -102.0654,
-          "lat": 20.1503
+          "lon": -102.0657864,
+          "lat": 20.15837329
         },
         "state": "Michoacán",
         "title": "Churintzio, Michoacán, México",
@@ -1535,8 +1535,8 @@
         "country": "México",
         "city": "Churintzio",
         "coordinates": {
-          "lon": -102.0654,
-          "lat": 20.1503
+          "lon": -102.0657864,
+          "lat": 20.15837329
         },
         "state": "Michoacán",
         "title": "Churintzio, Michoacán, México",
@@ -1699,8 +1699,8 @@
         "country": "México",
         "city": "Churintzio",
         "coordinates": {
-          "lon": -102.0654,
-          "lat": 20.1503
+          "lon": -102.0657864,
+          "lat": 20.15837329
         },
         "state": "Michoacán",
         "title": "Churintzio, Michoacán, México",
@@ -1939,13 +1939,13 @@
       {
         "place_name": null,
         "country": "México",
-        "city": "México",
+        "city": "Juchipila",
         "coordinates": {
-          "lon": -102.5528,
-          "lat": 23.6345
+          "lon": -103.1187551,
+          "lat": 21.41242983
         },
-        "state": null,
-        "title": "México",
+        "state": "Zacatecas",
+        "title": "Juchipila, Zacatecas, México",
         "type": null
       }
     ],
@@ -1967,8 +1967,8 @@
         "country": "México",
         "city": "México City",
         "coordinates": {
-          "lon": -99.1332,
-          "lat": 19.4326
+          "lon": -99.13323228,
+          "lat": 19.43276076
         },
         "state": null,
         "title": "México City, México",
@@ -1993,8 +1993,8 @@
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
-          "lon": -103.1175,
-          "lat": 21.4121
+          "lon": -103.1187551,
+          "lat": 21.41242983
         },
         "state": "Zacatecas",
         "title": "Juchipila, Zacatecas, México",
@@ -2031,8 +2031,8 @@
         "country": "México",
         "city": "Mexicali",
         "coordinates": {
-          "lon": -115.4523,
-          "lat": 32.6245
+          "lon": -115.4749784,
+          "lat": 32.64017354
         },
         "state": "Baja California",
         "title": "Mexicali, Baja California, México",
@@ -2107,8 +2107,8 @@
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
-          "lon": -103.1175,
-          "lat": 21.4121
+          "lon": -103.1187551,
+          "lat": 21.41242983
         },
         "state": "Zacatecas",
         "title": "Juchipila, Zacatecas, México",
@@ -2442,8 +2442,8 @@
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
-          "lon": -103.1175,
-          "lat": 21.4121
+          "lon": -103.1187551,
+          "lat": 21.41242983
         },
         "state": "Zacatecas",
         "title": "Juchipila, Zacatecas, México",
@@ -2480,8 +2480,8 @@
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
-          "lon": -103.1175,
-          "lat": 21.4121
+          "lon": -103.1187551,
+          "lat": 21.41242983
         },
         "state": "Zacatecas",
         "title": "Juchipila, Zacatecas, México",
@@ -2570,8 +2570,8 @@
         "country": "México",
         "city": "Huapamacato",
         "coordinates": {
-          "lon": -102.0818,
-          "lat": 20.1228
+          "lon": -102.0814848,
+          "lat": 20.12116395
         },
         "state": "Michoacán",
         "title": "Huapamacato, Michoacán, México",
@@ -2608,8 +2608,8 @@
         "country": "México",
         "city": "Churintzio",
         "coordinates": {
-          "lon": -102.0654,
-          "lat": 20.1503
+          "lon": -102.0657864,
+          "lat": 20.15837329
         },
         "state": "Michoacán",
         "title": "Churintzio, Michoacán, México",
@@ -2774,8 +2774,8 @@
         "country": "México",
         "city": "Huapamacato",
         "coordinates": {
-          "lon": -102.0818,
-          "lat": 20.1228
+          "lon": -102.0814848,
+          "lat": 20.12116395
         },
         "state": "Michoacán",
         "title": "Huapamacato, Michoacán, México",
@@ -2812,8 +2812,8 @@
         "country": "Italy",
         "city": null,
         "coordinates": {
-          "lon": 12.5674,
-          "lat": 41.8719
+          "lon": 14.76072427,
+          "lat": 40.68643877
         },
         "state": null,
         "title": "Italy",
@@ -2838,8 +2838,8 @@
         "country": "France",
         "city": null,
         "coordinates": {
-          "lon": 2.2137,
-          "lat": 46.2276
+          "lon": -0.854997656,
+          "lat": 49.36674089
         },
         "state": null,
         "title": "France",
@@ -3214,8 +3214,8 @@
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
-          "lon": -103.1175,
-          "lat": 21.4121
+          "lon": -103.1187551,
+          "lat": 21.41242983
         },
         "state": "Zacatecas",
         "title": "Juchipila, Zacatecas, México",
@@ -3548,8 +3548,8 @@
         "country": "México",
         "city": "Huapamacato",
         "coordinates": {
-          "lon": -102.0818,
-          "lat": 20.1228
+          "lon": -102.0814848,
+          "lat": 20.12116395
         },
         "state": "Michoacán",
         "title": "Huapamacato, Michoacán, México",
@@ -4260,8 +4260,8 @@
         "country": "México",
         "city": "Mexicali",
         "coordinates": {
-          "lon": -115.4523,
-          "lat": 32.6245
+          "lon": -115.4749784,
+          "lat": 32.64017354
         },
         "state": "Baja California",
         "title": "Mexicali, Baja California, México",
@@ -4336,8 +4336,8 @@
         "country": "México",
         "city": "Churintzio",
         "coordinates": {
-          "lon": -102.0654,
-          "lat": 20.1503
+          "lon": -102.0657864,
+          "lat": 20.15837329
         },
         "state": "Michoacán",
         "title": "Churintzio, Michoacán, México",
@@ -4374,8 +4374,8 @@
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
-          "lon": -103.1175,
-          "lat": 21.4121
+          "lon": -103.1187551,
+          "lat": 21.41242983
         },
         "state": "Zacatecas",
         "title": "Juchipila, Zacatecas, México",
@@ -4412,8 +4412,8 @@
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
-          "lon": -103.1175,
-          "lat": 21.4121
+          "lon": -103.1187551,
+          "lat": 21.41242983
         },
         "state": "Zacatecas",
         "title": "Juchipila, Zacatecas, México",
@@ -4466,8 +4466,8 @@
         "country": "México",
         "city": "Churintzio",
         "coordinates": {
-          "lon": -102.0654,
-          "lat": 20.1503
+          "lon": -102.0657864,
+          "lat": 20.15837329
         },
         "state": "Michoacán",
         "title": "Churintzio, Michoacán, México",
@@ -4542,8 +4542,8 @@
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
-          "lon": -103.1175,
-          "lat": 21.4121
+          "lon": -103.1187551,
+          "lat": 21.41242983
         },
         "state": "Zacatecas",
         "title": "Juchipila, Zacatecas, México",
@@ -4694,8 +4694,8 @@
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
-          "lon": -103.1175,
-          "lat": 21.4121
+          "lon": -103.1187551,
+          "lat": 21.41242983
         },
         "state": "Zacatecas",
         "title": "Juchipila, Zacatecas, México",
@@ -4746,21 +4746,6 @@
     }
   },
   {
-    "date": "1953-10-01",
-    "identifier": "shan.D004",
-    "title_es_k": "Notas manuscritas para el examen de ciudadanía de Jesusita Baros Torres",
-    "date_display": "October 1953",
-    "language": "es",
-    "title": "Jesusita Baros Torres' handwritten notes for citizenship exam",
-    "spatial": [
-
-    ],
-    "category": "Writing",
-    "subcategory": "Document",
-    "highlight": {
-    }
-  },
-  {
     "date": "1953-12-01",
     "identifier": "shan.P067",
     "title_es_k": "William D. Schubert, Pamela L. Schubert and Robert S. Schubert",
@@ -4799,8 +4784,8 @@
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
-          "lon": -103.1175,
-          "lat": 21.4121
+          "lon": -103.1187551,
+          "lat": 21.41242983
         },
         "state": "Zacatecas",
         "title": "Juchipila, Zacatecas, México",
@@ -4852,8 +4837,8 @@
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
-          "lon": -103.1175,
-          "lat": 21.4121
+          "lon": -103.1187551,
+          "lat": 21.41242983
         },
         "state": "Zacatecas",
         "title": "Juchipila, Zacatecas, México",
@@ -4890,8 +4875,8 @@
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
-          "lon": -103.1175,
-          "lat": 21.4121
+          "lon": -103.1187551,
+          "lat": 21.41242983
         },
         "state": "Zacatecas",
         "title": "Juchipila, Zacatecas, México",
@@ -4928,8 +4913,8 @@
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
-          "lon": -103.1175,
-          "lat": 21.4121
+          "lon": -103.1187551,
+          "lat": 21.41242983
         },
         "state": "Zacatecas",
         "title": "Juchipila, Zacatecas, México",
@@ -5020,8 +5005,8 @@
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
-          "lon": -103.1175,
-          "lat": 21.4121
+          "lon": -103.1187551,
+          "lat": 21.41242983
         },
         "state": "Zacatecas",
         "title": "Juchipila, Zacatecas, México",
@@ -5073,8 +5058,8 @@
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
-          "lon": -103.1175,
-          "lat": 21.4121
+          "lon": -103.1187551,
+          "lat": 21.41242983
         },
         "state": "Zacatecas",
         "title": "Juchipila, Zacatecas, México",
@@ -5218,8 +5203,8 @@
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
-          "lon": -103.1175,
-          "lat": 21.4121
+          "lon": -103.1187551,
+          "lat": 21.41242983
         },
         "state": "Zacatecas",
         "title": "Juchipila, Zacatecas, México",
@@ -5256,8 +5241,8 @@
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
-          "lon": -103.1175,
-          "lat": 21.4121
+          "lon": -103.1187551,
+          "lat": 21.41242983
         },
         "state": "Zacatecas",
         "title": "Juchipila, Zacatecas, México",
@@ -5907,8 +5892,8 @@
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
-          "lon": -103.1175,
-          "lat": 21.4121
+          "lon": -103.1187551,
+          "lat": 21.41242983
         },
         "state": "Zacatecas",
         "title": "Juchipila, Zacatecas, México",
@@ -5972,8 +5957,8 @@
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
-          "lon": -103.1175,
-          "lat": 21.4121
+          "lon": -103.1187551,
+          "lat": 21.41242983
         },
         "state": "Zacatecas",
         "title": "Juchipila, Zacatecas, México",
@@ -6048,8 +6033,8 @@
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
-          "lon": -103.1175,
-          "lat": 21.4121
+          "lon": -103.1187551,
+          "lat": 21.41242983
         },
         "state": "Zacatecas",
         "title": "Juchipila, Zacatecas, México",
@@ -6405,8 +6390,8 @@
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
-          "lon": -103.1175,
-          "lat": 21.4121
+          "lon": -103.1187551,
+          "lat": 21.41242983
         },
         "state": "Zacatecas",
         "title": "Juchipila, Zacatecas, México",
@@ -6443,8 +6428,8 @@
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
-          "lon": -103.1175,
-          "lat": 21.4121
+          "lon": -103.1187551,
+          "lat": 21.41242983
         },
         "state": "Zacatecas",
         "title": "Juchipila, Zacatecas, México",
@@ -6571,13 +6556,13 @@
       {
         "place_name": null,
         "country": "México",
-        "city": "México",
+        "city": "Juchipila",
         "coordinates": {
-          "lon": -102.5528,
-          "lat": 23.6345
+          "lon": -103.1187551,
+          "lat": 21.41242983
         },
-        "state": null,
-        "title": "México",
+        "state": "Zacatecas",
+        "title": "Juchipila, Zacatecas, México",
         "type": null
       }
     ],
@@ -6727,8 +6712,8 @@
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
-          "lon": -103.1175,
-          "lat": 21.4121
+          "lon": -103.1187551,
+          "lat": 21.41242983
         },
         "state": "Zacatecas",
         "title": "Juchipila, Zacatecas, México",
@@ -7491,8 +7476,8 @@
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
-          "lon": -103.1175,
-          "lat": 21.4121
+          "lon": -103.1187551,
+          "lat": 21.41242983
         },
         "state": "Zacatecas",
         "title": "Juchipila, Zacatecas, México",
@@ -7567,8 +7552,8 @@
         "country": "México",
         "city": "Mexicali",
         "coordinates": {
-          "lon": -115.4523,
-          "lat": 32.6245
+          "lon": -115.4749784,
+          "lat": 32.64017354
         },
         "state": "Baja California",
         "title": "Mexicali, Baja California, México",
@@ -7632,8 +7617,8 @@
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
-          "lon": -103.1175,
-          "lat": 21.4121
+          "lon": -103.1187551,
+          "lat": 21.41242983
         },
         "state": "Zacatecas",
         "title": "Juchipila, Zacatecas, México",
@@ -7902,8 +7887,8 @@
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
-          "lon": -103.1175,
-          "lat": 21.4121
+          "lon": -103.1187551,
+          "lat": 21.41242983
         },
         "state": "Zacatecas",
         "title": "Juchipila, Zacatecas, México",
@@ -8173,8 +8158,8 @@
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
-          "lon": -103.1175,
-          "lat": 21.4121
+          "lon": -103.1187551,
+          "lat": 21.41242983
         },
         "state": "Zacatecas",
         "title": "Juchipila, Zacatecas, México",
@@ -8276,8 +8261,8 @@
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
-          "lon": -103.1175,
-          "lat": 21.4121
+          "lon": -103.1187551,
+          "lat": 21.41242983
         },
         "state": "Zacatecas",
         "title": "Juchipila, Zacatecas, México",
@@ -8612,8 +8597,8 @@
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
-          "lon": -103.1175,
-          "lat": 21.4121
+          "lon": -103.1187551,
+          "lat": 21.41242983
         },
         "state": "Zacatecas",
         "title": "Juchipila, Zacatecas, México",
@@ -8677,8 +8662,8 @@
         "country": "México",
         "city": "Cuernavaca",
         "coordinates": {
-          "lon": -99.2216,
-          "lat": 18.9242
+          "lon": -99.23601916,
+          "lat": 18.91703802
         },
         "state": "Morelos",
         "title": "Cuernavaca, Morelos, México",
@@ -8841,8 +8826,8 @@
         "country": "México",
         "city": "Mexicali",
         "coordinates": {
-          "lon": -115.4523,
-          "lat": 32.6245
+          "lon": -115.4749784,
+          "lat": 32.64017354
         },
         "state": "Baja California",
         "title": "Mexicali, Baja California, México",
@@ -9051,22 +9036,22 @@
   },
   {
     "date": null,
-    "identifier": "shan.P109",
-    "title_es_k": "Patricia Medrano, Guadalupe Flemate, Candelaria Flemate and Mercedes Flemate",
+    "identifier": "shan.P118",
+    "title_es_k": "Unknown migrant worker and children",
     "date_display": null,
-    "language": "es",
-    "title": "Patricia Medrano, Guadalupe Flemate, Candelaria Flemate and Mercedes Flemate",
+    "language": "en",
+    "title": "Unknown migrant worker and children",
     "spatial": [
       {
         "place_name": null,
-        "country": "México",
-        "city": "Juchipila",
+        "country": "United States of America",
+        "city": "Basin",
         "coordinates": {
-          "lon": -103.1175,
-          "lat": 21.4121
+          "lon": -108.039,
+          "lat": 44.38
         },
-        "state": "Zacatecas",
-        "title": "Juchipila, Zacatecas, México",
+        "state": "Wyoming",
+        "title": "Basin, Wyoming",
         "type": null
       }
     ],
@@ -9129,22 +9114,63 @@
   },
   {
     "date": null,
-    "identifier": "shan.P118",
-    "title_es_k": "Unknown migrant worker and children",
+    "identifier": "shan.P109",
+    "title_es_k": "Patricia Medrano, Guadalupe Flemate, Candelaria Flemate and Mercedes Flemate",
     "date_display": null,
-    "language": "en",
-    "title": "Unknown migrant worker and children",
+    "language": "es",
+    "title": "Patricia Medrano, Guadalupe Flemate, Candelaria Flemate and Mercedes Flemate",
+    "spatial": [
+      {
+        "place_name": null,
+        "country": "México",
+        "city": "Juchipila",
+        "coordinates": {
+          "lon": -103.1187551,
+          "lat": 21.41242983
+        },
+        "state": "Zacatecas",
+        "title": "Juchipila, Zacatecas, México",
+        "type": null
+      }
+    ],
+    "category": "Image",
+    "subcategory": "Photograph",
+    "highlight": {
+    }
+  },
+  {
+    "date": null,
+    "identifier": "shan.L195",
+    "title_es_k": "Nota de Jesusita Baros Torres",
+    "date_display": "",
+    "language": "es",
+    "title": "Note from Jesusita Baros Torres",
+    "spatial": [
+      null
+    ],
+    "category": "Writing",
+    "subcategory": "Document",
+    "highlight": {
+    }
+  },
+  {
+    "date": null,
+    "identifier": "shan.P238",
+    "title_es_k": "Sarah and unknown woman",
+    "date_display": null,
+    "language": "n/a",
+    "title": "Sarah and unknown woman",
     "spatial": [
       {
         "place_name": null,
         "country": "United States of America",
-        "city": "Basin",
+        "city": "Glendale",
         "coordinates": {
-          "lon": -108.039,
-          "lat": 44.38
+          "lon": -118.2551,
+          "lat": 34.1425
         },
-        "state": "Wyoming",
-        "title": "Basin, Wyoming",
+        "state": "California",
+        "title": "Glendale, California",
         "type": null
       }
     ],
@@ -9181,22 +9207,22 @@
   },
   {
     "date": null,
-    "identifier": "shan.P238",
-    "title_es_k": "Sarah and unknown woman",
+    "identifier": "shan.P084",
+    "title_es_k": "Elizabeth J. Shanahan, Rodney Schubert, Gwendoly Schubert and Robert S. Schubert",
     "date_display": null,
     "language": "n/a",
-    "title": "Sarah and unknown woman",
+    "title": "Elizabeth J. Shanahan, Rodney Schubert, Gwendoly Schubert and Robert S. Schubert",
     "spatial": [
       {
         "place_name": null,
         "country": "United States of America",
-        "city": "Glendale",
+        "city": "Hastings",
         "coordinates": {
-          "lon": -118.2551,
-          "lat": 34.1425
+          "lon": -98.3899,
+          "lat": 40.5863
         },
-        "state": "California",
-        "title": "Glendale, California",
+        "state": "Nebraska",
+        "title": "Hastings, Nebraska",
         "type": null
       }
     ],
@@ -9207,16 +9233,143 @@
   },
   {
     "date": null,
-    "identifier": "shan.L195",
-    "title_es_k": "Nota de Jesusita Baros Torres",
-    "date_display": "",
-    "language": "es",
-    "title": "Note from Jesusita Baros Torres",
+    "identifier": "shan.P092",
+    "title_es_k": "Unknown women in China Poblana Costumes",
+    "date_display": null,
+    "language": "en",
+    "title": "Unknown women in China Poblana Costumes",
     "spatial": [
-      null
+      {
+        "place_name": null,
+        "country": "México",
+        "city": "Guadalajara",
+        "coordinates": {
+          "lon": -103.347745,
+          "lat": 20.67778988
+        },
+        "state": "Jalisco",
+        "title": "Guadalajara, Jalisco, México",
+        "type": null
+      }
+    ],
+    "category": "Image",
+    "subcategory": "Photograph",
+    "highlight": {
+    }
+  },
+  {
+    "date": null,
+    "identifier": "shan.P125",
+    "title_es_k": "Santos Baros Schubert, Helen Baros and Lilian",
+    "date_display": null,
+    "language": "en",
+    "title": "Santos Baros Schubert, Helen Baros and Lilian",
+    "spatial": [
+      {
+        "place_name": null,
+        "country": "United States of America",
+        "city": null,
+        "coordinates": {
+          "lon": -105.7821,
+          "lat": 39.5501
+        },
+        "state": "Colorado",
+        "title": "Colorado",
+        "type": null
+      }
+    ],
+    "category": "Image",
+    "subcategory": "Photograph",
+    "highlight": {
+    }
+  },
+  {
+    "date": null,
+    "identifier": "shan.P234",
+    "title_es_k": "Jesusita Baros Torres, Jess Jesús Baros and Santos Baros Schubert",
+    "date_display": null,
+    "language": "n/a",
+    "title": "Jesusita Baros Torres, Jess Jesús Baros and Santos Baros Schubert",
+    "spatial": [
+      {
+        "place_name": null,
+        "country": "United States of America",
+        "city": null,
+        "coordinates": {
+          "lon": -105.7821,
+          "lat": 39.5501
+        },
+        "state": "Colorado",
+        "title": "Colorado",
+        "type": null
+      }
+    ],
+    "category": "Image",
+    "subcategory": "Photograph",
+    "highlight": {
+    }
+  },
+  {
+    "date": null,
+    "identifier": "shan.L178",
+    "title_es_k": "Sobre de Nemecio Samaniego a Jesusita Baros Torres",
+    "date_display": "",
+    "language": null,
+    "title": "Envelope from Nemecio Samaniego to Jesusita Baros Torres",
+    "spatial": [
+      {
+        "place_name": null,
+        "country": "México",
+        "city": "Juchipila",
+        "coordinates": {
+          "lon": -103.1187551,
+          "lat": 21.41242983
+        },
+        "state": "Zacatecas",
+        "title": "Juchipila, Zacatecas, México",
+        "type": "origin"
+      },
+      {
+        "place_name": "Fort Lupton",
+        "country": "United States of America",
+        "city": "Fort Lupton",
+        "coordinates": {
+          "lon": -104.813,
+          "lat": 40.0847
+        },
+        "state": "Colorado",
+        "title": "Fort Lupton, Colorado",
+        "type": "destination"
+      }
     ],
     "category": "Writing",
-    "subcategory": "Document",
+    "subcategory": "Envelope",
+    "highlight": {
+    }
+  },
+  {
+    "date": null,
+    "identifier": "shan.L123",
+    "title_es_k": "Sobre de William F. Schubert y Santos Baros Schubert",
+    "date_display": "",
+    "language": null,
+    "title": "Envelope from William F. Schubert and Santos Baros Schubert",
+    "spatial": [
+      {
+        "place_name": null,
+        "country": "United States of America",
+        "city": "Lincoln",
+        "coordinates": {
+          "lon": -96.7026,
+          "lat": 40.8136
+        },
+        "state": "Nebraska",
+        "title": "Lincoln, Nebraska",
+        "type": "origin"
+      }
+    ],
+    "category": "Writing",
+    "subcategory": "Envelope",
     "highlight": {
     }
   },
@@ -9260,8 +9413,8 @@
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
-          "lon": -103.1175,
-          "lat": 21.4121
+          "lon": -103.1187551,
+          "lat": 21.41242983
         },
         "state": "Zacatecas",
         "title": "Juchipila, Zacatecas, México",
@@ -9313,8 +9466,8 @@
         "country": "México",
         "city": "Guadalajara",
         "coordinates": {
-          "lon": -103.3496,
-          "lat": 20.6597
+          "lon": -103.347745,
+          "lat": 20.67778988
         },
         "state": "Jalisco",
         "title": "Guadalajara, Jalisco, México",
@@ -9335,226 +9488,6 @@
     ],
     "category": "Writing",
     "subcategory": "Envelope",
-    "highlight": {
-    }
-  },
-  {
-    "date": null,
-    "identifier": "shan.P234",
-    "title_es_k": "Jesusita Baros Torres, Jess Jesús Baros and Santos Baros Schubert",
-    "date_display": null,
-    "language": "n/a",
-    "title": "Jesusita Baros Torres, Jess Jesús Baros and Santos Baros Schubert",
-    "spatial": [
-      {
-        "place_name": null,
-        "country": "United States of America",
-        "city": null,
-        "coordinates": {
-          "lon": -105.7821,
-          "lat": 39.5501
-        },
-        "state": "Colorado",
-        "title": "Colorado",
-        "type": null
-      }
-    ],
-    "category": "Image",
-    "subcategory": "Photograph",
-    "highlight": {
-    }
-  },
-  {
-    "date": null,
-    "identifier": "shan.L123",
-    "title_es_k": "Sobre de William F. Schubert y Santos Baros Schubert",
-    "date_display": "",
-    "language": null,
-    "title": "Envelope from William F. Schubert and Santos Baros Schubert",
-    "spatial": [
-      {
-        "place_name": null,
-        "country": "United States of America",
-        "city": "Lincoln",
-        "coordinates": {
-          "lon": -96.7026,
-          "lat": 40.8136
-        },
-        "state": "Nebraska",
-        "title": "Lincoln, Nebraska",
-        "type": "origin"
-      }
-    ],
-    "category": "Writing",
-    "subcategory": "Envelope",
-    "highlight": {
-    }
-  },
-  {
-    "date": null,
-    "identifier": "shan.L178",
-    "title_es_k": "Sobre de Nemecio Samaniego a Jesusita Baros Torres",
-    "date_display": "",
-    "language": null,
-    "title": "Envelope from Nemecio Samaniego to Jesusita Baros Torres",
-    "spatial": [
-      {
-        "place_name": null,
-        "country": "México",
-        "city": "Juchipila",
-        "coordinates": {
-          "lon": -103.1175,
-          "lat": 21.4121
-        },
-        "state": "Zacatecas",
-        "title": "Juchipila, Zacatecas, México",
-        "type": "origin"
-      },
-      {
-        "place_name": "Fort Lupton",
-        "country": "United States of America",
-        "city": "Fort Lupton",
-        "coordinates": {
-          "lon": -104.813,
-          "lat": 40.0847
-        },
-        "state": "Colorado",
-        "title": "Fort Lupton, Colorado",
-        "type": "destination"
-      }
-    ],
-    "category": "Writing",
-    "subcategory": "Envelope",
-    "highlight": {
-    }
-  },
-  {
-    "date": null,
-    "identifier": "shan.P084",
-    "title_es_k": "Elizabeth J. Shanahan, Rodney Schubert, Gwendoly Schubert and Robert S. Schubert",
-    "date_display": null,
-    "language": "n/a",
-    "title": "Elizabeth J. Shanahan, Rodney Schubert, Gwendoly Schubert and Robert S. Schubert",
-    "spatial": [
-      {
-        "place_name": null,
-        "country": "United States of America",
-        "city": "Hastings",
-        "coordinates": {
-          "lon": -98.3899,
-          "lat": 40.5863
-        },
-        "state": "Nebraska",
-        "title": "Hastings, Nebraska",
-        "type": null
-      }
-    ],
-    "category": "Image",
-    "subcategory": "Photograph",
-    "highlight": {
-    }
-  },
-  {
-    "date": null,
-    "identifier": "shan.P092",
-    "title_es_k": "Unknown women in China Poblana Costumes",
-    "date_display": null,
-    "language": "en",
-    "title": "Unknown women in China Poblana Costumes",
-    "spatial": [
-      {
-        "place_name": null,
-        "country": "México",
-        "city": "Guadalajara",
-        "coordinates": {
-          "lon": -103.3496,
-          "lat": 20.6597
-        },
-        "state": "Jalisco",
-        "title": "Guadalajara, Jalisco, México",
-        "type": null
-      }
-    ],
-    "category": "Image",
-    "subcategory": "Photograph",
-    "highlight": {
-    }
-  },
-  {
-    "date": null,
-    "identifier": "shan.P125",
-    "title_es_k": "Santos Baros Schubert, Helen Baros and Lilian",
-    "date_display": null,
-    "language": "en",
-    "title": "Santos Baros Schubert, Helen Baros and Lilian",
-    "spatial": [
-      {
-        "place_name": null,
-        "country": "United States of America",
-        "city": null,
-        "coordinates": {
-          "lon": -105.7821,
-          "lat": 39.5501
-        },
-        "state": "Colorado",
-        "title": "Colorado",
-        "type": null
-      }
-    ],
-    "category": "Image",
-    "subcategory": "Photograph",
-    "highlight": {
-    }
-  },
-  {
-    "date": null,
-    "identifier": "shan.P082",
-    "title_es_k": "William F. Schubert, William D. Schubert and Santos Baros Schubert",
-    "date_display": null,
-    "language": "en",
-    "title": "William F. Schubert, William D. Schubert and Santos Baros Schubert",
-    "spatial": [
-      {
-        "place_name": "Garden of the Gods",
-        "country": "United States of America",
-        "city": "Colorado Springs",
-        "coordinates": {
-          "lon": -104.8698,
-          "lat": 38.8784
-        },
-        "state": "Colorado",
-        "title": "Garden of the Gods, Colorado Springs, Colorado",
-        "type": null
-      }
-    ],
-    "category": "Image",
-    "subcategory": "Photograph",
-    "highlight": {
-    }
-  },
-  {
-    "date": null,
-    "identifier": "shan.P086",
-    "title_es_k": "Elizabeth J. Shanahan and Jerry Baros",
-    "date_display": null,
-    "language": "n/a",
-    "title": "Elizabeth J. Shanahan and Jerry Baros",
-    "spatial": [
-      {
-        "place_name": "Fort Lupton",
-        "country": "United States of America",
-        "city": "Fort Lupton",
-        "coordinates": {
-          "lon": -104.813,
-          "lat": 40.0847
-        },
-        "state": "Colorado",
-        "title": "Fort Lupton, Colorado",
-        "type": null
-      }
-    ],
-    "category": "Image",
-    "subcategory": "Photograph",
     "highlight": {
     }
   },
@@ -9649,8 +9582,8 @@
         "country": "México",
         "city": "Matamoros",
         "coordinates": {
-          "lon": -97.5027,
-          "lat": 25.869
+          "lon": -97.50458683,
+          "lat": 25.88316978
         },
         "state": "Tamaulipas",
         "title": "Matamoros, Tamaulipas, México",
@@ -9716,6 +9649,58 @@
   },
   {
     "date": null,
+    "identifier": "shan.P082",
+    "title_es_k": "William F. Schubert, William D. Schubert and Santos Baros Schubert",
+    "date_display": null,
+    "language": "en",
+    "title": "William F. Schubert, William D. Schubert and Santos Baros Schubert",
+    "spatial": [
+      {
+        "place_name": "Garden of the Gods",
+        "country": "United States of America",
+        "city": "Colorado Springs",
+        "coordinates": {
+          "lon": -104.8698,
+          "lat": 38.8784
+        },
+        "state": "Colorado",
+        "title": "Garden of the Gods, Colorado Springs, Colorado",
+        "type": null
+      }
+    ],
+    "category": "Image",
+    "subcategory": "Photograph",
+    "highlight": {
+    }
+  },
+  {
+    "date": null,
+    "identifier": "shan.P086",
+    "title_es_k": "Elizabeth J. Shanahan and Jerry Baros",
+    "date_display": null,
+    "language": "n/a",
+    "title": "Elizabeth J. Shanahan and Jerry Baros",
+    "spatial": [
+      {
+        "place_name": "Fort Lupton",
+        "country": "United States of America",
+        "city": "Fort Lupton",
+        "coordinates": {
+          "lon": -104.813,
+          "lat": 40.0847
+        },
+        "state": "Colorado",
+        "title": "Fort Lupton, Colorado",
+        "type": null
+      }
+    ],
+    "category": "Image",
+    "subcategory": "Photograph",
+    "highlight": {
+    }
+  },
+  {
+    "date": null,
     "identifier": "shan.P239",
     "title_es_k": "Santos Baros Schubert, William D. Schubert and Roger Dale Pearcy",
     "date_display": null,
@@ -9769,44 +9754,6 @@
   },
   {
     "date": null,
-    "identifier": "shan.L020",
-    "title_es_k": "Carta de Guadalupe Flemate a Jesusita Baros Torres",
-    "date_display": "",
-    "language": "es",
-    "title": "Letter from Guadalupe Flemate to Jesusita Baros Torres",
-    "spatial": [
-      {
-        "place_name": null,
-        "country": "México",
-        "city": "Juchipila",
-        "coordinates": {
-          "lon": -103.1175,
-          "lat": 21.4121
-        },
-        "state": "Zacatecas",
-        "title": "Juchipila, Zacatecas, México",
-        "type": "origin"
-      },
-      {
-        "place_name": "Fort Lupton",
-        "country": "United States of America",
-        "city": "Fort Lupton",
-        "coordinates": {
-          "lon": -104.813,
-          "lat": 40.0847
-        },
-        "state": "Colorado",
-        "title": "Fort Lupton, Colorado",
-        "type": "destination"
-      }
-    ],
-    "category": "Writing",
-    "subcategory": "Letter",
-    "highlight": {
-    }
-  },
-  {
-    "date": null,
     "identifier": "shan.P099",
     "title_es_k": "Guadalupe Flemate and an unknown woman",
     "date_display": null,
@@ -9818,8 +9765,8 @@
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
-          "lon": -103.1175,
-          "lat": 21.4121
+          "lon": -103.1187551,
+          "lat": 21.41242983
         },
         "state": "Zacatecas",
         "title": "Juchipila, Zacatecas, México",
@@ -9844,8 +9791,8 @@
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
-          "lon": -103.1175,
-          "lat": 21.4121
+          "lon": -103.1187551,
+          "lat": 21.41242983
         },
         "state": "Zacatecas",
         "title": "Juchipila, Zacatecas, México",
@@ -9926,6 +9873,152 @@
   },
   {
     "date": null,
+    "identifier": "shan.L010",
+    "title_es_k": "Carta de Shone Villanueva a Jesusita Baros Torres",
+    "date_display": "",
+    "language": "es",
+    "title": "Letter from Shone Villanueva to Jesusita Baros Torres",
+    "spatial": [
+      {
+        "place_name": null,
+        "country": "United States of America",
+        "city": "Albuquerque",
+        "coordinates": {
+          "lon": -106.6504,
+          "lat": 35.0844
+        },
+        "state": "New Mexico",
+        "title": "Albuquerque, New Mexico",
+        "type": "origin"
+      },
+      null
+    ],
+    "category": "Writing",
+    "subcategory": "Letter",
+    "highlight": {
+    }
+  },
+  {
+    "date": null,
+    "identifier": "shan.L176",
+    "title_es_k": "Sobre de Nemecio Samaniego a Jesusita Baros Torres",
+    "date_display": "",
+    "language": null,
+    "title": "Envelope from Nemecio Samaniego to Jesusita Baros Torres",
+    "spatial": [
+      {
+        "place_name": null,
+        "country": "México",
+        "city": "Juchipila",
+        "coordinates": {
+          "lon": -103.1187551,
+          "lat": 21.41242983
+        },
+        "state": "Zacatecas",
+        "title": "Juchipila, Zacatecas, México",
+        "type": "origin"
+      },
+      {
+        "place_name": "Fort Lupton",
+        "country": "United States of America",
+        "city": "Fort Lupton",
+        "coordinates": {
+          "lon": -104.813,
+          "lat": 40.0847
+        },
+        "state": "Colorado",
+        "title": "Fort Lupton, Colorado",
+        "type": "destination"
+      }
+    ],
+    "category": "Writing",
+    "subcategory": "Envelope",
+    "highlight": {
+    }
+  },
+  {
+    "date": null,
+    "identifier": "shan.L020",
+    "title_es_k": "Carta de Guadalupe Flemate a Jesusita Baros Torres",
+    "date_display": "",
+    "language": "es",
+    "title": "Letter from Guadalupe Flemate to Jesusita Baros Torres",
+    "spatial": [
+      {
+        "place_name": null,
+        "country": "México",
+        "city": "Juchipila",
+        "coordinates": {
+          "lon": -103.1187551,
+          "lat": 21.41242983
+        },
+        "state": "Zacatecas",
+        "title": "Juchipila, Zacatecas, México",
+        "type": "origin"
+      },
+      {
+        "place_name": "Fort Lupton",
+        "country": "United States of America",
+        "city": "Fort Lupton",
+        "coordinates": {
+          "lon": -104.813,
+          "lat": 40.0847
+        },
+        "state": "Colorado",
+        "title": "Fort Lupton, Colorado",
+        "type": "destination"
+      }
+    ],
+    "category": "Writing",
+    "subcategory": "Letter",
+    "highlight": {
+    }
+  },
+  {
+    "date": null,
+    "identifier": "shan.L169",
+    "title_es_k": "Carta de Victoria Aviña de Torres a Jesusita Baros Torres",
+    "date_display": "",
+    "language": "es",
+    "title": "Letter from Victoria Aviña de Torres to Jesusita Baros Torres",
+    "spatial": [
+      null,
+      null
+    ],
+    "category": "Writing",
+    "subcategory": "Letter",
+    "highlight": {
+    }
+  },
+  {
+    "date": null,
+    "identifier": "shan.L066",
+    "title_es_k": "Carta de Desconocido a Nemecio Samaniego",
+    "date_display": "",
+    "language": "es",
+    "title": "Letter from Unknown to Nemecio Samaniego",
+    "spatial": [
+      null,
+      {
+        "place_name": null,
+        "country": "México",
+        "city": "Juchipila",
+        "coordinates": {
+          "lon": -103.1187551,
+          "lat": 21.41242983
+        },
+        "state": "Zacatecas",
+        "title": "Juchipila, Zacatecas, México",
+        "type": "destination"
+      }
+    ],
+    "category": "Writing",
+    "subcategory": "Letter",
+    "highlight": {
+    }
+  },
+  {
+    "date": null,
     "identifier": "shan.P254",
     "title_es_k": "Jesusita Baros Torres",
     "date_display": null,
@@ -9963,145 +10056,11 @@
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
-          "lon": -103.1175,
-          "lat": 21.4121
+          "lon": -103.1187551,
+          "lat": 21.41242983
         },
         "state": "Zacatecas",
         "title": "Juchipila, Zacatecas, México",
-        "type": null
-      }
-    ],
-    "category": "Image",
-    "subcategory": "Photograph",
-    "highlight": {
-    }
-  },
-  {
-    "date": null,
-    "identifier": "shan.L066",
-    "title_es_k": "Carta de Desconocido a Nemecio Samaniego",
-    "date_display": "",
-    "language": "es",
-    "title": "Letter from Unknown to Nemecio Samaniego",
-    "spatial": [
-      null,
-      {
-        "place_name": null,
-        "country": "México",
-        "city": "Juchipila",
-        "coordinates": {
-          "lon": -103.1175,
-          "lat": 21.4121
-        },
-        "state": "Zacatecas",
-        "title": "Juchipila, Zacatecas, México",
-        "type": "destination"
-      }
-    ],
-    "category": "Writing",
-    "subcategory": "Letter",
-    "highlight": {
-    }
-  },
-  {
-    "date": null,
-    "identifier": "shan.L176",
-    "title_es_k": "Sobre de Nemecio Samaniego a Jesusita Baros Torres",
-    "date_display": "",
-    "language": null,
-    "title": "Envelope from Nemecio Samaniego to Jesusita Baros Torres",
-    "spatial": [
-      {
-        "place_name": null,
-        "country": "México",
-        "city": "Juchipila",
-        "coordinates": {
-          "lon": -103.1175,
-          "lat": 21.4121
-        },
-        "state": "Zacatecas",
-        "title": "Juchipila, Zacatecas, México",
-        "type": "origin"
-      },
-      {
-        "place_name": "Fort Lupton",
-        "country": "United States of America",
-        "city": "Fort Lupton",
-        "coordinates": {
-          "lon": -104.813,
-          "lat": 40.0847
-        },
-        "state": "Colorado",
-        "title": "Fort Lupton, Colorado",
-        "type": "destination"
-      }
-    ],
-    "category": "Writing",
-    "subcategory": "Envelope",
-    "highlight": {
-    }
-  },
-  {
-    "date": null,
-    "identifier": "shan.L169",
-    "title_es_k": "Carta de Victoria Aviña de Torres a Jesusita Baros Torres",
-    "date_display": "",
-    "language": "es",
-    "title": "Letter from Victoria Aviña de Torres to Jesusita Baros Torres",
-    "spatial": [
-      null,
-      null
-    ],
-    "category": "Writing",
-    "subcategory": "Letter",
-    "highlight": {
-    }
-  },
-  {
-    "date": null,
-    "identifier": "shan.L010",
-    "title_es_k": "Carta de Shone Villanueva a Jesusita Baros Torres",
-    "date_display": "",
-    "language": "es",
-    "title": "Letter from Shone Villanueva to Jesusita Baros Torres",
-    "spatial": [
-      {
-        "place_name": null,
-        "country": "United States of America",
-        "city": "Albuquerque",
-        "coordinates": {
-          "lon": -106.6504,
-          "lat": 35.0844
-        },
-        "state": "New Mexico",
-        "title": "Albuquerque, New Mexico",
-        "type": "origin"
-      },
-      null
-    ],
-    "category": "Writing",
-    "subcategory": "Letter",
-    "highlight": {
-    }
-  },
-  {
-    "date": null,
-    "identifier": "shan.P001",
-    "title_es_k": "Jesusita Baros Torres",
-    "date_display": null,
-    "language": "en",
-    "title": "Jesusita Baros Torres",
-    "spatial": [
-      {
-        "place_name": "Fort Lupton",
-        "country": "United States of America",
-        "city": "Fort Lupton",
-        "coordinates": {
-          "lon": -104.813,
-          "lat": 40.0847
-        },
-        "state": "Colorado",
-        "title": "Fort Lupton, Colorado",
         "type": null
       }
     ],
@@ -10117,32 +10076,6 @@
     "date_display": null,
     "language": "en",
     "title": "Mary Muñoz",
-    "spatial": [
-      {
-        "place_name": null,
-        "country": "United States of America",
-        "city": "Denver",
-        "coordinates": {
-          "lon": -104.9903,
-          "lat": 39.7392
-        },
-        "state": "Colorado",
-        "title": "Denver, Colorado",
-        "type": null
-      }
-    ],
-    "category": "Image",
-    "subcategory": "Photograph",
-    "highlight": {
-    }
-  },
-  {
-    "date": null,
-    "identifier": "shan.P096",
-    "title_es_k": "Santos Baros Schubert, Freddie Baca and unknown people",
-    "date_display": null,
-    "language": "n/a",
-    "title": "Santos Baros Schubert, Freddie Baca and unknown people",
     "spatial": [
       {
         "place_name": null,
@@ -10216,6 +10149,58 @@
   },
   {
     "date": null,
+    "identifier": "shan.P096",
+    "title_es_k": "Santos Baros Schubert, Freddie Baca and unknown people",
+    "date_display": null,
+    "language": "n/a",
+    "title": "Santos Baros Schubert, Freddie Baca and unknown people",
+    "spatial": [
+      {
+        "place_name": null,
+        "country": "United States of America",
+        "city": "Denver",
+        "coordinates": {
+          "lon": -104.9903,
+          "lat": 39.7392
+        },
+        "state": "Colorado",
+        "title": "Denver, Colorado",
+        "type": null
+      }
+    ],
+    "category": "Image",
+    "subcategory": "Photograph",
+    "highlight": {
+    }
+  },
+  {
+    "date": null,
+    "identifier": "shan.P001",
+    "title_es_k": "Jesusita Baros Torres",
+    "date_display": null,
+    "language": "en",
+    "title": "Jesusita Baros Torres",
+    "spatial": [
+      {
+        "place_name": "Fort Lupton",
+        "country": "United States of America",
+        "city": "Fort Lupton",
+        "coordinates": {
+          "lon": -104.813,
+          "lat": 40.0847
+        },
+        "state": "Colorado",
+        "title": "Fort Lupton, Colorado",
+        "type": null
+      }
+    ],
+    "category": "Image",
+    "subcategory": "Photograph",
+    "highlight": {
+    }
+  },
+  {
+    "date": null,
     "identifier": "shan.L012",
     "title_es_k": "Carta de Patricia Medrano a Jesusita Baros Torres",
     "date_display": "",
@@ -10227,8 +10212,8 @@
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
-          "lon": -103.1175,
-          "lat": 21.4121
+          "lon": -103.1187551,
+          "lat": 21.41242983
         },
         "state": "Zacatecas",
         "title": "Juchipila, Zacatecas, México",
