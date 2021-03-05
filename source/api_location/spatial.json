@@ -350,11 +350,11 @@
   },
   {
     "date": "1930-01-01",
-    "identifier": "shan.P011",
-    "title_es_k": "Jesusita Baros Torres",
+    "identifier": "shan.P104",
+    "title_es_k": "Santos Baros Schubert",
     "date_display": "1930s (circa)",
-    "language": "es",
-    "title": "Jesusita Baros Torres",
+    "language": "n/a",
+    "title": "Santos Baros Schubert",
     "spatial": [
       {
         "place_name": null,
@@ -376,11 +376,11 @@
   },
   {
     "date": "1930-01-01",
-    "identifier": "shan.P104",
-    "title_es_k": "Santos Baros Schubert",
+    "identifier": "shan.P011",
+    "title_es_k": "Jesusita Baros Torres",
     "date_display": "1930s (circa)",
-    "language": "n/a",
-    "title": "Santos Baros Schubert",
+    "language": "es",
+    "title": "Jesusita Baros Torres",
     "spatial": [
       {
         "place_name": null,
@@ -3125,7 +3125,7 @@
   },
   {
     "date": "1946-06-20",
-    "identifier": "shan.P050",
+    "identifier": "shan.P051",
     "title_es_k": "William F. Schubert",
     "date_display": "1946-06-20",
     "language": "en",
@@ -3151,7 +3151,7 @@
   },
   {
     "date": "1946-06-20",
-    "identifier": "shan.P051",
+    "identifier": "shan.P050",
     "title_es_k": "William F. Schubert",
     "date_display": "1946-06-20",
     "language": "en",
@@ -9010,6 +9010,32 @@
   },
   {
     "date": null,
+    "identifier": "shan.P155",
+    "title_es_k": "Santos Baros Schubert and unknown woman",
+    "date_display": null,
+    "language": "n/a",
+    "title": "Santos Baros Schubert and unknown woman",
+    "spatial": [
+      {
+        "place_name": null,
+        "country": "United States of America",
+        "city": "Denver",
+        "coordinates": {
+          "lon": -104.9903,
+          "lat": 39.7392
+        },
+        "state": "Colorado",
+        "title": "Denver, Colorado",
+        "type": null
+      }
+    ],
+    "category": "Image",
+    "subcategory": "Photograph",
+    "highlight": {
+    }
+  },
+  {
+    "date": null,
     "identifier": "shan.P072",
     "title_es_k": "William F. Schubert",
     "date_display": null,
@@ -9026,58 +9052,6 @@
         },
         "state": "Nebraska",
         "title": "Palmyra, Nebraska",
-        "type": null
-      }
-    ],
-    "category": "Image",
-    "subcategory": "Photograph",
-    "highlight": {
-    }
-  },
-  {
-    "date": null,
-    "identifier": "shan.P118",
-    "title_es_k": "Unknown migrant worker and children",
-    "date_display": null,
-    "language": "en",
-    "title": "Unknown migrant worker and children",
-    "spatial": [
-      {
-        "place_name": null,
-        "country": "United States of America",
-        "city": "Basin",
-        "coordinates": {
-          "lon": -108.039,
-          "lat": 44.38
-        },
-        "state": "Wyoming",
-        "title": "Basin, Wyoming",
-        "type": null
-      }
-    ],
-    "category": "Image",
-    "subcategory": "Photograph",
-    "highlight": {
-    }
-  },
-  {
-    "date": null,
-    "identifier": "shan.P124",
-    "title_es_k": "La Purisima Mission",
-    "date_display": null,
-    "language": "es",
-    "title": "La Purisima Mission",
-    "spatial": [
-      {
-        "place_name": null,
-        "country": "United States of America",
-        "city": "Lompoc",
-        "coordinates": {
-          "lon": -120.4579,
-          "lat": 34.6392
-        },
-        "state": "California",
-        "title": "Lompoc, California",
         "type": null
       }
     ],
@@ -9140,6 +9114,58 @@
   },
   {
     "date": null,
+    "identifier": "shan.P118",
+    "title_es_k": "Unknown migrant worker and children",
+    "date_display": null,
+    "language": "en",
+    "title": "Unknown migrant worker and children",
+    "spatial": [
+      {
+        "place_name": null,
+        "country": "United States of America",
+        "city": "Basin",
+        "coordinates": {
+          "lon": -108.039,
+          "lat": 44.38
+        },
+        "state": "Wyoming",
+        "title": "Basin, Wyoming",
+        "type": null
+      }
+    ],
+    "category": "Image",
+    "subcategory": "Photograph",
+    "highlight": {
+    }
+  },
+  {
+    "date": null,
+    "identifier": "shan.P124",
+    "title_es_k": "La Purisima Mission",
+    "date_display": null,
+    "language": "es",
+    "title": "La Purisima Mission",
+    "spatial": [
+      {
+        "place_name": null,
+        "country": "United States of America",
+        "city": "Lompoc",
+        "coordinates": {
+          "lon": -120.4579,
+          "lat": 34.6392
+        },
+        "state": "California",
+        "title": "Lompoc, California",
+        "type": null
+      }
+    ],
+    "category": "Image",
+    "subcategory": "Photograph",
+    "highlight": {
+    }
+  },
+  {
+    "date": null,
     "identifier": "shan.L195",
     "title_es_k": "Nota de Jesusita Baros Torres",
     "date_display": "",
@@ -9171,32 +9197,6 @@
         },
         "state": "California",
         "title": "Glendale, California",
-        "type": null
-      }
-    ],
-    "category": "Image",
-    "subcategory": "Photograph",
-    "highlight": {
-    }
-  },
-  {
-    "date": null,
-    "identifier": "shan.P155",
-    "title_es_k": "Santos Baros Schubert and unknown woman",
-    "date_display": null,
-    "language": "n/a",
-    "title": "Santos Baros Schubert and unknown woman",
-    "spatial": [
-      {
-        "place_name": null,
-        "country": "United States of America",
-        "city": "Denver",
-        "coordinates": {
-          "lon": -104.9903,
-          "lat": 39.7392
-        },
-        "state": "Colorado",
-        "title": "Denver, Colorado",
         "type": null
       }
     ],
@@ -9311,70 +9311,6 @@
   },
   {
     "date": null,
-    "identifier": "shan.L178",
-    "title_es_k": "Sobre de Nemecio Samaniego a Jesusita Baros Torres",
-    "date_display": "",
-    "language": null,
-    "title": "Envelope from Nemecio Samaniego to Jesusita Baros Torres",
-    "spatial": [
-      {
-        "place_name": null,
-        "country": "México",
-        "city": "Juchipila",
-        "coordinates": {
-          "lon": -103.1187551,
-          "lat": 21.41242983
-        },
-        "state": "Zacatecas",
-        "title": "Juchipila, Zacatecas, México",
-        "type": "origin"
-      },
-      {
-        "place_name": "Fort Lupton",
-        "country": "United States of America",
-        "city": "Fort Lupton",
-        "coordinates": {
-          "lon": -104.813,
-          "lat": 40.0847
-        },
-        "state": "Colorado",
-        "title": "Fort Lupton, Colorado",
-        "type": "destination"
-      }
-    ],
-    "category": "Writing",
-    "subcategory": "Envelope",
-    "highlight": {
-    }
-  },
-  {
-    "date": null,
-    "identifier": "shan.L123",
-    "title_es_k": "Sobre de William F. Schubert y Santos Baros Schubert",
-    "date_display": "",
-    "language": null,
-    "title": "Envelope from William F. Schubert and Santos Baros Schubert",
-    "spatial": [
-      {
-        "place_name": null,
-        "country": "United States of America",
-        "city": "Lincoln",
-        "coordinates": {
-          "lon": -96.7026,
-          "lat": 40.8136
-        },
-        "state": "Nebraska",
-        "title": "Lincoln, Nebraska",
-        "type": "origin"
-      }
-    ],
-    "category": "Writing",
-    "subcategory": "Envelope",
-    "highlight": {
-    }
-  },
-  {
-    "date": null,
     "identifier": "shan.L077",
     "title_es_k": "Carta de Jesusita Baros Torres a Santos Baros Schubert",
     "date_display": "",
@@ -9484,6 +9420,70 @@
         "state": "Colorado",
         "title": "Fort Lupton, Colorado",
         "type": "destination"
+      }
+    ],
+    "category": "Writing",
+    "subcategory": "Envelope",
+    "highlight": {
+    }
+  },
+  {
+    "date": null,
+    "identifier": "shan.L178",
+    "title_es_k": "Sobre de Nemecio Samaniego a Jesusita Baros Torres",
+    "date_display": "",
+    "language": null,
+    "title": "Envelope from Nemecio Samaniego to Jesusita Baros Torres",
+    "spatial": [
+      {
+        "place_name": null,
+        "country": "México",
+        "city": "Juchipila",
+        "coordinates": {
+          "lon": -103.1187551,
+          "lat": 21.41242983
+        },
+        "state": "Zacatecas",
+        "title": "Juchipila, Zacatecas, México",
+        "type": "origin"
+      },
+      {
+        "place_name": "Fort Lupton",
+        "country": "United States of America",
+        "city": "Fort Lupton",
+        "coordinates": {
+          "lon": -104.813,
+          "lat": 40.0847
+        },
+        "state": "Colorado",
+        "title": "Fort Lupton, Colorado",
+        "type": "destination"
+      }
+    ],
+    "category": "Writing",
+    "subcategory": "Envelope",
+    "highlight": {
+    }
+  },
+  {
+    "date": null,
+    "identifier": "shan.L123",
+    "title_es_k": "Sobre de William F. Schubert y Santos Baros Schubert",
+    "date_display": "",
+    "language": null,
+    "title": "Envelope from William F. Schubert and Santos Baros Schubert",
+    "spatial": [
+      {
+        "place_name": null,
+        "country": "United States of America",
+        "city": "Lincoln",
+        "coordinates": {
+          "lon": -96.7026,
+          "lat": 40.8136
+        },
+        "state": "Nebraska",
+        "title": "Lincoln, Nebraska",
+        "type": "origin"
       }
     ],
     "category": "Writing",
@@ -9858,13 +9858,77 @@
   },
   {
     "date": null,
-    "identifier": "shan.L112",
-    "title_es_k": "Carta de Jesusita Baros Torres a Desconocido",
+    "identifier": "shan.P254",
+    "title_es_k": "Jesusita Baros Torres",
+    "date_display": null,
+    "language": "n/a",
+    "title": "Jesusita Baros Torres",
+    "spatial": [
+      {
+        "place_name": null,
+        "country": "United States of America",
+        "city": "Denver",
+        "coordinates": {
+          "lon": -104.9903,
+          "lat": 39.7392
+        },
+        "state": "Colorado",
+        "title": "Denver, Colorado",
+        "type": null
+      }
+    ],
+    "category": "Image",
+    "subcategory": "Photograph",
+    "highlight": {
+    }
+  },
+  {
+    "date": null,
+    "identifier": "shan.P256",
+    "title_es_k": "Interior of the church in Juchipila",
+    "date_display": null,
+    "language": "es",
+    "title": "Interior of the church in Juchipila",
+    "spatial": [
+      {
+        "place_name": null,
+        "country": "México",
+        "city": "Juchipila",
+        "coordinates": {
+          "lon": -103.1187551,
+          "lat": 21.41242983
+        },
+        "state": "Zacatecas",
+        "title": "Juchipila, Zacatecas, México",
+        "type": null
+      }
+    ],
+    "category": "Image",
+    "subcategory": "Photograph",
+    "highlight": {
+    }
+  },
+  {
+    "date": null,
+    "identifier": "shan.L066",
+    "title_es_k": "Carta de Desconocido a Nemecio Samaniego",
     "date_display": "",
     "language": "es",
-    "title": "Letter from Jesusita Baros Torres to Unknown",
+    "title": "Letter from Unknown to Nemecio Samaniego",
     "spatial": [
-      null
+      null,
+      {
+        "place_name": null,
+        "country": "México",
+        "city": "Juchipila",
+        "coordinates": {
+          "lon": -103.1187551,
+          "lat": 21.41242983
+        },
+        "state": "Zacatecas",
+        "title": "Juchipila, Zacatecas, México",
+        "type": "destination"
+      }
     ],
     "category": "Writing",
     "subcategory": "Letter",
@@ -9992,25 +10056,13 @@
   },
   {
     "date": null,
-    "identifier": "shan.L066",
-    "title_es_k": "Carta de Desconocido a Nemecio Samaniego",
+    "identifier": "shan.L112",
+    "title_es_k": "Carta de Jesusita Baros Torres a Desconocido",
     "date_display": "",
     "language": "es",
-    "title": "Letter from Unknown to Nemecio Samaniego",
+    "title": "Letter from Jesusita Baros Torres to Unknown",
     "spatial": [
-      null,
-      {
-        "place_name": null,
-        "country": "México",
-        "city": "Juchipila",
-        "coordinates": {
-          "lon": -103.1187551,
-          "lat": 21.41242983
-        },
-        "state": "Zacatecas",
-        "title": "Juchipila, Zacatecas, México",
-        "type": "destination"
-      }
+      null
     ],
     "category": "Writing",
     "subcategory": "Letter",
@@ -10019,11 +10071,37 @@
   },
   {
     "date": null,
-    "identifier": "shan.P254",
+    "identifier": "shan.P001",
     "title_es_k": "Jesusita Baros Torres",
     "date_display": null,
-    "language": "n/a",
+    "language": "en",
     "title": "Jesusita Baros Torres",
+    "spatial": [
+      {
+        "place_name": "Fort Lupton",
+        "country": "United States of America",
+        "city": "Fort Lupton",
+        "coordinates": {
+          "lon": -104.813,
+          "lat": 40.0847
+        },
+        "state": "Colorado",
+        "title": "Fort Lupton, Colorado",
+        "type": null
+      }
+    ],
+    "category": "Image",
+    "subcategory": "Photograph",
+    "highlight": {
+    }
+  },
+  {
+    "date": null,
+    "identifier": "shan.P045",
+    "title_es_k": "Mary Muñoz",
+    "date_display": null,
+    "language": "en",
+    "title": "Mary Muñoz",
     "spatial": [
       {
         "place_name": null,
@@ -10045,37 +10123,11 @@
   },
   {
     "date": null,
-    "identifier": "shan.P256",
-    "title_es_k": "Interior of the church in Juchipila",
+    "identifier": "shan.P096",
+    "title_es_k": "Santos Baros Schubert, Freddie Baca and unknown people",
     "date_display": null,
-    "language": "es",
-    "title": "Interior of the church in Juchipila",
-    "spatial": [
-      {
-        "place_name": null,
-        "country": "México",
-        "city": "Juchipila",
-        "coordinates": {
-          "lon": -103.1187551,
-          "lat": 21.41242983
-        },
-        "state": "Zacatecas",
-        "title": "Juchipila, Zacatecas, México",
-        "type": null
-      }
-    ],
-    "category": "Image",
-    "subcategory": "Photograph",
-    "highlight": {
-    }
-  },
-  {
-    "date": null,
-    "identifier": "shan.P045",
-    "title_es_k": "Mary Muñoz",
-    "date_display": null,
-    "language": "en",
-    "title": "Mary Muñoz",
+    "language": "n/a",
+    "title": "Santos Baros Schubert, Freddie Baca and unknown people",
     "spatial": [
       {
         "place_name": null,
@@ -10139,58 +10191,6 @@
         },
         "state": "Colorado",
         "title": "Colorado",
-        "type": null
-      }
-    ],
-    "category": "Image",
-    "subcategory": "Photograph",
-    "highlight": {
-    }
-  },
-  {
-    "date": null,
-    "identifier": "shan.P096",
-    "title_es_k": "Santos Baros Schubert, Freddie Baca and unknown people",
-    "date_display": null,
-    "language": "n/a",
-    "title": "Santos Baros Schubert, Freddie Baca and unknown people",
-    "spatial": [
-      {
-        "place_name": null,
-        "country": "United States of America",
-        "city": "Denver",
-        "coordinates": {
-          "lon": -104.9903,
-          "lat": 39.7392
-        },
-        "state": "Colorado",
-        "title": "Denver, Colorado",
-        "type": null
-      }
-    ],
-    "category": "Image",
-    "subcategory": "Photograph",
-    "highlight": {
-    }
-  },
-  {
-    "date": null,
-    "identifier": "shan.P001",
-    "title_es_k": "Jesusita Baros Torres",
-    "date_display": null,
-    "language": "en",
-    "title": "Jesusita Baros Torres",
-    "spatial": [
-      {
-        "place_name": "Fort Lupton",
-        "country": "United States of America",
-        "city": "Fort Lupton",
-        "coordinates": {
-          "lon": -104.813,
-          "lat": 40.0847
-        },
-        "state": "Colorado",
-        "title": "Fort Lupton, Colorado",
         "type": null
       }
     ],
