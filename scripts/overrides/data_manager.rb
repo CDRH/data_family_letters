@@ -17,7 +17,7 @@ class Datura::DataManager
       date_display
       identifier
       language
-      subcategory
+      category2
       spatial
       title
       title_es_k

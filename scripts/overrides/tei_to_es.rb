@@ -19,7 +19,9 @@ class TeiToEs
     xpaths["places"] = "//placeName"
     xpaths["publisher"] = "/TEI/teiHeader/fileDesc/publicationStmt/publisher"
     xpaths["recipient"] = "/TEI/teiHeader/profileDesc/correspDesc/correspAction[@type='deliveredTo']/persName"
-    xpaths["source"] = "/TEI/teiHeader/fileDesc/sourceDesc/mxDesc[1]/msIdentifier/repository"
+    xpaths["source"] = { 
+      "repository" => "/TEI/teiHeader/fileDesc/sourceDesc/mxDesc[1]/msIdentifier/repository" 
+    }
     xpaths["spatial"] = "//correspDesc/correspAction"
     xpaths["subcategory"] = "/TEI/text/body/div1[1]/@type"
     xpaths["text_en"] = "/TEI/text/body/div1[@lang='en']"
@@ -99,18 +101,18 @@ class TeiToEs
 
   def category
     category = get_text(@xpaths["category"])
-    category.length > 0 ? category.capitalize : "Writing"
+    category && category.length > 0 ? category.capitalize : "Writing"
   end
 
   def language
     lang = get_list(@xpaths["language"])
     # don't send anything if there's no language
-    lang.empty? ? nil : lang.first
+    !lang || lang.empty? ? nil : lang.first
   end
 
-  def languages
-    get_list(@xpaths["languages"])
-  end
+  # def languages
+  #   get_list(@xpaths["languages"])
+  # end
 
   def person
     list = []
@@ -139,8 +141,10 @@ class TeiToEs
     "Elizabeth Jane and Steve Shanahan of Davey, NE"
   end
 
-  def source
-    rights_holder
+  def has_source
+    {
+      "title" => rights_holder
+    }
   end
 
   def spatial
@@ -156,7 +160,7 @@ class TeiToEs
         {
           "title" => loc["Title"],
           "type" => type,
-          "place_name" => loc["Place Name"],
+          "short_name" => loc["Place Name"],
           "coordinates" => {
             "lat" => loc["Latitude"].to_f,
             "lon" => loc["Longitude"].to_f,
@@ -169,9 +173,12 @@ class TeiToEs
     end
   end
 
-  def subcategory
-    subcategory = get_text(@xpaths["subcategory"])
-    subcategory == "note" ? "Document" : subcategory.capitalize
+  def category2
+    category2 = get_text(@xpaths["category2"])
+    if category2
+      category2 == "note" ? "Document" : category2.capitalize
+    end
+    category2
   end
 
   def text
