@@ -23,7 +23,7 @@ class TeiToEs
       "repository" => "/TEI/teiHeader/fileDesc/sourceDesc/mxDesc[1]/msIdentifier/repository" 
     }
     xpaths["spatial"] = "//correspDesc/correspAction"
-    xpaths["subcategory"] = "/TEI/text/body/div1[1]/@type"
+    xpaths["category2"] = "/TEI/text/body/div1[1]/@type"
     xpaths["text_en"] = "/TEI/text/body/div1[@lang='en']"
     xpaths["text_es"] = "/TEI/text/body/div1[@lang='es']"
     xpaths["titles"] = {
@@ -148,28 +148,26 @@ class TeiToEs
   end
 
   def spatial
-    get_elements(@xpaths["spatial"]).map do |ele|
+    get_elements(@xpaths["spatial"]).select{}.map do |ele|
       place = get_text("placeName", xml: ele)
       action = get_text("@type", xml: ele)
       # only map things that are either origin or destination
       type = "origin" if action == "sentBy"
       type = "destination" if action == "deliveredTo"
-      next if !type
       loc = @places[place]
-      if loc
-        {
-          "title" => loc["Title"],
-          "type" => type,
-          "short_name" => loc["Place Name"],
-          "coordinates" => {
-            "lat" => loc["Latitude"].to_f,
-            "lon" => loc["Longitude"].to_f,
-          },
-          "city" => loc["City"],
-          "country" => loc["Country"],
-          "state" => loc["State"]
-        }
-      end
+      next if !type || !loc
+      {
+        "name" => loc["Title"],
+        "type" => type,
+        "short_name" => loc["Place Name"],
+        "coordinates" => {
+          "lat" => loc["Latitude"].to_f,
+          "lon" => loc["Longitude"].to_f,
+        },
+        "city" => loc["City"],
+        "country" => loc["Country"],
+        "state" => loc["State"]
+      }
     end
   end
 
@@ -178,7 +176,6 @@ class TeiToEs
     if category2
       category2 == "note" ? "Document" : category2.capitalize
     end
-    category2
   end
 
   def text

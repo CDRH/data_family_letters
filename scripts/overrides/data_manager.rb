@@ -44,7 +44,6 @@ class Datura::DataManager
     urls.each do |url|
       lang = url.include?("/en/") ? "en" : "es"
       raw = open(url) { |f| f.read }
-
       # wrap the web scraping results in a div that describes the language
       combined << "<div lang=\"#{lang}\">"
       html = Nokogiri::HTML(raw)

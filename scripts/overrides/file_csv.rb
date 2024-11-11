@@ -183,7 +183,7 @@ class FileCsv
     doc["person"] = doc["people_k"].map { |p| { "name" => p } }
     # doc["citation"]["publisher"]
     recipient = data_from_pages(pages, "Subject#1", combine: false)
-    doc["person"] << [ { "name" => recipient, "role" => "recipient" } ] if recipient
+    doc["person"] << { "name" => recipient, "role" => "recipient" } if recipient
     # doc["rights"]
     # doc["rights_uri"]
     doc["rights_holder"] = data_from_pages(pages, "Source#1", combine: false)
@@ -235,7 +235,7 @@ class FileCsv
     doc["has_source"] = { 
       "title" => "Nuestras Historias: The Nebraska Latino Heritage Collection" 
     }
-    # this field is deprecated, and the replacement field is already in use
+    # the field places is deprecated, and the replacement field spatial.short_name is already in use
     places_data = data_from_pages(pages, "Coverage#1", combine: false)
     if places_data
       loc = @places[places_data]
@@ -244,6 +244,8 @@ class FileCsv
           {
             "title" => loc["Title"],
             "type" => nil,
+            #replacement for places field
+            "name" => places_data,
             "short_name" => loc["Place Name"],
             "coordinates" => {
               "lat" => loc["Latitude"].to_f,
