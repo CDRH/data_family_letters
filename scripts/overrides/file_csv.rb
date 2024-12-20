@@ -148,7 +148,7 @@ class FileCsv
     doc["identifier"] = id
 
     first_image = pages.first["Filename"]
-    doc["image_id"] = first_image.include?(".jpg") ? first_image : "#{first_image}.jpg"
+    doc["cover_image"] = first_image.include?(".jpg") ? first_image : "#{first_image}.jpg"
     # doc["keywords"]
 
     lang = data_from_pages(pages, "Language#1", combine: true).first
@@ -162,7 +162,8 @@ class FileCsv
       }
       doc["language"] = lang_map.key?(lang) ? lang_map[lang] : lang
       # multivalued field, these items are only described with one language
-      doc["languages"] = [ doc["language"] ]
+      # below field is currently deprecated
+      #doc["languages"] = [ doc["language"] ]
     end
 
     doc["medium"] = doc["format"]
@@ -177,21 +178,21 @@ class FileCsv
       "Subject#1$7",
     ]
     # multivalued keyword
-    doc["people"] = people.map { |p| data_from_pages(pages, p, combine: true) }.flatten.uniq
+    doc["people_k"] = people.map { |p| data_from_pages(pages, p, combine: true) }.flatten.uniq
     # no role or id for person nested object
-    doc["person"] = doc["people"].map { |p| { "name" => p } }
-    # doc["publisher"]
+    doc["person"] = doc["people_k"].map { |p| { "name" => p } }
+    # doc["citation"]["publisher"]
     recipient = data_from_pages(pages, "Subject#1", combine: false)
-    doc["recipient"] = [ { "name" => recipient } ] if recipient
+    doc["person"] << { "name" => recipient, "role" => "recipient" } if recipient
     # doc["rights"]
     # doc["rights_uri"]
     doc["rights_holder"] = data_from_pages(pages, "Source#1", combine: false)
 
-    # "source" field handled by individual type of item
+    # "has_source" field handled by individual type of item
 
     # doc["subjects"]
 
-    # "subcategory" field handled by individual type of item
+    # "category2" field handled by individual type of item
 
     # doc["title"] = present?(row["Title#1"]) ? row["Title#1"] : "No Title"
     title = data_from_pages(pages, "Title#1", combine: false)
@@ -224,22 +225,28 @@ class FileCsv
   end
 
   def item_to_es_documents(doc, pages)
-    doc["source"] = doc["rights_holder"]
-    doc["subcategory"] = "Document"
+    doc["has_source"] = {
+      "title" => doc["rights_holder"]
+    }
+    doc["category2"] = "Document"
   end
 
   def item_to_es_photographs(doc, pages)
-    doc["source"] = "Nuestras Historias: The Nebraska Latino Heritage Collection"
-
-    doc["places"] = data_from_pages(pages, "Coverage#1", combine: false)
-    if doc["places"]
-      loc = @places[doc["places"]]
+    doc["has_source"] = { 
+      "title" => "Nuestras Historias: The Nebraska Latino Heritage Collection" 
+    }
+    # the field places is deprecated, and the replacement field spatial.short_name is already in use
+    places_data = data_from_pages(pages, "Coverage#1", combine: false)
+    if places_data
+      loc = @places[places_data]
       if loc
         doc["spatial"] = [
           {
             "title" => loc["Title"],
             "type" => nil,
-            "place_name" => loc["Place Name"],
+            #replacement for places field
+            "name" => places_data,
+            "short_name" => loc["Place Name"],
             "coordinates" => {
               "lat" => loc["Latitude"].to_f,
               "lon" => loc["Longitude"].to_f
@@ -250,13 +257,13 @@ class FileCsv
           }
         ]
       else
-        puts "Should have found a standard location for #{doc["places"]}"
+        puts "Should have found a standard location for #{places_data}"
       end
     end
 
-    # subcategory
+    # category2
     f = doc["format"].class == Array ? doc["format"].first : doc["format"]
-    doc["subcategory"] = f
+    doc["category2"] = f
   end
 
   def standardize_date(dirty)
