@@ -148,7 +148,8 @@ class TeiToEs
   end
 
   def spatial
-    get_elements(@xpaths["spatial"]).select{}.map do |ele|
+    places = []
+    get_elements(@xpaths["spatial"]).map do |ele|
       place = get_text("placeName", xml: ele)
       action = get_text("@type", xml: ele)
       # only map things that are either origin or destination
@@ -156,7 +157,7 @@ class TeiToEs
       type = "destination" if action == "deliveredTo"
       loc = @places[place]
       next if !type || !loc
-      {
+      places << {
         "name" => loc["Title"],
         "type" => type,
         "short_name" => loc["Place Name"],
@@ -169,6 +170,7 @@ class TeiToEs
         "state" => loc["State"]
       }
     end
+    places
   end
 
   def category2
