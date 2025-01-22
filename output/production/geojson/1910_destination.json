@@ -1,0 +1,28 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "es": 1,
+        "en": 0,
+        "locations": [
+          "Knobles, Oklahoma"
+        ],
+        "letters": [
+          {
+            "identifier": "shan.L001"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5042,
+          40.8775
+        ]
+      }
+    }
+  ]
+}

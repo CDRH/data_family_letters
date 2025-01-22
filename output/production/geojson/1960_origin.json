@@ -1,0 +1,226 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 37,
+        "es": 36,
+        "en": 1,
+        "locations": [
+          "Fort Lupton, Colorado"
+        ],
+        "letters": [
+          {
+            "identifier": "shan.L104"
+          },
+          {
+            "identifier": "shan.L105"
+          },
+          {
+            "identifier": "shan.L198"
+          },
+          {
+            "identifier": "shan.L106"
+          },
+          {
+            "identifier": "shan.L201"
+          },
+          {
+            "identifier": "shan.L199"
+          },
+          {
+            "identifier": "shan.L216"
+          },
+          {
+            "identifier": "shan.L107"
+          },
+          {
+            "identifier": "shan.L108"
+          },
+          {
+            "identifier": "shan.L217"
+          },
+          {
+            "identifier": "shan.L109"
+          },
+          {
+            "identifier": "shan.L110"
+          },
+          {
+            "identifier": "shan.L202"
+          },
+          {
+            "identifier": "shan.L111"
+          },
+          {
+            "identifier": "shan.L113"
+          },
+          {
+            "identifier": "shan.L115"
+          },
+          {
+            "identifier": "shan.L030"
+          },
+          {
+            "identifier": "shan.L204"
+          },
+          {
+            "identifier": "shan.L125"
+          },
+          {
+            "identifier": "shan.L206"
+          },
+          {
+            "identifier": "shan.L208"
+          },
+          {
+            "identifier": "shan.L116"
+          },
+          {
+            "identifier": "shan.L215"
+          },
+          {
+            "identifier": "shan.L203"
+          },
+          {
+            "identifier": "shan.L218"
+          },
+          {
+            "identifier": "shan.L158"
+          },
+          {
+            "identifier": "shan.L209"
+          },
+          {
+            "identifier": "shan.L159"
+          },
+          {
+            "identifier": "shan.L117"
+          },
+          {
+            "identifier": "shan.L118"
+          },
+          {
+            "identifier": "shan.L119"
+          },
+          {
+            "identifier": "shan.L210"
+          },
+          {
+            "identifier": "shan.L219"
+          },
+          {
+            "identifier": "shan.L211"
+          },
+          {
+            "identifier": "shan.L220"
+          },
+          {
+            "identifier": "shan.L212"
+          },
+          {
+            "identifier": "shan.L207"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.813,
+          40.0847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 5,
+        "es": 1,
+        "en": 4,
+        "locations": [
+          "Lincoln, Nebraska"
+        ],
+        "letters": [
+          {
+            "identifier": "shan.L044"
+          },
+          {
+            "identifier": "shan.L149"
+          },
+          {
+            "identifier": "shan.L150"
+          },
+          {
+            "identifier": "shan.L151"
+          },
+          {
+            "identifier": "shan.L152"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7026,
+          40.8136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "es": 0,
+        "en": 1,
+        "locations": [
+          "Albuquerque, New Mexico"
+        ],
+        "letters": [
+          {
+            "identifier": "shan.L194"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.6504,
+          35.0844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 4,
+        "es": 4,
+        "en": 0,
+        "locations": [
+          "Juchipila, Zacatecas, México"
+        ],
+        "letters": [
+          {
+            "identifier": "shan.L031"
+          },
+          {
+            "identifier": "shan.L028"
+          },
+          {
+            "identifier": "shan.L045"
+          },
+          {
+            "identifier": "shan.L029"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.1187551,
+          21.41242983
+        ]
+      }
+    }
+  ]
+}

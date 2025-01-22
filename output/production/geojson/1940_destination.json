@@ -1,0 +1,107 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 10,
+        "es": 4,
+        "en": 6,
+        "locations": [
+          "Fort Lupton, Colorado"
+        ],
+        "letters": [
+          {
+            "identifier": "shan.L023"
+          },
+          {
+            "identifier": "shan.L022"
+          },
+          {
+            "identifier": "shan.L041"
+          },
+          {
+            "identifier": "shan.L027"
+          },
+          {
+            "identifier": "shan.L130"
+          },
+          {
+            "identifier": "shan.L131"
+          },
+          {
+            "identifier": "shan.L132"
+          },
+          {
+            "identifier": "shan.L133"
+          },
+          {
+            "identifier": "shan.L168"
+          },
+          {
+            "identifier": "shan.L134"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.813,
+          40.0847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "es": 0,
+        "en": 1,
+        "locations": [
+          "Palmyra, Nebraska"
+        ],
+        "letters": [
+          {
+            "identifier": "shan.L124"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.3899,
+          40.7043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 3,
+        "es": 2,
+        "en": 1,
+        "locations": [
+          "Denver, Colorado"
+        ],
+        "letters": [
+          {
+            "identifier": "shan.L042"
+          },
+          {
+            "identifier": "shan.L043"
+          },
+          {
+            "identifier": "shan.L222"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.9903,
+          39.7392
+        ]
+      }
+    }
+  ]
+}

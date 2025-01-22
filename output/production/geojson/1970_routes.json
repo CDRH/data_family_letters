@@ -1,0 +1,146 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 2,
+        "es": 2,
+        "en": 0,
+        "locations": [
+          "Los Angeles, California",
+          "Fort Lupton, Colorado"
+        ],
+        "letters": [
+          {
+            "identifier": "shan.L046"
+          },
+          {
+            "identifier": "shan.L047"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -118.2437,
+            34.0522
+          ],
+          [
+            -104.813,
+            40.0847
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 6,
+        "es": 3,
+        "en": 3,
+        "locations": [
+          "Fort Lupton, Colorado",
+          "Lincoln, Nebraska"
+        ],
+        "letters": [
+          {
+            "identifier": "shan.L120"
+          },
+          {
+            "identifier": "shan.L213"
+          },
+          {
+            "identifier": "shan.L128"
+          },
+          {
+            "identifier": "shan.L214"
+          },
+          {
+            "identifier": "shan.L127"
+          },
+          {
+            "identifier": "shan.L162"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -104.813,
+            40.0847
+          ],
+          [
+            -96.7026,
+            40.8136
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 2,
+        "es": 1,
+        "en": 1,
+        "locations": [
+          "Tucson, Arizona",
+          "Lincoln, Nebraska"
+        ],
+        "letters": [
+          {
+            "identifier": "shan.L160"
+          },
+          {
+            "identifier": "shan.L129"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -110.9747,
+            32.2226
+          ],
+          [
+            -96.7026,
+            40.8136
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "es": 1,
+        "en": 0,
+        "locations": [
+          "Fort Lupton, Colorado",
+          "Mexicali, Baja California, México"
+        ],
+        "letters": [
+          {
+            "identifier": "shan.L048"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -104.813,
+            40.0847
+          ],
+          [
+            -115.4749784,
+            32.64017354
+          ]
+        ]
+      }
+    }
+  ]
+}

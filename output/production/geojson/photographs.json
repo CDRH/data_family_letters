@@ -1,0 +1,884 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "locations": [
+          "Zacatecas, México"
+        ],
+        "photos": [
+          {
+            "identifier": "shan.P009"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.51327,
+          22.75333066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 15,
+        "locations": [
+          "Albuquerque, New Mexico"
+        ],
+        "photos": [
+          {
+            "identifier": "shan.P227"
+          },
+          {
+            "identifier": "shan.P252"
+          },
+          {
+            "identifier": "shan.P104"
+          },
+          {
+            "identifier": "shan.P011"
+          },
+          {
+            "identifier": "shan.P101"
+          },
+          {
+            "identifier": "shan.P023"
+          },
+          {
+            "identifier": "shan.P100"
+          },
+          {
+            "identifier": "shan.P010"
+          },
+          {
+            "identifier": "shan.P259"
+          },
+          {
+            "identifier": "shan.P025"
+          },
+          {
+            "identifier": "shan.P260"
+          },
+          {
+            "identifier": "shan.P061"
+          },
+          {
+            "identifier": "shan.P114"
+          },
+          {
+            "identifier": "shan.P115"
+          },
+          {
+            "identifier": "shan.P117"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.6504,
+          35.0844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 3,
+        "locations": [
+          "Basin, Wyoming"
+        ],
+        "photos": [
+          {
+            "identifier": "shan.P119"
+          },
+          {
+            "identifier": "shan.P091"
+          },
+          {
+            "identifier": "shan.P118"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.039,
+          44.38
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 16,
+        "locations": [
+          "Denver, Colorado"
+        ],
+        "photos": [
+          {
+            "identifier": "shan.P138"
+          },
+          {
+            "identifier": "shan.P043"
+          },
+          {
+            "identifier": "shan.P130"
+          },
+          {
+            "identifier": "shan.P170"
+          },
+          {
+            "identifier": "shan.P154"
+          },
+          {
+            "identifier": "shan.P046"
+          },
+          {
+            "identifier": "shan.P152"
+          },
+          {
+            "identifier": "shan.P047"
+          },
+          {
+            "identifier": "shan.P033"
+          },
+          {
+            "identifier": "shan.P155"
+          },
+          {
+            "identifier": "shan.P095"
+          },
+          {
+            "identifier": "shan.P102"
+          },
+          {
+            "identifier": "shan.P113"
+          },
+          {
+            "identifier": "shan.P254"
+          },
+          {
+            "identifier": "shan.P045"
+          },
+          {
+            "identifier": "shan.P096"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.9903,
+          39.7392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 4,
+        "locations": [
+          "Brighton, Colorado"
+        ],
+        "photos": [
+          {
+            "identifier": "shan.P191"
+          },
+          {
+            "identifier": "shan.P189"
+          },
+          {
+            "identifier": "shan.P190"
+          },
+          {
+            "identifier": "shan.P027"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.8205,
+          39.9853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 11,
+        "locations": [
+          "Juchipila, Zacatecas, México"
+        ],
+        "photos": [
+          {
+            "identifier": "shan.P098"
+          },
+          {
+            "identifier": "shan.P250"
+          },
+          {
+            "identifier": "shan.P107"
+          },
+          {
+            "identifier": "shan.P269"
+          },
+          {
+            "identifier": "shan.P161"
+          },
+          {
+            "identifier": "shan.P036"
+          },
+          {
+            "identifier": "shan.P110"
+          },
+          {
+            "identifier": "shan.P109"
+          },
+          {
+            "identifier": "shan.P099"
+          },
+          {
+            "identifier": "shan.P111"
+          },
+          {
+            "identifier": "shan.P256"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.1187551,
+          21.41242983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "locations": [
+          "México City, México"
+        ],
+        "photos": [
+          {
+            "identifier": "shan.P145"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.13323228,
+          19.43276076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 2,
+        "locations": [
+          "Rocky Mountain National Park, Colorado"
+        ],
+        "photos": [
+          {
+            "identifier": "shan.P157"
+          },
+          {
+            "identifier": "shan.P261"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.6836,
+          40.3428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "locations": [
+          "Illinois"
+        ],
+        "photos": [
+          {
+            "identifier": "shan.P164"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.3975,
+          40.6331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 7,
+        "locations": [
+          "Fort Lupton, Colorado"
+        ],
+        "photos": [
+          {
+            "identifier": "shan.P103"
+          },
+          {
+            "identifier": "shan.P116"
+          },
+          {
+            "identifier": "shan.P089"
+          },
+          {
+            "identifier": "shan.P088"
+          },
+          {
+            "identifier": "shan.P087"
+          },
+          {
+            "identifier": "shan.P086"
+          },
+          {
+            "identifier": "shan.P001"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.813,
+          40.0847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 3,
+        "locations": [
+          "Camp Carson, Colorado"
+        ],
+        "photos": [
+          {
+            "identifier": "shan.P262"
+          },
+          {
+            "identifier": "shan.P135"
+          },
+          {
+            "identifier": "shan.P134"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.7849,
+          38.7457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "locations": [
+          "Italy"
+        ],
+        "photos": [
+          {
+            "identifier": "shan.P144"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.76072427,
+          40.68643877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "locations": [
+          "New York, New York"
+        ],
+        "photos": [
+          {
+            "identifier": "shan.P073"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.006,
+          40.7128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "locations": [
+          "Erie, Colorado"
+        ],
+        "photos": [
+          {
+            "identifier": "shan.P266"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.05,
+          40.0503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "locations": [
+          "Sacramento, California"
+        ],
+        "photos": [
+          {
+            "identifier": "shan.P071"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.4944,
+          38.5816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 10,
+        "locations": [
+          "Lincoln, Nebraska"
+        ],
+        "photos": [
+          {
+            "identifier": "shan.P163"
+          },
+          {
+            "identifier": "shan.P162"
+          },
+          {
+            "identifier": "shan.P165"
+          },
+          {
+            "identifier": "shan.P051"
+          },
+          {
+            "identifier": "shan.P050"
+          },
+          {
+            "identifier": "shan.P049"
+          },
+          {
+            "identifier": "shan.P060"
+          },
+          {
+            "identifier": "shan.P077"
+          },
+          {
+            "identifier": "shan.P078"
+          },
+          {
+            "identifier": "shan.P239"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7026,
+          40.8136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "locations": [
+          "City Park, Denver, Colorado"
+        ],
+        "photos": [
+          {
+            "identifier": "shan.P054"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.9501,
+          39.7438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "locations": [
+          "Yosemite National Park, Sierra Nevada, California"
+        ],
+        "photos": [
+          {
+            "identifier": "shan.P074"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.5383,
+          37.8651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 2,
+        "locations": [
+          "Manitou Springs, Colorado"
+        ],
+        "photos": [
+          {
+            "identifier": "shan.P058"
+          },
+          {
+            "identifier": "shan.P057"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.9128,
+          38.8576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 2,
+        "locations": [
+          "Hastings, Nebraska"
+        ],
+        "photos": [
+          {
+            "identifier": "shan.P083"
+          },
+          {
+            "identifier": "shan.P084"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.3899,
+          40.5863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "locations": [
+          "Camp Butner, North Carolina"
+        ],
+        "photos": [
+          {
+            "identifier": "shan.P265"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.7914,
+          36.2085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "locations": [
+          "White Sands, Colorado"
+        ],
+        "photos": [
+          {
+            "identifier": "shan.P230"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.3257,
+          32.7872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "locations": [
+          "Roswell, New Mexico"
+        ],
+        "photos": [
+          {
+            "identifier": "shan.P080"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.523,
+          33.3943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 2,
+        "locations": [
+          "La Grange, Illinois"
+        ],
+        "photos": [
+          {
+            "identifier": "shan.P066"
+          },
+          {
+            "identifier": "shan.P067"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8692,
+          41.805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "locations": [
+          "México"
+        ],
+        "photos": [
+          {
+            "identifier": "shan.P270"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.5528,
+          23.6345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "locations": [
+          "Palmyra, Nebraska"
+        ],
+        "photos": [
+          {
+            "identifier": "shan.P072"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.3899,
+          40.7043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "locations": [
+          "Lompoc, California"
+        ],
+        "photos": [
+          {
+            "identifier": "shan.P124"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.4579,
+          34.6392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "locations": [
+          "Glendale, California"
+        ],
+        "photos": [
+          {
+            "identifier": "shan.P238"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2551,
+          34.1425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "locations": [
+          "Guadalajara, Jalisco, México"
+        ],
+        "photos": [
+          {
+            "identifier": "shan.P092"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.347745,
+          20.67778988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 5,
+        "locations": [
+          "Colorado"
+        ],
+        "photos": [
+          {
+            "identifier": "shan.P125"
+          },
+          {
+            "identifier": "shan.P234"
+          },
+          {
+            "identifier": "shan.P126"
+          },
+          {
+            "identifier": "shan.P127"
+          },
+          {
+            "identifier": "shan.P128"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.7821,
+          39.5501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "locations": [
+          "Matamoros, Tamaulipas, México"
+        ],
+        "photos": [
+          {
+            "identifier": "shan.P123"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.50458683,
+          25.88316978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "locations": [
+          "Garden of the Gods, Colorado Springs, Colorado"
+        ],
+        "photos": [
+          {
+            "identifier": "shan.P082"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.8698,
+          38.8784
+        ]
+      }
+    }
+  ]
+}

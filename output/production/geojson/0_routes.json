@@ -1,0 +1,38 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 2,
+        "es": 2,
+        "en": 0,
+        "locations": [
+          "Juchipila, Zacatecas, México",
+          "Fort Lupton, Colorado"
+        ],
+        "letters": [
+          {
+            "identifier": "shan.L020"
+          },
+          {
+            "identifier": "shan.L012"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -103.1187551,
+            21.41242983
+          ],
+          [
+            -104.813,
+            40.0847
+          ]
+        ]
+      }
+    }
+  ]
+}

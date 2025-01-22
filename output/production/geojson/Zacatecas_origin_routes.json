@@ -1,0 +1,128 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 2,
+        "es": 2,
+        "en": 0,
+        "locations": [
+          "Juchipila, Zacatecas, México",
+          "Longmont, Colorado"
+        ],
+        "letters": [
+          {
+            "identifier": "shan.L014"
+          },
+          {
+            "identifier": "shan.L021"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -103.1187551,
+            21.41242983
+          ],
+          [
+            -105.1019,
+            40.1672
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 10,
+        "es": 10,
+        "en": 0,
+        "locations": [
+          "Juchipila, Zacatecas, México",
+          "Fort Lupton, Colorado"
+        ],
+        "letters": [
+          {
+            "identifier": "shan.L024"
+          },
+          {
+            "identifier": "shan.L022"
+          },
+          {
+            "identifier": "shan.L027"
+          },
+          {
+            "identifier": "shan.L025"
+          },
+          {
+            "identifier": "shan.L026"
+          },
+          {
+            "identifier": "shan.L028"
+          },
+          {
+            "identifier": "shan.L045"
+          },
+          {
+            "identifier": "shan.L029"
+          },
+          {
+            "identifier": "shan.L020"
+          },
+          {
+            "identifier": "shan.L012"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -103.1187551,
+            21.41242983
+          ],
+          [
+            -104.813,
+            40.0847
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 2,
+        "es": 2,
+        "en": 0,
+        "locations": [
+          "Juchipila, Zacatecas, México",
+          "Lincoln, Nebraska"
+        ],
+        "letters": [
+          {
+            "identifier": "shan.L050"
+          },
+          {
+            "identifier": "shan.L031"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -103.1187551,
+            21.41242983
+          ],
+          [
+            -96.7026,
+            40.8136
+          ]
+        ]
+      }
+    }
+  ]
+}

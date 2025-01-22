@@ -1,0 +1,150 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 10,
+        "es": 9,
+        "en": 1,
+        "locations": [
+          "Longmont, Colorado"
+        ],
+        "letters": [
+          {
+            "identifier": "shan.L014"
+          },
+          {
+            "identifier": "shan.L021"
+          },
+          {
+            "identifier": "shan.L032"
+          },
+          {
+            "identifier": "shan.L037"
+          },
+          {
+            "identifier": "shan.L034"
+          },
+          {
+            "identifier": "shan.L033"
+          },
+          {
+            "identifier": "shan.L035"
+          },
+          {
+            "identifier": "shan.L153"
+          },
+          {
+            "identifier": "shan.L038"
+          },
+          {
+            "identifier": "shan.L039"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.1019,
+          40.1672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 2,
+        "es": 2,
+        "en": 0,
+        "locations": [
+          "Denver, Colorado"
+        ],
+        "letters": [
+          {
+            "identifier": "shan.L019"
+          },
+          {
+            "identifier": "shan.L011"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.9903,
+          39.7392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "es": 1,
+        "en": 0,
+        "locations": [
+          "Chicago, Illinois"
+        ],
+        "letters": [
+          {
+            "identifier": "shan.L040"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6298,
+          41.8781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "es": 1,
+        "en": 0,
+        "locations": [
+          "Churintzio, Michoacán, México"
+        ],
+        "letters": [
+          {
+            "identifier": "shan.L036"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.0657864,
+          20.15837329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "es": 1,
+        "en": 0,
+        "locations": [
+          "Fort Lupton, Colorado"
+        ],
+        "letters": [
+          {
+            "identifier": "shan.L024"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.813,
+          40.0847
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,191 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "es": 0,
+        "en": 1,
+        "locations": [
+          "Lincoln, Nebraska",
+          "Palmyra, Nebraska"
+        ],
+        "letters": [
+          {
+            "identifier": "shan.L124"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -96.7026,
+            40.8136
+          ],
+          [
+            -96.3899,
+            40.7043
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 3,
+        "es": 0,
+        "en": 3,
+        "locations": [
+          "Havelock, Nebraska",
+          "Fort Lupton, Colorado"
+        ],
+        "letters": [
+          {
+            "identifier": "shan.L130"
+          },
+          {
+            "identifier": "shan.L131"
+          },
+          {
+            "identifier": "shan.L134"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -96.6291,
+            40.8517
+          ],
+          [
+            -104.813,
+            40.0847
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "es": 0,
+        "en": 1,
+        "locations": [
+          "Adams, Nebraska",
+          "Fort Lupton, Colorado"
+        ],
+        "letters": [
+          {
+            "identifier": "shan.L135"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -96.5095,
+            40.4611
+          ],
+          [
+            -104.813,
+            40.0847
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "es": 0,
+        "en": 1,
+        "locations": [
+          "Lincoln, Nebraska",
+          "Falls City, Nebraska"
+        ],
+        "letters": [
+          {
+            "identifier": "shan.L166"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -96.7026,
+            40.8136
+          ],
+          [
+            -95.6019,
+            40.0608
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "es": 0,
+        "en": 1,
+        "locations": [
+          "Bradshaw, Nebraska",
+          "Lincoln, Nebraska"
+        ],
+        "letters": [
+          {
+            "identifier": "shan.L073"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -97.7473,
+            40.8841
+          ],
+          [
+            -96.7026,
+            40.8136
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "es": 0,
+        "en": 1,
+        "locations": [
+          "Lincoln, Nebraska",
+          "Fort Lupton, Colorado"
+        ],
+        "letters": [
+          {
+            "identifier": "shan.L151"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -96.7026,
+            40.8136
+          ],
+          [
+            -104.813,
+            40.0847
+          ]
+        ]
+      }
+    }
+  ]
+}

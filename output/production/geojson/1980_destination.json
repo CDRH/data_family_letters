@@ -1,0 +1,28 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "es": 0,
+        "en": 1,
+        "locations": [
+          "Lincoln, Nebraska"
+        ],
+        "letters": [
+          {
+            "identifier": "shan.L157"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7026,
+          40.8136
+        ]
+      }
+    }
+  ]
+}

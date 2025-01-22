@@ -1,0 +1,320 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 2,
+        "es": 2,
+        "en": 0,
+        "locations": [
+          "Juchipila, Zacatecas, México",
+          "Longmont, Colorado"
+        ],
+        "letters": [
+          {
+            "identifier": "shan.L014"
+          },
+          {
+            "identifier": "shan.L021"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -103.1187551,
+            21.41242983
+          ],
+          [
+            -105.1019,
+            40.1672
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 2,
+        "es": 2,
+        "en": 0,
+        "locations": [
+          "Albuquerque, New Mexico",
+          "Denver, Colorado"
+        ],
+        "letters": [
+          {
+            "identifier": "shan.L019"
+          },
+          {
+            "identifier": "shan.L011"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.6504,
+            35.0844
+          ],
+          [
+            -104.9903,
+            39.7392
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 4,
+        "es": 4,
+        "en": 0,
+        "locations": [
+          "Albuquerque, New Mexico",
+          "Longmont, Colorado"
+        ],
+        "letters": [
+          {
+            "identifier": "shan.L032"
+          },
+          {
+            "identifier": "shan.L034"
+          },
+          {
+            "identifier": "shan.L033"
+          },
+          {
+            "identifier": "shan.L153"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.6504,
+            35.0844
+          ],
+          [
+            -105.1019,
+            40.1672
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "es": 1,
+        "en": 0,
+        "locations": [
+          "Huapamacato, Michoacán, México",
+          "Longmont, Colorado"
+        ],
+        "letters": [
+          {
+            "identifier": "shan.L037"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -102.0814848,
+            20.12116395
+          ],
+          [
+            -105.1019,
+            40.1672
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "es": 1,
+        "en": 0,
+        "locations": [
+          "Churintzio, Michoacán, México",
+          "Longmont, Colorado"
+        ],
+        "letters": [
+          {
+            "identifier": "shan.L035"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -102.0657864,
+            20.15837329
+          ],
+          [
+            -105.1019,
+            40.1672
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "es": 1,
+        "en": 0,
+        "locations": [
+          "Churintzio, Michoacán, México",
+          "Chicago, Illinois"
+        ],
+        "letters": [
+          {
+            "identifier": "shan.L040"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -102.0657864,
+            20.15837329
+          ],
+          [
+            -87.6298,
+            41.8781
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "es": 1,
+        "en": 0,
+        "locations": [
+          "Longmont, Colorado",
+          "Churintzio, Michoacán, México"
+        ],
+        "letters": [
+          {
+            "identifier": "shan.L036"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -105.1019,
+            40.1672
+          ],
+          [
+            -102.0657864,
+            20.15837329
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "es": 0,
+        "en": 1,
+        "locations": [
+          "Denver, Colorado",
+          "Longmont, Colorado"
+        ],
+        "letters": [
+          {
+            "identifier": "shan.L038"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -104.9903,
+            39.7392
+          ],
+          [
+            -105.1019,
+            40.1672
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "es": 1,
+        "en": 0,
+        "locations": [
+          "Chicago, Illinois",
+          "Longmont, Colorado"
+        ],
+        "letters": [
+          {
+            "identifier": "shan.L039"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -87.6298,
+            41.8781
+          ],
+          [
+            -105.1019,
+            40.1672
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "es": 1,
+        "en": 0,
+        "locations": [
+          "Juchipila, Zacatecas, México",
+          "Fort Lupton, Colorado"
+        ],
+        "letters": [
+          {
+            "identifier": "shan.L024"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -103.1187551,
+            21.41242983
+          ],
+          [
+            -104.813,
+            40.0847
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "es": 1,
+        "en": 0,
+        "locations": [
+          "Ecuandureo, Michoacán, México"
+        ],
+        "letters": [
+          {
+            "identifier": "shan.L001"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.1946038,
+          20.163398137317337
+        ]
+      }
+    }
+  ]
+}

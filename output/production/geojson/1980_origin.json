@@ -1,0 +1,28 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "es": 0,
+        "en": 1,
+        "locations": [
+          "Albuquerque, New Mexico"
+        ],
+        "letters": [
+          {
+            "identifier": "shan.L157"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.6504,
+          35.0844
+        ]
+      }
+    }
+  ]
+}

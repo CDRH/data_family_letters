@@ -1,0 +1,352 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 3,
+        "es": 0,
+        "en": 3,
+        "locations": [
+          "Adams, Nebraska"
+        ],
+        "letters": [
+          {
+            "identifier": "shan.L136"
+          },
+          {
+            "identifier": "shan.L135"
+          },
+          {
+            "identifier": "shan.L137"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.5095,
+          40.4611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 35,
+        "es": 30,
+        "en": 5,
+        "locations": [
+          "Fort Lupton, Colorado"
+        ],
+        "letters": [
+          {
+            "identifier": "shan.L163"
+          },
+          {
+            "identifier": "shan.L161"
+          },
+          {
+            "identifier": "shan.L223"
+          },
+          {
+            "identifier": "shan.L224"
+          },
+          {
+            "identifier": "shan.L225"
+          },
+          {
+            "identifier": "shan.L075"
+          },
+          {
+            "identifier": "shan.L076"
+          },
+          {
+            "identifier": "shan.L156"
+          },
+          {
+            "identifier": "shan.L078"
+          },
+          {
+            "identifier": "shan.L079"
+          },
+          {
+            "identifier": "shan.L080"
+          },
+          {
+            "identifier": "shan.L081"
+          },
+          {
+            "identifier": "shan.L082"
+          },
+          {
+            "identifier": "shan.L083"
+          },
+          {
+            "identifier": "shan.L084"
+          },
+          {
+            "identifier": "shan.L086"
+          },
+          {
+            "identifier": "shan.L087"
+          },
+          {
+            "identifier": "shan.L200"
+          },
+          {
+            "identifier": "shan.L196"
+          },
+          {
+            "identifier": "shan.L197"
+          },
+          {
+            "identifier": "shan.L088"
+          },
+          {
+            "identifier": "shan.L089"
+          },
+          {
+            "identifier": "shan.L090"
+          },
+          {
+            "identifier": "shan.L091"
+          },
+          {
+            "identifier": "shan.L092"
+          },
+          {
+            "identifier": "shan.L094"
+          },
+          {
+            "identifier": "shan.L095"
+          },
+          {
+            "identifier": "shan.L096"
+          },
+          {
+            "identifier": "shan.L097"
+          },
+          {
+            "identifier": "shan.L221"
+          },
+          {
+            "identifier": "shan.L098"
+          },
+          {
+            "identifier": "shan.L100"
+          },
+          {
+            "identifier": "shan.L101"
+          },
+          {
+            "identifier": "shan.L102"
+          },
+          {
+            "identifier": "shan.L103"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.813,
+          40.0847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "es": 0,
+        "en": 1,
+        "locations": [
+          "Lincoln, Nebraska"
+        ],
+        "letters": [
+          {
+            "identifier": "shan.L166"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7026,
+          40.8136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "es": 0,
+        "en": 0,
+        "locations": [
+          "Mexicali, Baja California, México"
+        ],
+        "letters": [
+          {
+            "identifier": "shan.L055"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.4749784,
+          32.64017354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 2,
+        "es": 0,
+        "en": 2,
+        "locations": [
+          "Berwyn, Illinois"
+        ],
+        "letters": [
+          {
+            "identifier": "shan.L165"
+          },
+          {
+            "identifier": "shan.L164"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7937,
+          41.8506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 3,
+        "es": 3,
+        "en": 0,
+        "locations": [
+          "Juchipila, Zacatecas, México"
+        ],
+        "letters": [
+          {
+            "identifier": "shan.L025"
+          },
+          {
+            "identifier": "shan.L050"
+          },
+          {
+            "identifier": "shan.L026"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.1187551,
+          21.41242983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "es": 0,
+        "en": 1,
+        "locations": [
+          "La Grange, Illinois"
+        ],
+        "letters": [
+          {
+            "identifier": "shan.L148"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8692,
+          41.805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "es": 0,
+        "en": 1,
+        "locations": [
+          "Denver, Colorado"
+        ],
+        "letters": [
+          {
+            "identifier": "shan.L085"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.9903,
+          39.7392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "es": 0,
+        "en": 1,
+        "locations": [
+          "Bradshaw, Nebraska"
+        ],
+        "letters": [
+          {
+            "identifier": "shan.L073"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7473,
+          40.8841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "es": 0,
+        "en": 1,
+        "locations": [
+          "Phoenix, Arizona"
+        ],
+        "letters": [
+          {
+            "identifier": "shan.L074"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.074,
+          33.4484
+        ]
+      }
+    }
+  ]
+}

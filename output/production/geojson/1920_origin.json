@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "es": 1,
+        "en": 0,
+        "locations": [
+          "Rock Springs, Wyoming"
+        ],
+        "letters": [
+          {
+            "identifier": "shan.L002"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.2029,
+          41.5875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 4,
+        "es": 4,
+        "en": 0,
+        "locations": [
+          "Huapamacato, Michoacán, México"
+        ],
+        "letters": [
+          {
+            "identifier": "shan.L006"
+          },
+          {
+            "identifier": "shan.L005"
+          },
+          {
+            "identifier": "shan.L007"
+          },
+          {
+            "identifier": "shan.L004"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.0814848,
+          20.12116395
+        ]
+      }
+    }
+  ]
+}

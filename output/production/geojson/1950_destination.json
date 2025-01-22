@@ -1,0 +1,190 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 4,
+        "es": 2,
+        "en": 1,
+        "locations": [
+          "Fort Lupton, Colorado"
+        ],
+        "letters": [
+          {
+            "identifier": "shan.L135"
+          },
+          {
+            "identifier": "shan.L055"
+          },
+          {
+            "identifier": "shan.L025"
+          },
+          {
+            "identifier": "shan.L026"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.813,
+          40.0847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 5,
+        "es": 0,
+        "en": 5,
+        "locations": [
+          "Rulo, Nebraska"
+        ],
+        "letters": [
+          {
+            "identifier": "shan.L163"
+          },
+          {
+            "identifier": "shan.L161"
+          },
+          {
+            "identifier": "shan.L223"
+          },
+          {
+            "identifier": "shan.L224"
+          },
+          {
+            "identifier": "shan.L225"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4293,
+          40.0525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "es": 0,
+        "en": 1,
+        "locations": [
+          "Falls City, Nebraska"
+        ],
+        "letters": [
+          {
+            "identifier": "shan.L166"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6019,
+          40.0608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 25,
+        "es": 20,
+        "en": 5,
+        "locations": [
+          "Lincoln, Nebraska"
+        ],
+        "letters": [
+          {
+            "identifier": "shan.L075"
+          },
+          {
+            "identifier": "shan.L165"
+          },
+          {
+            "identifier": "shan.L164"
+          },
+          {
+            "identifier": "shan.L082"
+          },
+          {
+            "identifier": "shan.L050"
+          },
+          {
+            "identifier": "shan.L083"
+          },
+          {
+            "identifier": "shan.L084"
+          },
+          {
+            "identifier": "shan.L085"
+          },
+          {
+            "identifier": "shan.L086"
+          },
+          {
+            "identifier": "shan.L087"
+          },
+          {
+            "identifier": "shan.L200"
+          },
+          {
+            "identifier": "shan.L073"
+          },
+          {
+            "identifier": "shan.L074"
+          },
+          {
+            "identifier": "shan.L196"
+          },
+          {
+            "identifier": "shan.L197"
+          },
+          {
+            "identifier": "shan.L088"
+          },
+          {
+            "identifier": "shan.L089"
+          },
+          {
+            "identifier": "shan.L094"
+          },
+          {
+            "identifier": "shan.L096"
+          },
+          {
+            "identifier": "shan.L097"
+          },
+          {
+            "identifier": "shan.L221"
+          },
+          {
+            "identifier": "shan.L098"
+          },
+          {
+            "identifier": "shan.L100"
+          },
+          {
+            "identifier": "shan.L101"
+          },
+          {
+            "identifier": "shan.L103"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7026,
+          40.8136
+        ]
+      }
+    }
+  ]
+}

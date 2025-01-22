@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 4,
+        "es": 4,
+        "en": 0,
+        "locations": [
+          "Rock Springs, Wyoming"
+        ],
+        "letters": [
+          {
+            "identifier": "shan.L006"
+          },
+          {
+            "identifier": "shan.L005"
+          },
+          {
+            "identifier": "shan.L007"
+          },
+          {
+            "identifier": "shan.L004"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.2029,
+          41.5875
+        ]
+      }
+    }
+  ]
+}

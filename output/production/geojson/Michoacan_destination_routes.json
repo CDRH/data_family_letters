@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "es": 1,
+        "en": 0,
+        "locations": [
+          "Longmont, Colorado",
+          "Churintzio, Michoacán, México"
+        ],
+        "letters": [
+          {
+            "identifier": "shan.L036"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -105.1019,
+            40.1672
+          ],
+          [
+            -102.0657864,
+            20.15837329
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 2,
+        "es": 2,
+        "en": 0,
+        "locations": [
+          "Los Angeles, California"
+        ],
+        "letters": [
+          {
+            "identifier": "shan.L046"
+          },
+          {
+            "identifier": "shan.L047"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2437,
+          34.0522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 8,
+        "es": 4,
+        "en": 4,
+        "locations": [
+          "Fort Lupton, Colorado"
+        ],
+        "letters": [
+          {
+            "identifier": "shan.L120"
+          },
+          {
+            "identifier": "shan.L213"
+          },
+          {
+            "identifier": "shan.L128"
+          },
+          {
+            "identifier": "shan.L155"
+          },
+          {
+            "identifier": "shan.L214"
+          },
+          {
+            "identifier": "shan.L127"
+          },
+          {
+            "identifier": "shan.L048"
+          },
+          {
+            "identifier": "shan.L162"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.813,
+          40.0847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 2,
+        "es": 1,
+        "en": 1,
+        "locations": [
+          "Tucson, Arizona"
+        ],
+        "letters": [
+          {
+            "identifier": "shan.L160"
+          },
+          {
+            "identifier": "shan.L129"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.9747,
+          32.2226
+        ]
+      }
+    }
+  ]
+}

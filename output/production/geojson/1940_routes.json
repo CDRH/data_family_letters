@@ -1,0 +1,317 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "es": 1,
+        "en": 0,
+        "locations": [
+          "Mexicali, Baja California, México",
+          "Fort Lupton, Colorado"
+        ],
+        "letters": [
+          {
+            "identifier": "shan.L023"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -115.4749784,
+            32.64017354
+          ],
+          [
+            -104.813,
+            40.0847
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 2,
+        "es": 2,
+        "en": 0,
+        "locations": [
+          "Juchipila, Zacatecas, México",
+          "Fort Lupton, Colorado"
+        ],
+        "letters": [
+          {
+            "identifier": "shan.L022"
+          },
+          {
+            "identifier": "shan.L027"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -103.1187551,
+            21.41242983
+          ],
+          [
+            -104.813,
+            40.0847
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "es": 0,
+        "en": 1,
+        "locations": [
+          "Erie, Colorado",
+          "Fort Lupton, Colorado"
+        ],
+        "letters": [
+          {
+            "identifier": "shan.L041"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -105.05,
+            40.0503
+          ],
+          [
+            -104.813,
+            40.0847
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "es": 0,
+        "en": 1,
+        "locations": [
+          "Lincoln, Nebraska",
+          "Palmyra, Nebraska"
+        ],
+        "letters": [
+          {
+            "identifier": "shan.L124"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -96.7026,
+            40.8136
+          ],
+          [
+            -96.3899,
+            40.7043
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "es": 1,
+        "en": 0,
+        "locations": [
+          "Churintzio, Michoacán, México",
+          "Denver, Colorado"
+        ],
+        "letters": [
+          {
+            "identifier": "shan.L042"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -102.0657864,
+            20.15837329
+          ],
+          [
+            -104.9903,
+            39.7392
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "es": 1,
+        "en": 0,
+        "locations": [
+          "Huapamacato, Michoacán, México",
+          "Denver, Colorado"
+        ],
+        "letters": [
+          {
+            "identifier": "shan.L043"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -102.0814848,
+            20.12116395
+          ],
+          [
+            -104.9903,
+            39.7392
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "es": 0,
+        "en": 1,
+        "locations": [
+          "France",
+          "Denver, Colorado"
+        ],
+        "letters": [
+          {
+            "identifier": "shan.L222"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.854997656,
+            49.36674089
+          ],
+          [
+            -104.9903,
+            39.7392
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 3,
+        "es": 0,
+        "en": 3,
+        "locations": [
+          "Havelock, Nebraska",
+          "Fort Lupton, Colorado"
+        ],
+        "letters": [
+          {
+            "identifier": "shan.L130"
+          },
+          {
+            "identifier": "shan.L131"
+          },
+          {
+            "identifier": "shan.L134"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -96.6291,
+            40.8517
+          ],
+          [
+            -104.813,
+            40.0847
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 2,
+        "es": 0,
+        "en": 2,
+        "locations": [
+          "Austin, Texas",
+          "Fort Lupton, Colorado"
+        ],
+        "letters": [
+          {
+            "identifier": "shan.L132"
+          },
+          {
+            "identifier": "shan.L133"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -97.7431,
+            30.2672
+          ],
+          [
+            -104.813,
+            40.0847
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "es": 1,
+        "en": 0,
+        "locations": [
+          "Huapamacato, Michoacán, México",
+          "Fort Lupton, Colorado"
+        ],
+        "letters": [
+          {
+            "identifier": "shan.L168"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -102.0814848,
+            20.12116395
+          ],
+          [
+            -104.813,
+            40.0847
+          ]
+        ]
+      }
+    }
+  ]
+}

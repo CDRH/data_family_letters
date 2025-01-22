@@ -1,0 +1,250 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "es": 1,
+        "en": 0,
+        "locations": [
+          "Mexicali, Baja California, México"
+        ],
+        "letters": [
+          {
+            "identifier": "shan.L023"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.4749784,
+          32.64017354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 2,
+        "es": 2,
+        "en": 0,
+        "locations": [
+          "Juchipila, Zacatecas, México"
+        ],
+        "letters": [
+          {
+            "identifier": "shan.L022"
+          },
+          {
+            "identifier": "shan.L027"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.1187551,
+          21.41242983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "es": 0,
+        "en": 1,
+        "locations": [
+          "Erie, Colorado"
+        ],
+        "letters": [
+          {
+            "identifier": "shan.L041"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.05,
+          40.0503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "es": 0,
+        "en": 1,
+        "locations": [
+          "Lincoln, Nebraska"
+        ],
+        "letters": [
+          {
+            "identifier": "shan.L124"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7026,
+          40.8136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "es": 0,
+        "en": 1,
+        "locations": [
+          "Socorro, New Mexico"
+        ],
+        "letters": [
+          {
+            "identifier": "shan.L072"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.8914,
+          34.0584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "es": 1,
+        "en": 0,
+        "locations": [
+          "Churintzio, Michoacán, México"
+        ],
+        "letters": [
+          {
+            "identifier": "shan.L042"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.0657864,
+          20.15837329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 2,
+        "es": 2,
+        "en": 0,
+        "locations": [
+          "Huapamacato, Michoacán, México"
+        ],
+        "letters": [
+          {
+            "identifier": "shan.L043"
+          },
+          {
+            "identifier": "shan.L168"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.0814848,
+          20.12116395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "es": 0,
+        "en": 1,
+        "locations": [
+          "France"
+        ],
+        "letters": [
+          {
+            "identifier": "shan.L222"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.854997656,
+          49.36674089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 3,
+        "es": 0,
+        "en": 3,
+        "locations": [
+          "Havelock, Nebraska"
+        ],
+        "letters": [
+          {
+            "identifier": "shan.L130"
+          },
+          {
+            "identifier": "shan.L131"
+          },
+          {
+            "identifier": "shan.L134"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.6291,
+          40.8517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 2,
+        "es": 0,
+        "en": 2,
+        "locations": [
+          "Austin, Texas"
+        ],
+        "letters": [
+          {
+            "identifier": "shan.L132"
+          },
+          {
+            "identifier": "shan.L133"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7431,
+          30.2672
+        ]
+      }
+    }
+  ]
+}

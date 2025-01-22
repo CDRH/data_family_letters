@@ -1,0 +1,932 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "es": 1,
+        "en": 0,
+        "locations": [
+          "Ecuandureo, Michoacán, México"
+        ],
+        "letters": [
+          {
+            "identifier": "shan.L001"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.1946038,
+          20.163398137317337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "es": 1,
+        "en": 0,
+        "locations": [
+          "Rock Springs, Wyoming"
+        ],
+        "letters": [
+          {
+            "identifier": "shan.L002"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.2029,
+          41.5875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 7,
+        "es": 7,
+        "en": 0,
+        "locations": [
+          "Huapamacato, Michoacán, México"
+        ],
+        "letters": [
+          {
+            "identifier": "shan.L006"
+          },
+          {
+            "identifier": "shan.L005"
+          },
+          {
+            "identifier": "shan.L007"
+          },
+          {
+            "identifier": "shan.L004"
+          },
+          {
+            "identifier": "shan.L037"
+          },
+          {
+            "identifier": "shan.L043"
+          },
+          {
+            "identifier": "shan.L168"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.0814848,
+          20.12116395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 14,
+        "es": 14,
+        "en": 0,
+        "locations": [
+          "Juchipila, Zacatecas, México"
+        ],
+        "letters": [
+          {
+            "identifier": "shan.L014"
+          },
+          {
+            "identifier": "shan.L021"
+          },
+          {
+            "identifier": "shan.L024"
+          },
+          {
+            "identifier": "shan.L022"
+          },
+          {
+            "identifier": "shan.L027"
+          },
+          {
+            "identifier": "shan.L025"
+          },
+          {
+            "identifier": "shan.L050"
+          },
+          {
+            "identifier": "shan.L026"
+          },
+          {
+            "identifier": "shan.L031"
+          },
+          {
+            "identifier": "shan.L028"
+          },
+          {
+            "identifier": "shan.L045"
+          },
+          {
+            "identifier": "shan.L029"
+          },
+          {
+            "identifier": "shan.L020"
+          },
+          {
+            "identifier": "shan.L012"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.1187551,
+          21.41242983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 9,
+        "es": 7,
+        "en": 2,
+        "locations": [
+          "Albuquerque, New Mexico"
+        ],
+        "letters": [
+          {
+            "identifier": "shan.L019"
+          },
+          {
+            "identifier": "shan.L011"
+          },
+          {
+            "identifier": "shan.L032"
+          },
+          {
+            "identifier": "shan.L034"
+          },
+          {
+            "identifier": "shan.L033"
+          },
+          {
+            "identifier": "shan.L153"
+          },
+          {
+            "identifier": "shan.L194"
+          },
+          {
+            "identifier": "shan.L157"
+          },
+          {
+            "identifier": "shan.L010"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.6504,
+          35.0844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 3,
+        "es": 3,
+        "en": 0,
+        "locations": [
+          "Churintzio, Michoacán, México"
+        ],
+        "letters": [
+          {
+            "identifier": "shan.L035"
+          },
+          {
+            "identifier": "shan.L040"
+          },
+          {
+            "identifier": "shan.L042"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.0657864,
+          20.15837329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "es": 1,
+        "en": 0,
+        "locations": [
+          "Longmont, Colorado"
+        ],
+        "letters": [
+          {
+            "identifier": "shan.L036"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.1019,
+          40.1672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 2,
+        "es": 0,
+        "en": 2,
+        "locations": [
+          "Denver, Colorado"
+        ],
+        "letters": [
+          {
+            "identifier": "shan.L038"
+          },
+          {
+            "identifier": "shan.L085"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.9903,
+          39.7392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "es": 1,
+        "en": 0,
+        "locations": [
+          "Chicago, Illinois"
+        ],
+        "letters": [
+          {
+            "identifier": "shan.L039"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6298,
+          41.8781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 2,
+        "es": 1,
+        "en": 0,
+        "locations": [
+          "Mexicali, Baja California, México"
+        ],
+        "letters": [
+          {
+            "identifier": "shan.L023"
+          },
+          {
+            "identifier": "shan.L055"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.4749784,
+          32.64017354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "es": 0,
+        "en": 1,
+        "locations": [
+          "Erie, Colorado"
+        ],
+        "letters": [
+          {
+            "identifier": "shan.L041"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.05,
+          40.0503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 7,
+        "es": 1,
+        "en": 6,
+        "locations": [
+          "Lincoln, Nebraska"
+        ],
+        "letters": [
+          {
+            "identifier": "shan.L124"
+          },
+          {
+            "identifier": "shan.L166"
+          },
+          {
+            "identifier": "shan.L044"
+          },
+          {
+            "identifier": "shan.L149"
+          },
+          {
+            "identifier": "shan.L150"
+          },
+          {
+            "identifier": "shan.L151"
+          },
+          {
+            "identifier": "shan.L152"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7026,
+          40.8136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "es": 0,
+        "en": 1,
+        "locations": [
+          "Socorro, New Mexico"
+        ],
+        "letters": [
+          {
+            "identifier": "shan.L072"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.8914,
+          34.0584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "es": 0,
+        "en": 1,
+        "locations": [
+          "France"
+        ],
+        "letters": [
+          {
+            "identifier": "shan.L222"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.854997656,
+          49.36674089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 3,
+        "es": 0,
+        "en": 3,
+        "locations": [
+          "Havelock, Nebraska"
+        ],
+        "letters": [
+          {
+            "identifier": "shan.L130"
+          },
+          {
+            "identifier": "shan.L131"
+          },
+          {
+            "identifier": "shan.L134"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.6291,
+          40.8517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 2,
+        "es": 0,
+        "en": 2,
+        "locations": [
+          "Austin, Texas"
+        ],
+        "letters": [
+          {
+            "identifier": "shan.L132"
+          },
+          {
+            "identifier": "shan.L133"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7431,
+          30.2672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 3,
+        "es": 0,
+        "en": 3,
+        "locations": [
+          "Adams, Nebraska"
+        ],
+        "letters": [
+          {
+            "identifier": "shan.L136"
+          },
+          {
+            "identifier": "shan.L135"
+          },
+          {
+            "identifier": "shan.L137"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.5095,
+          40.4611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 81,
+        "es": 71,
+        "en": 10,
+        "locations": [
+          "Fort Lupton, Colorado"
+        ],
+        "letters": [
+          {
+            "identifier": "shan.L163"
+          },
+          {
+            "identifier": "shan.L161"
+          },
+          {
+            "identifier": "shan.L223"
+          },
+          {
+            "identifier": "shan.L224"
+          },
+          {
+            "identifier": "shan.L225"
+          },
+          {
+            "identifier": "shan.L075"
+          },
+          {
+            "identifier": "shan.L076"
+          },
+          {
+            "identifier": "shan.L156"
+          },
+          {
+            "identifier": "shan.L078"
+          },
+          {
+            "identifier": "shan.L079"
+          },
+          {
+            "identifier": "shan.L080"
+          },
+          {
+            "identifier": "shan.L081"
+          },
+          {
+            "identifier": "shan.L082"
+          },
+          {
+            "identifier": "shan.L083"
+          },
+          {
+            "identifier": "shan.L084"
+          },
+          {
+            "identifier": "shan.L086"
+          },
+          {
+            "identifier": "shan.L087"
+          },
+          {
+            "identifier": "shan.L200"
+          },
+          {
+            "identifier": "shan.L196"
+          },
+          {
+            "identifier": "shan.L197"
+          },
+          {
+            "identifier": "shan.L088"
+          },
+          {
+            "identifier": "shan.L089"
+          },
+          {
+            "identifier": "shan.L090"
+          },
+          {
+            "identifier": "shan.L091"
+          },
+          {
+            "identifier": "shan.L092"
+          },
+          {
+            "identifier": "shan.L094"
+          },
+          {
+            "identifier": "shan.L095"
+          },
+          {
+            "identifier": "shan.L096"
+          },
+          {
+            "identifier": "shan.L097"
+          },
+          {
+            "identifier": "shan.L221"
+          },
+          {
+            "identifier": "shan.L098"
+          },
+          {
+            "identifier": "shan.L100"
+          },
+          {
+            "identifier": "shan.L101"
+          },
+          {
+            "identifier": "shan.L102"
+          },
+          {
+            "identifier": "shan.L103"
+          },
+          {
+            "identifier": "shan.L104"
+          },
+          {
+            "identifier": "shan.L105"
+          },
+          {
+            "identifier": "shan.L198"
+          },
+          {
+            "identifier": "shan.L106"
+          },
+          {
+            "identifier": "shan.L201"
+          },
+          {
+            "identifier": "shan.L199"
+          },
+          {
+            "identifier": "shan.L216"
+          },
+          {
+            "identifier": "shan.L107"
+          },
+          {
+            "identifier": "shan.L108"
+          },
+          {
+            "identifier": "shan.L217"
+          },
+          {
+            "identifier": "shan.L109"
+          },
+          {
+            "identifier": "shan.L110"
+          },
+          {
+            "identifier": "shan.L202"
+          },
+          {
+            "identifier": "shan.L111"
+          },
+          {
+            "identifier": "shan.L113"
+          },
+          {
+            "identifier": "shan.L115"
+          },
+          {
+            "identifier": "shan.L030"
+          },
+          {
+            "identifier": "shan.L204"
+          },
+          {
+            "identifier": "shan.L125"
+          },
+          {
+            "identifier": "shan.L206"
+          },
+          {
+            "identifier": "shan.L208"
+          },
+          {
+            "identifier": "shan.L116"
+          },
+          {
+            "identifier": "shan.L215"
+          },
+          {
+            "identifier": "shan.L203"
+          },
+          {
+            "identifier": "shan.L218"
+          },
+          {
+            "identifier": "shan.L158"
+          },
+          {
+            "identifier": "shan.L209"
+          },
+          {
+            "identifier": "shan.L159"
+          },
+          {
+            "identifier": "shan.L117"
+          },
+          {
+            "identifier": "shan.L118"
+          },
+          {
+            "identifier": "shan.L119"
+          },
+          {
+            "identifier": "shan.L210"
+          },
+          {
+            "identifier": "shan.L219"
+          },
+          {
+            "identifier": "shan.L211"
+          },
+          {
+            "identifier": "shan.L220"
+          },
+          {
+            "identifier": "shan.L212"
+          },
+          {
+            "identifier": "shan.L207"
+          },
+          {
+            "identifier": "shan.L120"
+          },
+          {
+            "identifier": "shan.L213"
+          },
+          {
+            "identifier": "shan.L128"
+          },
+          {
+            "identifier": "shan.L155"
+          },
+          {
+            "identifier": "shan.L214"
+          },
+          {
+            "identifier": "shan.L127"
+          },
+          {
+            "identifier": "shan.L048"
+          },
+          {
+            "identifier": "shan.L162"
+          },
+          {
+            "identifier": "shan.L077"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.813,
+          40.0847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 2,
+        "es": 0,
+        "en": 2,
+        "locations": [
+          "Berwyn, Illinois"
+        ],
+        "letters": [
+          {
+            "identifier": "shan.L165"
+          },
+          {
+            "identifier": "shan.L164"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7937,
+          41.8506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "es": 0,
+        "en": 1,
+        "locations": [
+          "La Grange, Illinois"
+        ],
+        "letters": [
+          {
+            "identifier": "shan.L148"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8692,
+          41.805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "es": 0,
+        "en": 1,
+        "locations": [
+          "Bradshaw, Nebraska"
+        ],
+        "letters": [
+          {
+            "identifier": "shan.L073"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7473,
+          40.8841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 1,
+        "es": 0,
+        "en": 1,
+        "locations": [
+          "Phoenix, Arizona"
+        ],
+        "letters": [
+          {
+            "identifier": "shan.L074"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.074,
+          33.4484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 2,
+        "es": 2,
+        "en": 0,
+        "locations": [
+          "Los Angeles, California"
+        ],
+        "letters": [
+          {
+            "identifier": "shan.L046"
+          },
+          {
+            "identifier": "shan.L047"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2437,
+          34.0522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "count": 2,
+        "es": 1,
+        "en": 1,
+        "locations": [
+          "Tucson, Arizona"
+        ],
+        "letters": [
+          {
+            "identifier": "shan.L160"
+          },
+          {
+            "identifier": "shan.L129"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.9747,
+          32.2226
+        ]
+      }
+    }
+  ]
+}
