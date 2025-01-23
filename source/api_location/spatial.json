@@ -8,7 +8,7 @@
     "title": "Family portrait, possibly Samaniego family",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "México",
         "city": null,
         "coordinates": {
@@ -21,7 +21,7 @@
       }
     ],
     "category": "Image",
-    "subcategory": "Photograph",
+    "category2": "Photograph",
     "highlight": {
     }
   },
@@ -34,7 +34,7 @@
     "title": "Letter from Rafaela Arroyo viuda de Torres to Maximino Torres, August 21, 1919",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "México",
         "city": "Ecuandureo",
         "coordinates": {
@@ -46,7 +46,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Knobles",
         "coordinates": {
@@ -59,7 +59,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -72,7 +72,7 @@
     "title": "Santos Baros Schubert and Lenore Baca",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Albuquerque",
         "coordinates": {
@@ -85,7 +85,7 @@
       }
     ],
     "category": "Image",
-    "subcategory": "Photograph",
+    "category2": "Photograph",
     "highlight": {
     }
   },
@@ -98,7 +98,7 @@
     "title": "Letter from Maximino Torres to Reynaldo Hurtado, February 5, 1923",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Rock Springs",
         "coordinates": {
@@ -112,7 +112,7 @@
       null
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -125,7 +125,7 @@
     "title": "Letter from Maximino Torres to Reynaldo Hurtado, March 27, 1923",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Rock Springs",
         "coordinates": {
@@ -137,7 +137,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "México",
         "city": "Ecuandureo",
         "coordinates": {
@@ -150,7 +150,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Envelope",
+    "category2": "Envelope",
     "highlight": {
     }
   },
@@ -163,7 +163,7 @@
     "title": "Letter from Arroyo to Maximino Torres, March 18, 1926",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "México",
         "city": "Huapamacato",
         "coordinates": {
@@ -175,7 +175,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Rock Springs",
         "coordinates": {
@@ -188,7 +188,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -201,7 +201,7 @@
     "title": "Letter from Julia de Arroyo to Maximino Torres, March 18, 1926",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "México",
         "city": "Huapamacato",
         "coordinates": {
@@ -213,7 +213,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Rock Springs",
         "coordinates": {
@@ -226,7 +226,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -242,7 +242,7 @@
       null
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -255,7 +255,7 @@
     "title": "Letter from Clemente Torres to Maximino Torres, May 28, 1927",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "México",
         "city": "Huapamacato",
         "coordinates": {
@@ -267,7 +267,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Rock Springs",
         "coordinates": {
@@ -280,7 +280,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -293,7 +293,7 @@
     "title": "Letter from Clemente Torres to Maximino Torres, June 25, 1927",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "México",
         "city": "Huapamacato",
         "coordinates": {
@@ -305,7 +305,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Rock Springs",
         "coordinates": {
@@ -318,7 +318,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -331,7 +331,7 @@
     "title": "Jesusita Baros Torres, Santos Baros and Jesús Baros",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Albuquerque",
         "coordinates": {
@@ -344,33 +344,7 @@
       }
     ],
     "category": "Image",
-    "subcategory": "Photograph",
-    "highlight": {
-    }
-  },
-  {
-    "date": "1930-01-01",
-    "identifier": "shan.P104",
-    "title_es_k": "Santos Baros Schubert",
-    "date_display": "1930s (circa)",
-    "language": "n/a",
-    "title": "Santos Baros Schubert",
-    "spatial": [
-      {
-        "place_name": null,
-        "country": "United States of America",
-        "city": "Albuquerque",
-        "coordinates": {
-          "lon": -106.6504,
-          "lat": 35.0844
-        },
-        "state": "New Mexico",
-        "title": "Albuquerque, New Mexico",
-        "type": null
-      }
-    ],
-    "category": "Image",
-    "subcategory": "Photograph",
+    "category2": "Photograph",
     "highlight": {
     }
   },
@@ -383,7 +357,7 @@
     "title": "Jesusita Baros Torres",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Albuquerque",
         "coordinates": {
@@ -396,7 +370,33 @@
       }
     ],
     "category": "Image",
-    "subcategory": "Photograph",
+    "category2": "Photograph",
+    "highlight": {
+    }
+  },
+  {
+    "date": "1930-01-01",
+    "identifier": "shan.P104",
+    "title_es_k": "Santos Baros Schubert",
+    "date_display": "1930s (circa)",
+    "language": "n/a",
+    "title": "Santos Baros Schubert",
+    "spatial": [
+      {
+        "short_name": null,
+        "country": "United States of America",
+        "city": "Albuquerque",
+        "coordinates": {
+          "lon": -106.6504,
+          "lat": 35.0844
+        },
+        "state": "New Mexico",
+        "title": "Albuquerque, New Mexico",
+        "type": null
+      }
+    ],
+    "category": "Image",
+    "category2": "Photograph",
     "highlight": {
     }
   },
@@ -409,7 +409,7 @@
     "title": "Jesusita Baros Torres, Demetrio Flemate and Faustin Villanueva",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Albuquerque",
         "coordinates": {
@@ -422,7 +422,7 @@
       }
     ],
     "category": "Image",
-    "subcategory": "Photograph",
+    "category2": "Photograph",
     "highlight": {
     }
   },
@@ -435,7 +435,7 @@
     "title": "Letter from José Jesús Samaniego to Jesusita BarosTorres, December 2, 1934",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
@@ -447,7 +447,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Longmont",
         "coordinates": {
@@ -460,7 +460,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -473,7 +473,7 @@
     "title": "Pauline Hernandez",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Albuquerque",
         "coordinates": {
@@ -486,7 +486,7 @@
       }
     ],
     "category": "Image",
-    "subcategory": "Photograph",
+    "category2": "Photograph",
     "highlight": {
     }
   },
@@ -499,7 +499,7 @@
     "title": "Letter from Unknown to Jesusita Baros Torres, 1937",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Albuquerque",
         "coordinates": {
@@ -511,7 +511,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Basin",
         "coordinates": {
@@ -524,7 +524,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Envelope",
+    "category2": "Envelope",
     "highlight": {
     }
   },
@@ -537,7 +537,7 @@
     "title": "Jesusita Baros Torres and Faustin Villanueva",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Albuquerque",
         "coordinates": {
@@ -550,7 +550,7 @@
       }
     ],
     "category": "Image",
-    "subcategory": "Photograph",
+    "category2": "Photograph",
     "highlight": {
     }
   },
@@ -563,7 +563,7 @@
     "title": "Faustino Villanueva",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Albuquerque",
         "coordinates": {
@@ -576,7 +576,7 @@
       }
     ],
     "category": "Image",
-    "subcategory": "Photograph",
+    "category2": "Photograph",
     "highlight": {
     }
   },
@@ -589,7 +589,7 @@
     "title": "Group of unknown migrant workers",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Basin",
         "coordinates": {
@@ -602,7 +602,7 @@
       }
     ],
     "category": "Image",
-    "subcategory": "Photograph",
+    "category2": "Photograph",
     "highlight": {
     }
   },
@@ -615,7 +615,7 @@
     "title": "Jess Jesús Baros with farmers",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Basin",
         "coordinates": {
@@ -628,7 +628,7 @@
       }
     ],
     "category": "Image",
-    "subcategory": "Photograph",
+    "category2": "Photograph",
     "highlight": {
     }
   },
@@ -641,7 +641,7 @@
     "title": "Letter from L. Villanueva to Jesusita Baros Torres, July 8, 1937",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Albuquerque",
         "coordinates": {
@@ -653,7 +653,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Denver",
         "coordinates": {
@@ -666,7 +666,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Envelope",
+    "category2": "Envelope",
     "highlight": {
     }
   },
@@ -679,7 +679,7 @@
     "title": "Letter from Felipita N. Baca to Jesusita Baros Torres, July 31, 1937",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Albuquerque",
         "coordinates": {
@@ -691,7 +691,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Denver",
         "coordinates": {
@@ -704,7 +704,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -717,7 +717,7 @@
     "title": "Letter from Unknown to Jesusita Baros Torres, August 20, 1937",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Albuquerque",
         "coordinates": {
@@ -729,7 +729,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Denver",
         "coordinates": {
@@ -742,7 +742,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Envelope",
+    "category2": "Envelope",
     "highlight": {
     }
   },
@@ -755,7 +755,7 @@
     "title": "Letter from Unknown to Jesusita Baros Torres, August 29, 1937",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Albuquerque",
         "coordinates": {
@@ -767,7 +767,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Denver",
         "coordinates": {
@@ -780,7 +780,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -793,7 +793,7 @@
     "title": "Letter from Jo Sanchez to Jesusita Baros Torres, September 2, 1937",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Albuquerque",
         "coordinates": {
@@ -805,7 +805,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Denver",
         "coordinates": {
@@ -818,7 +818,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Envelope",
+    "category2": "Envelope",
     "highlight": {
     }
   },
@@ -831,7 +831,7 @@
     "title": "Faustin Villanueva",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Albuquerque",
         "coordinates": {
@@ -844,7 +844,7 @@
       }
     ],
     "category": "Image",
-    "subcategory": "Photograph",
+    "category2": "Photograph",
     "highlight": {
     }
   },
@@ -857,7 +857,7 @@
     "title": "Letter from Unknown to Jesusita Baros Torres, September 19, 1937",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Albuquerque",
         "coordinates": {
@@ -869,7 +869,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Denver",
         "coordinates": {
@@ -882,7 +882,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Envelope",
+    "category2": "Envelope",
     "highlight": {
     }
   },
@@ -895,7 +895,7 @@
     "title": "Letter from Unknown to Santos Baros Schubert, October 4, 1937",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Albuquerque",
         "coordinates": {
@@ -907,7 +907,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Denver",
         "coordinates": {
@@ -920,7 +920,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Envelope",
+    "category2": "Envelope",
     "highlight": {
     }
   },
@@ -933,7 +933,7 @@
     "title": "Envelope from Unknown to Jesusita Baros Torres, January 4, 1938",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "México",
         "city": "Calvillo",
         "coordinates": {
@@ -945,7 +945,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Denver",
         "coordinates": {
@@ -958,7 +958,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Envelope",
+    "category2": "Envelope",
     "highlight": {
     }
   },
@@ -971,7 +971,7 @@
     "title": "Odelia Montoya",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Albuquerque",
         "coordinates": {
@@ -984,7 +984,7 @@
       }
     ],
     "category": "Image",
-    "subcategory": "Photograph",
+    "category2": "Photograph",
     "highlight": {
     }
   },
@@ -997,7 +997,7 @@
     "title": "Letter from Unknown to Santos Baros Schubert, January 25, 1938",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Albuquerque",
         "coordinates": {
@@ -1009,7 +1009,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Denver",
         "coordinates": {
@@ -1022,7 +1022,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Envelope",
+    "category2": "Envelope",
     "highlight": {
     }
   },
@@ -1035,7 +1035,7 @@
     "title": "Faustin Villanueva",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Albuquerque",
         "coordinates": {
@@ -1048,7 +1048,7 @@
       }
     ],
     "category": "Image",
-    "subcategory": "Photograph",
+    "category2": "Photograph",
     "highlight": {
     }
   },
@@ -1061,7 +1061,7 @@
     "title": "Envelope from José Jesús Samaniego to Jesusita Baros Torres, August 29, 1938",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
@@ -1073,7 +1073,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Longmont",
         "coordinates": {
@@ -1086,7 +1086,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Envelope",
+    "category2": "Envelope",
     "highlight": {
     }
   },
@@ -1099,7 +1099,7 @@
     "title": "Letter from José Jesús Samaniego to Jesusita Baros Torres, October 15, 1938",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
@@ -1111,7 +1111,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Longmont",
         "coordinates": {
@@ -1124,7 +1124,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -1137,7 +1137,7 @@
     "title": "Santos Baros Schubert",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Denver",
         "coordinates": {
@@ -1150,7 +1150,7 @@
       }
     ],
     "category": "Image",
-    "subcategory": "Photograph",
+    "category2": "Photograph",
     "highlight": {
     }
   },
@@ -1163,7 +1163,7 @@
     "title": "Helen Romero",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Brighton",
         "coordinates": {
@@ -1176,7 +1176,7 @@
       }
     ],
     "category": "Image",
-    "subcategory": "Photograph",
+    "category2": "Photograph",
     "highlight": {
     }
   },
@@ -1189,7 +1189,7 @@
     "title": "Letter from Felipita N. Baca to Jesusita Baros Torres, January 21, 1939",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Albuquerque",
         "coordinates": {
@@ -1201,7 +1201,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Longmont",
         "coordinates": {
@@ -1214,7 +1214,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -1227,7 +1227,7 @@
     "title": "Letter from Concepción Arroyo to Maximino Torres, January 28, 1939",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "México",
         "city": "Huapamacato",
         "coordinates": {
@@ -1239,7 +1239,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Longmont",
         "coordinates": {
@@ -1252,7 +1252,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -1265,7 +1265,7 @@
     "title": "Envelope from Demetrio Flemate to Jesusita Baros Torres, February 3, 1939",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
@@ -1277,7 +1277,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Longmont",
         "coordinates": {
@@ -1290,7 +1290,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Envelope",
+    "category2": "Envelope",
     "highlight": {
     }
   },
@@ -1303,7 +1303,7 @@
     "title": "Letter from Lucia Villanueva to Jesusita Baros Torres, February 4, 1939",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Albuquerque",
         "coordinates": {
@@ -1315,7 +1315,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Longmont",
         "coordinates": {
@@ -1328,7 +1328,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Envelope",
+    "category2": "Envelope",
     "highlight": {
     }
   },
@@ -1341,7 +1341,7 @@
     "title": "Letter from Felipita N. Baca to Jesusita Baros Torres, February 23, 1939",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Albuquerque",
         "coordinates": {
@@ -1353,7 +1353,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Longmont",
         "coordinates": {
@@ -1366,7 +1366,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -1379,7 +1379,7 @@
     "title": "Envelope from José Jesús Samaniego to Jesusita Baros Torres, February 23, 1939",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
@@ -1391,7 +1391,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Longmont",
         "coordinates": {
@@ -1404,7 +1404,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Envelope",
+    "category2": "Envelope",
     "highlight": {
     }
   },
@@ -1417,7 +1417,7 @@
     "title": "Letter from Felipita N. Baca to Jesusita Baros Torres, March 17, 1939",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Albuquerque",
         "coordinates": {
@@ -1429,7 +1429,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Longmont",
         "coordinates": {
@@ -1442,7 +1442,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -1455,7 +1455,7 @@
     "title": "Letter from Clemente Torres to Maximino Torres, March 25, 1939",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "México",
         "city": "Churintzio",
         "coordinates": {
@@ -1467,7 +1467,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Longmont",
         "coordinates": {
@@ -1480,7 +1480,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -1493,7 +1493,7 @@
     "title": "Letter from Reynaldo Hurtado to Maximino Torres, March 26, 1939",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Chicago",
         "coordinates": {
@@ -1505,7 +1505,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Longmont",
         "coordinates": {
@@ -1518,7 +1518,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Envelope",
+    "category2": "Envelope",
     "highlight": {
     }
   },
@@ -1531,7 +1531,7 @@
     "title": "Letter from Clemente Torres to Maximino Torres, April 7, 1939",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "México",
         "city": "Churintzio",
         "coordinates": {
@@ -1543,7 +1543,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Chicago",
         "coordinates": {
@@ -1556,7 +1556,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -1569,7 +1569,7 @@
     "title": "Letter from Felipita N. Baca to Jesusita Baros Torres, May 3, 1939",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Albuquerque",
         "coordinates": {
@@ -1581,7 +1581,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Longmont",
         "coordinates": {
@@ -1594,7 +1594,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Envelope",
+    "category2": "Envelope",
     "highlight": {
     }
   },
@@ -1607,7 +1607,7 @@
     "title": "Letter from Faustin Villanueva to Jesusita Baros Torres, May 14, 1939",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Albuquerque",
         "coordinates": {
@@ -1619,7 +1619,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Longmont",
         "coordinates": {
@@ -1632,7 +1632,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -1645,7 +1645,7 @@
     "title": "Letter from Ben Silva to Jesusita Baros Torres, May 26, 1939",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Brentwood",
         "coordinates": {
@@ -1657,7 +1657,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Longmont",
         "coordinates": {
@@ -1670,7 +1670,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Envelope",
+    "category2": "Envelope",
     "highlight": {
     }
   },
@@ -1683,7 +1683,7 @@
     "title": "Letter from Maximino Torres to Clemente Torres, June 19, 1939",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Longmont",
         "coordinates": {
@@ -1695,7 +1695,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "México",
         "city": "Churintzio",
         "coordinates": {
@@ -1708,7 +1708,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -1721,7 +1721,7 @@
     "title": "Letter from Mary Moreno to Santos Baros Schubert, June 20, 1939",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Denver",
         "coordinates": {
@@ -1733,7 +1733,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Longmont",
         "coordinates": {
@@ -1746,7 +1746,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -1759,7 +1759,7 @@
     "title": "Jess Jesús Baros, Santos Baros Schubert, Teresa Perez and her brothers, Jesusita Baros Torres, Mrs. Padillia, Mary Muñoz and John Muñoz",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Denver",
         "coordinates": {
@@ -1772,7 +1772,7 @@
       }
     ],
     "category": "Image",
-    "subcategory": "Photograph",
+    "category2": "Photograph",
     "highlight": {
     }
   },
@@ -1785,7 +1785,7 @@
     "title": "Letter from Demetrio Flemate to Jesusita Baros Torres, July 13, 1939",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Brentwood",
         "coordinates": {
@@ -1797,7 +1797,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Longmont",
         "coordinates": {
@@ -1810,7 +1810,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Envelope",
+    "category2": "Envelope",
     "highlight": {
     }
   },
@@ -1823,7 +1823,7 @@
     "title": "Letter from Jesusita Baros Torres to Demetrio Flemate, August 12, 1939",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Longmont",
         "coordinates": {
@@ -1835,7 +1835,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Stockton",
         "coordinates": {
@@ -1848,7 +1848,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Envelope",
+    "category2": "Envelope",
     "highlight": {
     }
   },
@@ -1861,7 +1861,7 @@
     "title": "Letter from Reynaldo Hurtado to Maximino Torres, September 10, 1939",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Chicago",
         "coordinates": {
@@ -1873,7 +1873,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Longmont",
         "coordinates": {
@@ -1886,7 +1886,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -1899,7 +1899,7 @@
     "title": "Letter from Unknown to Jesusita Baros Torres, September 29, 1939",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Albuquerque",
         "coordinates": {
@@ -1911,7 +1911,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Longmont",
         "coordinates": {
@@ -1924,7 +1924,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Envelope",
+    "category2": "Envelope",
     "highlight": {
     }
   },
@@ -1937,7 +1937,7 @@
     "title": "Santos Baros Schubert's half brother in Mexico",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
@@ -1950,7 +1950,7 @@
       }
     ],
     "category": "Image",
-    "subcategory": "Photograph",
+    "category2": "Photograph",
     "highlight": {
     }
   },
@@ -1963,7 +1963,7 @@
     "title": "Manuel Perez",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "México",
         "city": "México City",
         "coordinates": {
@@ -1976,7 +1976,7 @@
       }
     ],
     "category": "Image",
-    "subcategory": "Photograph",
+    "category2": "Photograph",
     "highlight": {
     }
   },
@@ -1989,7 +1989,7 @@
     "title": "Letter from María Guadalupe Flemate to María Jesús Barrios, November 22, 1939",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
@@ -2001,7 +2001,7 @@
         "type": "origin"
       },
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -2014,7 +2014,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -2027,7 +2027,7 @@
     "title": "Letter from José Jesus Samaniego to Jesusita Baros Torres, January 17, 1940",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "México",
         "city": "Mexicali",
         "coordinates": {
@@ -2039,7 +2039,7 @@
         "type": "origin"
       },
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -2052,7 +2052,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -2065,7 +2065,7 @@
     "title": "Letter from A. Marín to Jesusita Baros Torres, February 19, 1940",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Longmont",
         "coordinates": {
@@ -2077,7 +2077,7 @@
         "type": "origin"
       },
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -2090,7 +2090,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Envelope",
+    "category2": "Envelope",
     "highlight": {
     }
   },
@@ -2103,7 +2103,7 @@
     "title": "Letter from Guadalupe Flemate to Jesusita Baros Torres, December 20, 1940",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
@@ -2115,7 +2115,7 @@
         "type": "origin"
       },
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -2128,7 +2128,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -2141,7 +2141,7 @@
     "title": "Letter from Demetrio Flemate to Jesusita Baros Torres, December 24, 1940",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Thornton",
         "coordinates": {
@@ -2153,7 +2153,7 @@
         "type": "origin"
       },
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -2166,7 +2166,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Envelope",
+    "category2": "Envelope",
     "highlight": {
     }
   },
@@ -2179,7 +2179,7 @@
     "title": "Jess Jesús Baros",
     "spatial": [
       {
-        "place_name": "Rocky Mountain National Park",
+        "short_name": "Rocky Mountain National Park",
         "country": "United States of America",
         "city": null,
         "coordinates": {
@@ -2192,7 +2192,7 @@
       }
     ],
     "category": "Image",
-    "subcategory": "Photograph",
+    "category2": "Photograph",
     "highlight": {
     }
   },
@@ -2205,7 +2205,7 @@
     "title": "Unknown girl",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Brighton",
         "coordinates": {
@@ -2218,7 +2218,7 @@
       }
     ],
     "category": "Image",
-    "subcategory": "Photograph",
+    "category2": "Photograph",
     "highlight": {
     }
   },
@@ -2231,7 +2231,7 @@
     "title": "Rocky Mountain National Park",
     "spatial": [
       {
-        "place_name": "Rocky Mountain National Park",
+        "short_name": "Rocky Mountain National Park",
         "country": "United States of America",
         "city": null,
         "coordinates": {
@@ -2244,7 +2244,7 @@
       }
     ],
     "category": "Image",
-    "subcategory": "Photograph",
+    "category2": "Photograph",
     "highlight": {
     }
   },
@@ -2257,7 +2257,7 @@
     "title": "Unknown girl",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Brighton",
         "coordinates": {
@@ -2270,7 +2270,7 @@
       }
     ],
     "category": "Image",
-    "subcategory": "Photograph",
+    "category2": "Photograph",
     "highlight": {
     }
   },
@@ -2283,7 +2283,7 @@
     "title": "William F. Schubert",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": null,
         "coordinates": {
@@ -2296,7 +2296,7 @@
       }
     ],
     "category": "Image",
-    "subcategory": "Photograph",
+    "category2": "Photograph",
     "highlight": {
     }
   },
@@ -2309,7 +2309,7 @@
     "title": "Letter from Tammy Autobus to Santos Baros Schubert, January 6, 1942",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Erie",
         "coordinates": {
@@ -2321,7 +2321,7 @@
         "type": "origin"
       },
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -2334,7 +2334,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -2347,7 +2347,7 @@
     "title": "Letter from William F. Schubert to John J. Schubert and Gwendoly Schubert, March 17, 1942",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
@@ -2359,7 +2359,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Palmyra",
         "coordinates": {
@@ -2372,7 +2372,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -2385,7 +2385,7 @@
     "title": "Letter from Josephine Montoya to Santos Baros Schubert, August 1, 1942",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Socorro",
         "coordinates": {
@@ -2399,7 +2399,7 @@
       null
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -2412,7 +2412,7 @@
     "title": "Unknown woman and girl",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Denver",
         "coordinates": {
@@ -2425,7 +2425,7 @@
       }
     ],
     "category": "Image",
-    "subcategory": "Photograph",
+    "category2": "Photograph",
     "highlight": {
     }
   },
@@ -2438,7 +2438,7 @@
     "title": "Envelope from José Lara Miranda to Santos Baros Schubert, October 12, 1942",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
@@ -2450,7 +2450,7 @@
         "type": "origin"
       },
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -2463,7 +2463,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Envelope",
+    "category2": "Envelope",
     "highlight": {
     }
   },
@@ -2476,7 +2476,7 @@
     "title": "Letter from José Lara Miranda to Santos Baros Schubert, November 8, 1942",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
@@ -2488,7 +2488,7 @@
         "type": "origin"
       },
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -2501,7 +2501,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -2514,7 +2514,7 @@
     "title": "Maximino Torres",
     "spatial": [
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -2527,7 +2527,7 @@
       }
     ],
     "category": "Image",
-    "subcategory": "Photograph",
+    "category2": "Photograph",
     "highlight": {
     }
   },
@@ -2540,7 +2540,7 @@
     "title": "Tony Logothetis",
     "spatial": [
       {
-        "place_name": "Camp Carson",
+        "short_name": "Camp Carson",
         "country": "United States of America",
         "city": null,
         "coordinates": {
@@ -2553,7 +2553,7 @@
       }
     ],
     "category": "Image",
-    "subcategory": "Photograph",
+    "category2": "Photograph",
     "highlight": {
     }
   },
@@ -2566,7 +2566,7 @@
     "title": "Envelope from Clemente Torres to Maximino Torres, April 5, 1943",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "México",
         "city": "Huapamacato",
         "coordinates": {
@@ -2578,7 +2578,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Denver",
         "coordinates": {
@@ -2591,7 +2591,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Envelope",
+    "category2": "Envelope",
     "highlight": {
     }
   },
@@ -2604,7 +2604,7 @@
     "title": "Letter from Clemente Torres to Maximino Torres, August 30, 1943",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "México",
         "city": "Churintzio",
         "coordinates": {
@@ -2616,7 +2616,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Denver",
         "coordinates": {
@@ -2629,7 +2629,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -2642,7 +2642,7 @@
     "title": "Teresa Aguilar",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Denver",
         "coordinates": {
@@ -2655,7 +2655,7 @@
       }
     ],
     "category": "Image",
-    "subcategory": "Photograph",
+    "category2": "Photograph",
     "highlight": {
     }
   },
@@ -2668,7 +2668,7 @@
     "title": "Frank R. Juillen",
     "spatial": [
       {
-        "place_name": "Camp Carson",
+        "short_name": "Camp Carson",
         "country": "United States of America",
         "city": null,
         "coordinates": {
@@ -2681,7 +2681,7 @@
       }
     ],
     "category": "Image",
-    "subcategory": "Photograph",
+    "category2": "Photograph",
     "highlight": {
     }
   },
@@ -2694,7 +2694,7 @@
     "title": "Letter from Jess Jesús Baros to Jesusita Baros Torres, November 25, 1943",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "San Diego",
         "coordinates": {
@@ -2706,7 +2706,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Denver",
         "coordinates": {
@@ -2719,7 +2719,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Envelope",
+    "category2": "Envelope",
     "highlight": {
     }
   },
@@ -2732,7 +2732,7 @@
     "title": "Envelope from Jess Jesús Baros to Santos Baros Schubert, February 9, 1944",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Oceanside",
         "coordinates": {
@@ -2744,7 +2744,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Denver",
         "coordinates": {
@@ -2757,7 +2757,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Envelope",
+    "category2": "Envelope",
     "highlight": {
     }
   },
@@ -2770,7 +2770,7 @@
     "title": "Letter from Clemente Torres to Maximino Torres, May 5, 1944",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "México",
         "city": "Huapamacato",
         "coordinates": {
@@ -2782,7 +2782,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Denver",
         "coordinates": {
@@ -2795,7 +2795,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -2808,7 +2808,7 @@
     "title": "Joe O. Gonzales",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "Italy",
         "city": null,
         "coordinates": {
@@ -2821,7 +2821,7 @@
       }
     ],
     "category": "Image",
-    "subcategory": "Photograph",
+    "category2": "Photograph",
     "highlight": {
     }
   },
@@ -2834,7 +2834,7 @@
     "title": "Letter from Fred Rodriguez to Santos Baros Schubert, March 31, 1945",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "France",
         "city": null,
         "coordinates": {
@@ -2846,7 +2846,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Denver",
         "coordinates": {
@@ -2859,7 +2859,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -2872,7 +2872,7 @@
     "title": "William F. Schubert",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "New York",
         "coordinates": {
@@ -2885,7 +2885,7 @@
       }
     ],
     "category": "Image",
-    "subcategory": "Photograph",
+    "category2": "Photograph",
     "highlight": {
     }
   },
@@ -2898,7 +2898,7 @@
     "title": "Santos Baros Schubert and Julia Gomez",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Erie",
         "coordinates": {
@@ -2911,7 +2911,7 @@
       }
     ],
     "category": "Image",
-    "subcategory": "Photograph",
+    "category2": "Photograph",
     "highlight": {
     }
   },
@@ -2924,7 +2924,7 @@
     "title": "William F. Schubert",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Sacramento",
         "coordinates": {
@@ -2937,7 +2937,7 @@
       }
     ],
     "category": "Image",
-    "subcategory": "Photograph",
+    "category2": "Photograph",
     "highlight": {
     }
   },
@@ -2950,7 +2950,7 @@
     "title": "Santos Baros Schubert",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Denver",
         "coordinates": {
@@ -2963,7 +2963,7 @@
       }
     ],
     "category": "Image",
-    "subcategory": "Photograph",
+    "category2": "Photograph",
     "highlight": {
     }
   },
@@ -2976,7 +2976,7 @@
     "title": "William F. Schubert",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
@@ -2989,7 +2989,7 @@
       }
     ],
     "category": "Image",
-    "subcategory": "Photograph",
+    "category2": "Photograph",
     "highlight": {
     }
   },
@@ -3002,7 +3002,7 @@
     "title": "William F. Schubert",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
@@ -3015,7 +3015,7 @@
       }
     ],
     "category": "Image",
-    "subcategory": "Photograph",
+    "category2": "Photograph",
     "highlight": {
     }
   },
@@ -3028,7 +3028,7 @@
     "title": "No Title",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
@@ -3041,7 +3041,7 @@
       }
     ],
     "category": "Image",
-    "subcategory": "Photograph",
+    "category2": "Photograph",
     "highlight": {
     }
   },
@@ -3054,7 +3054,7 @@
     "title": "Santos Baros Schubert and William F. Schubert",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Denver",
         "coordinates": {
@@ -3067,7 +3067,7 @@
       }
     ],
     "category": "Image",
-    "subcategory": "Photograph",
+    "category2": "Photograph",
     "highlight": {
     }
   },
@@ -3080,7 +3080,7 @@
     "title": "Freddie Baca, Cookie and Lucy",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Denver",
         "coordinates": {
@@ -3093,7 +3093,7 @@
       }
     ],
     "category": "Image",
-    "subcategory": "Photograph",
+    "category2": "Photograph",
     "highlight": {
     }
   },
@@ -3106,7 +3106,7 @@
     "title": "Santos Baros Schubert",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Denver",
         "coordinates": {
@@ -3119,33 +3119,7 @@
       }
     ],
     "category": "Image",
-    "subcategory": "Photograph",
-    "highlight": {
-    }
-  },
-  {
-    "date": "1946-06-20",
-    "identifier": "shan.P051",
-    "title_es_k": "William F. Schubert",
-    "date_display": "1946-06-20",
-    "language": "en",
-    "title": "William F. Schubert",
-    "spatial": [
-      {
-        "place_name": null,
-        "country": "United States of America",
-        "city": "Lincoln",
-        "coordinates": {
-          "lon": -96.7026,
-          "lat": 40.8136
-        },
-        "state": "Nebraska",
-        "title": "Lincoln, Nebraska",
-        "type": null
-      }
-    ],
-    "category": "Image",
-    "subcategory": "Photograph",
+    "category2": "Photograph",
     "highlight": {
     }
   },
@@ -3158,7 +3132,7 @@
     "title": "William F. Schubert",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
@@ -3171,7 +3145,33 @@
       }
     ],
     "category": "Image",
-    "subcategory": "Photograph",
+    "category2": "Photograph",
+    "highlight": {
+    }
+  },
+  {
+    "date": "1946-06-20",
+    "identifier": "shan.P051",
+    "title_es_k": "William F. Schubert",
+    "date_display": "1946-06-20",
+    "language": "en",
+    "title": "William F. Schubert",
+    "spatial": [
+      {
+        "short_name": null,
+        "country": "United States of America",
+        "city": "Lincoln",
+        "coordinates": {
+          "lon": -96.7026,
+          "lat": 40.8136
+        },
+        "state": "Nebraska",
+        "title": "Lincoln, Nebraska",
+        "type": null
+      }
+    ],
+    "category": "Image",
+    "category2": "Photograph",
     "highlight": {
     }
   },
@@ -3184,7 +3184,7 @@
     "title": "Santos Baros Schubert",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
@@ -3197,7 +3197,7 @@
       }
     ],
     "category": "Image",
-    "subcategory": "Photograph",
+    "category2": "Photograph",
     "highlight": {
     }
   },
@@ -3210,7 +3210,7 @@
     "title": "Nemecio Samaniego, Tomasa Samaniego and unknown woman",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
@@ -3223,7 +3223,7 @@
       }
     ],
     "category": "Image",
-    "subcategory": "Photograph",
+    "category2": "Photograph",
     "highlight": {
     }
   },
@@ -3236,7 +3236,7 @@
     "title": "Santos Baros Schubert and William F. Schubert",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Denver",
         "coordinates": {
@@ -3249,7 +3249,7 @@
       }
     ],
     "category": "Image",
-    "subcategory": "Photograph",
+    "category2": "Photograph",
     "highlight": {
     }
   },
@@ -3262,7 +3262,7 @@
     "title": "Santos Baros Schubert",
     "spatial": [
       {
-        "place_name": "City Park",
+        "short_name": "City Park",
         "country": "United States of America",
         "city": "Denver",
         "coordinates": {
@@ -3275,7 +3275,7 @@
       }
     ],
     "category": "Image",
-    "subcategory": "Photograph",
+    "category2": "Photograph",
     "highlight": {
     }
   },
@@ -3288,7 +3288,7 @@
     "title": "Yosemite waterfalls",
     "spatial": [
       {
-        "place_name": "Yosemite National Park, Sierra Nevadas",
+        "short_name": "Yosemite National Park, Sierra Nevadas",
         "country": "United States of America",
         "city": null,
         "coordinates": {
@@ -3301,7 +3301,7 @@
       }
     ],
     "category": "Image",
-    "subcategory": "Photograph",
+    "category2": "Photograph",
     "highlight": {
     }
   },
@@ -3314,7 +3314,7 @@
     "title": "Letter from William F. Schubert to Santos Baros Schubert, December 10, 1947",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Havelock",
         "coordinates": {
@@ -3326,7 +3326,7 @@
         "type": "origin"
       },
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -3339,7 +3339,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -3352,7 +3352,7 @@
     "title": "Letter from William F. Schubert to Santos Baros Schubert, December 16, 1947",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Havelock",
         "coordinates": {
@@ -3364,7 +3364,7 @@
         "type": "origin"
       },
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -3377,7 +3377,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -3390,7 +3390,7 @@
     "title": "Santos Baros Schubert and William F. Schubert",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Manitou Springs",
         "coordinates": {
@@ -3403,7 +3403,7 @@
       }
     ],
     "category": "Image",
-    "subcategory": "Photograph",
+    "category2": "Photograph",
     "highlight": {
     }
   },
@@ -3416,7 +3416,7 @@
     "title": "House of Yesterday",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Hastings",
         "coordinates": {
@@ -3429,7 +3429,7 @@
       }
     ],
     "category": "Image",
-    "subcategory": "Photograph",
+    "category2": "Photograph",
     "highlight": {
     }
   },
@@ -3442,7 +3442,7 @@
     "title": "Santos Baros Schubert and William F. Schubert",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Manitou Springs",
         "coordinates": {
@@ -3455,7 +3455,7 @@
       }
     ],
     "category": "Image",
-    "subcategory": "Photograph",
+    "category2": "Photograph",
     "highlight": {
     }
   },
@@ -3468,7 +3468,7 @@
     "title": "Letter from William F. Schubert to Santos Baros Schubert, May 9, 1948",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Austin",
         "coordinates": {
@@ -3480,7 +3480,7 @@
         "type": "origin"
       },
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -3493,7 +3493,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -3506,7 +3506,7 @@
     "title": "Letter from William F. Schubert to Santos Baros Schubert, May 10, 1948",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Austin",
         "coordinates": {
@@ -3518,7 +3518,7 @@
         "type": "origin"
       },
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -3531,7 +3531,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -3544,7 +3544,7 @@
     "title": "Letter from Clemente Torres to Maximino Torres, November 30, 1948",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "México",
         "city": "Huapamacato",
         "coordinates": {
@@ -3556,7 +3556,7 @@
         "type": "origin"
       },
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -3569,7 +3569,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -3582,7 +3582,7 @@
     "title": "William F. Schubert, Santos Baros Schubert and William D. Schubert",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
@@ -3595,7 +3595,7 @@
       }
     ],
     "category": "Image",
-    "subcategory": "Photograph",
+    "category2": "Photograph",
     "highlight": {
     }
   },
@@ -3608,7 +3608,7 @@
     "title": "Letter from William F. Schubert to MSantos Baros Schubert, May 27, 1949",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Havelock",
         "coordinates": {
@@ -3620,7 +3620,7 @@
         "type": "origin"
       },
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -3633,7 +3633,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -3646,7 +3646,7 @@
     "title": "Placido Villanueva",
     "spatial": [
       {
-        "place_name": "Camp Butner",
+        "short_name": "Camp Butner",
         "country": "United States of America",
         "city": null,
         "coordinates": {
@@ -3659,7 +3659,7 @@
       }
     ],
     "category": "Image",
-    "subcategory": "Photograph",
+    "category2": "Photograph",
     "highlight": {
     }
   },
@@ -3672,7 +3672,7 @@
     "title": "Unknown boy",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Brighton",
         "coordinates": {
@@ -3685,7 +3685,7 @@
       }
     ],
     "category": "Image",
-    "subcategory": "Photograph",
+    "category2": "Photograph",
     "highlight": {
     }
   },
@@ -3698,7 +3698,7 @@
     "title": "Santos Baros Schubert and William D. Schubert",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "White Sands",
         "coordinates": {
@@ -3711,7 +3711,7 @@
       }
     ],
     "category": "Image",
-    "subcategory": "Photograph",
+    "category2": "Photograph",
     "highlight": {
     }
   },
@@ -3724,7 +3724,7 @@
     "title": "Letter from William F. Schubert to Santos Baros Schubert, September 23, 1950",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Adams",
         "coordinates": {
@@ -3738,7 +3738,7 @@
       null
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -3751,7 +3751,7 @@
     "title": "Letter from William F. Schubert to Santos Baros Schubert, September 25, 1950",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Adams",
         "coordinates": {
@@ -3763,7 +3763,7 @@
         "type": "origin"
       },
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -3776,7 +3776,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -3789,7 +3789,7 @@
     "title": "Letter from William F. Schubert to Santos Baros Schubert, September 27, 1950",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Adams",
         "coordinates": {
@@ -3803,7 +3803,7 @@
       null
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -3819,7 +3819,7 @@
       null
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -3832,7 +3832,7 @@
     "title": "Letter from Santos Baros Schubert to William F. Schubert, October 4, 1950",
     "spatial": [
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -3844,7 +3844,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Rulo",
         "coordinates": {
@@ -3857,7 +3857,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -3870,7 +3870,7 @@
     "title": "Letter from Santos Baros Schubert to William F. Schubert, October 7, 1950",
     "spatial": [
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -3882,7 +3882,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Rulo",
         "coordinates": {
@@ -3895,7 +3895,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -3908,7 +3908,7 @@
     "title": "Letter from Santos Baros Schubert to William F. Schubert, October 10, 1950",
     "spatial": [
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -3920,7 +3920,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Rulo",
         "coordinates": {
@@ -3933,7 +3933,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -3946,7 +3946,7 @@
     "title": "Letter from Santos Baros Schubert to William F. Schubert, October 12, 1950",
     "spatial": [
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -3958,7 +3958,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Rulo",
         "coordinates": {
@@ -3971,7 +3971,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -3987,7 +3987,7 @@
       null
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -4003,7 +4003,7 @@
       null
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -4019,7 +4019,7 @@
       null
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -4032,7 +4032,7 @@
     "title": "Letter from Santos Baros Schubert to William F. Schubert, October 16, 1950",
     "spatial": [
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -4044,7 +4044,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Rulo",
         "coordinates": {
@@ -4057,7 +4057,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -4073,7 +4073,7 @@
       null
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -4089,7 +4089,7 @@
       null
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -4105,7 +4105,7 @@
       null
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -4121,7 +4121,7 @@
       null
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -4137,7 +4137,7 @@
       null
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -4150,7 +4150,7 @@
     "title": "Letter from Santos Baros Schubert to William F. Schubert, November 1, 1950",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
@@ -4162,7 +4162,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Falls City",
         "coordinates": {
@@ -4175,7 +4175,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -4191,7 +4191,7 @@
       null
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -4204,7 +4204,7 @@
     "title": "William D. Schubert",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Roswell",
         "coordinates": {
@@ -4217,7 +4217,7 @@
       }
     ],
     "category": "Image",
-    "subcategory": "Photograph",
+    "category2": "Photograph",
     "highlight": {
     }
   },
@@ -4230,7 +4230,7 @@
     "title": "Santos Baros Schubert and William F. Schubert",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Albuquerque",
         "coordinates": {
@@ -4243,7 +4243,7 @@
       }
     ],
     "category": "Image",
-    "subcategory": "Photograph",
+    "category2": "Photograph",
     "highlight": {
     }
   },
@@ -4256,7 +4256,7 @@
     "title": "Letter from Jesús Samaniego to Jesusita Baros Torres, August 23, 1951",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "México",
         "city": "Mexicali",
         "coordinates": {
@@ -4268,7 +4268,7 @@
         "type": "origin"
       },
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -4281,7 +4281,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -4294,7 +4294,7 @@
     "title": "Envelope from Clemente Torres to Maximino Torres, November 6, 1951",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Del Ray",
         "coordinates": {
@@ -4306,7 +4306,7 @@
         "type": "origin"
       },
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -4319,7 +4319,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Envelope",
+    "category2": "Envelope",
     "highlight": {
     }
   },
@@ -4332,7 +4332,7 @@
     "title": "Envelope from Victoria Aviña de Torres to Maximino Torres, January 22, 1952",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "México",
         "city": "Churintzio",
         "coordinates": {
@@ -4344,7 +4344,7 @@
         "type": "origin"
       },
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -4357,7 +4357,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Envelope",
+    "category2": "Envelope",
     "highlight": {
     }
   },
@@ -4370,7 +4370,7 @@
     "title": "Envelope from Demetrio Flemate to Jesusita Baros Torres, June 16, 1952",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
@@ -4382,7 +4382,7 @@
         "type": "origin"
       },
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -4395,7 +4395,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Envelope",
+    "category2": "Envelope",
     "highlight": {
     }
   },
@@ -4408,7 +4408,7 @@
     "title": "Letter from Nemecio Samaniego to Jesusita Baros Torres, June 20, 1952",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
@@ -4420,7 +4420,7 @@
         "type": "origin"
       },
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -4433,7 +4433,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Envelope",
+    "category2": "Envelope",
     "highlight": {
     }
   },
@@ -4449,7 +4449,7 @@
       null
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -4462,7 +4462,7 @@
     "title": "Letter from Maximino Torres to Victoria Aviña Torres, October 28, 1952",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "México",
         "city": "Churintzio",
         "coordinates": {
@@ -4474,7 +4474,7 @@
         "type": "origin"
       },
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -4487,7 +4487,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Envelope",
+    "category2": "Envelope",
     "highlight": {
     }
   },
@@ -4500,7 +4500,7 @@
     "title": "Envelope from Mrs. Anderson to Mrs. William Schubert, November 19, 1952",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
@@ -4512,7 +4512,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
@@ -4525,7 +4525,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Envelope",
+    "category2": "Envelope",
     "highlight": {
     }
   },
@@ -4538,7 +4538,7 @@
     "title": "Envelope from Mauro Quesada to Jesusita Baros Torres, 1953",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
@@ -4550,7 +4550,7 @@
         "type": "origin"
       },
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -4563,7 +4563,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Envelope",
+    "category2": "Envelope",
     "highlight": {
     }
   },
@@ -4576,7 +4576,7 @@
     "title": "Letter from Jesusita Baros Torres to Santos Baros Schubert, January 3, 1953",
     "spatial": [
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -4588,7 +4588,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
@@ -4601,7 +4601,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -4614,7 +4614,7 @@
     "title": "Letter from William F. Schubert to Santos Baros Schubert, January 8, 1953",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Berwyn",
         "coordinates": {
@@ -4626,7 +4626,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
@@ -4639,7 +4639,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -4652,7 +4652,7 @@
     "title": "Letter from William F. Schubert to Santos Baros Schubert, January 10, 1953",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Berwyn",
         "coordinates": {
@@ -4664,7 +4664,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
@@ -4677,7 +4677,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -4690,7 +4690,7 @@
     "title": "Letter from Nemecio Samaniego to Jesusita Baros Torres, February 22, 1953",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
@@ -4702,7 +4702,7 @@
         "type": "origin"
       },
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -4715,7 +4715,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -4728,7 +4728,7 @@
     "title": "Robert S. Schubert, Pamela L. Schubert and William D. Schubert",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "La Grange",
         "coordinates": {
@@ -4741,7 +4741,7 @@
       }
     ],
     "category": "Image",
-    "subcategory": "Photograph",
+    "category2": "Photograph",
     "highlight": {
     }
   },
@@ -4754,7 +4754,7 @@
     "title": "William D. Schubert, Pamela L. Schubert and Robert S. Schubert",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "La Grange",
         "coordinates": {
@@ -4767,7 +4767,7 @@
       }
     ],
     "category": "Image",
-    "subcategory": "Photograph",
+    "category2": "Photograph",
     "highlight": {
     }
   },
@@ -4780,7 +4780,7 @@
     "title": "Consuelo Flemate",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
@@ -4793,7 +4793,7 @@
       }
     ],
     "category": "Image",
-    "subcategory": "Photograph",
+    "category2": "Photograph",
     "highlight": {
     }
   },
@@ -4806,7 +4806,7 @@
     "title": "Letter from William F. Schubert to Santos Baros Schubert, August 25, 1954",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "La Grange",
         "coordinates": {
@@ -4820,7 +4820,7 @@
       null
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -4833,7 +4833,7 @@
     "title": "Envelope from Demetrio Flemate to Jesusita Baros Torres, July 15, 1955",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
@@ -4845,7 +4845,7 @@
         "type": "origin"
       },
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -4858,7 +4858,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Envelope",
+    "category2": "Envelope",
     "highlight": {
     }
   },
@@ -4871,7 +4871,7 @@
     "title": "Envelope from Demetrio Flemate to Jesusita Baros Torres, January 11, 1956",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
@@ -4883,7 +4883,7 @@
         "type": "origin"
       },
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -4896,7 +4896,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Envelope",
+    "category2": "Envelope",
     "highlight": {
     }
   },
@@ -4909,7 +4909,7 @@
     "title": "Envelope from Patricia Medrano to Jesusita Baros Torres, February 7, 1956",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
@@ -4921,7 +4921,7 @@
         "type": "origin"
       },
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -4934,7 +4934,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Envelope",
+    "category2": "Envelope",
     "highlight": {
     }
   },
@@ -4947,7 +4947,7 @@
     "title": "Letter from Jesusita Baros Torres to Santos Baros Schubert, August 22, 1956",
     "spatial": [
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -4961,7 +4961,7 @@
       null
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -4974,7 +4974,7 @@
     "title": "Letter from Jesusita Baros Torres to Santos Baros Schubert, October 29, 1956",
     "spatial": [
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -4988,7 +4988,7 @@
       null
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -5001,7 +5001,7 @@
     "title": "Guadalupe \"Lupe\" Flemate",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
@@ -5014,7 +5014,7 @@
       }
     ],
     "category": "Image",
-    "subcategory": "Photograph",
+    "category2": "Photograph",
     "highlight": {
     }
   },
@@ -5027,7 +5027,7 @@
     "title": "Letter from Jesusita Baros Torres to Santos Baros Schubert, February 4, 1957",
     "spatial": [
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -5041,7 +5041,7 @@
       null
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -5054,7 +5054,7 @@
     "title": "Sent by Guadalupe Flemate",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
@@ -5067,7 +5067,7 @@
       }
     ],
     "category": "Image",
-    "subcategory": "Photograph",
+    "category2": "Photograph",
     "highlight": {
     }
   },
@@ -5080,7 +5080,7 @@
     "title": "Letter from Jesusita Baros Torres to Santos Baros Schubert, March 6, 1957",
     "spatial": [
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -5094,7 +5094,7 @@
       null
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -5107,7 +5107,7 @@
     "title": "Letter from Jesusita Baros Torres to Santos Baros Schubert, April 23, 1957",
     "spatial": [
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -5121,7 +5121,7 @@
       null
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -5134,7 +5134,7 @@
     "title": "Letter from Jesusita Baros Torres to Santos Baros Schubert, May 17, 1957",
     "spatial": [
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -5148,7 +5148,7 @@
       null
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -5161,7 +5161,7 @@
     "title": "Letter from Jesusita Baros Torres to Santos Baros Schubert, June 23, 1957",
     "spatial": [
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -5173,7 +5173,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
@@ -5186,7 +5186,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -5199,7 +5199,7 @@
     "title": "Envelope from Patricia Medrano to Jesusita Baros Torres, June 27, 1957",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
@@ -5211,7 +5211,7 @@
         "type": "origin"
       },
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -5224,7 +5224,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Envelope",
+    "category2": "Envelope",
     "highlight": {
     }
   },
@@ -5237,7 +5237,7 @@
     "title": "Letter from Guadalupe Flemate Medrano to Santos Baros Schubert, July 26, 1957",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
@@ -5249,7 +5249,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
@@ -5262,7 +5262,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -5275,7 +5275,7 @@
     "title": "Letter from Jesusita Baros Torres to Santos Baros Schubert, September 13, 1957",
     "spatial": [
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -5287,7 +5287,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
@@ -5300,7 +5300,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -5313,7 +5313,7 @@
     "title": "Letter from Jesusita Baros Torres to Santos Baros Schubert, October 25, 1957",
     "spatial": [
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -5325,7 +5325,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
@@ -5338,7 +5338,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -5351,7 +5351,7 @@
     "title": "Letter from Mrs. Eddie Unnkel to William F. Schubert and Santos Baros Schubert, November 6, 1957",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Denver",
         "coordinates": {
@@ -5363,7 +5363,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
@@ -5376,7 +5376,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -5389,7 +5389,7 @@
     "title": "Letter from Jesusita Baros Torres to Santos Baros Schubert, November 10, 1957",
     "spatial": [
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -5401,7 +5401,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
@@ -5414,7 +5414,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -5427,7 +5427,7 @@
     "title": "Letter from Jesusita Baros Torres to Santos baros Schubert, November 18, 1957",
     "spatial": [
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -5439,7 +5439,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
@@ -5452,7 +5452,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -5465,7 +5465,7 @@
     "title": "Letter from Jesusita Baros Torres to Santos Baros Schubert, January 4, 1958",
     "spatial": [
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -5477,7 +5477,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
@@ -5490,7 +5490,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -5503,7 +5503,7 @@
     "title": "Letter from Mrs. C. E. Parrish to William F. Schubert and Santos Baros Schubert, January 5, 1958",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Bradshaw",
         "coordinates": {
@@ -5515,7 +5515,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
@@ -5528,7 +5528,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -5541,7 +5541,7 @@
     "title": "Letter from Lillian Wilhelm to William F. Schubert and Santos Baros Schubert, January 30, 1958",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Phoenix",
         "coordinates": {
@@ -5553,7 +5553,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
@@ -5566,7 +5566,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -5579,7 +5579,7 @@
     "title": "Letter from Jesusita Baros Torres to Santos Baros Schubert, March 11, 1958",
     "spatial": [
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -5591,7 +5591,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
@@ -5604,7 +5604,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -5617,7 +5617,7 @@
     "title": "Letter from Jesusita Baros Torres to Santos Baros Schubert, April 30, 1958",
     "spatial": [
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -5629,7 +5629,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
@@ -5642,7 +5642,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -5655,7 +5655,7 @@
     "title": "Letter from Jesusita Baros Torres to Santos Baros Schubert, May 9, 1958",
     "spatial": [
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -5667,7 +5667,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
@@ -5680,7 +5680,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -5693,7 +5693,7 @@
     "title": "Letter from Jesusita Baros Torres to Santos Baros Schubert, July 5, 1958",
     "spatial": [
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -5705,7 +5705,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
@@ -5718,7 +5718,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -5731,7 +5731,7 @@
     "title": "Letter from Jesusita Baros Torres to Santos Baros Schubert, August 20, 1958",
     "spatial": [
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -5745,7 +5745,7 @@
       null
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -5758,7 +5758,7 @@
     "title": "Letter from Jesusita Baros Torres to Santos Baros Schubert, August 28, 1958",
     "spatial": [
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -5772,7 +5772,7 @@
       null
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -5785,7 +5785,7 @@
     "title": "Letter from Jesusita Baros Torres to Santos Baros Schubert, October 14, 1958",
     "spatial": [
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -5799,7 +5799,7 @@
       null
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -5812,7 +5812,7 @@
     "title": "Letter from Jesusita Baros Torres to Santos Baros Schubert, October 29, 1958",
     "spatial": [
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -5824,7 +5824,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
@@ -5837,7 +5837,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Envelope",
+    "category2": "Envelope",
     "highlight": {
     }
   },
@@ -5850,7 +5850,7 @@
     "title": "Letter from Jesusita Baros Torres to Santos Baros Schubert, November 13, 1958",
     "spatial": [
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -5862,7 +5862,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
@@ -5875,7 +5875,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -5888,7 +5888,7 @@
     "title": "Letter from Demetrio Flemate to Jesusita Baros Torres, December 6, 1958",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
@@ -5900,7 +5900,7 @@
         "type": "origin"
       },
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -5913,7 +5913,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -5926,7 +5926,7 @@
     "title": "Letter from Jesusita Baros Torres to Santos Baros Schubert, December 9, 1958",
     "spatial": [
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -5940,7 +5940,7 @@
       null
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -5953,7 +5953,7 @@
     "title": "Envelope from Nemecio Samaniego to Jesusita Baros Torres, 1959",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
@@ -5965,7 +5965,7 @@
         "type": "origin"
       },
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -5978,7 +5978,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Envelope",
+    "category2": "Envelope",
     "highlight": {
     }
   },
@@ -5991,7 +5991,7 @@
     "title": "Letter from Jesusita Baros Torres to Santos Baros Schubert, February 2, 1959",
     "spatial": [
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -6003,7 +6003,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
@@ -6016,7 +6016,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -6029,7 +6029,7 @@
     "title": "Envelope from Nemecio Samaniego to Jesusita Baros Torres, February 27, 1959",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
@@ -6041,7 +6041,7 @@
         "type": "origin"
       },
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -6054,7 +6054,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Envelope",
+    "category2": "Envelope",
     "highlight": {
     }
   },
@@ -6067,7 +6067,7 @@
     "title": "Letter from Jesusita Baros Torres to Santos Baros Schubert March 14, 1959",
     "spatial": [
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -6079,7 +6079,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
@@ -6092,7 +6092,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -6105,7 +6105,7 @@
     "title": "Letter from Jesusita Baros Torres to Santos Baros Schubert, March 27, 1959",
     "spatial": [
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -6117,7 +6117,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
@@ -6130,7 +6130,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -6143,7 +6143,7 @@
     "title": "Pamela L. Schubert and Robert D. Schubert",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
@@ -6156,7 +6156,7 @@
       }
     ],
     "category": "Image",
-    "subcategory": "Photograph",
+    "category2": "Photograph",
     "highlight": {
     }
   },
@@ -6169,7 +6169,7 @@
     "title": "Letter from Jesusita Baros Torres to Santos Baros Schubert, May 7, 1959",
     "spatial": [
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -6181,7 +6181,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
@@ -6194,7 +6194,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -6207,7 +6207,7 @@
     "title": "Letter from Unknown to Santos Baros Schubert, June 4, 1959",
     "spatial": [
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -6219,7 +6219,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
@@ -6232,7 +6232,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Envelope",
+    "category2": "Envelope",
     "highlight": {
     }
   },
@@ -6245,7 +6245,7 @@
     "title": "Letter from Jesusita Baros Torres to Santos Baros Schubert, June 29, 1959",
     "spatial": [
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -6257,7 +6257,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
@@ -6270,7 +6270,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -6283,7 +6283,7 @@
     "title": "Letter from Jesusita Baros Torres to Santos Baros Schubert, July 30, 1959",
     "spatial": [
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -6295,7 +6295,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
@@ -6308,7 +6308,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -6321,7 +6321,7 @@
     "title": "Letter from Jesusita Baros Torres to Santos Baros Schubert, August 31, 1959",
     "spatial": [
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -6335,7 +6335,7 @@
       null
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -6348,7 +6348,7 @@
     "title": "Letter from Jesusita Baros Torres to Santos Baros Schubert, October 9, 1959",
     "spatial": [
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -6360,7 +6360,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
@@ -6373,7 +6373,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -6386,7 +6386,7 @@
     "title": "Envelope from Nemecio Samaniego to Jesusita Baros Torres, October 15, 1959",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
@@ -6398,7 +6398,7 @@
         "type": "origin"
       },
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -6411,7 +6411,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Envelope",
+    "category2": "Envelope",
     "highlight": {
     }
   },
@@ -6424,7 +6424,7 @@
     "title": "Envelope from Nemecio Samaniego to Jesusita Baros Torres, October 19, 1959",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
@@ -6436,7 +6436,7 @@
         "type": "origin"
       },
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -6449,7 +6449,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Envelope",
+    "category2": "Envelope",
     "highlight": {
     }
   },
@@ -6462,7 +6462,7 @@
     "title": "Letter from Jesusita Baros Torres to Santos Baros Schubert, January 26, 1960",
     "spatial": [
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -6476,7 +6476,7 @@
       null
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -6489,7 +6489,7 @@
     "title": "Letter from Santos Baros Schubert to Jesusita Baros Torres, February 24, 1960",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
@@ -6503,7 +6503,7 @@
       null
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -6516,7 +6516,7 @@
     "title": "Letter from Jesusita Baros Torres to Santos Baros Schubert, May 27, 1960",
     "spatial": [
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -6528,7 +6528,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
@@ -6541,7 +6541,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -6554,7 +6554,7 @@
     "title": "Esperanza Estrada Quirarte and Jesús Ascensión Samaniego",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
@@ -6567,7 +6567,7 @@
       }
     ],
     "category": "Image",
-    "subcategory": "Photograph",
+    "category2": "Photograph",
     "highlight": {
     }
   },
@@ -6580,7 +6580,7 @@
     "title": "José Ascensión Samaniego",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "México",
         "city": "México",
         "coordinates": {
@@ -6593,7 +6593,7 @@
       }
     ],
     "category": "Image",
-    "subcategory": "Photograph",
+    "category2": "Photograph",
     "highlight": {
     }
   },
@@ -6606,7 +6606,7 @@
     "title": "Robert S. Schubert and Elizabeth J. Shanahan",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
@@ -6619,7 +6619,7 @@
       }
     ],
     "category": "Image",
-    "subcategory": "Photograph",
+    "category2": "Photograph",
     "highlight": {
     }
   },
@@ -6632,7 +6632,7 @@
     "title": "Letter from Jesusita Baros Torres to Santos Baros Schubert, April 7, 1961",
     "spatial": [
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -6644,7 +6644,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
@@ -6657,7 +6657,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -6670,7 +6670,7 @@
     "title": "Letter from Jesusita Baros Torres to Santos Baros Schubert, July 15, 1961",
     "spatial": [
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -6682,7 +6682,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
@@ -6695,7 +6695,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -6708,7 +6708,7 @@
     "title": "Letter from Nemecio Samaniego to Jesusita Baros Torres, September 26, 1961",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
@@ -6720,7 +6720,7 @@
         "type": "origin"
       },
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -6733,7 +6733,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Envelope",
+    "category2": "Envelope",
     "highlight": {
     }
   },
@@ -6746,7 +6746,7 @@
     "title": "Letter from Jesusita Baros Torres to Santos Baros Schubert, October 24, 1961",
     "spatial": [
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -6758,7 +6758,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
@@ -6771,7 +6771,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -6784,7 +6784,7 @@
     "title": "Letter from Jesusita Baros Torres to Santos Baros Schubert, December 7, 1961",
     "spatial": [
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -6796,7 +6796,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
@@ -6809,7 +6809,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -6822,7 +6822,7 @@
     "title": "Letter from Jesusita Baros Torres to Santos Baros Schubert, January 12, 1962",
     "spatial": [
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -6834,7 +6834,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
@@ -6847,7 +6847,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -6860,7 +6860,7 @@
     "title": "Letter from Jesusita Baros Torres to Santos Baros Schubert, July 26, 1962",
     "spatial": [
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -6872,7 +6872,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
@@ -6885,7 +6885,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -6898,7 +6898,7 @@
     "title": "Letter from William F. Schubert to Santos Baros Schubert, August 14, 1962",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
@@ -6912,7 +6912,7 @@
       null
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -6925,7 +6925,7 @@
     "title": "Letter from Felipita N. Baca to William F. Schubert and Santos Baros Schubert, August 14, 1962",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Albuquerque",
         "coordinates": {
@@ -6940,7 +6940,7 @@
       null
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -6953,7 +6953,7 @@
     "title": "Letter from William F. Schubert to Santos Baros Schubert, August 16, 1962",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
@@ -6967,7 +6967,7 @@
       null
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -6980,7 +6980,7 @@
     "title": "Letter from William F. Schubert to Santos Baros Schubert, August 19, 1962",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
@@ -6992,7 +6992,7 @@
         "type": "origin"
       },
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -7005,7 +7005,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -7018,7 +7018,7 @@
     "title": "Letter from William F. Schubert to Santos Baros Schubert, August 22, 1962",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
@@ -7032,7 +7032,7 @@
       null
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -7045,7 +7045,7 @@
     "title": "Letter from Jesusita Baros Torres to Santos Baros Schubert, September 17, 1962",
     "spatial": [
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -7059,7 +7059,7 @@
       null
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -7072,7 +7072,7 @@
     "title": "Letter from Jesusita Baros Torres to Santos Baros Schubert, October 27, 1962",
     "spatial": [
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -7084,7 +7084,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
@@ -7097,7 +7097,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -7110,7 +7110,7 @@
     "title": "Letter from Jesusita Baros Torres to Santos Baros Schubert, January 7, 1963",
     "spatial": [
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -7124,7 +7124,7 @@
       null
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -7137,7 +7137,7 @@
     "title": "Letter from Jesusita Baros Torres to Santos Baros Schubert, January 28, 1963",
     "spatial": [
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -7149,7 +7149,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
@@ -7162,7 +7162,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -7175,7 +7175,7 @@
     "title": "Letter from Jesusita Baros Torres to Santos Baros Schubert, February 12, 1963",
     "spatial": [
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -7187,7 +7187,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
@@ -7200,7 +7200,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -7213,7 +7213,7 @@
     "title": "Letter from Jesusita Baros Torres to Santos Baros Schubert, June 23, 1963",
     "spatial": [
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -7225,7 +7225,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
@@ -7238,7 +7238,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -7251,7 +7251,7 @@
     "title": "Letter from Jesusita Baros Torres to Santos Baros Schubert, January 1, 1964",
     "spatial": [
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -7263,7 +7263,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
@@ -7276,7 +7276,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -7289,7 +7289,7 @@
     "title": "Letter Pamela L. Schubert to Santos Baros Schubert, June 1, 1965",
     "spatial": [
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -7301,7 +7301,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
@@ -7314,7 +7314,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -7327,7 +7327,7 @@
     "title": "Letter from Jesusita Baros Torres to Santos Baros Schubert, July 10, 1964",
     "spatial": [
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -7341,7 +7341,7 @@
       null
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -7354,7 +7354,7 @@
     "title": "Letter from Jesusita Baros Torres to Santos Baros Schubert, November 20, 1964",
     "spatial": [
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -7366,7 +7366,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
@@ -7379,7 +7379,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -7392,7 +7392,7 @@
     "title": "Letter from Jesusita Baros Torres to Santos Baros Schubert, December 17, 1964",
     "spatial": [
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -7406,7 +7406,7 @@
       null
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -7419,7 +7419,7 @@
     "title": "Elizabeth J. Shanahan, Jesusita Baros Torres, Pamela L. Schubert",
     "spatial": [
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -7432,7 +7432,7 @@
       }
     ],
     "category": "Image",
-    "subcategory": "Photograph",
+    "category2": "Photograph",
     "highlight": {
     }
   },
@@ -7445,7 +7445,7 @@
     "title": "Letter from Jesusita Baros Torres to Santos Baros Schubert, January 3, 1965",
     "spatial": [
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -7459,7 +7459,7 @@
       null
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -7472,7 +7472,7 @@
     "title": "Letter from Jesusita Baros Torres to Santos Baros Schubert, February 16, 1965",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
@@ -7484,7 +7484,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
@@ -7497,7 +7497,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -7510,7 +7510,7 @@
     "title": "Letter from Jesusita Baros Torres to Santos Baros Schubert, March 3, 1965",
     "spatial": [
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -7522,7 +7522,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
@@ -7535,7 +7535,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -7548,7 +7548,7 @@
     "title": "Letter from José Jesús Samaniego to Jesusita Baros Torres, March 21, 1965",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "México",
         "city": "Mexicali",
         "coordinates": {
@@ -7560,7 +7560,7 @@
         "type": "origin"
       },
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -7573,7 +7573,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Envelope",
+    "category2": "Envelope",
     "highlight": {
     }
   },
@@ -7586,7 +7586,7 @@
     "title": "Letter from Jesusita Baros Torres to Santos Baros Schubert, June 1, 1965",
     "spatial": [
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -7600,7 +7600,7 @@
       null
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -7613,7 +7613,7 @@
     "title": "Danielito Flemate and Demetrio Flemate",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
@@ -7626,7 +7626,7 @@
       }
     ],
     "category": "Image",
-    "subcategory": "Photograph",
+    "category2": "Photograph",
     "highlight": {
     }
   },
@@ -7639,7 +7639,7 @@
     "title": "Letter from Jesusita Baros Torres to Santos Baros Schubert, March 10, 1966",
     "spatial": [
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -7651,7 +7651,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
@@ -7664,7 +7664,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -7677,7 +7677,7 @@
     "title": "Letter from Jesusita Baros Torres to Pamela Schubert, March 13, 1966",
     "spatial": [
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -7689,7 +7689,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
@@ -7702,7 +7702,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -7715,7 +7715,7 @@
     "title": "Letter from Jesusita Baros Torres to Santos Baros Schubert, July 25, 1966",
     "spatial": [
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -7729,7 +7729,7 @@
       null
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -7742,7 +7742,7 @@
     "title": "Letter from Jesusita Baros Torres to Santos Baros Schubert, October 15, 1966",
     "spatial": [
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -7754,7 +7754,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
@@ -7767,7 +7767,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -7780,7 +7780,7 @@
     "title": "Letter from Jesusita Baros Torres to Santos Baros Schubert, November 1, 1966",
     "spatial": [
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -7792,7 +7792,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
@@ -7805,7 +7805,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -7818,7 +7818,7 @@
     "title": "Letter from Jesusita Baros Torres to Santos Baros Schubert, November 7, 1966",
     "spatial": [
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -7832,7 +7832,7 @@
       null
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -7845,7 +7845,7 @@
     "title": "Letter from Jesusita Baros Torres to Santos Baros Schubert, July 20, 1967",
     "spatial": [
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -7857,7 +7857,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
@@ -7870,7 +7870,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -7883,7 +7883,7 @@
     "title": "Letter from Margarita Flemate to Jesusita Baros Torres, October 5, 1967",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
@@ -7895,7 +7895,7 @@
         "type": "origin"
       },
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -7908,7 +7908,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -7921,7 +7921,7 @@
     "title": "Letter from Jesusita Baros Torres to Santos Baros Schubert, November 08, 1967",
     "spatial": [
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -7933,7 +7933,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
@@ -7946,7 +7946,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -7959,7 +7959,7 @@
     "title": "Letter from Jesusita Baros Torres to Santos Baros Schubert, December 14, 1967",
     "spatial": [
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -7973,7 +7973,7 @@
       null
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -7986,7 +7986,7 @@
     "title": "Letter from Jesusita Baros Torres to Santos Baros Schubert, September 13, 1968",
     "spatial": [
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -7998,7 +7998,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
@@ -8011,7 +8011,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -8024,7 +8024,7 @@
     "title": "Letter from Jesusita Baros Torres to Santos Baros Schubert, October 4, 1968",
     "spatial": [
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -8036,7 +8036,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
@@ -8049,7 +8049,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -8062,7 +8062,7 @@
     "title": "Letter from Jesusita Baros Torres to Santos Baros Schubert, November 6, 1968",
     "spatial": [
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -8074,7 +8074,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
@@ -8087,7 +8087,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -8100,7 +8100,7 @@
     "title": "Letter from Jesusita Baros Torres to Santos Baros Schubert, December 3, 1968",
     "spatial": [
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -8112,7 +8112,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
@@ -8125,7 +8125,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -8141,7 +8141,7 @@
       null
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -8154,7 +8154,7 @@
     "title": "Letter from Nemecio Samaniego to Jesusita Baros Torres, February 20, 1969",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
@@ -8166,7 +8166,7 @@
         "type": "origin"
       },
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -8179,7 +8179,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -8192,7 +8192,7 @@
     "title": "Letter from Jesusita Baros Torres to Santos Baros Schubert, April 20, 1969",
     "spatial": [
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -8204,7 +8204,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
@@ -8217,7 +8217,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -8230,7 +8230,7 @@
     "title": "Letter from Jesusita Baros Torres to Santos Baros Schubert, May 13, 1969",
     "spatial": [
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -8244,7 +8244,7 @@
       null
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -8257,7 +8257,7 @@
     "title": "Letter from Patricia Medrano to Jesusita Baros Torres, July 23, 1969",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
@@ -8269,7 +8269,7 @@
         "type": "origin"
       },
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -8282,7 +8282,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -8295,7 +8295,7 @@
     "title": "Letter from Demetrio Flemate to Jesusita Baros Torres, April 8, 1970",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Los Angeles",
         "coordinates": {
@@ -8307,7 +8307,7 @@
         "type": "origin"
       },
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -8320,7 +8320,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -8333,7 +8333,7 @@
     "title": "Envelope from Roberto Gonzales to Maximino Torres, July 1, 1970",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Billings",
         "coordinates": {
@@ -8345,7 +8345,7 @@
         "type": "origin"
       },
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -8358,7 +8358,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Envelope",
+    "category2": "Envelope",
     "highlight": {
     }
   },
@@ -8371,7 +8371,7 @@
     "title": "Letter from Jesusita Baros Torres to Santos Baros Schubert, September 11, 1970",
     "spatial": [
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -8383,7 +8383,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
@@ -8396,7 +8396,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -8412,7 +8412,7 @@
       null
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -8425,7 +8425,7 @@
     "title": "Letter from Jesusita Baros Torres to Santos Baros Schubert, December 8, 1971",
     "spatial": [
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -8437,7 +8437,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
@@ -8450,7 +8450,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -8466,7 +8466,7 @@
       null
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -8479,7 +8479,7 @@
     "title": "Letter from Jess Jesús Baros to Mr. and William F. Schubert and Santos Baros Schubert, September 23, 1974",
     "spatial": [
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -8491,7 +8491,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
@@ -8504,7 +8504,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -8517,7 +8517,7 @@
     "title": "Letter from Unknown to Santos Baros Schubert, December 29, 1974",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Tucson",
         "coordinates": {
@@ -8529,7 +8529,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
@@ -8542,7 +8542,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -8555,7 +8555,7 @@
     "title": "Letter from Demetrio Flemate to Jesusita Baros Torres, October 18, 1975",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Los Angeles",
         "coordinates": {
@@ -8567,7 +8567,7 @@
         "type": "origin"
       },
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -8580,7 +8580,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -8593,7 +8593,7 @@
     "title": "Envelope from Nemecio Samaniego to Jesusita Baros Torres, October 20, 1975",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
@@ -8605,7 +8605,7 @@
         "type": "origin"
       },
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -8618,7 +8618,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Envelope",
+    "category2": "Envelope",
     "highlight": {
     }
   },
@@ -8631,7 +8631,7 @@
     "title": "Letter from Jess Jesús Baros, Helen Baros and Mark Baros to Santos Baros Schubert and William F. Schubert, January 2, 1976",
     "spatial": [
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -8645,7 +8645,7 @@
       null
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -8658,7 +8658,7 @@
     "title": "Letter from Ascensión Beltrán to Ricardo Núñez, February 04, 1976",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "México",
         "city": "Cuernavaca",
         "coordinates": {
@@ -8670,7 +8670,7 @@
         "type": "origin"
       },
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -8683,7 +8683,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Envelope",
+    "category2": "Envelope",
     "highlight": {
     }
   },
@@ -8696,7 +8696,7 @@
     "title": "Letter from Aurelia Baca Sanchez to Santos Baros Schubert, December 17, 1976",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Tucson",
         "coordinates": {
@@ -8708,7 +8708,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
@@ -8721,7 +8721,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -8734,7 +8734,7 @@
     "title": "Letter from Gloria J. Botello to Santos Baros Schubert, December 30, 1976",
     "spatial": [
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -8746,7 +8746,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
@@ -8759,7 +8759,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -8772,7 +8772,7 @@
     "title": "Letter from Helen Baros, Jess Jesús Baros, and Mark Baros to William F. Schubert and Santos Baros Schubert, March 16, 1977",
     "spatial": [
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -8784,7 +8784,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
@@ -8797,7 +8797,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -8810,7 +8810,7 @@
     "title": "Letter from Maximino Torres to Jesus Samaniego, June 8, 1977",
     "spatial": [
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -8822,7 +8822,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "México",
         "city": "Mexicali",
         "coordinates": {
@@ -8835,7 +8835,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -8848,7 +8848,7 @@
     "title": "Max Torres' house",
     "spatial": [
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -8861,7 +8861,7 @@
       }
     ],
     "category": "Image",
-    "subcategory": "Photograph",
+    "category2": "Photograph",
     "highlight": {
     }
   },
@@ -8874,7 +8874,7 @@
     "title": "Letter from William F. Schubert to Santos Baros Schubert, February 11, 1978",
     "spatial": [
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -8886,7 +8886,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
@@ -8899,7 +8899,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -8912,7 +8912,7 @@
     "title": "Letter from Felipita N. Baca to Santos Baros Schubert and William F. Schubert, August 14, 1982",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Albuquerque",
         "coordinates": {
@@ -8924,7 +8924,7 @@
         "type": "origin"
       },
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
@@ -8937,7 +8937,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -8950,7 +8950,7 @@
     "title": "A house",
     "spatial": [
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -8963,7 +8963,7 @@
       }
     ],
     "category": "Image",
-    "subcategory": "Photograph",
+    "category2": "Photograph",
     "highlight": {
     }
   },
@@ -8978,7 +8978,7 @@
       null
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -8991,7 +8991,7 @@
     "title": "Helen Baros; Elizabeth J. Shanahan; Jess Jesús Baros",
     "spatial": [
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -9004,33 +9004,7 @@
       }
     ],
     "category": "Image",
-    "subcategory": "Photograph",
-    "highlight": {
-    }
-  },
-  {
-    "date": null,
-    "identifier": "shan.P155",
-    "title_es_k": "Santos Baros Schubert and unknown woman",
-    "date_display": null,
-    "language": "n/a",
-    "title": "Santos Baros Schubert and unknown woman",
-    "spatial": [
-      {
-        "place_name": null,
-        "country": "United States of America",
-        "city": "Denver",
-        "coordinates": {
-          "lon": -104.9903,
-          "lat": 39.7392
-        },
-        "state": "Colorado",
-        "title": "Denver, Colorado",
-        "type": null
-      }
-    ],
-    "category": "Image",
-    "subcategory": "Photograph",
+    "category2": "Photograph",
     "highlight": {
     }
   },
@@ -9043,7 +9017,7 @@
     "title": "William F. Schubert",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Palmyra",
         "coordinates": {
@@ -9056,59 +9030,7 @@
       }
     ],
     "category": "Image",
-    "subcategory": "Photograph",
-    "highlight": {
-    }
-  },
-  {
-    "date": null,
-    "identifier": "shan.P095",
-    "title_es_k": "Santos Baros Schubert and Betty Baca",
-    "date_display": null,
-    "language": "n/a",
-    "title": "Santos Baros Schubert and Betty Baca",
-    "spatial": [
-      {
-        "place_name": null,
-        "country": "United States of America",
-        "city": "Denver",
-        "coordinates": {
-          "lon": -104.9903,
-          "lat": 39.7392
-        },
-        "state": "Colorado",
-        "title": "Denver, Colorado",
-        "type": null
-      }
-    ],
-    "category": "Image",
-    "subcategory": "Photograph",
-    "highlight": {
-    }
-  },
-  {
-    "date": null,
-    "identifier": "shan.P109",
-    "title_es_k": "Patricia Medrano, Guadalupe Flemate, Candelaria Flemate and Mercedes Flemate",
-    "date_display": null,
-    "language": "es",
-    "title": "Patricia Medrano, Guadalupe Flemate, Candelaria Flemate and Mercedes Flemate",
-    "spatial": [
-      {
-        "place_name": null,
-        "country": "México",
-        "city": "Juchipila",
-        "coordinates": {
-          "lon": -103.1187551,
-          "lat": 21.41242983
-        },
-        "state": "Zacatecas",
-        "title": "Juchipila, Zacatecas, México",
-        "type": null
-      }
-    ],
-    "category": "Image",
-    "subcategory": "Photograph",
+    "category2": "Photograph",
     "highlight": {
     }
   },
@@ -9121,7 +9043,7 @@
     "title": "Unknown migrant worker and children",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Basin",
         "coordinates": {
@@ -9134,7 +9056,7 @@
       }
     ],
     "category": "Image",
-    "subcategory": "Photograph",
+    "category2": "Photograph",
     "highlight": {
     }
   },
@@ -9147,7 +9069,7 @@
     "title": "La Purisima Mission",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Lompoc",
         "coordinates": {
@@ -9160,7 +9082,59 @@
       }
     ],
     "category": "Image",
-    "subcategory": "Photograph",
+    "category2": "Photograph",
+    "highlight": {
+    }
+  },
+  {
+    "date": null,
+    "identifier": "shan.P095",
+    "title_es_k": "Santos Baros Schubert and Betty Baca",
+    "date_display": null,
+    "language": "n/a",
+    "title": "Santos Baros Schubert and Betty Baca",
+    "spatial": [
+      {
+        "short_name": null,
+        "country": "United States of America",
+        "city": "Denver",
+        "coordinates": {
+          "lon": -104.9903,
+          "lat": 39.7392
+        },
+        "state": "Colorado",
+        "title": "Denver, Colorado",
+        "type": null
+      }
+    ],
+    "category": "Image",
+    "category2": "Photograph",
+    "highlight": {
+    }
+  },
+  {
+    "date": null,
+    "identifier": "shan.P109",
+    "title_es_k": "Patricia Medrano, Guadalupe Flemate, Candelaria Flemate and Mercedes Flemate",
+    "date_display": null,
+    "language": "es",
+    "title": "Patricia Medrano, Guadalupe Flemate, Candelaria Flemate and Mercedes Flemate",
+    "spatial": [
+      {
+        "short_name": null,
+        "country": "México",
+        "city": "Juchipila",
+        "coordinates": {
+          "lon": -103.1187551,
+          "lat": 21.41242983
+        },
+        "state": "Zacatecas",
+        "title": "Juchipila, Zacatecas, México",
+        "type": null
+      }
+    ],
+    "category": "Image",
+    "category2": "Photograph",
     "highlight": {
     }
   },
@@ -9175,7 +9149,7 @@
       null
     ],
     "category": "Writing",
-    "subcategory": "Document",
+    "category2": "Document",
     "highlight": {
     }
   },
@@ -9188,7 +9162,7 @@
     "title": "Sarah and unknown woman",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Glendale",
         "coordinates": {
@@ -9201,7 +9175,33 @@
       }
     ],
     "category": "Image",
-    "subcategory": "Photograph",
+    "category2": "Photograph",
+    "highlight": {
+    }
+  },
+  {
+    "date": null,
+    "identifier": "shan.P155",
+    "title_es_k": "Santos Baros Schubert and unknown woman",
+    "date_display": null,
+    "language": "n/a",
+    "title": "Santos Baros Schubert and unknown woman",
+    "spatial": [
+      {
+        "short_name": null,
+        "country": "United States of America",
+        "city": "Denver",
+        "coordinates": {
+          "lon": -104.9903,
+          "lat": 39.7392
+        },
+        "state": "Colorado",
+        "title": "Denver, Colorado",
+        "type": null
+      }
+    ],
+    "category": "Image",
+    "category2": "Photograph",
     "highlight": {
     }
   },
@@ -9214,7 +9214,7 @@
     "title": "Elizabeth J. Shanahan, Rodney Schubert, Gwendoly Schubert and Robert S. Schubert",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Hastings",
         "coordinates": {
@@ -9227,7 +9227,7 @@
       }
     ],
     "category": "Image",
-    "subcategory": "Photograph",
+    "category2": "Photograph",
     "highlight": {
     }
   },
@@ -9240,7 +9240,7 @@
     "title": "Unknown women in China Poblana Costumes",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "México",
         "city": "Guadalajara",
         "coordinates": {
@@ -9253,7 +9253,7 @@
       }
     ],
     "category": "Image",
-    "subcategory": "Photograph",
+    "category2": "Photograph",
     "highlight": {
     }
   },
@@ -9266,7 +9266,7 @@
     "title": "Santos Baros Schubert, Helen Baros and Lilian",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": null,
         "coordinates": {
@@ -9279,7 +9279,7 @@
       }
     ],
     "category": "Image",
-    "subcategory": "Photograph",
+    "category2": "Photograph",
     "highlight": {
     }
   },
@@ -9292,7 +9292,7 @@
     "title": "Jesusita Baros Torres, Jess Jesús Baros and Santos Baros Schubert",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": null,
         "coordinates": {
@@ -9305,7 +9305,71 @@
       }
     ],
     "category": "Image",
-    "subcategory": "Photograph",
+    "category2": "Photograph",
+    "highlight": {
+    }
+  },
+  {
+    "date": null,
+    "identifier": "shan.L178",
+    "title_es_k": "Sobre de Nemecio Samaniego a Jesusita Baros Torres",
+    "date_display": "",
+    "language": null,
+    "title": "Envelope from Nemecio Samaniego to Jesusita Baros Torres",
+    "spatial": [
+      {
+        "short_name": null,
+        "country": "México",
+        "city": "Juchipila",
+        "coordinates": {
+          "lon": -103.1187551,
+          "lat": 21.41242983
+        },
+        "state": "Zacatecas",
+        "title": "Juchipila, Zacatecas, México",
+        "type": "origin"
+      },
+      {
+        "short_name": "Fort Lupton",
+        "country": "United States of America",
+        "city": "Fort Lupton",
+        "coordinates": {
+          "lon": -104.813,
+          "lat": 40.0847
+        },
+        "state": "Colorado",
+        "title": "Fort Lupton, Colorado",
+        "type": "destination"
+      }
+    ],
+    "category": "Writing",
+    "category2": "Envelope",
+    "highlight": {
+    }
+  },
+  {
+    "date": null,
+    "identifier": "shan.L123",
+    "title_es_k": "Sobre de William F. Schubert y Santos Baros Schubert",
+    "date_display": "",
+    "language": null,
+    "title": "Envelope from William F. Schubert and Santos Baros Schubert",
+    "spatial": [
+      {
+        "short_name": null,
+        "country": "United States of America",
+        "city": "Lincoln",
+        "coordinates": {
+          "lon": -96.7026,
+          "lat": 40.8136
+        },
+        "state": "Nebraska",
+        "title": "Lincoln, Nebraska",
+        "type": "origin"
+      }
+    ],
+    "category": "Writing",
+    "category2": "Envelope",
     "highlight": {
     }
   },
@@ -9318,7 +9382,7 @@
     "title": "Letter from Jesusita Baros Torres to Santos Baros Schubert",
     "spatial": [
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -9332,7 +9396,7 @@
       null
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -9345,7 +9409,7 @@
     "title": "Envelope from Guadalupe Flemate to Jesusita Baros Torres",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
@@ -9357,7 +9421,7 @@
         "type": "origin"
       },
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -9370,7 +9434,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Envelope",
+    "category2": "Envelope",
     "highlight": {
     }
   },
@@ -9385,7 +9449,7 @@
 
     ],
     "category": "Writing",
-    "subcategory": "Document",
+    "category2": "Document",
     "highlight": {
     }
   },
@@ -9398,7 +9462,7 @@
     "title": "Letter from Julia Flemate to Jesusita Baros Torres",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "México",
         "city": "Guadalajara",
         "coordinates": {
@@ -9410,7 +9474,7 @@
         "type": "origin"
       },
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -9423,71 +9487,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Envelope",
-    "highlight": {
-    }
-  },
-  {
-    "date": null,
-    "identifier": "shan.L178",
-    "title_es_k": "Sobre de Nemecio Samaniego a Jesusita Baros Torres",
-    "date_display": "",
-    "language": null,
-    "title": "Envelope from Nemecio Samaniego to Jesusita Baros Torres",
-    "spatial": [
-      {
-        "place_name": null,
-        "country": "México",
-        "city": "Juchipila",
-        "coordinates": {
-          "lon": -103.1187551,
-          "lat": 21.41242983
-        },
-        "state": "Zacatecas",
-        "title": "Juchipila, Zacatecas, México",
-        "type": "origin"
-      },
-      {
-        "place_name": "Fort Lupton",
-        "country": "United States of America",
-        "city": "Fort Lupton",
-        "coordinates": {
-          "lon": -104.813,
-          "lat": 40.0847
-        },
-        "state": "Colorado",
-        "title": "Fort Lupton, Colorado",
-        "type": "destination"
-      }
-    ],
-    "category": "Writing",
-    "subcategory": "Envelope",
-    "highlight": {
-    }
-  },
-  {
-    "date": null,
-    "identifier": "shan.L123",
-    "title_es_k": "Sobre de William F. Schubert y Santos Baros Schubert",
-    "date_display": "",
-    "language": null,
-    "title": "Envelope from William F. Schubert and Santos Baros Schubert",
-    "spatial": [
-      {
-        "place_name": null,
-        "country": "United States of America",
-        "city": "Lincoln",
-        "coordinates": {
-          "lon": -96.7026,
-          "lat": 40.8136
-        },
-        "state": "Nebraska",
-        "title": "Lincoln, Nebraska",
-        "type": "origin"
-      }
-    ],
-    "category": "Writing",
-    "subcategory": "Envelope",
+    "category2": "Envelope",
     "highlight": {
     }
   },
@@ -9500,7 +9500,7 @@
     "title": "Jesusita Baros Torres, Jess Jesús Baros and Santos Baros Schubert",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Denver",
         "coordinates": {
@@ -9513,7 +9513,7 @@
       }
     ],
     "category": "Image",
-    "subcategory": "Photograph",
+    "category2": "Photograph",
     "highlight": {
     }
   },
@@ -9526,7 +9526,7 @@
     "title": "Santos Baros Schubert; Jess Jesús Baros; Jesusita Baros Torres",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Albuquerque",
         "coordinates": {
@@ -9539,7 +9539,7 @@
       }
     ],
     "category": "Image",
-    "subcategory": "Photograph",
+    "category2": "Photograph",
     "highlight": {
     }
   },
@@ -9552,7 +9552,7 @@
     "title": "Santos Baros Schubert and Jess Jesús Baros",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Albuquerque",
         "coordinates": {
@@ -9565,7 +9565,7 @@
       }
     ],
     "category": "Image",
-    "subcategory": "Photograph",
+    "category2": "Photograph",
     "highlight": {
     }
   },
@@ -9578,7 +9578,7 @@
     "title": "Templo de la H. Matamoros",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "México",
         "city": "Matamoros",
         "coordinates": {
@@ -9591,7 +9591,7 @@
       }
     ],
     "category": "Image",
-    "subcategory": "Photograph",
+    "category2": "Photograph",
     "highlight": {
     }
   },
@@ -9604,7 +9604,7 @@
     "title": "Helen Baros and Jess Jesús Baros",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": null,
         "coordinates": {
@@ -9617,7 +9617,7 @@
       }
     ],
     "category": "Image",
-    "subcategory": "Photograph",
+    "category2": "Photograph",
     "highlight": {
     }
   },
@@ -9630,7 +9630,7 @@
     "title": "Lilian, Santos Baros Schubert, Helen Baros, Jess Jesús Baros and two unknown groomsmen",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": null,
         "coordinates": {
@@ -9643,7 +9643,7 @@
       }
     ],
     "category": "Image",
-    "subcategory": "Photograph",
+    "category2": "Photograph",
     "highlight": {
     }
   },
@@ -9656,7 +9656,7 @@
     "title": "William F. Schubert, William D. Schubert and Santos Baros Schubert",
     "spatial": [
       {
-        "place_name": "Garden of the Gods",
+        "short_name": "Garden of the Gods",
         "country": "United States of America",
         "city": "Colorado Springs",
         "coordinates": {
@@ -9669,7 +9669,7 @@
       }
     ],
     "category": "Image",
-    "subcategory": "Photograph",
+    "category2": "Photograph",
     "highlight": {
     }
   },
@@ -9682,7 +9682,7 @@
     "title": "Elizabeth J. Shanahan and Jerry Baros",
     "spatial": [
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -9695,7 +9695,7 @@
       }
     ],
     "category": "Image",
-    "subcategory": "Photograph",
+    "category2": "Photograph",
     "highlight": {
     }
   },
@@ -9708,7 +9708,7 @@
     "title": "Santos Baros Schubert, William D. Schubert and Roger Dale Pearcy",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Lincoln",
         "coordinates": {
@@ -9721,7 +9721,7 @@
       }
     ],
     "category": "Image",
-    "subcategory": "Photograph",
+    "category2": "Photograph",
     "highlight": {
     }
   },
@@ -9735,7 +9735,7 @@
     "spatial": [
       null,
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Longmont",
         "coordinates": {
@@ -9748,7 +9748,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Envelope",
+    "category2": "Envelope",
     "highlight": {
     }
   },
@@ -9761,7 +9761,7 @@
     "title": "Guadalupe Flemate and an unknown woman",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
@@ -9774,7 +9774,7 @@
       }
     ],
     "category": "Image",
-    "subcategory": "Photograph",
+    "category2": "Photograph",
     "highlight": {
     }
   },
@@ -9787,7 +9787,7 @@
     "title": "José de Jesus Flemate",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
@@ -9800,7 +9800,7 @@
       }
     ],
     "category": "Image",
-    "subcategory": "Photograph",
+    "category2": "Photograph",
     "highlight": {
     }
   },
@@ -9813,7 +9813,7 @@
     "title": "Jesusita Baros Torres",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Denver",
         "coordinates": {
@@ -9826,7 +9826,7 @@
       }
     ],
     "category": "Image",
-    "subcategory": "Photograph",
+    "category2": "Photograph",
     "highlight": {
     }
   },
@@ -9839,7 +9839,7 @@
     "title": "Benny Lujan",
     "spatial": [
       {
-        "place_name": "Camp Carson",
+        "short_name": "Camp Carson",
         "country": "United States of America",
         "city": null,
         "coordinates": {
@@ -9852,86 +9852,22 @@
       }
     ],
     "category": "Image",
-    "subcategory": "Photograph",
+    "category2": "Photograph",
     "highlight": {
     }
   },
   {
     "date": null,
-    "identifier": "shan.P254",
-    "title_es_k": "Jesusita Baros Torres",
-    "date_display": null,
-    "language": "n/a",
-    "title": "Jesusita Baros Torres",
-    "spatial": [
-      {
-        "place_name": null,
-        "country": "United States of America",
-        "city": "Denver",
-        "coordinates": {
-          "lon": -104.9903,
-          "lat": 39.7392
-        },
-        "state": "Colorado",
-        "title": "Denver, Colorado",
-        "type": null
-      }
-    ],
-    "category": "Image",
-    "subcategory": "Photograph",
-    "highlight": {
-    }
-  },
-  {
-    "date": null,
-    "identifier": "shan.P256",
-    "title_es_k": "Interior of the church in Juchipila",
-    "date_display": null,
-    "language": "es",
-    "title": "Interior of the church in Juchipila",
-    "spatial": [
-      {
-        "place_name": null,
-        "country": "México",
-        "city": "Juchipila",
-        "coordinates": {
-          "lon": -103.1187551,
-          "lat": 21.41242983
-        },
-        "state": "Zacatecas",
-        "title": "Juchipila, Zacatecas, México",
-        "type": null
-      }
-    ],
-    "category": "Image",
-    "subcategory": "Photograph",
-    "highlight": {
-    }
-  },
-  {
-    "date": null,
-    "identifier": "shan.L066",
-    "title_es_k": "Carta de Desconocido a Nemecio Samaniego",
+    "identifier": "shan.L112",
+    "title_es_k": "Carta de Jesusita Baros Torres a Desconocido",
     "date_display": "",
     "language": "es",
-    "title": "Letter from Unknown to Nemecio Samaniego",
+    "title": "Letter from Jesusita Baros Torres to Unknown",
     "spatial": [
-      null,
-      {
-        "place_name": null,
-        "country": "México",
-        "city": "Juchipila",
-        "coordinates": {
-          "lon": -103.1187551,
-          "lat": 21.41242983
-        },
-        "state": "Zacatecas",
-        "title": "Juchipila, Zacatecas, México",
-        "type": "destination"
-      }
+      null
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -9944,7 +9880,7 @@
     "title": "Letter from Shone Villanueva to Jesusita Baros Torres",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Albuquerque",
         "coordinates": {
@@ -9958,7 +9894,7 @@
       null
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -9971,7 +9907,7 @@
     "title": "Envelope from Nemecio Samaniego to Jesusita Baros Torres",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
@@ -9983,7 +9919,7 @@
         "type": "origin"
       },
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -9996,7 +9932,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Envelope",
+    "category2": "Envelope",
     "highlight": {
     }
   },
@@ -10009,7 +9945,7 @@
     "title": "Letter from Guadalupe Flemate to Jesusita Baros Torres",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
@@ -10021,7 +9957,7 @@
         "type": "origin"
       },
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -10034,7 +9970,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
@@ -10050,48 +9986,86 @@
       null
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
   {
     "date": null,
-    "identifier": "shan.L112",
-    "title_es_k": "Carta de Jesusita Baros Torres a Desconocido",
+    "identifier": "shan.L066",
+    "title_es_k": "Carta de Desconocido a Nemecio Samaniego",
     "date_display": "",
     "language": "es",
-    "title": "Letter from Jesusita Baros Torres to Unknown",
+    "title": "Letter from Unknown to Nemecio Samaniego",
     "spatial": [
-      null
+      null,
+      {
+        "short_name": null,
+        "country": "México",
+        "city": "Juchipila",
+        "coordinates": {
+          "lon": -103.1187551,
+          "lat": 21.41242983
+        },
+        "state": "Zacatecas",
+        "title": "Juchipila, Zacatecas, México",
+        "type": "destination"
+      }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   },
   {
     "date": null,
-    "identifier": "shan.P001",
+    "identifier": "shan.P254",
     "title_es_k": "Jesusita Baros Torres",
     "date_display": null,
-    "language": "en",
+    "language": "n/a",
     "title": "Jesusita Baros Torres",
     "spatial": [
       {
-        "place_name": "Fort Lupton",
+        "short_name": null,
         "country": "United States of America",
-        "city": "Fort Lupton",
+        "city": "Denver",
         "coordinates": {
-          "lon": -104.813,
-          "lat": 40.0847
+          "lon": -104.9903,
+          "lat": 39.7392
         },
         "state": "Colorado",
-        "title": "Fort Lupton, Colorado",
+        "title": "Denver, Colorado",
         "type": null
       }
     ],
     "category": "Image",
-    "subcategory": "Photograph",
+    "category2": "Photograph",
+    "highlight": {
+    }
+  },
+  {
+    "date": null,
+    "identifier": "shan.P256",
+    "title_es_k": "Interior of the church in Juchipila",
+    "date_display": null,
+    "language": "es",
+    "title": "Interior of the church in Juchipila",
+    "spatial": [
+      {
+        "short_name": null,
+        "country": "México",
+        "city": "Juchipila",
+        "coordinates": {
+          "lon": -103.1187551,
+          "lat": 21.41242983
+        },
+        "state": "Zacatecas",
+        "title": "Juchipila, Zacatecas, México",
+        "type": null
+      }
+    ],
+    "category": "Image",
+    "category2": "Photograph",
     "highlight": {
     }
   },
@@ -10104,7 +10078,7 @@
     "title": "Mary Muñoz",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Denver",
         "coordinates": {
@@ -10117,33 +10091,7 @@
       }
     ],
     "category": "Image",
-    "subcategory": "Photograph",
-    "highlight": {
-    }
-  },
-  {
-    "date": null,
-    "identifier": "shan.P096",
-    "title_es_k": "Santos Baros Schubert, Freddie Baca and unknown people",
-    "date_display": null,
-    "language": "n/a",
-    "title": "Santos Baros Schubert, Freddie Baca and unknown people",
-    "spatial": [
-      {
-        "place_name": null,
-        "country": "United States of America",
-        "city": "Denver",
-        "coordinates": {
-          "lon": -104.9903,
-          "lat": 39.7392
-        },
-        "state": "Colorado",
-        "title": "Denver, Colorado",
-        "type": null
-      }
-    ],
-    "category": "Image",
-    "subcategory": "Photograph",
+    "category2": "Photograph",
     "highlight": {
     }
   },
@@ -10156,7 +10104,7 @@
     "title": "Jesusita Baros Torres and Faustin Villanueva",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": "Albuquerque",
         "coordinates": {
@@ -10169,7 +10117,7 @@
       }
     ],
     "category": "Image",
-    "subcategory": "Photograph",
+    "category2": "Photograph",
     "highlight": {
     }
   },
@@ -10182,7 +10130,7 @@
     "title": "Helen Baros and Jess Jesús Baros",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "United States of America",
         "city": null,
         "coordinates": {
@@ -10195,7 +10143,59 @@
       }
     ],
     "category": "Image",
-    "subcategory": "Photograph",
+    "category2": "Photograph",
+    "highlight": {
+    }
+  },
+  {
+    "date": null,
+    "identifier": "shan.P096",
+    "title_es_k": "Santos Baros Schubert, Freddie Baca and unknown people",
+    "date_display": null,
+    "language": "n/a",
+    "title": "Santos Baros Schubert, Freddie Baca and unknown people",
+    "spatial": [
+      {
+        "short_name": null,
+        "country": "United States of America",
+        "city": "Denver",
+        "coordinates": {
+          "lon": -104.9903,
+          "lat": 39.7392
+        },
+        "state": "Colorado",
+        "title": "Denver, Colorado",
+        "type": null
+      }
+    ],
+    "category": "Image",
+    "category2": "Photograph",
+    "highlight": {
+    }
+  },
+  {
+    "date": null,
+    "identifier": "shan.P001",
+    "title_es_k": "Jesusita Baros Torres",
+    "date_display": null,
+    "language": "en",
+    "title": "Jesusita Baros Torres",
+    "spatial": [
+      {
+        "short_name": "Fort Lupton",
+        "country": "United States of America",
+        "city": "Fort Lupton",
+        "coordinates": {
+          "lon": -104.813,
+          "lat": 40.0847
+        },
+        "state": "Colorado",
+        "title": "Fort Lupton, Colorado",
+        "type": null
+      }
+    ],
+    "category": "Image",
+    "category2": "Photograph",
     "highlight": {
     }
   },
@@ -10208,7 +10208,7 @@
     "title": "Letter from Patricia Medrano to Jesusita Baros Torres",
     "spatial": [
       {
-        "place_name": null,
+        "short_name": null,
         "country": "México",
         "city": "Juchipila",
         "coordinates": {
@@ -10220,7 +10220,7 @@
         "type": "origin"
       },
       {
-        "place_name": "Fort Lupton",
+        "short_name": "Fort Lupton",
         "country": "United States of America",
         "city": "Fort Lupton",
         "coordinates": {
@@ -10233,7 +10233,7 @@
       }
     ],
     "category": "Writing",
-    "subcategory": "Letter",
+    "category2": "Letter",
     "highlight": {
     }
   }

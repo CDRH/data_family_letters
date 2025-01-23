@@ -47,7 +47,7 @@ class WebsToEs < XmlToEs
     ["es", "en"]
   end
 
-  def subcategory
+  def category2
     "Site Section"
   end
 
@@ -93,7 +93,7 @@ class WebsToEs < XmlToEs
     # teach_lesson05 -> teach/lesson05
     # so long as all of the webscraped paths are only
     # nested one deep, the below should work
-    # otherwise we need to revisit this and subcategory
+    # otherwise we need to revisit this and category2
     subcat, underscore, final_url_piece = @id.partition("_")
     File.join(@options["site_url"], subcat, final_url_piece)
   end

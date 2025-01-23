@@ -17,7 +17,7 @@ class Datura::DataManager
       date_display
       identifier
       language
-      subcategory
+      category2
       spatial
       title
       title_es_k
@@ -34,7 +34,7 @@ class Datura::DataManager
       loc = File.join(@options["collection_dir"], "source/api_location/spatial.json")
       File.open(loc, "w") { |f| f.write(JSON.pretty_generate(items)) }
     rescue => e
-      return { "error" => "Error transforming or posting to ES for #{self.filename(false)}: #{e.response}" }
+      return { "error" => "Error transforming or posting to ES for #{loc}: #{e.response}" }
     end
   end
 
@@ -44,7 +44,6 @@ class Datura::DataManager
     urls.each do |url|
       lang = url.include?("/en/") ? "en" : "es"
       raw = open(url) { |f| f.read }
-
       # wrap the web scraping results in a div that describes the language
       combined << "<div lang=\"#{lang}\">"
       html = Nokogiri::HTML(raw)
@@ -74,6 +73,7 @@ class Datura::DataManager
         and then update config/public.yml to use "scrape_api: true"}
     end
   rescue => exception
+    url = File.join(@options["site_url"], @options["scrape_endpoint"])
     print_error(exception, url)
   end
 

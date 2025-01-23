@@ -11,15 +11,16 @@ default:
   # download location-centric API results which will later
   # for use with the api_json format to create geoJSON
   api_request: true
-  api_endpoint: https://cdrhapi.unl.edu/v1/collection/family_letters/items
+  api_endpoint: https://cdrhapi.unl.edu/v2/collection/family_letters/items
+  api_version: "2.0"
 development:
-  data_base: https://cdrhdev1.unl.edu/media
-  es_path: https://cdrhdev1.unl.edu/elastic
-  es_index: cdrhapidev-v1
-  site_url: https://cdrhdev1.unl.edu/family_letters
-  api_endpoint: https://cdrhdev1.unl.edu/api/v1/collection/family_letters/items
+  data_base: https://servername.unl.edu/media
+  es_path: https://servername.unl.edu/elastic
+  es_index: cdrhapidev-v2
+  site_url: https://servername.unl.edu/family_letters
+  api_endpoint: https://servername.unl.edu/api/v2/collection/family_letters/items
 production:
   es_path: https://cdrhapi.unl.edu/elastic
-  es_index: cdrhapi-v1
+  es_index: cdrhapi-v2
   site_url: https://familyletters.unl.edu
   scrape_website: false

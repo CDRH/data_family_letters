@@ -31,7 +31,7 @@ class FileCustom < FileType
     create_photographs
 
     # get a set of all the letters
-    @items = @file.select { |item| item["subcategory"] == "Letter" }
+    @items = @file.select { |item| item["category2"] == "Letter" }
 
     create_all_letters
     create_letters_by_decade
@@ -182,7 +182,7 @@ class FileCustom < FileType
   # except that we don't need languages for photos
   # but can consider combining if desired
   def create_photographs
-    items = @file.select { |item| item["subcategory"] == "Photograph" }
+    items = @file.select { |item| item["category2"] == "Photograph" }
     cities = {}
     items.map do |item|
       photo = Photograph.new(item)
