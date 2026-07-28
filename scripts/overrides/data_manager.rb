@@ -24,17 +24,17 @@ class Datura::DataManager
     )
     fl = field_list.join(",")
     begin
-      res = RestClient.get(
-        File.join(api_base, "?sort=date|asc&num=800&fl=#{fl}")
-      )
-      json = JSON.parse(res)
+      url = File.join(api_base, "?sort=date|asc&num=800&fl=#{fl}")
+      res = Datura::Helpers.get_url(url)
+      raise "#{res.code} error from API: #{res.body}" unless res.code.start_with?("2")
+      json = JSON.parse(res.body)
       # quickly remove any items which do not have spatial information
       items = json["res"]["items"].reject { |item| item["spatial"].nil? }
       # write to file
       loc = File.join(@options["collection_dir"], "source/api_location/spatial.json")
       File.open(loc, "w") { |f| f.write(JSON.pretty_generate(items)) }
     rescue => e
-      return { "error" => "Error transforming or posting to ES for #{loc}: #{e.response}" }
+      return { "error" => "Error transforming or posting to ES for #{loc}: #{e.message}" }
     end
   end
 
