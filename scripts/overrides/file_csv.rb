@@ -3,30 +3,34 @@ require_relative "location_helper.rb"
 class FileCsv
   include LocationHelper
 
-  def build_html_from_csv
-    items = reconstitute_items
-    items.each do |id, pages|
-      builder = Nokogiri::XML::Builder.new do |xml|
-        xml.div(class: "main_content") {
-        xml.div(class: "image_display")
-        xml.h4(data_from_pages(pages, "Title#1", combine: false))
-        pages.each do |page|
-          image_name = page["Filename"].include?(".jpg") ? page["Filename"] : "#{page["Filename"]}.jpg"
-          xml.div(class: "image_item_display") {
-            xml.p(page["Description#1"]) if page["Description#1"]
-            xml.p(page["Card Text"]) if page["Card Text"]
-            xml.p(page["Written Text"]) if page["Written Text"]
-            xml.img(
-              src: "#{@options["media_base"]}/iiif/2/#{@options["collection"]}%2F#{image_name}/full/!800,800/0/default.jpg",
-              class: "display"
-            )
-          }
-        end
+def build_html_from_csv
+  items = reconstitute_items
+  items.each do |id, pages|
+    image_number = 1
+    builder = Nokogiri::XML::Builder.new do |xml|
+      xml.div(class: "main_content") {
+      xml.div(class: "image_display")
+      xml.h4(data_from_pages(pages, "Title#1", combine: false))
+      pages.each do |page|
+        image_name = page["Filename"].include?(".jpg") ? page["Filename"] : "#{page["Filename"]}.jpg"
+        xml.div(class: "image_item_display") {
+          xml.p(page["Description#1"], 'aria-hidden' => 'true') if page["Description#1"]
+          xml.p(page["Card Text"]) if page["Card Text"]
+          xml.p(page["Written Text"]) if page["Written Text"]
+          image_alt = page["Description#1"] && !page["Description#1"].empty? ? page["Description#1"] : "Page #{image_number} - see text transcription"
+          image_number += 1 if page["Description#1"].nil? || page["Description#1"].empty?
+          xml.img(
+            src: "#{@options["media_base"]}/iiif/2/#{@options["collection"]}%2F#{image_name}/full/!800,800/0/default.jpg",
+            class: "display",
+            alt: image_alt
+          )
         }
       end
-      write_html_to_file(builder, id)
+      }
     end
+    write_html_to_file(builder, id)
   end
+end
 
   # returns the data from either the first page or combines into array of values
   # flags any discrepancies if they are not to be combined
