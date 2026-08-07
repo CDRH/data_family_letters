@@ -43,11 +43,11 @@ class Datura::DataManager
     # retrieve and then combine into a single file which can be parsed
     urls.each do |url|
       lang = url.include?("/en/") ? "en" : "es"
-      raw = open(url) { |f| f.read }
+      raw = URI.open(url) { |f| f.read }
       # wrap the web scraping results in a div that describes the language
       combined << "<div lang=\"#{lang}\">"
       html = Nokogiri::HTML(raw)
-      combined << html.at_xpath("//div[@id='content-wrapper']").inner_html
+      combined << html.at_xpath("//main[@id='content-wrapper']").inner_html
       combined << "</div>"
     end
     combined
@@ -88,7 +88,7 @@ temporarily disable the scrape_website setting in that file}.red
   def scrape_website
     url = File.join(@options["site_url"], @options["scrape_endpoint"])
     puts "getting list of urls to scrape from #{url}"
-    list_of_pages = open(url) { |f| f.read }
+    list_of_pages = URI.open(url) { |f| f.read }
     # family letters has urls such as research and en/research
     # representing spanish and english views of the same content
     # so the urls are returned in pairs
