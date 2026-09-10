@@ -59,7 +59,7 @@ class FileCustom < FileType
       letter = Letter.new(item)
       type = letter.send(letter_method)
       next if !type
-      place = type["title"]
+      place = type["name"]
       push_letter_to_hash(
         cities_total,
         letter,
@@ -83,8 +83,8 @@ class FileCustom < FileType
       dest = letter.destination
       next if !origin || !dest
 
-      place_from = origin["title"]
-      place_to = dest["title"]
+      place_from = origin["name"]
+      place_to = dest["name"]
       key = [place_from, place_to].join("|")
 
       push_letter_to_hash(
