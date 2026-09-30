@@ -156,44 +156,6 @@
     }
   },
   {
-    "identifier": "shan.L006",
-    "title": "Letter from Arroyo to Maximino Torres, March 18, 1926",
-    "category": "Writing",
-    "category2": "Letter",
-    "date": "1926-03-18",
-    "date_display": "March 18, 1926",
-    "language": "es",
-    "spatial": [
-      {
-        "name": "Huapamacato, Michoacán, México",
-        "type": "origin",
-        "short_name": null,
-        "coordinates": {
-          "lat": 20.12116395,
-          "lon": -102.0814848
-        },
-        "city": "Huapamacato",
-        "country": "México",
-        "state": "Michoacán"
-      },
-      {
-        "name": "Rock Springs, Wyoming",
-        "type": "destination",
-        "short_name": null,
-        "coordinates": {
-          "lat": 41.5875,
-          "lon": -109.2029
-        },
-        "city": "Rock Springs",
-        "country": "United States of America",
-        "state": "Wyoming"
-      }
-    ],
-    "title_es_k": "Carta de Arroyo a Maximino Torres, 18 de marzo, 1926",
-    "highlight": {
-    }
-  },
-  {
     "identifier": "shan.L005",
     "title": "Letter from Julia de Arroyo to Maximino Torres, March 18, 1926",
     "category": "Writing",
@@ -228,6 +190,44 @@
       }
     ],
     "title_es_k": "Carta de Julia de Arroyo a Maximino Torres, 18 de marzo, 1926",
+    "highlight": {
+    }
+  },
+  {
+    "identifier": "shan.L006",
+    "title": "Letter from Arroyo to Maximino Torres, March 18, 1926",
+    "category": "Writing",
+    "category2": "Letter",
+    "date": "1926-03-18",
+    "date_display": "March 18, 1926",
+    "language": "es",
+    "spatial": [
+      {
+        "name": "Huapamacato, Michoacán, México",
+        "type": "origin",
+        "short_name": null,
+        "coordinates": {
+          "lat": 20.12116395,
+          "lon": -102.0814848
+        },
+        "city": "Huapamacato",
+        "country": "México",
+        "state": "Michoacán"
+      },
+      {
+        "name": "Rock Springs, Wyoming",
+        "type": "destination",
+        "short_name": null,
+        "coordinates": {
+          "lat": 41.5875,
+          "lon": -109.2029
+        },
+        "city": "Rock Springs",
+        "country": "United States of America",
+        "state": "Wyoming"
+      }
+    ],
+    "title_es_k": "Carta de Arroyo a Maximino Torres, 18 de marzo, 1926",
     "highlight": {
     }
   },
@@ -2894,33 +2894,6 @@
     "category": "Image",
     "date": "1945-05-01",
     "date_display": "1945-05",
-    "identifier": "shan.P266",
-    "language": "en",
-    "title": "Santos Baros Schubert and Julia Gomez",
-    "title_es_k": "Santos Baros Schubert and Julia Gomez",
-    "spatial": [
-      {
-        "title": "Erie, Colorado",
-        "type": null,
-        "name": "Erie, Colorado",
-        "short_name": null,
-        "coordinates": {
-          "lat": 40.0503,
-          "lon": -105.05
-        },
-        "city": "Erie",
-        "country": "United States of America",
-        "state": "Colorado"
-      }
-    ],
-    "category2": "Photograph",
-    "highlight": {
-    }
-  },
-  {
-    "category": "Image",
-    "date": "1945-05-01",
-    "date_display": "1945-05",
     "identifier": "shan.P073",
     "language": "n/a",
     "title": "William F. Schubert",
@@ -2938,6 +2911,33 @@
         "city": "New York",
         "country": "United States of America",
         "state": "New York"
+      }
+    ],
+    "category2": "Photograph",
+    "highlight": {
+    }
+  },
+  {
+    "category": "Image",
+    "date": "1945-05-01",
+    "date_display": "1945-05",
+    "identifier": "shan.P266",
+    "language": "en",
+    "title": "Santos Baros Schubert and Julia Gomez",
+    "title_es_k": "Santos Baros Schubert and Julia Gomez",
+    "spatial": [
+      {
+        "title": "Erie, Colorado",
+        "type": null,
+        "name": "Erie, Colorado",
+        "short_name": null,
+        "coordinates": {
+          "lat": 40.0503,
+          "lon": -105.05
+        },
+        "city": "Erie",
+        "country": "United States of America",
+        "state": "Colorado"
       }
     ],
     "category2": "Photograph",
@@ -3986,21 +3986,6 @@
     }
   },
   {
-    "identifier": "shan.L139",
-    "title": "Letter from William F. Schubert to Santos Baros Schubert, October 12th, 1950",
-    "category": "Writing",
-    "category2": "Letter",
-    "date": "1950-10-12",
-    "date_display": "October 12, 1950",
-    "language": "en",
-    "spatial": [
-
-    ],
-    "title_es_k": "Carta de William F. Schubert a Santos Baros Schubert, 12 de octubre, 1950",
-    "highlight": {
-    }
-  },
-  {
     "identifier": "shan.L224",
     "title": "Letter from Santos Baros Schubert to William F. Schubert, October 12, 1950",
     "category": "Writing",
@@ -4039,6 +4024,21 @@
     }
   },
   {
+    "identifier": "shan.L139",
+    "title": "Letter from William F. Schubert to Santos Baros Schubert, October 12th, 1950",
+    "category": "Writing",
+    "category2": "Letter",
+    "date": "1950-10-12",
+    "date_display": "October 12, 1950",
+    "language": "en",
+    "spatial": [
+
+    ],
+    "title_es_k": "Carta de William F. Schubert a Santos Baros Schubert, 12 de octubre, 1950",
+    "highlight": {
+    }
+  },
+  {
     "identifier": "shan.L140",
     "title": "Letter from William F. Schubert to Santos Baros Schubert, October 13, 1950",
     "category": "Writing",
@@ -4065,21 +4065,6 @@
 
     ],
     "title_es_k": "Carta de William F. Schubert a Santos Baros Schubert, 14 de octubre, 1950",
-    "highlight": {
-    }
-  },
-  {
-    "identifier": "shan.L142",
-    "title": "Letter from William F. Schubert to Santos Baros Schubert, October 16, 1950",
-    "category": "Writing",
-    "category2": "Letter",
-    "date": "1950-10-16",
-    "date_display": "October 16, 1950",
-    "language": "en",
-    "spatial": [
-
-    ],
-    "title_es_k": "Carta de William F. Schubert a Santos Baros Schubert, 16 de octubre, 1950",
     "highlight": {
     }
   },
@@ -4118,6 +4103,21 @@
       }
     ],
     "title_es_k": "Carta de Santos Baros Schubert a William F. Schubert, 16 de octubre, 1950",
+    "highlight": {
+    }
+  },
+  {
+    "identifier": "shan.L142",
+    "title": "Letter from William F. Schubert to Santos Baros Schubert, October 16, 1950",
+    "category": "Writing",
+    "category2": "Letter",
+    "date": "1950-10-16",
+    "date_display": "October 16, 1950",
+    "language": "en",
+    "spatial": [
+
+    ],
+    "title_es_k": "Carta de William F. Schubert a Santos Baros Schubert, 16 de octubre, 1950",
     "highlight": {
     }
   },
@@ -4745,6 +4745,21 @@
       }
     ],
     "category2": "Photograph",
+    "highlight": {
+    }
+  },
+  {
+    "identifier": "shan.D004",
+    "title": "Jesusita Baros Torres' handwritten notes for citizenship exam",
+    "category": "Writing",
+    "category2": "Document",
+    "date": "1953-10-31",
+    "date_display": "October 1953",
+    "language": "es",
+    "spatial": [
+
+    ],
+    "title_es_k": "Notas manuscritas para el examen de ciudadanía de Jesusita Baros Torres",
     "highlight": {
     }
   },
@@ -6581,33 +6596,6 @@
     "category": "Image",
     "date": "1961-02-04",
     "date_display": "1961-02-04",
-    "identifier": "shan.P270",
-    "language": "es",
-    "title": "José Ascensión Samaniego",
-    "title_es_k": "José Ascensión Samaniego",
-    "spatial": [
-      {
-        "title": "México",
-        "type": null,
-        "name": "México",
-        "short_name": null,
-        "coordinates": {
-          "lat": 23.6345,
-          "lon": -102.5528
-        },
-        "city": "México",
-        "country": "México",
-        "state": null
-      }
-    ],
-    "category2": "Photograph",
-    "highlight": {
-    }
-  },
-  {
-    "category": "Image",
-    "date": "1961-02-04",
-    "date_display": "1961-02-04",
     "identifier": "shan.P036",
     "language": "es",
     "title": "Esperanza Estrada Quirarte and Jesús Ascensión Samaniego",
@@ -6625,6 +6613,33 @@
         "city": "Juchipila",
         "country": "México",
         "state": "Zacatecas"
+      }
+    ],
+    "category2": "Photograph",
+    "highlight": {
+    }
+  },
+  {
+    "category": "Image",
+    "date": "1961-02-04",
+    "date_display": "1961-02-04",
+    "identifier": "shan.P270",
+    "language": "es",
+    "title": "José Ascensión Samaniego",
+    "title_es_k": "José Ascensión Samaniego",
+    "spatial": [
+      {
+        "title": "México",
+        "type": null,
+        "name": "México",
+        "short_name": null,
+        "coordinates": {
+          "lat": 23.6345,
+          "lon": -102.5528
+        },
+        "city": "México",
+        "country": "México",
+        "state": null
       }
     ],
     "category2": "Photograph",
@@ -9030,270 +9045,6 @@
     }
   },
   {
-    "identifier": "shan.L052",
-    "title": "Note by Jesusita Baros Torres",
-    "category": "Writing",
-    "category2": "Document",
-    "date": null,
-    "date_display": null,
-    "language": "es",
-    "spatial": [
-
-    ],
-    "title_es_k": "Nota de Jesusita Baros Torres",
-    "highlight": {
-    }
-  },
-  {
-    "identifier": "shan.L066",
-    "title": "Letter from Unknown to Nemecio Samaniego",
-    "category": "Writing",
-    "category2": "Letter",
-    "date": null,
-    "date_display": null,
-    "language": "es",
-    "spatial": [
-      {
-        "name": "Juchipila, Zacatecas, México",
-        "type": "destination",
-        "short_name": null,
-        "coordinates": {
-          "lat": 21.41242983,
-          "lon": -103.1187551
-        },
-        "city": "Juchipila",
-        "country": "México",
-        "state": "Zacatecas"
-      }
-    ],
-    "title_es_k": "Carta de Desconocido a Nemecio Samaniego",
-    "highlight": {
-    }
-  },
-  {
-    "identifier": "shan.L077",
-    "title": "Letter from Jesusita Baros Torres to Santos Baros Schubert",
-    "category": "Writing",
-    "category2": "Letter",
-    "date": null,
-    "date_display": null,
-    "language": "es",
-    "spatial": [
-      {
-        "name": "Fort Lupton, Colorado",
-        "type": "origin",
-        "short_name": "Fort Lupton",
-        "coordinates": {
-          "lat": 40.0847,
-          "lon": -104.813
-        },
-        "city": "Fort Lupton",
-        "country": "United States of America",
-        "state": "Colorado"
-      }
-    ],
-    "title_es_k": "Carta de Jesusita Baros Torres a Santos Baros Schubert",
-    "highlight": {
-    }
-  },
-  {
-    "identifier": "shan.L112",
-    "title": "Letter from Jesusita Baros Torres to Unknown",
-    "category": "Writing",
-    "category2": "Letter",
-    "date": null,
-    "date_display": null,
-    "language": "es",
-    "spatial": [
-
-    ],
-    "title_es_k": "Carta de Jesusita Baros Torres a Desconocido",
-    "highlight": {
-    }
-  },
-  {
-    "category": "Image",
-    "date": null,
-    "date_display": null,
-    "identifier": "shan.P254",
-    "language": "n/a",
-    "title": "Jesusita Baros Torres",
-    "title_es_k": "Jesusita Baros Torres",
-    "spatial": [
-      {
-        "title": "Denver, Colorado",
-        "type": null,
-        "name": "Denver, Colorado",
-        "short_name": null,
-        "coordinates": {
-          "lat": 39.7392,
-          "lon": -104.9903
-        },
-        "city": "Denver",
-        "country": "United States of America",
-        "state": "Colorado"
-      }
-    ],
-    "category2": "Photograph",
-    "highlight": {
-    }
-  },
-  {
-    "category": "Image",
-    "date": null,
-    "date_display": null,
-    "identifier": "shan.P256",
-    "language": "es",
-    "title": "Interior of the church in Juchipila",
-    "title_es_k": "Interior of the church in Juchipila",
-    "spatial": [
-      {
-        "title": "Juchipila, Zacatecas, México",
-        "type": null,
-        "name": "Juchipila, Zacatecas, México",
-        "short_name": null,
-        "coordinates": {
-          "lat": 21.41242983,
-          "lon": -103.1187551
-        },
-        "city": "Juchipila",
-        "country": "México",
-        "state": "Zacatecas"
-      }
-    ],
-    "category2": "Photograph",
-    "highlight": {
-    }
-  },
-  {
-    "identifier": "shan.L010",
-    "title": "Letter from Shone Villanueva to Jesusita Baros Torres",
-    "category": "Writing",
-    "category2": "Letter",
-    "date": null,
-    "date_display": null,
-    "language": "es",
-    "spatial": [
-      {
-        "name": "Albuquerque, New Mexico",
-        "type": "origin",
-        "short_name": null,
-        "coordinates": {
-          "lat": 35.0844,
-          "lon": -106.6504
-        },
-        "city": "Albuquerque",
-        "country": "United States of America",
-        "state": "New Mexico"
-      }
-    ],
-    "title_es_k": "Carta de Shone Villanueva a Jesusita Baros Torres",
-    "highlight": {
-    }
-  },
-  {
-    "identifier": "shan.L012",
-    "title": "Letter from Patricia Medrano to Jesusita Baros Torres",
-    "category": "Writing",
-    "category2": "Letter",
-    "date": null,
-    "date_display": null,
-    "language": "es",
-    "spatial": [
-      {
-        "name": "Juchipila, Zacatecas, México",
-        "type": "origin",
-        "short_name": null,
-        "coordinates": {
-          "lat": 21.41242983,
-          "lon": -103.1187551
-        },
-        "city": "Juchipila",
-        "country": "México",
-        "state": "Zacatecas"
-      },
-      {
-        "name": "Fort Lupton, Colorado",
-        "type": "destination",
-        "short_name": "Fort Lupton",
-        "coordinates": {
-          "lat": 40.0847,
-          "lon": -104.813
-        },
-        "city": "Fort Lupton",
-        "country": "United States of America",
-        "state": "Colorado"
-      }
-    ],
-    "title_es_k": "Carta de Patricia Medrano a Jesusita Baros Torres",
-    "highlight": {
-    }
-  },
-  {
-    "identifier": "shan.L017",
-    "title": "Letter from Unknown to Jesusita Baros Torres",
-    "category": "Writing",
-    "category2": "Envelope",
-    "date": null,
-    "date_display": null,
-    "language": null,
-    "spatial": [
-      {
-        "name": "Longmont, Colorado",
-        "type": "destination",
-        "short_name": null,
-        "coordinates": {
-          "lat": 40.1672,
-          "lon": -105.1019
-        },
-        "city": "Longmont",
-        "country": "United States of America",
-        "state": "Colorado"
-      }
-    ],
-    "title_es_k": "Carta de Desconocido a Jesusita Baros Torres",
-    "highlight": {
-    }
-  },
-  {
-    "identifier": "shan.L020",
-    "title": "Letter from Guadalupe Flemate to Jesusita Baros Torres",
-    "category": "Writing",
-    "category2": "Letter",
-    "date": null,
-    "date_display": null,
-    "language": "es",
-    "spatial": [
-      {
-        "name": "Juchipila, Zacatecas, México",
-        "type": "origin",
-        "short_name": null,
-        "coordinates": {
-          "lat": 21.41242983,
-          "lon": -103.1187551
-        },
-        "city": "Juchipila",
-        "country": "México",
-        "state": "Zacatecas"
-      },
-      {
-        "name": "Fort Lupton, Colorado",
-        "type": "destination",
-        "short_name": "Fort Lupton",
-        "coordinates": {
-          "lat": 40.0847,
-          "lon": -104.813
-        },
-        "city": "Fort Lupton",
-        "country": "United States of America",
-        "state": "Colorado"
-      }
-    ],
-    "title_es_k": "Carta de Guadalupe Flemate a Jesusita Baros Torres",
-    "highlight": {
-    }
-  },
-  {
     "category": "Image",
     "date": null,
     "date_display": null,
@@ -9729,6 +9480,33 @@
     "category": "Image",
     "date": null,
     "date_display": null,
+    "identifier": "shan.P045",
+    "language": "en",
+    "title": "Mary Muñoz",
+    "title_es_k": "Mary Muñoz",
+    "spatial": [
+      {
+        "title": "Denver, Colorado",
+        "type": null,
+        "name": "Denver, Colorado",
+        "short_name": null,
+        "coordinates": {
+          "lat": 39.7392,
+          "lon": -104.9903
+        },
+        "city": "Denver",
+        "country": "United States of America",
+        "state": "Colorado"
+      }
+    ],
+    "category2": "Photograph",
+    "highlight": {
+    }
+  },
+  {
+    "category": "Image",
+    "date": null,
+    "date_display": null,
     "identifier": "shan.P123",
     "language": "es",
     "title": "Templo de la H. Matamoros",
@@ -9918,33 +9696,6 @@
     "category": "Image",
     "date": null,
     "date_display": null,
-    "identifier": "shan.P045",
-    "language": "en",
-    "title": "Mary Muñoz",
-    "title_es_k": "Mary Muñoz",
-    "spatial": [
-      {
-        "title": "Denver, Colorado",
-        "type": null,
-        "name": "Denver, Colorado",
-        "short_name": null,
-        "coordinates": {
-          "lat": 39.7392,
-          "lon": -104.9903
-        },
-        "city": "Denver",
-        "country": "United States of America",
-        "state": "Colorado"
-      }
-    ],
-    "category2": "Photograph",
-    "highlight": {
-    }
-  },
-  {
-    "category": "Image",
-    "date": null,
-    "date_display": null,
     "identifier": "shan.P155",
     "language": "n/a",
     "title": "Santos Baros Schubert and unknown woman",
@@ -10077,6 +9828,21 @@
     }
   },
   {
+    "identifier": "shan.L112",
+    "title": "Letter from Jesusita Baros Torres to Unknown",
+    "category": "Writing",
+    "category2": "Letter",
+    "date": null,
+    "date_display": null,
+    "language": "es",
+    "spatial": [
+
+    ],
+    "title_es_k": "Carta de Jesusita Baros Torres a Desconocido",
+    "highlight": {
+    }
+  },
+  {
     "identifier": "shan.L123",
     "title": "Envelope from William F. Schubert and Santos Baros Schubert",
     "category": "Writing",
@@ -10141,6 +9907,255 @@
     }
   },
   {
+    "identifier": "shan.L052",
+    "title": "Note by Jesusita Baros Torres",
+    "category": "Writing",
+    "category2": "Document",
+    "date": null,
+    "date_display": null,
+    "language": "es",
+    "spatial": [
+
+    ],
+    "title_es_k": "Nota de Jesusita Baros Torres",
+    "highlight": {
+    }
+  },
+  {
+    "identifier": "shan.L066",
+    "title": "Letter from Unknown to Nemecio Samaniego",
+    "category": "Writing",
+    "category2": "Letter",
+    "date": null,
+    "date_display": null,
+    "language": "es",
+    "spatial": [
+      {
+        "name": "Juchipila, Zacatecas, México",
+        "type": "destination",
+        "short_name": null,
+        "coordinates": {
+          "lat": 21.41242983,
+          "lon": -103.1187551
+        },
+        "city": "Juchipila",
+        "country": "México",
+        "state": "Zacatecas"
+      }
+    ],
+    "title_es_k": "Carta de Desconocido a Nemecio Samaniego",
+    "highlight": {
+    }
+  },
+  {
+    "identifier": "shan.L077",
+    "title": "Letter from Jesusita Baros Torres to Santos Baros Schubert",
+    "category": "Writing",
+    "category2": "Letter",
+    "date": null,
+    "date_display": null,
+    "language": "es",
+    "spatial": [
+      {
+        "name": "Fort Lupton, Colorado",
+        "type": "origin",
+        "short_name": "Fort Lupton",
+        "coordinates": {
+          "lat": 40.0847,
+          "lon": -104.813
+        },
+        "city": "Fort Lupton",
+        "country": "United States of America",
+        "state": "Colorado"
+      }
+    ],
+    "title_es_k": "Carta de Jesusita Baros Torres a Santos Baros Schubert",
+    "highlight": {
+    }
+  },
+  {
+    "category": "Image",
+    "date": null,
+    "date_display": null,
+    "identifier": "shan.P254",
+    "language": "n/a",
+    "title": "Jesusita Baros Torres",
+    "title_es_k": "Jesusita Baros Torres",
+    "spatial": [
+      {
+        "title": "Denver, Colorado",
+        "type": null,
+        "name": "Denver, Colorado",
+        "short_name": null,
+        "coordinates": {
+          "lat": 39.7392,
+          "lon": -104.9903
+        },
+        "city": "Denver",
+        "country": "United States of America",
+        "state": "Colorado"
+      }
+    ],
+    "category2": "Photograph",
+    "highlight": {
+    }
+  },
+  {
+    "category": "Image",
+    "date": null,
+    "date_display": null,
+    "identifier": "shan.P256",
+    "language": "es",
+    "title": "Interior of the church in Juchipila",
+    "title_es_k": "Interior of the church in Juchipila",
+    "spatial": [
+      {
+        "title": "Juchipila, Zacatecas, México",
+        "type": null,
+        "name": "Juchipila, Zacatecas, México",
+        "short_name": null,
+        "coordinates": {
+          "lat": 21.41242983,
+          "lon": -103.1187551
+        },
+        "city": "Juchipila",
+        "country": "México",
+        "state": "Zacatecas"
+      }
+    ],
+    "category2": "Photograph",
+    "highlight": {
+    }
+  },
+  {
+    "identifier": "shan.L010",
+    "title": "Letter from Shone Villanueva to Jesusita Baros Torres",
+    "category": "Writing",
+    "category2": "Letter",
+    "date": null,
+    "date_display": null,
+    "language": "es",
+    "spatial": [
+      {
+        "name": "Albuquerque, New Mexico",
+        "type": "origin",
+        "short_name": null,
+        "coordinates": {
+          "lat": 35.0844,
+          "lon": -106.6504
+        },
+        "city": "Albuquerque",
+        "country": "United States of America",
+        "state": "New Mexico"
+      }
+    ],
+    "title_es_k": "Carta de Shone Villanueva a Jesusita Baros Torres",
+    "highlight": {
+    }
+  },
+  {
+    "identifier": "shan.L012",
+    "title": "Letter from Patricia Medrano to Jesusita Baros Torres",
+    "category": "Writing",
+    "category2": "Letter",
+    "date": null,
+    "date_display": null,
+    "language": "es",
+    "spatial": [
+      {
+        "name": "Juchipila, Zacatecas, México",
+        "type": "origin",
+        "short_name": null,
+        "coordinates": {
+          "lat": 21.41242983,
+          "lon": -103.1187551
+        },
+        "city": "Juchipila",
+        "country": "México",
+        "state": "Zacatecas"
+      },
+      {
+        "name": "Fort Lupton, Colorado",
+        "type": "destination",
+        "short_name": "Fort Lupton",
+        "coordinates": {
+          "lat": 40.0847,
+          "lon": -104.813
+        },
+        "city": "Fort Lupton",
+        "country": "United States of America",
+        "state": "Colorado"
+      }
+    ],
+    "title_es_k": "Carta de Patricia Medrano a Jesusita Baros Torres",
+    "highlight": {
+    }
+  },
+  {
+    "identifier": "shan.L017",
+    "title": "Letter from Unknown to Jesusita Baros Torres",
+    "category": "Writing",
+    "category2": "Envelope",
+    "date": null,
+    "date_display": null,
+    "language": null,
+    "spatial": [
+      {
+        "name": "Longmont, Colorado",
+        "type": "destination",
+        "short_name": null,
+        "coordinates": {
+          "lat": 40.1672,
+          "lon": -105.1019
+        },
+        "city": "Longmont",
+        "country": "United States of America",
+        "state": "Colorado"
+      }
+    ],
+    "title_es_k": "Carta de Desconocido a Jesusita Baros Torres",
+    "highlight": {
+    }
+  },
+  {
+    "identifier": "shan.L020",
+    "title": "Letter from Guadalupe Flemate to Jesusita Baros Torres",
+    "category": "Writing",
+    "category2": "Letter",
+    "date": null,
+    "date_display": null,
+    "language": "es",
+    "spatial": [
+      {
+        "name": "Juchipila, Zacatecas, México",
+        "type": "origin",
+        "short_name": null,
+        "coordinates": {
+          "lat": 21.41242983,
+          "lon": -103.1187551
+        },
+        "city": "Juchipila",
+        "country": "México",
+        "state": "Zacatecas"
+      },
+      {
+        "name": "Fort Lupton, Colorado",
+        "type": "destination",
+        "short_name": "Fort Lupton",
+        "coordinates": {
+          "lat": 40.0847,
+          "lon": -104.813
+        },
+        "city": "Fort Lupton",
+        "country": "United States of America",
+        "state": "Colorado"
+      }
+    ],
+    "title_es_k": "Carta de Guadalupe Flemate a Jesusita Baros Torres",
+    "highlight": {
+    }
+  },
+  {
     "identifier": "shan.L169",
     "title": "Letter from Victoria Aviña de Torres to Jesusita Baros Torres",
     "category": "Writing",
@@ -10156,7 +10171,7 @@
     }
   },
   {
-    "identifier": "shan.L178",
+    "identifier": "shan.L176",
     "title": "Envelope from Nemecio Samaniego to Jesusita Baros Torres",
     "category": "Writing",
     "category2": "Envelope",
@@ -10194,7 +10209,7 @@
     }
   },
   {
-    "identifier": "shan.L176",
+    "identifier": "shan.L178",
     "title": "Envelope from Nemecio Samaniego to Jesusita Baros Torres",
     "category": "Writing",
     "category2": "Envelope",
